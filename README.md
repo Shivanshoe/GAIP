@@ -27,6 +27,6 @@
     
 #### EDA for Data Exploration
 
-#### DL models osed for Modelling
+#### DL models used for Modelling
 
 #### Deployment as containers on Azure
