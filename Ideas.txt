@@ -1,1 +1,11 @@
-Brainstorm here.
+~> Primary Plan: Improve Youtube Click-Through Rate
+
+'''
+Explain Idea here
+'''
+
+~> Fallback Idea: Improve User Interaction on Instagram
+
+'''
+Explain Idea here
+'''
