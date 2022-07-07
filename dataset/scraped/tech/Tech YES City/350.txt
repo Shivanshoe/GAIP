@@ -1,0 +1,102 @@
+three hundred and sixty millimeter water
+coolers these are touted as the flagship all-in-one coolers out there
+, but me personally I prefer the 280 millimeter coolers and when I tested
+this H115i RGB platinum I fell in love with this so much that I went and bought
+another two for my AMD and Intel test systems and so I've now got three of
+these in the studio where I like them over the 360 mil units quite a bit and
+that's mainly because the 140 mm fans versus the 120s I feel like they've got
+a better ratio there with the airflow versus the noise and that they pump more
+air through and they do it so at a lower noise price you've only got two fans
+running versus three and naturally three fans is going to produce more noise than
+two and also on top of that I found the temperature differential between the 360
+and the 280 wasn't much at all so straight up there's my thoughts on 360
+versus 280 I currently up until this point in time
+prefer the 280 before going into these tests but what we got here is course as
+new h 150 i RGB Pro X T now they're using 3 120 millimeter ml fans but they
+don't carry RGB on the fans themselves whereas the H 115 i RGB platinum for
+instance has both RGB on the block and the fence this does have RGB on the
+block and you can customize that with the IQ software though the most
+important thing is is this cooler with a 10 900k both out of the box and
+overclocked going to beat the h 115 I Audrey platinum the only way to find out
+is to of course run those tests but I'm also gonna be including the Snowman
+which you guys request every time I test coolers you guys ask in the comments
+where's the snowman so we're putting in the dual fan snowman here a $20.00
+cooler not so practical with a $1,000 setup on the 10 900 caner expensive z4
+90 motherboard but we're also gonna be throwing in deep cools flagship as well
+which is one of the best air coolers you can get out there on the market though
+with that aside let the show begin [Music] and here we are with all the testing
+done and this one came with a big twist and a big surprise and that is first of
+all this snowman this $20 cooler from Aliexpress it handled the 10 900k and it
+did so with decent temperatures 89 degrees this is the dual fan solution
+and the noise on this thing was very well controlled as you guys probably
+heard before be probably wondering why is the deep cool solution not doing as
+well and that's got to do with my motherboard test setup it just simply
+had a big chunky heatsink on the v RM I mean most z4 90 motherboards are going
+to have big heat sinks on their V RMS so this is a problem with these massive air
+coolers sometimes you just won't get them to fit properly and that's what I
+believe was happening with this cooler I did test it out in two different
+configurations two different ways it wouldn't mount the standard way where
+you've got a horizontal and s flowing out the back of your case it could only
+mount vertical but on an open air test bed it wasn't going to make that much of
+a difference but it was still at the very end of it it was still lift up a
+little bit and that was causing the temperatures to lose to that of even a
+snowman and so that's the limitation of these big air coolers you sometimes just
+can't get around that so do be careful of that and that's what I said in my
+initial review of this big air cooler here so basically coming into it before
+we even talked about the water coolers the Snowman gets the a okay basically
+across all setups for being a value for money champion but going over now to the
+water coolers this is where if you want to get that 5.2 giga that's overclock
+you want to get those lower temperatures lower noise and you want the bling that
+this thing's going to offer then this is where the H 115 I RGB platinum beat out
+the H 150 i RGB Pro XT and it did it with a specially out of the box standard
+thermal solution and noise it did so great there and then when we max the fan
+speeds on the 5.2 Giga its overclocked it matched the temperature levels but it
+did so with low and noise and this is where it comes down to bigger isn't
+always better in this case the two 140 mm fans are doing a great job now
+perhaps if we tried to go up to 350 Watts through these coolers the 360 mil
+might start edging it out but as it stands the 280 milk Euler is cheaper
+it's got more RGB on the included fans and it does a better job with noise and
+temps for most people at least I don't imagine too many people taking a 10 900
+K over 5.2 gigahertz for a daily driver though as for the air coolers they just
+simply couldn't handle this 5.2 Giga it's overclocked and when I tried to do
+that I was met with a blue screen on both ends so this brings out a pretty
+clear-cut recommendation and that is the IQ h 150 IRB pro xt it's a decent cooler
+it's a pretty good cooler it's gonna do everything you want to but the fact that
+the h 115 i RGB platinum exists and i've already tested it and I've run it
+extensively here the channel it's a better buy it's not only cheaper as we
+just said before it also does everything else better and that's what my testing
+here has led to that conclusion so in terms of the 360 mil rad if you want to
+go out and get that and you want it for the bigger look and it's gonna maybe
+match the front of your case perfectly if it supports a 360 mil rad then that's
+cool that's an aesthetic thing but when it comes to actual better coolers in my
+opinion this one gets the win over the H 150 i RGB Pro X T and what it comes down
+to it all that's about it in terms of both these coolers verse one another
+though I will say one thing the difference between the H 150 I Pro XT I
+do like the block how they've used the black aesthetic on the ring on the outer
+ring I think it looks better than the standard silver here that they've used
+and so I would like to see them possibly update the Platinum version to have this
+cool sleek black ring around the outer edge that does look really cool and I do
+prefer that in terms of aesthetics but everything else I do prefer on the H 159
+to be platinum though with that aside there's not really a whole lot more to
+say if you guys enjoyed today's video then be sure to hit that like button for
+us let us know in the description below have you tried the Snowman yet have you
+tried the H 115 i RGB platinum what are your thoughts on air cooling water
+cooling I loved reading every single one of your comment
+in that comment session there with that aside we got the question of the day
+here which comes from a rocket Taurus and they asked please help me miss the
+tech yes City I bought this cpu intel xeon
+12:31 v3 but when I enable hyper threading in BIOS it only gives me two
+cores four threads why is that my old CPU was i5 4440 I have updated my boss
+to version 3 602 did I miss something from your videos so basically if you've
+done that upgrade with the CPU you may wish to reset your bias completely and
+you should see in the boss itself I should say the core counting thread
+count and if it's telling you four cores eight threads then the problem exists in
+your operating system where beforehand you may have done something to manually
+limit the threads to four so you're gonna have to change that or maybe
+possibly if you can't find that setting or change it back then I'll put a link
+in the description below for you we can do that if nothing else works after that
+then you might want to try just a new fresh install of Windows and that will
+fix it for you hopefully that answers that question and I'll catch you guys in
+another tech video very soon if you've stayed this far and you're enjoying that
+content then make sure to hit that subscribe button ring that bell and I'll
+see you next time peace out for now bye [Music] 

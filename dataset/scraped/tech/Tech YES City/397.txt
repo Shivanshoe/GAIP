@@ -1,0 +1,104 @@
+- If you are in the market
+for a used graphics card, should you consider
+buying a GTX 780 in 2020? Well in today's video we're
+gonna go in more focus, and depth, than we did
+in a previous video, where we put this card up against a heap of other used graphics cards, and we found it to be a little bit lacking at 1080p ultra settings
+in quite a few titles. But just because it's lacking
+at ultra settings at 1080p, it doesn't mean it's
+necessarily a bad buy. I picked this card up here
+for 80 Aussie dollars, and back in its day when it was released, it was considered a
+higher-end graphics card, and it had a price about tenfold
+to what I picked it up for. Though just because something is cheap, and believe me I love
+a good cheap price tag on any product related to
+tech at "Tech YES City," it doesn't necessarily
+mean that it's good. So let's put this GTX 780 Lightning here, back on the test bench, overclock
+it, change some settings, and see who it's really
+geared up for, in 2020. If you're trying to play
+games with your friends, and they can't hear you over all the white noise on your mic, or you've just got terrible onboard audio, Then Creative's G3 is
+the solution for you. A USB portable DAC amp solution, with a good and solid mic-in port, as well as having enough power to push through that bass
+properly on your headphones, and the ability to plug up to a console, and give you better audio, this is the solution
+you've been looking for. Links in the description
+below to find out more. So going through the gaming benchmarks, this card is not a 1440p gaming card, if you want to play the
+latest titles in 2020. However what it is, is more a 1080p high settings game mode, which high settings is pretty much a sweet spot for me personally, but I found it didn't make
+a whole lot of a difference, compared to ultra, at least in a few of
+the titles I tested it. Take for instance "Strange Brigade," we did gain a few fps by
+changing it to high settings, and even more so we got
+some overclocks in there, and gained a little bit
+extra performance too. However turning off asynchronous compute, didn't really change the
+results at all in this title. However moving over to
+"Shadow of the Tomb Raider," changing this to DX11
+did net us a little bit of an advantage here, and this
+is one thing about the 780, it wasn't pretty much
+future-ready back in day. The nine series changed
+that with the GTX970, where NVIDIA added things
+like asynchronous support in, as well as made it more
+DX12, and Vulkan friendly. So DX12 on "Shadow of the Tomb Raider" showing a worse performance on this 780, just showed that the seventh series wasn't really equipped for the future. However, overclocking the card again, we saw a slight boost in fps, just like we did changing
+it over to high settings. Though one thing I'm gonna stop, and in the middle of these
+benchmarks I will say, is that overclocking this card here, unfortunately I couldn't
+get higher levels out of it. The BIOS lock implemented
+on this particular card, comes into the fact that I had problems because it was an early revision, 80.10. Basically that meant that I
+couldn't then flash this vBIOS, with the very popular Skynet BIOS, which saw very limited
+overclocking limits lifted, and then you could get a
+lot more out of these cards. Unfortunately on these current limits, all's I could get was roughly
+an extra 10% performance, and the good thing about that
+was, at least in that field, was the power consumption
+didn't really go up much at all, 'cause the card was power-limited, which was a common problem
+on the 780 and 780 Tis, until you put on those custom biases. Tough moving over now to some good news. This card right here. If you want to play
+"Fortnite" competitively, on a 1080p monitor, with low
+settings in the epic distance, which is the competitive settings, this card did a really good job scoring over 210 average fps, and then when we overclocked
+it all the way up, into the 220 fps region. So that meant if you
+had a 244 hertz monitor, this card at least that
+100% screen resolution, would go pretty well. Though under "Far Cry,"
+and here we were seeing that the VRAM limit even
+at 1080p on high settings, was almost being hit yet again. So the performance uplift wasn't that big, over ultra settings, but regardless, it was still closer to
+that sweet spot of 60 fps. Though dropping things
+down to high settings in "For Honor," saw us get
+a big performance uplift, and then yet again, overclocking it saw us
+go into the 90 region, which is quite impressive for a card that only cost me 80 Aussie dollars. Though, what about the last good news? And that is, well I'd guess
+it's good, or bad news, depending on how look at it. I decided to boot it
+up in "Modern Warfare," and run a benchmark. The 780 right here, was
+getting over 60 average fps for a 13 minute benchmark, that I did whilst playing this game, and the 1% and point 1% lows
+were also pretty good too. There was really no stuttering
+the whole time I played this, which is good for someone on a budget, and someone who wants to play
+"Call of Duty Modern Warzone." Though that being said,
+the bad news with this, is that everything here was set to 1080p, the lowest settings possible. So we couldn't really extract any more fps out of this setup, unless we lowered the
+resolution to say 720p, and the bad thing I guess with that, is that already at
+1080p on these settings, I already had a hard time seeing
+my enemies from a distance. I do prefer some of the
+settings set to high, and then of course other things turned off to get the fps up, but you're pretty much gonna be limited to around 60 to 70 average fps, unless you can get those custom biases, and overclock this thing higher. So summing things up for you
+guys with the 780, in 2020. I think this card is good value for money, if you can get it for around 50 USD, or around 80 Aussie
+dollars and it is a card, unfortunately that I do
+consider quite risky, since it was a high power consuming card, as we can see with those
+power consumption numbers, this means that it's got
+a more likely chance, in my opinion, of failing
+over that said period, as opposed to something like a GTX 750 Ti, which doesn't use much power at all, hence creating less
+heat, hence longer life. So, a bit of a risk, but that being said, if you can get one in good condition, like I did here with
+this lightning Edition, then you can get "Fortnite"
+up to some really high fps, you can play all those
+competitive multiplayer titles, with the exception of
+"Call of Duty Warzone," going around 70 max, and you can't really do a whole
+lot to get higher than that. Though if you can get one of these cards in really good condition, and of course you have
+a good power supply, and that's another thing
+that you have to consider with this card, is that you
+will have to go and fork out, or either already have, a pretty
+high powered power supply, then this card here can
+represent some decent value. Take for instance those
+"Fortnite" numbers, if all you wanted to do was get into competitive
+"Fortnite" gameplay, then this card would be
+literally perfect for you, if you're on a budget. "Call of Duty Warzone" is
+good for 60 fps gaming, so I guess if you know
+you good at that game, and then you're on a budget,
+this card will suffice, and then of course if you've
+got, I guess, the pro skills, and you want to step it up higher, and you know you're
+really good at the game, then you can step it up to say a GTX 1070, or something like that. So there it is with the GTX
+780, it can be a good buy, just know that it does
+have its limitations, and if you've watched this video this far, and you've enjoyed this content, then be sure to hit
+that like button for us, also let us know in the
+comments section below, what do you think about the 780 in 2020? Love reading your thoughts
+and opinions, as always, and speaking of thoughts and opinions, we have the question of the
+day, he says, Rez1 is High, "Hello Bryan, when will you
+drop the Xeon 2678 v3 video? "Eagerly waiting for that!" This is a good question because I checked my Aliexpress account, and I'm still waiting 50 days, like there's a tracking number,
+it's apparently left China, I still gotta wait for that CPU, if you guys don't know what CPU it is, it's a 12-core 24 threaded Xeon, though can be pretty much unlocked to go to 3.3 GHz all-core, and it comes in at a really good price. Unfortunately, some of my other orders, I realize got canceled, so the CPU will come through, and another motherboard will come through, but the motherboard roundup is going to have to wait a little while, due to these weird delays, and I just hope you guys out there are staying safe as well
+with that news being said, and I'll catch you in
+another tech video very soon. And if you stayed this far, and you're enjoying that content, then be sure to hit that
+sub button, ring that bell, and I'll see you in the next one. Peace out for now, bye. 

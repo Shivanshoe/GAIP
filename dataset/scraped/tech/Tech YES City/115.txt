@@ -1,0 +1,159 @@
+graphics card prices are in a bit of a weird 
+predicament now where they're not as bad as   they were a few months ago but they still suck 
+and in this case if you're in the market to   build a gaming pc or of course if you've got 
+a pc that just has a really crappy gravis card   say for instance a gt710 then you may be looking 
+also to upgrade to something with a little bit   more power however at the moment in this wild 
+market i believe there are some graphics cards   especially if you're just looking the 
+game that offer better value for money   than other graphics cards so let's take a 
+little look and i'll give you guys some tips   on buying a used gpu and still even though it's 
+a pretty bad market for buying grabs cards you'll   still be able to get some good value for money hey 
+bro are you tired of seeing this annoying activate   windows message then if so today's video sponsor 
+scd keys has you covered for as little as 14   using the coupon code bftyc you can get 
+activated today works for windows 11 pro 2   links in description below so over the last couple 
+of days i've been analyzing the market because   i have a used parts hunt coming up later 
+in the month where i'm mainly looking for   you guessed it use graphics cards so i like to see 
+what is going to be the best value for money so if   i put together a gaming pc then someone who buys 
+it is going to be happy for the price performance   that they're paying so this leads us to the first 
+round of graphics cards that i'm going to be   recommending and that is going to fall into the 
+category of essentially what i would call power   inefficient graphics cards for crypto miners 
+since the crypto miners are mainly targeting   newer graphics cards that are much more efficient 
+than the older gravis cards this leaves the older   graphics cards in a position where pretty much 
+the only people buying them are gamers so take for   instance this graphics card in my hand even though 
+the heatsink is a little bit bent on the end   i picked this up for an absolute bargain this is 
+a gtx 760. now if you look for gtx 7 series cards   i've noticed that gtx 770 and also a gtx 780 and 
+a 750 ti there can be some pretty good deals of a   hundred dollars and under for these types of cards 
+even just quickly looking through the market on   ebay.com today i found three different listings 
+where from the photos the card looked decent and   the description said the graphics cards work and 
+of course the price was looking pretty good take   for instance this gtx 750 ti they're asking 70 
+for it however as you may or may not know 70   at least two years ago wasn't a great price for 
+a gtx 750 ti on the used market it's about 30   over what i was willing to pay back two years 
+ago however that being said if you guys have   been following my used parts hunt you'll notice 
+that i've been paying around 20 to 30 percent   more than what i usually pay for gravis cards 
+and that is essentially what the extra demand   from cryptocurrency miners have placed on the 
+graphics card market itself that is an artificial   higher pricing because there's much more demand 
+than just from gamers and so at this point you   may be sitting in your chair and you're like well 
+brian if crypto currency miners don't really want   the gtx 7 series cards then why are the prices 
+still over inflated compared to what they used   to be and there are two reasons one of the reasons 
+we're not going to discuss in this video because   i've talked about it quite a lot but another 
+reason is because the gamers that otherwise   aren't willing to pay say for instance a 500 price 
+tag on an rx 6600 xt which is already inflated   over its 379 dollar msrp price they pretty much 
+quit trying to buy those newer cards and then they   look for something cheaper because the people who 
+are willing to pay the money at msrp for new cards   are essentially being priced out of those newer 
+cards and then they're looking for other options   that exist in the market so our first option that 
+i've presented today is gtx 7 series cuts i'll put   all the links in the description below for some 
+searches that you guys can do on ebay as well as   local listings however that being said there are 
+some drawbacks to each of these series of cards   that i'm going to be recommending here today first 
+off with the gtx 7 series is that nvidia is ending   driver support for these graphics cards that means 
+if there's a new game that say fortnite 2.0 and   it's everyone's playing it and it doesn't have the 
+driver support from nvidia the game may not get   optimal performance and in fact you may get things 
+like stuttering or just generally low performance   if a newer game was to be released and you bought 
+one of these older graphics cards the second risk   factor with the gtx 7 series of course is its 
+age it's quite simply an older card however   in general before we move on and this is going 
+to apply to all the used graphs cards that i'm   recommending in today's video is there's two major 
+things that i look out for when buying used grass   cards the first is oxidization aka rust if there's 
+a heavy amount of oxidization on a gravis card i   usually steer clear of that card especially if the 
+seller is asking around market rates for the card   the second thing is i always make sure that the 
+graphics card can boot up to windows and install   the drivers for instance there's a listing on 
+ebay where the person says that the graphics   card boots to bios however in my experience with 
+a card like this even though it can boot to bios   if you install windows and then you install 
+the drivers there may be a chance that the   card is actually faulty and after you install 
+the drivers you get met with a black screen so   if you're buying any used graphics card i'd first 
+of all look at the graphics card itself and that   is is it looking like it's in decent condition 
+aka not a whole lot of rust on the thing and   also secondly does it boot to windows and can it 
+install the drivers that being said if you do buy   a graphics card off ebay for example you do get 
+a very short term and effective warranty policy   where if the card comes in and it doesn't work 
+properly at least if they say that it is working   in the description it says it's a working used 
+product you can generally get your money back   if you get the product and it doesn't work pretty 
+much instantly now let's move on now to the next   round of graphics cards that i'm seeing some very 
+good value for money come up at least compared to   the new york prices and that is cards like the 
+r9 280. i've seen these cards coming up on ebay   for even under a hundred dollars now these cards 
+have a three gigabyte vram buffer that's going   to be absolutely fine for playing a lot of those 
+popular multiplayer titles at 1080p for instance   i've been playing a bit of apex legends lately and 
+i'm really enjoying it and a card like an r9 280   will do a great job of playing this game and 
+giving you a smooth experience at 1080p however   the caveats for the r9 200 series and even cards 
+like the r9 380 and 390 the drawback for these is   that just like the gtx 7 series amd has announced 
+that they drop support for these cards so if you   do come into a newer released again fortnite 
+2.0 style game that is new to the market   then amd won't be releasing support for these 
+older graphics cards even though they should   technically work fine it's just they won't be 
+getting the performance enhancements that the   newer graphics cards will receive in other words 
+if you're playing those newer titles you won't get   as good value for money out of your gravis card as 
+buying something that's new that said though the   newer graphics cards aren't really looking like 
+they're good value for money right now so even   if you found yourself in that position it would 
+probably still equal out in your favor however   just going through some of the listings here on 
+ebay again that hundred dollar and under price   point you can definitely pick up some decent price 
+cards on the market especially if you're looking   to build a sub three or four hundred dollar 
+gaming pc then this is the most critical element   right there and it's available and ready to 
+ship the next line of gravis cards i'm going   to draw attention to is something like an rx 470 4 
+gigabyte now if you're looking for the 8 gigabyte   cards especially when it comes to an rx 580 or an 
+rx470 these miners their cryptocurrency miners are   just going to snap those cards up straight away 
+because they're still very profitable for mining   what's known as ethereum and even though there 
+are other alt coins out there that are profitable   most cryptocurrency miners that are serious about 
+putting a lot of money into cryptocurrency mining   are definitely looking at the ethereum profits 
+because that is the main player in town when it   comes to mining and also mining profitability that 
+being said though the rx 474 gigabyte and even   if you look for something like an rx 5500 xt 4 
+gigabyte these graphics cards at least in the pure   essence from miners they're not as targeted as 
+they would be by the people looking for the eight   gigabyte cards so your four gigabytes and under 
+gravis cards at least when you're getting into the   newer cards even though these cards are still 
+a few years old you can still pick up here or   there if you're quick enough a good deal on some 
+of these graphics cards though going back to the   nvidia side of things there are a few more cards 
+that i do look for although i'm finding i'm not   having as much success as the older cards at 
+least when it comes to value for money though   that being said i'm always on the lookout for a 
+gtx 970 or a gtx 980. these cards can still give   out really good performance for the dollar and 
+you can pick them up on the used market for what   i consider a pretty decent price for instance in 
+australia i can pick up one of these cards locally   from time to time at gtx 970 for 150 even though 
+previously i was paying around 120 dollars for one   also looking at the gtx 10 series when it comes to 
+that i'm looking heavily at gtx 1050 ti's and gtx   1050s four gigabyte and two gigabyte cards as they 
+remain under that four gigabyte buffer but also   their crypto mining performance isn't that great 
+which means i can snag them up and put together   gaming pcs for pretty good prices but there's also 
+the gtx 1063 gigabyte however i have been finding   that a few people at least cryptocurrency 
+miners are targeting believe it or not   the gtx 1063 gigabyte whenever they see these up 
+for a decent price they go snag them up and then   start mining what is known as altcoins so quickly 
+summing things up as it stands with the market   especially the used gpu market and if you're 
+looking to build a gaming pc your best bet right   now at least to get the best price performance or 
+the best frame for your dollar is to buy the more   inefficient cards that burn up a bit more power 
+and have lower vram sizes mainly four gigabytes   and under as these cards are really not worth it 
+for miners where they have to put them on a system   and pay for expensive power supplies and as they 
+add up all those costs those older cards that are   more inefficient just don't make any sense to 
+them they're the final thing to talk about in   the land of graphics cards and the reason why i 
+think a lot of frustration is starting to seep in   at least when it comes to pc gaming that exists 
+this time that actually didn't exist in 2017   and 2018 when there was the previous crypto boom 
+is that nvidia and amd are simply not releasing   lower budget cards that were represented really 
+good price performance and these were the graphics   cards that the majority of gamers were buying if 
+we look at the steam surveys the gtx 1060 is still   the most popular dedicated graphics card used by 
+gamers and so what this meant was that cards that   came in around 200 and under and they offered 
+really good price performance were the cards   that gamers wanted to snap up and put in their 
+gaming rigs and unfortunately when we look in 2021   what amd and nvidia are doing they're just simply 
+not releasing any successes to the gtx 1060 or the   rx-580 i mean amd did release the rx 5500 xt the 4 
+gigabyte and the 8 gigabyte which had msrps of 200   and under but i simply did not see hardly any 
+stock of these cards sold in australia i'm not   too sure about europe and also america but the rx 
+5500 xt it only offered slightly more performance   than the rx 570 and 580. if we go over to nvidia's 
+side of the cam the gtx 1660 super and also the   gtx 1650 super these were cards that were released 
+now nearly two years ago and they were offering a   bump up in performance over the 1050 and also the 
+1060 respectively however we get to see nvidia at   least put these cards back on the market in bulk 
+or release a successor to them and i think that   right there is why not only the higher end market 
+for rx 6700 xts and rtx 3070 are experiencing bad   pricing from crypto miners but there's also this 
+massive demand from gamers that has always been   there and nvidia and amd are not providing the 
+supply on the lower end anyhow guys do let us   know what you think of today's video if you want 
+to get some gravis cards at decent prices i'll put   some of my searches in the description below but 
+also we do have intel with their arc announcement   if you guys want a dedicated video on that and 
+perhaps we can mix the uh ways to get a decent   price on a new graphics card in one video i 
+can make that happen for you and as always   love reading your thoughts and opinions just like 
+this question of the day here and this comes from   jason frederick and they ask how do the fans 
+survive the bath without removing the lube   in the bearings and they're referring to our 
+recent episode of pc ultra clean i'll put the   link to that video up here where we give these 
+parts a massive clean from start to finish but the   main star of the show is the ultrasonic cleaner 
+which i just pretty much dip into hot tap water   with detergent and the ultrasonic cleaner does 
+the rest and in the process technically if there's   things like lube in fans they should come out but 
+every time i've cleaned fans in this ultrasonic   cleaner the fans have been fine afterwards which 
+means to me that the seals are holding up very   well in these fans however in the past i have come 
+into noisy fans and it depends on the noise if   it's like a new gravis card and it's got a little 
+bit of a noise on it sometimes i'll just put some   multi-purpose spray on there grease it up a little 
+bit but if it's a little bit of a heavier knock   on the fan i'll just use some of this degreaser 
+and this stuff's a little bit thicker than wd-40   or multi-purpose spray and then that usually the 
+noise goes away after that so that's what i do   personally i just haven't come into any knocking 
+fans after i've washed them surprisingly actually   now i think about it probably is a little bit 
+surprising but i guess it's a testament to all the   fans that have gone through the ultrasonic cleaner 
+and that they haven't broken their seals for the   lubrication hope that answers that question and 
+with that aside if you guys have stayed this far   and you're enjoying that tech yes content be 
+sure to hit that sub button ring that bell   to get the content as soon as it drops here and 
+i'll see you next time peace out for now bye you 

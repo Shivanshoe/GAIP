@@ -1,0 +1,132 @@
+i bit my lip like an hour ago so in this
+video if i'm kind of like stumbling when i talk
+then i do apologize in advance but with that aside we have
+smt on the amd side and ht on the intel side now smt stands for
+some magic truffle (simultaneous multi threading) so that means if you basically put it this way if you've got
+a single mouth and you're eating a truffle then what happens is with
+hyper threading and also smt it splits it off into two smaller mouths
+and you can now eat more theoretically you can't there's not
+like two full-size mouths compared to one big mouth but it
+can eat more in grand scheme of productivity now on the
+intel side you've got ht which stands for holy truffle
+and now that's a different breed that was sort of in before
+amd had their smt so that's why it's got the holly truffle now
+of course depending on the brand if you go with amd or intel
+both truffles are going to do a pretty good job compared to not eating any
+truffle at all though with that aside when it comes to
+gaming do these technologies work when you split a core
+into two threads versus having that single core with one thread
+going in and going full ball what is better for gaming
+let's find out in today's video after we roll that intro
+[Music] so coming off the back of our 2013 8
+core xeon versus the 10900k and also the 3950x
+i decided after i did this video to run a heap of different tests
+with smt off on amd's 3950x and then hyper threading off on intel's
+10900k and also the 1680v2 and what we saw here is pretty much
+going to match up with when i made a video on this in the past
+the opinion is pretty much going to be exactly the same or at least the
+recommendation if i recall correctly but let's get
+through the results first with shadow of the tomb raider 1080p high settings
+we saw that we gained three fps on the 10900k
+then with the 3950x we gained five extra fps
+and then on the 1680v2 we actually lost three
+fps so it really didn't make a huge difference turning it on or off in this
+game really wasn't going to make a world of a
+difference here but moving over to fortnite now probably the
+most interesting of the bunch where turning off hyper threading and also smt
+uh made the numbers worse all across the
+board it didn't matter if we had the 8 core the 16 core or the 10 core
+we were getting less performance so do leave this
+on if you want to play fortnite competitively it's going to give you
+more fps and then when it came to the one percent and 0.1 percent lows they
+were virtually the same i mean one percent lows were winning out in some
+cpu tests and then the 0.1 lows were losing out in some other cpu tests but
+next up we have the division 2 here and this is where uh turning off
+hybrid threading and also smt showed us that on the 10900k side we
+gained three fps and then on the 3950x we actually got a
+sizeable boost here going from 167 fps all the way up to 182. so it started to
+really scream ahead with smt off in this title this is the
+same memory speeds same clock speeds as the previous video
+we did with these numbers and so what we're
+seeing on the xeon side of things however we only gained 1 fps so
+negligible for the intel cpus but it did make a difference
+for the 3950x and then over to tom clancy's ghost recon in vulcan
+we saw here an actual drop in fps on the 10 900k
+a slight gain on 3950x and then a 1fps gain on the xeon so
+really didn't make a huge difference here either way that you look at it
+it seems like the 10900k is probably the biggest difference here but that wasn't
+even worth writing home about though moving over to warzone
+here we've got a similar trend as most of the other titles except with the
+exception of the xeon 1680 v2 which scored significantly lower fps
+with hyper threading turned off and that must
+be the 8 cores now versus the 8 core 16 threads where
+doubling up the threads gives you more theoretical max
+performance and this game is taking advantage of that as opposed
+to the 10 900k where it's already maxing out the gpu
+and then same with 3950x it's maxing out essentially it's cpu
+um core component tree where the smt's off or other smt's on
+so in warzone i would suggest just leaving hyper threading on
+or leaving smt on and then we go to the last title here we got grounded
+which is going to be released later this month and i got early access to it so we
+got here uh testing out hyper threading on versus
+off on the 10 900k this made actually a huge difference going from 102 average
+fps all the way up to 127 on the amd side we
+went from 92 to 98 and then over on the 1680 v2
+we still gain a slight boost as well so all across the board here we were
+winning with hyper threading and also smt off
+however when i was analyzing this game i also looked at how many threads were
+actually being utilized in game play and it seems to only be using eight
+threads and even within that itself it's only heavily using two threads of
+course some other last minute tests here ccx latency
+that doesn't change whatsoever on the 3950x side of things
+cinebench scores will change quite substantially
+both on the intel and also the amd cpus and this is to the tune it can be around
+30 so you'll definitely want to leave your
+hyper threading or smt on if you're doing any sort of productivity
+work that can utilize all the cores and all the
+threads your cpu has to offer though power consumption also during
+gaming uh really didn't change a whole lot
+the 3950x was winning the bunch there when we tested that in ghost
+recon and with all those numbers out of the way my opinion with turning these
+settings on versus off remains the same like it did i believe i
+did this video two or three years ago but i remember my
+conclusion was in general you just want to leave hyper
+threading and smt on with your cpus but say for instance we
+can see that in certain titles and depending on the cpu you can gain
+fps now if you are playing that game
+competitively and you're in that top one percent or point one percent of people
+who play that game and you need to just extract that little bit extra
+performance and that is all you do then perhaps this setting turning it off
+may be something you want to look into and of course
+we only tested six games here but it does show
+that it's an easy setting just to quickly check you just go into the bios
+and you can disable it and re-enable it pretty much in two seconds
+and then you can test the fps for yourself in that particular title
+and see whether you need to leave it off or on but of course in general i will
+restate this again in general you just want to leave your
+hyper threading and smt on because in general when it comes to
+working in productivity it's going to give you much better
+performance and then of course when it comes to gaming
+depending on the game it can give you a lot better performance
+as opposed to the other side of the fence which you're only going to be
+losing maybe 10 and even at worse with grounded 20
+and that's an unreleased title so imagine that game will get some fine
+tuning in the next few weeks and once it's got its final release
+those differences will be minimized anyhow hopefully this video was some
+good truffle for you and you enjoyed it and if you did then be sure to hit that
+like button for us and also let us know in the comment section below have you
+tried disabling hyper threading or smt in the
+past for regular use if so what was your experience like love
+reading your thoughts and opinions as always just like this question of the
+day here which comes from sally bowie and they ask is ryzen 1500x and b350m
+gaming pro for 150 aussie dollars a good deal
+and it's a pretty decent deal i mean you can't go wrong with that it's not the
+best deal i've seen out there but it's definitely a decent deal so
+if it was if that deal was around my area for that price i'd pick it up
+so hopefully that answers that question and i'll catch you guys in another tech
+video very soon if you enjoyed this video and you stayed
+this far and you want to see the content at the moment it keeps rolling out here
+at tech yeah city then be sure to hit that sub button ring
+that bell and i'll catch you in the next tech video very soon autobots
+peace out for now bye [Music]
+yes 

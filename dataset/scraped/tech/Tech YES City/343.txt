@@ -1,0 +1,248 @@
+so you might be in the market for a four core eight threaded CPU and you've been eyeing-off the ryzen 3 3300X and
+that's a cpu that represents great value for money we've actually taken a look at
+it in a separate video I'll put the link for that up here if you want to check
+that out but we've got that in today's comparison
+with A B550M steel legend against the i3 10100F and you've everything in 10100F that's not out for sale and I know and don't ask me how I got this thing
+just came in and I'm doing some testing but it performs exactly like the i3 10100 it just doesn't have that I GPU portion on board so if anything might be
+an indicator of what's to come in a few months if you're in the market for a
+cheap i3 though regardless we're testing that with A B460M and the B460 does
+have that 2666 megahertz memory limitation we'll talk about that
+a little bit later but then we've got the final contender in the mix here this
+is the i7 4790k and I picked this up on a used bargain for a hundred and forty
+Aussie dollars with 16 gigabytes of RAM and also a one terabyte hard drive so if
+you find a good news deal you can't turn that down because the performance
+figures I'm going to show you are pretty impressive for this old 4790k but let's
+roll the intro and then we'll talk about the gaming benchmarks for you guys more
+in-depth and get to a conclusion today's video is sponsored by - Lane -
+Lane is something that I've come to use a lot nowadays as I use more and more
+websites and of course having a tip password list I don't want to give out
+my tier 1 important passwords to any other website that I don't trust and
+there is a lot of them whether it's Annie Taylor that you using for the
+first time Netflix tan or reddit I feel comfortable remembering my tier 1
+passwords and then after that I let dashlane do its magic
+it can autofill and remember passwords shipping details but it can also save
+you hassle and also generate complicated passwords and if you were used to using
+very easy to get style passwords then all you have to do is download - Lane
+login and remember your master password and the rest is history since it's a
+cloud-based service you can use it on any system without saving or copying
+anything and just put that one master password in as
+safety all your passwords are encrypted safely and there's also a built-in VPN
+too now if you use the link - Lang comm slash tech yes City then you can get -
+lang and completely free on your first device and if you decide you want to
+upgrade to a more premium option then you can get 50% off using the link and
+the coupon code in the description below let's get back to the video so I showed
+you guys one quick benchmark in the intro but let's roll through all these
+numbers here and then tally up what is going so first game we're gonna pull up
+shadow of the Tomb Raider and what we can see here is that the 3,300 X and the
+10 100 F do pretty well against one another and they beat out the 4790k but
+once we overclock the 3300 X this is even on the B 550 m still legend so you
+can overclock this on a B 450 get some similar performance if you have a decent
+cooler it started outperform everything here but the 4790k once we gave it that
+better memory the 21 33 megahertz CL 9 it did put on one spectacular show here
+where it was saying hey 10 100 f it left that in the dust I mean it didn't leave
+it in the dust but still for a six-year-old CPU that's a very
+impressive feat and then we're moving on to the f1 2019 results and we could see
+here that the 4790k with 1600 megahertz XMP out of the box 4.4 gigahertz it does
+fall behind the 10 100 °f and the 3300 X now they were trading blows once the
+3300 X was overclocked so the i3 did very impressive in this game now for the
+GPU we're testing with as you see in the graphs it says up the top there 5700 XT
+because I feel like if you're getting a fork or a threaded CPU you're not going
+to be going out and buying a 20 atti it's just way too much of a discrepancy
+in pricing and realism I guess where you guys have pointed that out in the past
+when I've tested this with a 6 core but at least with the 6 core I could see
+that happening I could see you getting a new 6 core and maybe a used 20 atti
+that's just going on some fluke deal that is a possibility but with a fork or
+I don't really see that happening but anyway that aside the 5700 XT is still a
+very powerful Jeep you and we can see that in this graph
+here where the frame rates are extremely high 1080p high settings and the 4790k
+does benefit the most once you start giving it some overclocks and in this
+case some tech yes loving which we did we had to do this to get better results
+because the 4790k I couldn't overclock it at all out of the box because it just
+had that crapped thermal paste on board so we had to deal with it give us some
+cooler bar choice liquid Pro and then we came back and it performed even only 200
+megahertz high it was still getting pretty hot as we can see with those
+temperatures but it wouldn't actually use that 4.6 gigahertz in Cinebench are
+20 but we'll get through the gaming benchmarks and we'll talk about all
+these extra itty gritties more in depth because we got here call of duty war
+zone and here we saw the Rison 330 300 X score the victory in this title though
+the i3 10 100 °f and the 3300 X out of the box were trading blows and the 4790k
+did benefit from that overclock and it did show some extra performance figures
+and then moving over to fortnight this one is a bit of an enigma I'm looking
+into this because the Rison 330 300 X benefits greatly when you give it more
+voltage because I did I guess over volt it for these tests because you just want
+to make sure that overclock works and so what we saw here was 366 FPS and then
+moved over to 10 100 F it left it in the dust and then the 4790k came out
+overclocked and it came in second place which was actually pretty impressive but
+in this game I'm not too worried because it is a bit weird I've really got to
+look into this game a bit closer and find out what's happening but one thing
+I noticed is with these benchmarks in fortnight in particular is when I do
+give these CPUs more voltage more power they seem to love it and the FPS shows
+out of the box it might be some kind of voltage deficiency and that might be
+leading to lower fps that's what I'm caught of correlating upstairs here when
+I look at these numbers may all just be in my head but that's what I'm starting
+to see with a trend with overclocking in fortnight but moving on now to Ghost
+Recon we saw here victory for the 4790k this was very
+impressive that this six-year-old CPU could come in and steal the show of
+course once it was overclocked to 4.6 gigahertz with the 21 33 megahertz
+memory now of course the last game to run through here is the division 2 we
+set this at 1080p high settings and we saw here some impressive numbers a
+hundred and forty seven FPS just falling a little bit behind that of the 3,300 X
+when it was overclocked so beating the 10 100 F and also beating itself when it
+wasn't overclocked but you can probably see how excited I am for this old-school
+4790k because at the channel here we focus on the use price performance it's
+a big thing that I always tell people to consider because not only can you get
+really good price performance but you can also get and have a lot of fun out
+of your older gear and that's what I really enjoy with use price performance
+I'm constantly tinkering with all these different parts while I build use PCs
+and flip them and I personally just really find that this stuff is super
+exciting now one thing we will mention here is that this z87 motherboard that
+we used is really like it's mediocre at best I mean look at that vrm tiny and it
+still managed to pull off a decent overclock and it still managed to lock
+in those XMP profiles at 21 33 mega it's absolutely fine now for this memory I
+got this in Brisbane on a deal it was a ridiculously good price I got this for
+in a previous parts hunt and I'm going to be using this memory with the
+upcoming x58 and also x79 comparisons to see how much more performance you can
+extract if you have some good bog and ddr3 memory then you pick up on a deal
+now with the new stuff right the B 550 and the B 460 will using CL 16 32
+hundred megahertz which I believe is the most common memory you're gonna couple
+with both these CPUs or even three thousand mega at CL 16 this is the ddr4
+Ram in the new market that's outselling everything so I think it's the most
+appropriate Ram to using the comparison we're on the B 460 we had to lock it in
+to 2666 megadose now this is the limit coming in with h 410 and
+for 60 you heard it before it came out and it's in after the effect but as I
+showed in the 10400 video you're not losing a whole lot of performance by
+going with the B 460 or H 410 if you can get this value 3000 of 3200 makers
+memory and quickly I mean it takes like 30 seconds just drop it down to CL 14
+and then 36 and command rate of 1 and then on the asrock board in particular I
+can't speak for other motherboards on the Azeroth budget boards here they've
+got a setting down the bottom where they can optimize the secondary timings so if
+you enable that you'll get some decent performance as we saw in the graphs here
+and you can use the stock cooler and grab yourself a cheap motherboard and
+you're gonna have great price performance especially with the
+mid-range grabs guard or if you can pick a graphics card off the use market for
+cheap now with the be 550 m still legend it's
+a mid-range board and so I could probably get another 75 mega Hertz out
+of this CPU which I have done in the past but I use that on a phantom gaming
+X which is one of the best X 570 motherboards you can get out there in
+the market so I don't see anyone really spending all that premium on a
+motherboard just to get 75 mega so we coupled it with a mid-range be 550 we
+use 3200 mega at seal 16 lock those timings in for today's comparison and it
+beat out the i3 10 100 F now one thing that I'm doing with this comparison here
+today is that I do disable spectre and meltdown updates on the intel side of
+things but then i leave those patches on with the AMD testing and the reason
+being is because on the AMD side of things it actually performs better with
+those patches left on enabled as opposed to disabled and then on the intel you
+see the exact opposite where they perform better with those patches
+disabled anyhow with all that discussion and all that tech talk out of the way
+it's now time for the big one the conclusion and we'll show some Cinebench
+scores here as well r20 and what we can see here is that the 3300 x does benefit
+quite well from the overclock it's growing about 2715 points so it's gonna
+be better than these other two for productivity the i7 4790k still does
+pretty well for a 4 core 8 thread all those years later if you
+bought this CPU back in the day you definitely made a good investment if all
+you want to do is play games maybe a little bit of productivity and then
+we've got the i3 10 100 F bringing pretty good value just like the 3,300 X
+now out of the box this CPU does 4.1 Giga that's all core the asrock bfb even
+on default or maxing it to 125 watts it didn't make a difference the maxis CPU
+could go on this motherboard and also a z4 91 I've tested that in the past is
+4.1 Giga it's all core and then 4.2 gigahertz
+single core in Cinebench now here's where things get a little bit weird with
+the z87 with the 4790k because back in the day this was the first CPU lineup
+from Intel that carried the avx2 instruction sets so with the BIOS
+programming they weren't kind of ready for the extra heat that the 4790k was
+going to have to endure with avx2 instruction sets and so we can see this
+in Cinebench when i tried to put the 4.6 giga that's overclock in which by the
+way was absolutely fine in games sure that CPU was getting a little bit hot
+but it was constantly crashing out in Cinebench ah 20 and then throttling once
+I got the overclocked stable in games it was throttling in Cinebench to that
+law or 4.4 gigahertz so there is no setting in this BIOS with the AVX offset
+so if you do decide to overclock a 4790k you might just want to be careful on
+what workload you're doing because if you come into an avx2 instruction set
+you may be unstable but then you're completely stable in gaming so that's
+one thing that did hold the CPU back and I even deleted it to get those
+overclocks and just double check things because the temperatures were getting
+awfully high when I was running the Cinebench are 20 though what about power
+consumption and his where we're going to be running the power consumption figures
+in games because if we're testing these CPUs out in games we should be showing
+the power consumption figures in games and this is where the i3 10100 F did do
+quite an impressive job coming in with 337 watts on average and slightly coming
+under that of the 3300 X out of the box now decided to test in f1 2019 when I
+run these tests in the future I'll just test a randomly different game but this
+is the in time I've seen when I've compared the
+same price point until the same disabuse the Intel's giving some good performance
+figures especially in relation to power consumption whilst you've gaming
+now the 4790k out of the box 4.4 gigahertz it's doing pretty good but
+once we overclock it does start to run away a bit as with the 3,300 X when we
+overclock that starting to run away a bit with these power consumption figures
+that's mainly because with the 3,300 X and even though this thing's six years
+old the 4790k was practically the first time Intel started really maximizing the
+most out of their silicon out of the box and so these two CPUs are pretty much
+tuned at their max of fishin C sweet spot for performance out of the box so
+you don't really have to do a whole lot more to them unless of course you're
+playing 49 that's what the results are showing here and now with all that
+information out of the way these three CPUs here all of them performed
+absolutely fine with the 5700 XT which I don't imagine people coupling this
+budget for cause with anything more than this in 2020 even if you buy these CPUs
+now and there's an Archie X 36 T out in six months time it's still going to be
+absolutely fine with all three of these CPUs so when it
+comes to buying advice I'm going to pull up the same kind of advice that I gave
+in the 10 400 versus Rison v 3600 and that is you cannot go wrong if you buy a
+10 100 or you go out and buy Rison 330 300 X you're gonna get some phenomenal
+price performance for your dollars especially if you couple it with a cheap
+a 320 be 450 some 30 200 megahertz sale 16 and you just use the stock cooler you
+need great price performance for the dollar same with the i3 10 100 and if in
+a few months time there's a 10 100 F you can get that with an h4 10 and some
+budget memory and just tune it to that sealed 14 2666 and you're gonna get some
+good performance now in terms of buying one over the other this is where I give
+my advice because this is what I do personally and that is I buy whatever's
+on sale and I've done this for years in Australia we constantly have things like
+eBay sales retailers like you might computer Alliance they
+have their own sales so if the risin 530 600 or the risin 330 300x
+is cheaper than its Intel counterpart I'll go buy that if the Intel
+counterpart is having the sale and the risin is not I'll go buy that so when it
+really comes down to it if you buy either of these CPUs I think you made a
+good choice now in terms of upgrade ability you've got of course the choice
+on Rison which I do prefer over Intel that's the ability to overclock
+especially on a be 450 so B 450 is lookin really good
+even in 2020 where AMD flipped on their decision they're going to allow Xen 3
+that's rising 4000 series to work on B 450 so that might be an option for you
+if you want to get a four core now and you know you're gonna have to upgrade
+after you graduate uni or whatnot it's probably better to go with the AMD
+because you've got a good upgrade path but that being said since you're still
+on a fork or you're gonna have upgrade paths on both Intel and AMD so keep that
+in mind but the biggest thing to look out for if you do think you're going to
+be upgrading in the future is spend the extra money now on a good motherboard
+that will support what you want to upgrade to in the future say for
+instance you're on a four core and you want to upgrade to a 12 core make sure
+you get a solid B 450 not the entry-level ones that won't do a good
+job of handling that 12 core same with the b4 60s get a really solid b4 60
+that's going to support a 10 core from Intel if you want to go with that route
+anyhow with all that out of the way we've spoken about the new
+recommendations now we're moving on to the used price-performance now of course
+this here has no upgrade ability the 4790k for this motherboard is the best
+in socket but that being said look at the deal I got on this thing a hundred
+and forty Aussie dollars for a 4790k 16 gigabytes of RAM one terabyte hard
+drive this is good value this is what use price performance is all about and
+the numbers are showing that this is beating out the new stuff by quite a bit
+so if all you want to do is get into PC gaming get a basic say a snowman CPU
+cooler even out of the box 4.4 gigahertz with sixteen hundred megabits XMP it's
+going to do a great job of gaming even in 2000
+20 so forth Jen in the use scene it's quickly becoming what 1st and 2nd gen
+were a few years ago because of mainly those avx2 instruction sets and USB 3 it
+makes it very relevant still in this day and age anyhow is all that out of the
+way I hope you guys enjoyed today's video if you did then you know to do hit
+that like button for us also let us know in the comment section below what you
+think of these 4 calls featured in this showdown in today's video love reading
+your thoughts and opinions as always and speaking of thoughts offenses we got
+that question of the day which comes from mad Mik 82 and he says yo dude
+are you on a pillow ad on TV because if not you have a twin out there and
+actually I get told this quite a lot like I had someone message me the other
+day like dude were you in Broad Beach that's a local town here on the Gold
+Coast and I said no I said oh man I saw someone who looked exactly like you so
+I'm I guess I must just have that common face like a risin 5 3,600 you know it's
+it's just it's what people see all the time or we can put a 10100 over my face
+but I do consider myself more towards a 6 core in my efficiency and processing
+power that's just how I've seen things in the
+past anyway if you stayed this far and you're enjoying that content you want to
+see at the moment of drops then be sure to hit that sub button ring that bell
+and I'll see you in the next tech video very soon peace out for now bye [Music] 

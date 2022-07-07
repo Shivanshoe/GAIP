@@ -1,0 +1,304 @@
+if you guys are on windows 11 and you want 
+to know how to make it as FAST and snappy   as possible without really making it look a 
+whole lot different it's still going to look   really good then you've come to the right video 
+because today i'm going to go through each and   every menu for you i'm going to be turning some 
+things off and changing things in windows 11   to make it better for power users and also if 
+you're gaming as well you can gain a couple of   fps on turning a few of these features off let's 
+get right into it but i've got also a sponsor spot   which you guys are going to want to check out 
+especially if you want to get windows 11 activated   where we've got here a windows 10 pro key you can 
+get it for as little as 12 and a half us dollars   using the coupon code tyc 35 discount if you use 
+this coupon code this is a back to school special   offer and it's valid until the first of september 
+this is a promotion from vip scd keys they've   also got if you want to office 2019 as well as a 
+windows 10 pro key which works on windows 11. you   can get this in a combo for 43. if you've already 
+got windows 10 or windows 11 activated and you   just want office 2019 then you get that for 37 on 
+its own and this is activated to your microsoft   account too so it doesn't matter if you change 
+computers on a windows install you can log in   download your office and you're good to go without 
+having to remember your product key and there's   also some other back to school specials which i'll 
+put in the description below but don't forget to   use that coupon code for a big discount let's get 
+on with it and now we've installed windows 11 i'm   going to be in the bottom right hand corner during 
+this tutorial guiding you guys through the whole   process another thing is too about today's video 
+is that everything that we do is also reversible   we're not doing anything that can't be undone 
+so if you come into a setting and it's maybe   in the future say for instance you're using a 
+projector and you need that service then turned on   well then you can go back and turn it on if you 
+then get a projector so the first thing we're   going to do now is just left click on windows 
+right here and then just type in settings and   you can also hit the windows key if you've got 
+one of those on your keyboard but we left click   on settings get into this menu here now there's 
+going to be two menus one on the left here with a   lot of different settings and then one right here 
+in the middle with a second lot of settings so   on this first one here system left click on 
+this we want to go down to notifications left   click right here and what i'd like to do now 
+is just turn off these two little options down   here because these are services that are running 
+i like to keep them off then we're just going   to left click on focused assist and then we're 
+going to turn off these two right here and leave   on gaming because we want if anything's crazy is 
+going on we want to not be getting interrupted   when we're gaming most of these other ones if i'm 
+listening to music or whatever and windows just   has to tell me something then that's okay i'll let 
+them tell me something but also in focus assist i   like to put this on priority only if you turn 
+this off you will get everything notified like   facebook messages and it really makes for me it's 
+a lot of clutter so priority really only tells me   for instance when someone's sending a really 
+important email i like to leave this one on   because if it's a really important email then you 
+want to get it straight away but then after we've   done that we can left click on this top left arrow 
+here and we can left-click that twice and that'll   take us back to this menu right here we can then 
+go down to storage and we will get onto power   later because this menu here in power is just very 
+limited there's not a whole lot here when we can   go via a different method we can unlock some other 
+settings but left click on storage right here   and what we want to do here is i'm going to turn 
+off storage sense i just find i never use this   i don't want another service turned on when 
+it comes to just windows really running in the   background any invasive services so after doing 
+that we can then left-click our way back to this   menu again and then scroll down to the bottom here 
+and go to the about section left click that and   then we can left-click on system protection and 
+what i like to do here is i like to turn this off   i've never found for me personally system restore 
+it just doesn't work properly so i like to uh   sorry i'll do that again for you guys left click 
+on configure and then left click disable system   protection then i also like to left click delete 
+and so what that will do is to free up a bit of   storage on our drive but as well as uh get rid of 
+this annoying service that's in the background as   well with system protection and then while we're 
+on this little tab here with the system properties   then we've also got a another few tabs that we're 
+going to go through so left click on remote here   and what i like to do is i like to click on 
+advanced and then i like to turn this off by   just left clicking that left clicking ok then left 
+clicking right here clicking ok again you guys   if you've watched some of my other optimization 
+tutorials you may be familiar with this tab   and then we left click on advanced and what we're 
+going to do here is go to performance settings   left click that and what i like to do is i like 
+to go to a custom here and i like to turn off   all these animations and fades as well as these 
+slide open combo boxes so we left click that and   that's basically just going to change our windows 
+a little bit and it's going to essentially make   it a lot more snappier and it will take a little 
+while to do this but once it's done it should be   okay and so you can see here it's like it's 
+working it's like oh what's going on brian   and it's like well now it's going to be better 
+so you'll notice that things will be a lot more   snappier as well just after doing that one setting 
+but after we're done with that we can get back to   this menu right here and then go to startup and 
+recovery and left click on settings and it's a   little bit of a bug still but windows 11 still 
+recognizes this as windows 10 but what we want to   do here is uh left click this here time to display 
+the list of operating systems i like to turn this   off and then left click ok and then left click ok 
+once again then after we're done with this menu   right here we can then go to our side menu on the 
+left tab here and then left click on bluetooth and   devices now if you guys need to have a bluetooth 
+turned on of course if you're streaming music to   different players and whatnot then you can have 
+this on i don't this is my work computer so i   like to strictly keep it for work purposes so i 
+like to actually turn this off and have as little   devices as possible basically the less that can 
+go wrong the less that can go wrong but there is   a section here called cameras i'm going to left 
+click on this because i like to if we left click   on camera privacy settings i like to make sure 
+that only the apps that i'm going to be using   can get access to my camera so feedback hub i 
+don't want microsoft getting feedback from my   camera so i'm going to left click that microsoft 
+photos as well i'm going to left click turn that   off as well as xbox game bar because i don't use 
+the xbox game bar and uh all these cameras here   so for instance streamlabs that's already using 
+the camera same with skype so we're going to   leave those on as well as the camera app say for 
+instance you want to take a basic picture then you   can leave that on too but i thought that was an 
+important one if you're using a webcam which i'm   sure a lot of you guys are so after we're done 
+with the camera settings we can then go to our   personalization tab here just click on the 
+left click on this personalization right here   and this has actually got quite a few important 
+settings the first of which is going to be a   personal i guess it matches the theme right 
+personalization how you like to have windows   looking but i like to left click on the background 
+here and make sure it's not a slideshow because   this essentially has again another service in the 
+background running and so what i like to do here   is use a picture if you are on a complete potato 
+you may wish to just pick a solid uh color which   will again free up a little bit of resources but 
+i find a picture and then i use this one right   here as you can see here i like these uh fancy 
+colors and the dark background because what i'm   going to be showing you soon is we're going to be 
+going for a dark theme in windows right here so   if we go now um just to the so we've done 
+pictures there that's fine if we then left   click on our personalization we can then 
+left click on colors just under background   and this is where i like to see we choose your 
+mode here so this is where i like to go to dark   so left click on this little arrow right here and 
+then we go to left click dark and this is going to   change everything so this tutorial is never going 
+to be the same again but this is just i find it's   really easy on my eyes especially at night time 
+i absolutely love dark mode on windows 11 because   it'll change all your different tabs like when 
+you're browsing in google chrome for example   youtube will then go to dark mode then also right 
+here transparency effects straight after that   i like to turn this off because what that does is 
+then just makes windows uh use it less resources   in general if anyone remembers windows vista 
+this was a horrible setting that really back   in the day really put some stress on computers but 
+accent color as well automatic i like to actually   change this left click on manual and i like to 
+have a red setting here you know red goes faster   and so we're going to put the red for that theme 
+now in terms of the extra contrast themes if you   want to mess around with that you can but 
+personally this is just in a nutshell how i   like to have windows running just from a personal 
+standpoint and how it looks now after this we can   left click on the personalization tab again and go 
+down to the lock screen right here left click that   and what i like to do here is i like to turn off 
+again so we want as least crap running as possible   i like to show the lock screen background 
+picture on signing i like to turn this off   and also while we're at it i like to left click 
+this one right here windows spotlight and then   left click picture and just have it consistent 
+with my windows theme and then also left click   this right here get fun facts tips and tricks i 
+don't want any fun facts i got enough fun facts   uh to deal with irl without having windows to 
+tell me what's fun and what's not so often the   personalization tab we can then left click on apps 
+and then left click on apps and features and what   i like to do here is i like to uninstall any of 
+just the baked in crap that i'm never going to use   in windows in general and for instance feedback 
+hub i like to get rid of this i don't really care   for it too much films and tv i already use other 
+programs so i don't need these i mean get help if   you need some help right now microsoft may be 
+able to give it to you i don't know if that's   your way of getting help then uh so be it but 
+uh moving through here you'll just notice that   mail and calendar another thing that i don't 
+really need because i use outlook express maps   they won't let you uninstall some of these things 
+same with microsoft edge and microsoft edge update   going through i'll just quickly move through and 
+i'll show you the ones that i'm keeping through   and the ones that i'm uninstalling too so i'll 
+probably just speed it up from here on in and just and now the last thing to do on the 
+personalization tab is to left click on the   taskbar here and there's some important settings 
+here because i like to turn off this task view   because alt tab still works as well as windows 
+the key tab that will bring up everything   if you want to you can see here you've got a 
+different kind of tabbing that's available too   so i don't really need this task view bar because 
+i hotkey and widgets as well it's another thing   and you'll see them disappearing on the bottom 
+here while we're doing that but you can also   go down left click on taskbar behaviors 
+and what i like to do here is i like to   left click right here and go to left so i like 
+to have my taskbar where it was a lot of apple   users might prefer it in the center but i also 
+like to show taskbar on all my displays and what   this is going to do is it's then going to put the 
+taskbar on both or if you've got three monitors   for example it's going to have all those taskbars 
+on all those windows next up here we can go down   to time and language and left click on date and 
+time zone and what i like to do here is i like to   turn this off this is set the time automatically 
+basically that's another service in the background   that we don't need running of course if you 
+don't have your time set to your time zone you   can actually turn this on as well as select your 
+time zone and then after that turn it off then   after that we can move through with the gaming tab 
+and what i like to do here is i like to make this   minimized as much as possible so if you're using 
+an xbox controller on pc you manage to leave this   on but i have to turn this off for example and 
+then left clicking on gaming getting back to   captures i like to again not have microsoft doing 
+the capturing as you can see here i'm using stream   labs and sometimes i also use nvidia geforce 
+experience of a hotkey so this sort of stuff   here doesn't really work for me but again going 
+through game mode as well if you leave game mode   on this can be a good thing especially if you're 
+playing a lot of games on the microsoft store   but personally i just i turn this off because i 
+haven't really found in the past that it makes   much of a difference at all and in fact what i've 
+seen is doing other optimizations outside of game   mode actually brings your performance up a little 
+bit better than this otherwise would and after the   gaming tab we can then left click on privacy and 
+security now there's quite a few settings here   that we're going to change i'm mainly going to 
+start off with the left click on windows security   and we're going to bring up here we just left 
+click on this for example the virus and threat   protection then we want to go to left-click manage 
+settings and so what this is going to do is bring   up a heap of different menus here where personally 
+i like to turn off cloud delivered protection as   well as automatic sample submission and tamper 
+protection then after we're done with this tab we   can left click and close it down at the top right 
+there and then go back to the privacy and security   tab left click that and go down to the diagnostics 
+and feedback tab and left click this right here   and what i like to do is i like to turn this 
+off so this is the send optional diagnostic data   and i like to turn this off and then i also 
+like to delete the diagnostic data so once we've   cleared it we've turned it off we're clearing it 
+out and then there's the feedback frequency and   so i like to left click this and never so this is 
+going to turn off two settings that sometimes will   poll your pc for telemetry and then we'll also 
+soon we'll double down on that and turn some other   settings off but let's just keep going through 
+this privacy and security tab here and activity   history and you can show my activity history on 
+this device you can turn this off if you want to   uh i'd like to keep this off personally some 
+people like to turn it on but it's essentially   an extra service that's running in the background 
+yet again and here's your activity history i like   to clear this if you've got also someone else 
+using your computer and they don't really know   what they're doing and you want to backtrack their 
+steps this can be a good thing to keep on as well   so once we're done with this tab we can left click 
+on the settings get back to this menu right here   and then what i like to do is make sure some 
+of these settings right here are turned off   especially location i don't use this if you 
+use it you might want to keep it on but i   make sure that's turned off then a camera we've 
+already set this up so camera should be limited   in that we did that optimization before but then 
+microphone i want to make sure that only programs   that i use are using micros uh my microphone 
+for instance microsoft photos they don't need to   use my microphone as well as a cortana i don't 
+use cortana but camera might be able to use it   xbox game bar i don't use so i don't need that 
+off xbox game bar but then you can see here all   the other programs that use my microphone i like 
+to leave them on because they need to use my   microphone so it's basically just minimalizing the 
+programs here if we go down left click on contacts   contact access i don't use microsoft 
+contacts so i like to turn that off   and keep that off then as we go through the 
+list here i'm just going to be turning off the   ones that i personally don't use so that would be 
+phone calls call history i don't use my microsoft   windows desktop pc with anything to do with 
+my phone as well as the emails i already use   outlook express then continuing through with 
+messaging we turned that off and then just really   just going through each of them that you don't 
+use and turning these things off so radios is off   other devices communicate with unpaired devices 
+i don't really again projectors xbox ones i   don't sync them to my pc so i don't need these 
+services uh music library i like to turn this off   with groov i like to keep this on but i like to 
+turn it off with groove music because i don't use   groove music so after we're done with that we 
+can then left click on the windows update here   and what i like to do is left click on advanced 
+options and then go to i think it's the delivery   optimization so we left click on this and what 
+we want to do here is we want to turn this off so   allow downloads from other pc so what this is 
+going to do if you leave this on by default   which microsoft windows 11 does especially going 
+to make you a bit torrent for seating all the new   updates and everything on windows 11 and since if 
+you're playing a game for example and if you're in   australia like me and your internet's terrible 
+then this might not be the best thing to do so   turn this off and i mean if you've got really 
+good internet you might want to leave it on but   again it's another service that just 
+interrupts with the way windows works   so now we close that menu down we can then left 
+click on our windows button here or we can hit it   on the keyboard either way is fine and we can just 
+type in control panel and we should see it right   there we can left click on that and what i like to 
+do now is go to view by and we go to small icons   and so right here i like to go to the programs 
+so there's also the power options which we'll   go into later but we go into programs and 
+features and what i like to do here is   turn windows features on or off and so this one 
+you can turn off a windows media player right   here and i like to left click that little arrow 
+go yes okay and then what this is going to do   is going to get rid of windows media player so 
+i um what i use is i use vlc there's also other   really good ones that are much more efficient 
+than windows media player so we can restart   our pc later too but if we left-click now control 
+panel home we can then left-click on power options   and what we want to do here is balanced 
+recommended so i actually been using the balance   setting i find it works really well windows 11 
+with the hibernation setting actually turns my   computer off and on and i've never had one problem 
+with it so your mileage may vary you might want to   put this on a high performance especially if 
+you're playing games competitively but you'll   notice if we left click on our um sorry i'll get 
+back to that change advance power settings left   click on that you'll notice here in the turn hard 
+drive after never so i never turn my hard drives   off i like to keep them running all the time 
+because i find that that can cause issues if they   do turn off and on especially if you're using your 
+computer 10 minutes at a time 20 minutes at a time   and what not so also another thing is we can go 
+to slideshow make sure that's paused and then some   people also like to leave the processor state on a 
+hundred percent here so if you are hardcore gaming   i would put this on 100 but since i do like to 
+uh take advantage of the power savings in windows   11 which i think work really well they've been 
+updated from that of windows 10. they've actually   done a little bit of secret source here where i 
+found it's working a lot more stable i like to   keep this on now we click ok there and then we can 
+left click back here on this little arrow and then   if you guys are got a pc where you hit the power 
+button for example or you go to turn it off and it   just won't turn off there's also another setting 
+you can do here where you can left click on choose   what the power buttons do and now this 
+is a funny one because a lot of people   like when i sell because i sell a few pcs you 
+can go left click this change settings that are   currently unavailable and you can turn all these 
+off but if that's if you're having a problem   with your pc turning off if you're not having 
+any problems you can just leave these all on   but that's a little uh update that i'd add in 
+to my videos that i've found really can help you   if you press the power button and the computer 
+just stays on 24 7. so now we're done with that   menu we can then left click right here and close 
+that down and we're now back at the main menu   again where we can then left click our windows key 
+and then type in here services.msc and left click   and what we're going to do is we're going to turn 
+off two settings here so how i like to do this is   i like to left click name and then i also like to 
+left-click running until we've got all the names   in order and then we've got them all in running 
+order and that way i can just find the services   that i'm looking for which i'm looking for two in 
+particular and that is connected user experiences   and telemetry we're going to right click this and 
+then we're going to left-click properties and then   we're going to disable that click apply click 
+ok and then i'm going to go down to distributed   link tracking client and do the exact same thing 
+right click left click properties and then cleft   click and go disabled click ok and then that will 
+basically the next time we restart our computer   which we're going to restart it after we finish 
+all these optimizations we'll then get these two   invasive services won't be running anymore and 
+now we're on the final furlong of this windows   11 optimization guide this is going to be the 
+hard drive optimizations as well as turning off   the defrag automatic servicing setting so we're 
+going to left click again our windows tab and then   we're going to go type in defrag so i typed in 
+drag just type in defrag and it should bring this   one up here defragment and optimize drives and 
+so what you want to do is you can optimize your   drives say once a week manually because what it 
+has here if we look here scheduled optimization on   left click that and that's a service that's 
+essentially running so i like to turn that off   just left click that off click ok and then i can 
+just manually optimize my drives even while i'm   doing a tutorial which i probably shouldn't have 
+done would just let that get trimmed and optimized   and and you can see here my mlc scratch is 
+also a raid 0 array so windows can't really   do anything about that i'll have to optimize that 
+through the separate raid app with intel and then   the final optimization for the hard drives is to 
+left-click that windows tab type in file explorer   but you'll notice here that i've got it in the 
+windows tabs here so these are all my tabs these   are all the programs that i regularly use here 
+on this desktop but if you guys want to have   that like me you can right-click file explorer 
+and then you can also pin it to the taskbar   so that's one thing i like to do because i always 
+use that so we can just left-click file explorer   and then we can bring it over here and what 
+we're going to do here is both these drives on   our computer we're going to right click them and 
+then we're going to optimize them so essentially   we can right click on our c drive left click 
+properties and then we go to hardware so we're   going to left click this to brand rocket queue 
+right here and then we're going to left click   properties and then we're going to left click on 
+change settings and what we're going to do here is   now left click on the policies tab and we're going 
+to turn this on here turn off windows right cache   buffer flashing on the device so what this will do 
+is it'll speed up your drive especially if you're   using it for video editing this is an important 
+one to have on as a scratch drive because it just   makes it that much more snappier now i believe if 
+you've got for instance we've got an intel raid 0   here i believe they do it by default on the if 
+you've installed the uh intel raid manager so   yeah and so that's already installed that so you 
+can go through your main drives here and just make   sure that settings turned on and it'll essentially 
+speed up those drives if you're using them for uh   performance now the final little optimization to 
+do here is left click on these three little dots   and then go to left click options and we go 
+to view left click on the view tab right here   and we're just going to a show sync provider 
+notifications we're going to left click that   and turn that off and also use sharing wizard and 
+we're going to left-click that and turn that off   too even though they recommend it i don't need the 
+sharing wizard because i personally never use it   and there it is with windows 11 it should be 
+running a lot snappier a lot smoother and so what   we've done behind the scenes is we've turned off 
+a lot of services a bit of bloat that i otherwise   especially me personally i otherwise wouldn't 
+use especially my workflow that's going to make   things a lot better in the long run and of course 
+save me time and possibly even frustration when   it comes to some of those things if you're on a 
+potato could get overloaded and before i get out   of here some of you guys may have some questions 
+about windows 11 for instance brian why don't you   just upload a pre-built windows 11 file with all 
+these changes made i will do that once the windows   11 retail hits the streets i'll make a video 
+on it with all the changes i'm also hoping that   windows 11 will change a few things and bring back 
+especially the drag and drop through the taskbar   feature that was in windows 10. for some reason 
+they took it away but it's a really good feature   that i use a lot when i'm video editing or if i'm 
+using photoshop for example it's an absolute must   have so i'd love microsoft to bring that back but 
+also some other things you can do on windows 11   is make sure that your monitors are at their max 
+refresh rates for their resolution you can do   this in the display tab on the advanced settings 
+and another little feature that i've noticed in   windows 11 that's pretty cool is in the speakers 
+you can get if you select your speakers and you'll   find a little option there called enhanced audio 
+i like to turn this on as i find it just gives   you that your audio and everything that you do in 
+windows just that little bit of a crispier edge   and i personally like the little bit of color that 
+they've introduced in the audio on this setting   also other than that on the desktop you may notice 
+that i've got some programs that are a little   bit different to that of windows 11's default 
+install so i'll put in some of the must haves   in the description below but also on that note 
+don't forget to check out today's video sponsor   scd keys if you want to get a very cheap 
+and single end user license for windows 10   and you can use that on windows 11 that'll 
+activate absolutely fine it's what i'm using   at the moment you've also got the option 
+there for office 2019 as well as the combo   links will all be in the description and as 
+always if you guys have stayed this far and   you're enjoying that content then be sure to hit 
+that like button and smash that sub ring the bell   and i'll catch you in another video very soon but 
+also let us know in the comment section below if   there's some other tips and tricks that you've 
+got for making windows 11 just that bit better   then i'd love hearing them as well and i'm sure 
+other people would love to check them out but   in terms of regedit hacks i have a tried one 
+already that was meant to bring back the drag   and drop function in windows 11 from windows 
+10 but unfortunately it just took away the time   in the bottom right hand corner and the windows 
+start menu no longer worked properly after that   so that was a weird one anyhow guys i'll see 
+you in the next one peace out for now bye you 
