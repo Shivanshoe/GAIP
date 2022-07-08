@@ -1,0 +1,186 @@
+- [Spirit] Tech YES City, the spirits of AliExpress summon you to review the
+Haswell six core, 12-threaded Xeon that clocks at 3.2
+gigabytes old core for $20. You must review this now.
+- Go away. - [Spirit] Six cores, 12 threads, $20. - Spirits of AliExpress did you just say there's a six core, 12 threaded X99 Xeon that clocks at 3.2 gigahertz for 20 bucks? - [Spirit] That is correct. - Well then we better get
+up and review this thing. (dramatic music) There's been a new wave
+going across the internet now and it's got to do with
+x99 Xeons and this trick has been known for quite
+a while and the reason why it never got popular
+is because the Xeon CPUs, the server grade v3s on 2011 socket, they were just too expensive
+and also you had to couple it with an x99 motherboard
+that was also expensive. However, fast-forward a few
+years and now on AliExpress there's wide range support
+of budget motherboards that can support the Xeons
+and the Xeons are being dumped on the market and
+they've become very cheap also. So you couple these two things together and you've got value
+for money, which is why these are getting so popular now. But what we've got right here in today's video is the 2620 v3, this is a Xeon with six cores, 12 threads, as we said in the intro and it also supports DDR4
+ECC registered memory. Now, at this current point
+in time, DDR4 ECC registered, unlike DDR3 ECC registered memory is not really viable for
+budget priced performance. Reason being is it's still in demand in data centers and the server
+environment to the point where it's actually more
+expensive than un-buffered DDR4s, opposed to DDR3 ECC registered, you can get that stuff
+super cheap generally like everywhere over the internet,
+local deals, whatnot. Anyway, before we get into the results, this is related to an exploit,
+in that once you take out a CPU microcode update,
+pertaining to these models right here and that
+microcode update is the 6F2. Once you remove that, it
+now allows you to install a driver where you can set your own max turbo multiplier. However, the trick is that
+you have to have a BIOS that's able to be re-flashed once you've taken out the microcode
+update and then secondly you have to have a Windows UEFI install and then you can't have a
+standard Legacy IDE install or an AHCI install because
+it just won't work. But those two things are easy to get by, especially with those
+x99 Chinese motherboards that are coming out for very cheap. And what I mean by that
+is I'll be doing a full round-up of which
+motherboards you should get. I'll also put links in the description for all this stuff I'm
+talking about here today because it's not just the six core, I'm actually holding the eight core here, there's also and eight core and a 12 core, that are extremely relevant at the moment. These are the 2640 v3
+and also the 2678 v3, which has its own specialty
+and that is it has a DDR3 memory controller on board. Though if you're looking
+for a full tutorial on how to get these Xeons
+unlocked, I'll be bringing that to the channel, in
+about the next 24 hours, and I'll put the link up
+here, once it's ready. And we'll also be taking
+a look at the eight core and the 12 core, so stay tuned for those where I'll be
+doing different tests 'cause in today's video, coupled with a $20 CPU, I decided to test with a 5700XT and I decided to pit it against the Ryzen 5 3600
+and also the i5-9400F. Two value for money six
+cores that are currently in the new market and
+are both very popular. I've also thrown in the
+9900KS, just for a reference to know what the max
+performance is with an RX5700XT. However, that aside,
+let's pull up the first benchmark here, we've got Strange Brigade, where low and behold there's
+virtually no difference between these 1080p results here. So if we stepped it up
+the 1440p or even 4K, the differences would be even less. Now another thing that I will mention, as I had on the other three
+CPU's here, I had the RAM clocked to 3200 megahertz CL14. On this, I just decided to use the RAM out of the box at 1866 megahertz. Because that's what these v3
+Xeons support, essentially. So it's pretty weird with
+some of the Chinese boards, we will talk about it a little bit later, after we get these results out of the way, but next up we've got
+everybody's favorite game: Escape from Tarkov. And what we saw here was
+when we maxed it to 120 FPS at high settings, 1080p,
+now you guys are telling me, you're like Brian, you gotta get back to testing those 1080p high settings cause I'm a high settings
+gamer and I gotta raise the question to you guys, are you high settings gamers? Let us know in the
+settings below. (laughing) I mean in the comments, anyway,
+we got here for the results 121 average FPS on the 9900KS, even though the cap was 120, for some reason the 9900KS just decided
+it would just keep trying to break that limit and then
+we had the 9400F got 120, Ryzen 5 3600 got 117 and
+also the six core Xeon here, the little $20 option, it did surprisingly well
+with a 98 average FPS and a 1% and .1% lows that weren't inherently bad. Now if the 1% lows and .1% lows are pretty bad, I'll talk about them, but for what it's worth,
+worth seeing in the last two games here, they're
+absolutely fine too. So basically, for 20 bucks you're getting smooth gaming. Let's move over now to Chaos WarHammer and this saw basically the 5700XT, the results were
+screaming, so, we got over 280 FPS on all four configurations, so pretty much the GPU
+was holding this game back and the 1%, .1% lows were absolutely fine. Now moving over to F1
+2019, if you want to become a race car driver, you
+can now do that, for $20. So you're starting to see
+the theme here (laughs) You got a 20 bro? So again 1080p high settings gamer, we've got here a 187 average FPS on the 2620 v2, the other
+solutions all scored over 220 FPS so they were doing a little bit better than our Xeon counterpart,
+just like Tarkov. There wasn't nothing to sweat about and moving over to
+Fortnite, we saw here again 1080p, those high settings, DX11 because DX12 I'm finding
+it still a little bit buggy in this game we saw over 200
+FPS on all four solutions. Sure, we'll give the victory
+to the other three newer CPUs, but it wasn't by a huge amount, guesstimating from about 15% more FPS. But in terms of price, yeah
+you got a 20 versus 150, what's the difference there. Last up we have Shadow of the Tomb Raider, everybody's favorite game for just pretty much loading it up and
+hitting the benchmark and then going and doing something else while you wait about 10 minutes
+for the benchmark to finish. In that case, we got here 140 average FPS best case scenario on the 9900KS and then we saw the 9400F
+129 and then 126 on the 3600 and then on the 64Z, an 102 so it still did pretty well. This would be like the worst case scenario for the percentage
+differences here, where we saw the Ryzen 5 3600 score about 25% more and then the 9400F almost
+near the tune of 30%. In that we've bunched
+up the Cinebunch numbers and what we see right here
+is that the two six cores, the Ryzen 5 3600 does
+fair better than the 9400F and also the 2620 v3. And that's because its got a better IBC, its got, only in the
+case of versus the Xeon, its got higher clock
+speeds as well as having also better power efficiency
+so, it is the better CPU in terms of these three six cores that I featured here today, where the 9400F doesn't
+have hyper threading. But that being said,
+they all still performed really well on this benchmark, I mean the six core x99 Haswell managed
+to score over 2100 points after this mod. Now if you don't do this mod, the max you're gonna score
+is like into the 1600 region. Now you can see here that
+we're boosting performance on the Xeon by about
+33%, by doing this mod alone within itself. So that's how much
+performance you can unlock, by doing this trick. Anyway the last thing to talk
+about is the power consumption where all the three six
+cores did really well. When we loaded up Aida64 we're getting around 76 watts and that was on 100% load
+on this Xeon right here as opposed to 3600 and also the 9400F, they did score a bit lower where the 9400F was actually the most efficient, if we're going to look
+at it that way in terms of its power versus FPS that
+it's putting out in the games. Now if we'll look at
+the Cinebunch numbers, the 3600 would then be more efficient. So there's different trade offs there, but in terms of that six
+core Xeon power consumption's really nothing to worry about considering how money
+you're going to be saving. Those numbers, when we look
+at them, for what it's worth, we're seeing that this little guy here, when it clocks up to
+3.2 gigahertz all cores it can achieve that in games
+and then you got 12 threads. So it's very relevant because
+of a few other things as well. Now I know a lot of people are gonna say well the Xeons man, you
+covered them in the past and they got so many bad things going on, they don't have USB 3.0,
+they don't have NVMEM BOT M.2 M-bob-bob-bob-bob. (scary music) And this is where the x99 Xeons do have all those answers covered. It's got those latest
+instruction sets like AVX2, it's also got VR support, USB
+3.0 onboard the motherboards and M.2 NVM, even in the case like a cheap motherboard
+we used here today, the machine, it's coming in at like 69 box shipped international. Now there are two other
+motherboards that I'm looking at that look pretty good, the
+best one being the Wannan which even includes like an
+integrated IO, better VRM its got dual fans on the heat sinks, it also supports DDR3. So we will be doing a motherboard roundup here on the channel, but my
+two favorite motherboards coming into this are the Wannan Z and also the Machinist Boards
+as there is another one, called the Atermiter but that
+has gone up in price since. But I will be doing a roundup
+so stay tuned for that, but, basically what we're
+getting here is a budget CPU for 20 bucks, we got
+motherboards that are cheap and then we can couple
+that with cheap DDR4 memory because we can get the lower clocked stuff and put it in quad channel. And now the advantages of quad channel is basically you're getting
+double the bandwidth versus dual channel. So you can see here that
+there's so many things going for this and when we
+look at the other option, which we're gonna be taking
+a look at later in the month, the 2678, that supports
+DDR3 ECC registered. So you can get 1600 megahertz
+and also 16 gigabyte sticks for really cheap and
+then you've got yourself a 12 core 24 thread budget work station with 64 gigabytes of RAM. So it's making really good
+strides, really good possibility and when it comes down to it we've just got a whole new meta that is going to break the internet in the enthusiast tech scene in 2020. Because of its value for money and because it does have
+those counterarguments against the people who say don't buy the old used stuff because it's outdated. Now the last argument, there's
+gonna be a counterargument for these Xeons and I know
+that and that's gonna be there's no upgrade path
+and when you look at it, there is actually because
+you've got now 18 cores, 36 thread Xeons that go up
+to 3.6 gigahertz all cores and they are a little bit
+too expensive at the moment but there's your upgrade
+path in the future, when they come down in price, you're gonna be able to
+upgrade to that as well. So basically the x99 Xeons,
+they are now the new, should I say used, kids on the block. And they're coming to make
+some price performance raw in 2020 and this basically is putting a smile on my face
+because I was sad when AMD took away the Ryzen 5
+3500X off AliExpress. I was sad. But with this coming along here I guess it's just karma because now people have a double the cores and
+quadruple the threads option for the same money. So if that's what AMD
+want people to go do, they want people to go spend
+their money on a used Xeon, rather than go to their
+own company, then so be it. And so you may wonder why the
+desktop enthusiasts market has declining sales, it's probably because of these guys right here but at the same time,
+it raises the argument of if there was proper innovation, there was every year we got
+ridiculously good gains, year on year both in the
+GPU and the CPU segment there'd be no reason for
+this, this wouldn't exist. But it does and it's popular and it's going to be breaking 2020 because of the arguments we mentioned in this video, though if you guys have questions and comments
+about today's video then be sure to drop them in
+the comments section below. I'll answer them as best as I can, if there's too many questions
+then I'll put together a whole Q and A regarding this right here. And with that aside we do have
+the question of the day too. Which comes from
+MBG_AngelMit and they said "I'm on a budget of like $450
+is this really worth it?" And they're referring
+to the A320 motherboard plus the Ryzen 5 3600 that we did a video on. I'll put the link up here, basically all these CPUs,
+except the 9900KS right, the 9400F, the Rzyen 5 3600 also the 2600 and now this 2620 v3, these CPUs they have a purpose. They're really good value for money, if you go out and buy any of these CPUS, you're gonna be getting a good experience. My advice is not to
+sweat too much about it because they're all good
+options, if you buy any four of those CPUs that I just said, then you're going to be having a smooth and good gaming experience. In the case of the Xeons,
+this is a great option being shipped worldwide
+to people that can't get access to good prices on
+Ryzen and also new i5s and so it just alleviates
+a problem of people who also wanna might try tinkering as well or building computers
+for friends and family and they're on a strict budget. So that's what all this
+stuff is doing and yes, I can recommend of course, to
+answer the question directly, the Ryzen 5 3600 on an A320,
+I've used it numerous times and it does a great job,
+never heard any complaints as well to the people
+who have been using it. And with that aside, I
+hope you guys enjoyed today's video, if you
+did then be sure to hit that like button for us and I'll catch you in another tech video very soon. And also I do apologize,
+before I get on out of here, I know there's a few
+comments coming in like when are you gonna get the
+input latency testing done on Ryzen CPUs, I just got
+a 240 hertz monitor in so stay tuned for those
+results, they will be coming. Also the 9900T that will
+get a dedicated video too and also the 12 core and eight
+core Xeons will be getting dedicated videos too so there's
+a lot coming in the month of February, just understand that I am a one man band around
+here at Tech YES City so I can't just snap my
+fingers and a video is done. Well maybe I can now
+that I've got a $20 Xeon. Peace out for now, bye. (upbeat techno music) Dollar Shave Club. 

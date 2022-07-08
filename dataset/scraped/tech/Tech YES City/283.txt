@@ -1,0 +1,177 @@
+recently there is a huge amount of users
+posting up problems with rtx 3080s crashing
+to the desktop and my friend was kind enough to
+lend me his non oc rtx tough gaming card which is a
+retail sample and this right here is the review sample that asus sent
+over so what i'll be doing later on today is comparing
+the review sample versus the retail sample in performance
+but first of all physically these two cards are
+identical and the good thing about the non-oc model 2
+is that it's sharing these little more expensive capacitors
+on the back just like the oc model now another thing that's been raised on the
+internet is that jaystwocents recently posted a video
+talking about this whole issue where he references
+another youtuber called igor's labs who essentially identified what they think
+is a problem in causing the crashing to desktop
+issue that a lot of users are experiencing and for
+simplicity purposes i'm just going to call these the little caps
+and the big caps now the big caps are essentially
+cheaper and don't deliver as good of filtration of power
+to the gpu as the little caps do and so as this story goes and i will put
+a heap of links in the description to js2 census video and also eagle labs
+video this story goes that nvidia has a
+reference spec for these cards where they're using two
+lines of smaller caps in the middle of the gpu
+at the back here and then four bigger caps the cheaper
+ones on the outer edges and so some of the board partners
+have used simply all the six cheap caps and taken out the more expensive little
+ones in the middle and so this in turn eagle
+believed is causing the issues where you've got
+the reference spec design which board partners some board partners not a
+zeus some board partners have cheaped out on
+and then they're using the reference clock speeds and then that's causing the
+issues where it's crashing the desktop and so me personally i just at the
+moment i think there's not enough data for any individual out there
+to be able to conclude that's the exact issue
+and i think in jay's video he nailed it in that it could be a number of
+different things right now because one thing i'm going to say is
+that this is a completely new architecture
+ampere is not touring and when there's a whole new architecture
+there is guaranteed to be driver problems and instances where
+things will crash to the desktop and even in my review of
+the rtx 3080 i pointed out that when i overclocked
+it was stable when i was testing games but then when i turned on ray tracing it
+was crashing in fortnight and pretty much the exact same spot so
+that was obviously a driver problem in relation to the cards themselves and
+when it comes to what i think the exact problem is i
+think it's this right here the overclocks out of the box i feel like
+the board partners have taken these cards
+off nvidia and then applied their own custom oc and they haven't had time to
+validate them coupled with the fact that it could be
+that could be the overclock coupled with the fact that they did use the cheaper
+capacitors but for what it's worth i feel like this
+is the main problem right here is that the overclocked editions just
+haven't had time to properly validate and that's causing
+the crashing where i know firsthand i've got a friend of mine
+designed by ifr who currently has one of these graphics
+cards and he's underclocked it by 50 megahertz and drop the power limit
+to 95 just like jay recommended doing if
+you're having these problems and that fixed his problems and he no
+longer had any crashing after that so if you guys want to fix this if you're
+currently having this problem and you want to fix it
+you just download msi afterburner i'll put the link for that in the description
+below and then you apply the minus 50
+megahertz and the 95 power limit so do let us know though
+if you do have this problem do let us know in the comments
+if it is an oc edition that you're having this problem with versus a non-oc
+which is slightly clocked lower anyhow what we're going to do
+right now is chuck this retail sample on the test bench and then see how much
+of a difference there is versus the oc edition but also see
+if the review addition i got sent over is
+a cherry picked sample in that it overclocks higher
+than that of a retail sample [Music]
+and now after testing out the retail sample versus the review sample
+i can say that the out of the box numbers
+aren't really going to make much of a difference in fact the real clock speeds
+that i saw here was 1930 megahertz averaged
+versus around 1905. of course they do fluctuate quite a bit the wattage was
+also very similar using a little bit more on
+the oc out of the box so basically they just
+looks like they're giving it a slight boost to clock speeds as well as a
+slight boost to the milli voltage and that's how
+you're getting slightly i guess slightly higher numbers
+if the benchmark permits but i'll throw up some numbers for you guys
+here shadow of the tomb raider 4k was exactly the same then horizon zero
+dawn was the same thing and doom eternal was the same thing to the point where
+the overclocked numbers were pretty much identical so the memory
+speeds i managed to overclock them to roughly the same level
+getting 10 gigahertz effective on both but the review sample i'm going to give
+that some credit here that was looking like
+it was a cherry picked sample in terms of how high it could overclock
+versus the retail sample which was the non-oc edition but i don't know if that
+has to do exactly with azus potentially binning
+the oc retail samples versus the non-oc because i don't have an oc retail sample
+to compare it to but we can see with the clock speeds this
+time overclocking we were getting a sizeable boost on the
+oc on the cores on the oc version versus the retail
+non-oc version of what it's worth the only time this
+gpu crashed out of the application which was unigine heaven
+was when i was overclocking the core too high so my guess is with this whole
+issue is that it's more an overclock problem where they haven't been
+validated properly before they were shipped and so the solution to this is
+as we said in the intro is to download msi afterburner down
+clock your gpu by dragging the slider down 50
+megahertz and also lowering the power limit to 95
+and then saving that and then making sure that afterburner opens up when
+windows starts as well as making the default profile
+that you save the one that boots up with afterburner
+and that should stop your crashing because
+this is what i've had confirmed by someone who's had this issue
+and they've done this and now their card is working 100
+but of course that raises the question of what exactly is the issue here
+is it the capacitors on the back or is it
+more an oc validation now i'm thinking it can be either all but
+i'm going to be more inclined to pick the overclocked situation
+and those overclocks haven't been validated
+and that's what's causing these crashes to the desktops
+where they could people could be using these in hotter ambient temperatures
+than what they were tested with at the factories and of course when you go
+hotter on the ambient temperatures the closer you get to that tj maxx the
+more unstable a particular clock level can become
+hence the crashing so whatever the deal is uh just like jay
+said in his video the difference between 15 or even 30
+megahertz as we saw between the average clocks between the
+oc model and the non-oc tough gaming model here
+that's all it takes to have an unstable graphics card so i'm going to be putting
+my money on that in terms of that's the real issue
+as opposed to the capacitors sure it's good to have better capacitors on
+your cart and i think zeus have done an amazing job this time around with
+their tough gaming card i've got the dedicated review up here if you want to
+check that out and when it comes to buying a graphics card ultimately the
+same price point you're always going to pick the
+one with the better components on it that's a given it's just like going to a
+car dealer and them asking you okay here's your
+brand new car do you want the cheap tires or the more
+expensive tires i'm pretty sure like almost everyone's going
+to say all right i'm taking the more expensive tires
+and so that's exactly what's going on here zeus
+have put on the more expensive capacitors
+on their rtx 3080s even on their entry level tough gaming
+versus some of the other board partners that haven't even followed nvidia's
+reference spec and cheaped out on some of the
+capacitors i think potential customers when they're alerted to this
+they just don't like that in general because there is a reference spec there
+and everyone would like to see these companies follow that reference spec
+though again what exactly is going on here i cannot tell you anywhere near
+100 certainly because i don't have big enough sample sizes
+to be able to correlate data and give you even like
+high levels of confidence in what exactly the problem is
+but one thing for sure is the blame here is definitely
+both on the board partners and nvidia i feel like
+they needed to validate this whole launch
+a lot better than they did and they needed to do a lot more quality testing
+it seems because all these problems are coming to
+fruition now like we've got the launch problems where you had bots and
+scalpers and not enough stock and now you've got
+driver issues and potentially now uh clock
+issues or overclock issues from board partners not properly getting
+these clock speeds right in closing out this video these cards
+right here they have both the good capacitors on
+them and it's really good to see that zeus
+have gone above and beyond to get their rtx 3080s working properly
+now in terms of these crashing the oc model could potentially crash to the
+desktop just the addition that i have here
+exhibited none of that behavior and the non-oc model at least with the
+testing that i've thrown this thing through
+only crashed when i was overclocking it in heaven
+so out of the box this thing is working absolutely fine
+out of the box this thing is working absolutely fine
+too and with all that aside do let us know in the comment section below what
+you think of this whole issue do you think it's
+the drivers or do you think it's the clock speeds or
+do you think it's the capacitors love reading your thoughts and opinions
+as always and if you enjoyed this one be sure to hit that like button for us
+and if you stayed this far and you joined that tech yes content
+then you know what to do and i'll catch you in the next one peace out for now
+[Music] bye [Music]
+you 

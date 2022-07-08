@@ -1,0 +1,168 @@
+in 2020 ddr3 memory is now officially
+more expensive than ddr4 memory and you're probably sitting here scratching
+your head like how and why is this possible well in
+today's video i'm going to go through all the factors at play here but of
+course there's the biggest one at play and that is used price performance or
+older stuff is still in such high demand and i'm not
+saying this because i'm a big advocate of used price
+performance here on the channel with tech yes city
+i'm saying this because this is just how it is when you go get
+a used build and use second third fourth gen oem
+most of the times that's gonna have maybe two four
+eight gigabytes maximum of ddr3 memory in it and most people
+wanting a gaming pc want 16 gigabytes of ram so there's already pent up demand
+for extra ddr3 memory especially new then there's also on top
+of that another thing you can do with used
+builds that you can't do with a new build that is you've got a windows 7
+oem sticker on it you can grab that slap it in a case
+and you don't even have to buy any windows 10 license at all
+so there's things that use price performance can do
+that you can't and of course that's coming in
+especially on the entry level where you can get a mid-range graphics card
+and yeah and i've covered this heaps of times here at the channel in the past
+you're not going to be losing a whole lot of performance then of course
+there's motherboard manufacturers especially on
+aliexpress these guys are making new motherboards
+for these older platforms with a lot of these older xeons that are
+coming out of servers they're taking the xeons out but since
+the motherboards aren't being manufactured anymore
+and of course used motherboards are clonking out on people with builds the
+cpus are still fine there's this pent-up demand for new
+motherboards that support ddr3 so basically demand for the ddr3 memory
+is there in 2020 i just didn't realize that there
+was so much demand for it that it would send
+the prices of the memory more than
+ddr4 so what we've got here is for example an australian retailer so we're
+going to pop this up we've got here a 8 gigabyte stick of
+ddr3 memory going for 49 aussie dollars now
+we look at the speeds of 1600 megahertz and this is the cheapest i can find in a
+straight here then we've got a ddr4 stick of memory
+2666 going for 45 aussie dollars so this is true
+i'm seeing this in the retailers not just the
+spot exchange prices so we'll look at that now there's two different spot
+exchanges and they're reporting the same data here and so what we can see is this
+top one we've got to pay attention to this because basically ddr4
+you can put a single side and have an eight gigabyte stick
+and that's going for an average of two dollars and 62 cents right for those
+little chips then we've got here right you can
+compare these if you want to compare apples to apples sure you can do that
+but most people just want to get the cheapest stick possible right if we're
+talking about getting the cheapest stick possible and
+putting in a dual channel this is what a lot of people can do and
+of course you can overclock this stuff just like you can overclock this stuff
+right here but this right here is going for a
+dollar forty six for four gigabytes and so of course you double that and you
+get two dollars and 92 cents so it is right it is going for 30 cents
+more to get an 8 gigabyte stick together than it is for an 8 gigabyte stick of
+ddr3 memory so there's your problem right there
+and it exists the prices are officially more expensive
+but there's also some other factors at play of course we've got the pent-up
+demand there which is causing the prices to go but
+another reason being is that we've had the factories that make ddr3
+a lot of those switched over to ddr4 and so the the actual production of ddr3
+memory as a whole compared to what it was say
+five years ago is down in general and it's not like
+they can go back and make another ddr3 ram factory because
+i guess they perceive that as being an unreliable option it's not consistent
+they don't know when ddr3 memory might become out of fashion and if you've
+invested all this money in a factory then you
+could really come into some financial pain so
+the factory in the production line isn't there to begin with two
+and then there's the next reason right here and that goes hand in hand with why
+the factories wouldn't be willing to invest and make a
+whole new ddr3 production line and that is this stuff's been out for 13
+years it's been released since 2007. so
+that's i guess in a nutshell what's going on with ddr3 memory
+but me personally i look for this stuff used i
+sometimes buy it new in uh batch quantities and the suppliers are telling
+me when they give me the quote list for the prices of ddr3 this is why i'm
+making this video i saw the quote list and i'm like
+i'm scratching my head and just like you guys are scratching your head i'm like
+what this is the first time i've seen ddr3 now more expensive than baseline
+ddr4 memory and i asked them i'm like is did you
+guys make a mistake and then they said no that's just how it
+is and so i'm like whoa like what is going on here and so i
+guess especially with uh what's going on
+around the world at the moment a lot more people are staying home
+there's a lot more demand for gaming pcs and because say for instance you've got
+such a weird thing going on where cases and power supplies will be out of
+stock so a lot of people will turn to the used market
+for gaming pcs and so all the guys like me
+who put together pcs are now suddenly on overdrive
+putting together more gaming pcs and like damn run out of ddr3 memory and
+that's exactly what is happening to me i'm
+running out of ddr3 memory i mean i did come into a recent stash from two
+sources i got a guy locally here ed he sold me a
+heap of um ddr3 memory and then i also cleaned out
+darth jar jar for 48 gigabytes of the stuff
+and so that's that's a when you're in a clutch situation
+you've got to make some uh sacrifices and perform and so that's what i'm doing
+personally with ddr3 memory but another thing as well
+this is another thing to think of if you're building yourself a personal rig
+i'll show you guys an option that you may wish to consider
+and that is ddr3 ecc registered now this is not going to work on standard
+i7s for instance an i7 4770 is not going to be able to support this stuff
+but you can just see the sheer price right 60 bucks
+aussie if you buy four of these kits so if you're doing builds
+you can buy four you can get 128 gigabytes of this stuff
+for 200 aussie dollars which would be i'd say close to around 140 us
+that's a heap of memory that's like about
+25 percent of the price of our ddr3 memory
+on the market at the moment that's what you can get it for so ddr3 registered
+is definitely an option if you uh like to delve in the
+land of xeons like i do so you can get a second gen xeon
+with an x79 aliexpress board some of them are pretty decent by the way
+and then you get 16 gigabytes of this stuff and you'll have a 16 year by
+gaming pc for a lot cheaper than going with the i7
+standard consumer route and so especially the value on some of
+those xeons you get like an eight core 16 thread second gen that'll still play
+games absolutely fine with an rx470 and stuff like that
+you can still get that stuff really cheap and i've made videos on this in
+the past with uh cheap xeons but this is a real
+benefit when you look at the price of this stuff
+ecc registered memory this is a real benefit to
+use price performance at the moment this one's a little bit of a goldmine
+but getting back to the topic of why ecc registered
+ddr3 memory is very cheap that's because it's being pulled off
+servers at the moment in mass and they're pulling the xeons out of
+those things but at the same time there's not that much demand for it
+because everyone wants the i5 and the i7 which doesn't support that stuff
+then on top of that you've got really in the server industry there's only demand
+for ddr4 ecc registered that's why you'll see the prices of that
+generally comes in more expensive than ddr4 unbuffered
+so you've got the reverse situation going on in ddr3
+as to what's going on in the ddr4 world so if you guys are into building gaming
+pcs you just may wish to consider getting some ddr3
+registered stuff and going with a xeon that's just an option it's something i'm
+going to be looking into seriously myself
+being strained for memory right now but as it stands hopefully you guys
+enjoyed this video hopefully it was a lot of insight and
+let us know in the comment section below what you think of ddr3 ram pricing have
+you done many builds yourself with ddr3 do you do more ddr4 builds i mean the
+way prices are going this is definitely going to be pushing
+people in the direction of you new builds i've thought about i'm like
+what's the point of building an older system
+when you've got like say for instance a ryzen 3 3 100
+you can get an a320 motherboard and ddr3 memory and then overclock it a little
+bit or just clock it to 20s you know some of
+those boards are actually really good i shouldn't say overclock it because you
+can't really overclock on a lot of a320s but some of those boards are really good
+where they've got profiles in them where you can just lock in
+these memory profiles and they work really well you can get 3 000 megahertz
+out of even just the cheap stuff but do let us know in the comment section below
+what you're doing at the moment and what build you've got going on
+because i love reading your thoughts and opinions as always just like this
+question of the day here which comes from vex u666 and they asked
+did you try the same motherboard with another cpu
+could also be the pcie slot so this question i answered in the first minute
+of the video and yes i did try multiple different
+motherboards that wasn't the problem but if you've got a question like and you
+want an answer please at least watch the video or at
+least the first minute of it anyway guys i'll catch you in another
+tech video very soon if you enjoyed today's video
+be sure to hit that like button for us and also if you're enjoying that content
+enough and you stayed this far and you want to see it the moment it
+drops that sub button it's down there you just have to click
+on it ring the bell and you'll get notified as soon as these
+videos drop around tech yeah city and i'll catch you in another tech video
+very soon peace out for now bye [Music] oh 

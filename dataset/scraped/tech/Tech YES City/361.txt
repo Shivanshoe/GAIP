@@ -1,0 +1,106 @@
+- I woke up this morning and I went down to my local retailer for PC parts computer Alliance, aka computer Alley-ance, and they have the i5-10400. And they had up to 330 aussie dollars, which is pretty much coming
+right around the same price as its contender to from AMD, the Ryzen 5 3600. Now, these CPUs will come
+around the same price there also will be the i5 10400f, which will be even better
+value than this right here. But coming into this lineup, I knew that the i5 10400
+is gonna be pretty much Intel's 10th Gen value
+champion, six cores, 12 threads, it pretty much puts it
+in a similar ballpark as an i7 9700f, for example, or even an i7 8700k from
+the previous generation in terms of its core and thread counts. Now speaking of clock speeds, it doesn't clock that high. What I measured here was four gigahertz all core clocks in both
+productivity benchmarks and gaming benchmarks and then
+for the single core boost, I was getting up to 4.1 gigahertz. But let's pull up the first
+gaming benchmark here, Call of Duty Warzone where we saw pretty much similar results between these two, six
+core 12 threaded CPUs. And then of course, we
+got the 10900k in there, just to show you what the
+maximum performance is with an RTx2080 Ti, which this is the GPU that
+we did all the tests on in today's comparison. Though, before we run onto
+some more gaming benchmarks, a quick word from today's video sponsor. If you are sick and
+tired of making passwords only to forget them a few weeks later. Then today's sponsored Dashlane is for you with the ability to store passwords on all different types of devices, laptops, smartphones,
+desktops and Mac books. This will mean that you
+can jump onto a new PC, put your master password
+in and then from there, you can autofill all
+different types of username and passwords. Now hold on a second you're probably thinking
+is Dashlane even safe? Dashlane stores all your
+passwords and usernames and encrypts them. So if there ever was a breach of privacy, then your passwords are
+still not going anywhere. And of course, I've
+saved the best till last. And that is you can use
+Dashlane completely free on your first device if you use the link in the description below. And if you decide you wanna upgrade to a more premium option,
+then you can get 50% off using the link and the coupon code in the description below. So I'll put them down for you. Let's get back to the video. Now moving along with Grand Theft Auto V, we could see that this CPU is coming again neck and neck, with the Ryzen 5 3600 scoring pretty much similar average FPS 1% and point 1% lows. But another thing is two, I couple this with 3200
+megahertz cL 16 memory, I feel like this memory
+is going to be pretty much the value choice for DDR 4 RAM, if you're going out and buying one of these six core 12 thread and CPUs. So the results here
+would be better of course if we had 3600 megahertz RAM, but we're just using the
+value choice in my opinion. Though, moving on with
+Shadow of the Tomb Raider, we saw the first victory
+here for the 10400 coming out by roughly 10%
+over that of the Ryzen 5 3600. Though moving on now to Resident Evil 3, this is a new game of throwing
+in the benchmarks here, we saw pretty much the same
+FPS even across all three CPUs. So of course, the better
+optimized the game, the less of a difference that will be even on a 2080 Ti. The next game we're pulling up here is Ghost Recon 10 ADP high
+settings on the Vulkan API. And this one was a little bit surprising because the 10400 came in
+with a sizable increase over the Ryzen 5 3600 in the 10900k came in yet again with higher FPS than that of the two six cores. So perhaps it's not really
+a well optimized game. But then we did see the worst frame coming in at exactly the same score, which means that this was
+GPU bound to 60 FPS minimum at one section of the game. Moving on to the last
+gaming benchmark in the mix is fortnite 10 EDP competitive settings. We could see here that
+all three of these CPUs were going well above 240 average FPS. In a Battle Royale mode, though the 10400 did score
+quite a sizable victory here of roughly I think like 17 or 18%. And that showed in both the
+1% and point 1% lows as well, and the 10900k also coming
+out ahead of this six core and this was also tested
+with 3200 MegaSeal 16 Ram. So for gaming benchmarks, the 10400 does edge out the horizon 5 3600 and the 10400f will be pretty
+much the exact same as this minus the iGPU. Though, what about the
+productivity benchmarks? Let's move on to those before
+we move on to a conclusion 'cause this is an important
+picture to paint here. Where we're pulling up Cinebench R20. Well we're now seeing the Ryzen 5 3600 edging out the 10400
+both on the single thread and the multi threaded scores and this trend continued
+on with Geek Bench, both on the single core scores and the multi threaded scores. And then we move over
+the last benchmark here, Adobe Premiere Pro. And you can pretty much
+see the exact same thing, but also the Ryzen 5
+3600 beat out the 10600k in this particular benchmark. So now that we've looked at those numbers, there is one more important number that I'm gonna throw up here, which actually surprised me the most, 'cause I didn't expect this. And this was the power
+consumption numbers. And so what I did here was I threw up the cinebench R20. While we're running those numbers, we saw the Ryzen 5 3600 going
+to around 3.975 gigahertz and then while we're gaming
+it goes up to around 4.05 to 4.1 gigahertz. Though the power consumption during both the cinebench
+results and the gaming results were higher than that of the 10400. And the temperatures also go
+higher on the race stealth. Now the race stealth is a
+better cooler in my opinion. It didn't get noisy at all
+during any of these tests, as opposed to the 10,
+four hundreds cooler, which did get noisy in the
+productivity benchmark. So let you guys take a quick listen. (Intel Stock Cooler Max noise) But the i5 cooler ways
+in just under 170 grams was opposed to the race stealth
+that weighs over 310 grams. Made almost double the weight. So I would like to see Intel
+improve this stock coolers, especially on a six core 12 thread, which would in turn bring down the noise. But that aside, the temperatures were good on
+the stock cooler 77 degrees versus 95 on the Ryzen 5 3600. So perhaps the race stealth out of the box could use some faster fan speeds. The biggest one to me
+was the power consumption during gaming. Now we tested this during Ghost Recon but it was a similar trend across all the different
+games that are testing here where we're getting 44
+watts versus 55 watts. And now if you're gaming
+all day, every day and that's all you do, you're going to basically (mumble) you getting a
+few more FPS on the 10400. And you're also gonna be
+saving a little bit more power, which is kind of weird because you think with a 14 nanometer CPU versus a seven nanometer CPU, that wouldn't be the case at all. But that's what I'm
+seeing here in my studio. And they're the numbers that
+I'm gonna report to you guys, which helps me make my conclusion
+that much more clean cut. And that is if you are just gaming, and even if you wanna do
+a little bit of streaming, just drop it on the GPU encoder, then the 10400 is going
+to be an excellent choice in terms of value for money, coupled with some of
+these H410 Motherboards, which will be released. Use the stock cooler or even just go grab a $20
+AlieExpress snowman cooler and you will have happy days. Though, on the other side of the fence. If you wanna do a bit of video editing, or doing more things that
+involve using all those threads all the time, then the Ryzen 5 3600 is going to be a better choice for that. So it's really just a
+nitpicking thing though both these CPUs are going
+to be absolutely fine, especially if you're coupling it with a mid range (mumble). Keep in mind, we did test
+it with a 2080 Ti at 1080p because you guys in the
+comments in yesterday's video was saying you were
+using 2080 Ti's at 1080p. So-- The last thing I will say
+before I get on out of here is that the i5 is definitely back, Intel have done that and they're making this thing competitive, which at the end of the day, you guys the consumers will win out and you'll probably see price
+drops on the Ryzen 5 3600 where the 10400f will come
+in at roughly 160 USD. So this is gonna be great
+happy days for gamers. But we still have to wait and see what this year brings in
+terms of GPU improvements. But then you've got the
+10400 normal version, which includes the IGPU which some people can utilize
+with quick sync functions, whether it's using it as a backup encoder, or encoding video files in Premiere Pro or something like that. This has that option if you need it. So it is worth it if you can utilize it. So there it is with the i5 10400. I can definitely recommend this CPU, just like I can recommend the Ryzen 5 3600 and if you guys enjoyed this video, then be sure to hit
+that like button for us and let us know in the
+comment section below what you think of these
+six core 12 thread CPUs. Do you think competitions heating up? I certainly do. And we've got the question of the day which comes from Gabotax Wilfried and they ask Xeon 1680v2 at 4.5 gigahertz with RTx2080 Ti works fine. And the answer that is a definite yes, that's eight cores 16 threads and it still has really
+good IPC to this date. If you get some really good DDR3 memory and quad channel, that thing is going to
+run absolutely fine. But do keep in mind older
+generation Intel CPUs, I personally disable the
+Specter and Meltdown updates. I found it makes a big
+improvement for gaming numbers, especially if you're
+a single desktop user. Anyhow, if you stay this far and you're enjoying that content, then you know what to do,
+sub buttons down there. Ring it if you wanna see the moment this content drops in your sub box and I will catch it in
+another Tech video very soon. Peace out for now. Bye. (upbeat music) 

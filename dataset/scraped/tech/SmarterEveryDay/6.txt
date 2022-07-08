@@ -1,0 +1,340 @@
+Hey, it's me, Destin,
+Welcome back to Smarter Every Day, OK We are kicking off the Coast
+Guard series in full effect here.  Today, we want to get to the good stuff. We're gonna start learning
+about search and rescue. And when you think about the Coast Guard, you normally think about like an airplane,
+well, it's a helicopter. I'm sorry, a helicopter like this or you think of a RBM
+like this, a response boat medium. These things are awesome,
+and they're used effectively by the Coast Guard to save lives for
+what's called SAR search and rescue. But today, what I want to do
+is I'm going to focus on the search part of search and rescue,
+because we don't really think about that. Sometimes we think about like, you get the helicopter
+coming over the horizon, going down, picking
+somebody up, we'll do that in the future. But how do they know where to go? This Deep Dove series into the US
+Coast Guard is incredible because I had no idea that the Coast Guard
+did so many different awesome things. Today we're going to focus on
+how the US Coast Guard uses math and science
+to find people in the ocean. Let's go get smarter every day. So on our last video on the coast guard we visited sector mobile Mobile on the Gulf Coast of Alabama,
+where we saw a command center at work. We also met with Captain Allen,
+who's in charge of Sector Mobile, which means she's in charge
+of all the Coast Guard assets along a vast stretch of the Gulf
+Coast of the United States. I asked her about how they approach
+finding people who are lost when you dispatch. Your air assets or. Boats or whatever you dispatch. Do you have them search in a certain way? We do. We have various search patterns
+depending on the search search object. We put various search objects in there
+because sometimes we don't know for search
+and for cutting cabin boat, whether a swamped capsized boat,
+they all float differently. A person in the water, a person with a life jacket,
+a person with without a life jacket. We do various searches
+and we put different assets on different patterns
+so that we're covering that whole area. That drift is what we call it.  really? So, so a person in the water with a life jacket Is going to float different than
+just a flat bottomed boat in the water. That's correct.
+Destin  -  In what way? Destin  -  How would that be different? Well, it depends on the current surface
+currents, underwater currents and then also the air
+which direction the air is. Destin  -  Oh, because the water could be flowing, Destin  -  one way in the air
+could be following the other. Destin  -  What does that do? We put it all into the SAR database,
+and it's usually spits out a great product for us
+that we can base our search patterns on. It'll put out a search pattern. Various search patterns. And we give those to our boats. We give them to our air assets. We give them to everyone that's searching. OK, that was fascinating. The idea that different things
+float differently in the water and the way they float
+determines where they could be. That's where the survivors are. That's crazy. OK, Captain Allen talked about this
+modeling and simulation software
+that the Coast Guard uses to find people. And in the last episode,
+if you were paying close attention, there was this really brief moment where
+there it is right there. See it? OK, zoom in and enhance. OK, so this is modeling and simulation
+software, so I'm using context clues here. The purple things seem to be
+like simulations of probable locations where something may have drifted off
+or something like that. And we're trying to find it. And so this black line
+seems like a search pattern, and this first one makes sense to me
+because when I color something, I start at one side and I'm methodically covered the entire area
+all the way over to the other side. Make sure I didn't miss anything, but this other thing
+is a little strange to me. I don't really, you know, it's
+not intuitive because it's like triangles, and that doesn't seem
+like an efficient way to cover an area. So what's going on with that? This weird shape is a concept
+the Coast Guard uses called a Victor Sierra,
+otherwise known as a sector search. It's always a very interesting problem
+that occurs when you search for someone on water. Let's say you went on a hike
+and you lost something. The right thing to do
+is just go back to the last place you remember having your item,
+and it's probably in that general area. This works because land doesn't move. Water, however, does move, and it can even
+change flow directions over time. If you were to go back to the same place
+where you lost the thing, it's probably already
+drifted away on the water. Understanding that drift
+that Captain Allen was talking about, you remember when I did that, that drift,
+that's the key to finding people because I thought that the cases
+would just roll up in their boat and just start looking around, maybe use a search light at night
+or something like that. But no, they have to do two things
+really, really quickly. They have to first
+find the drift of the water. But they also have to start searching. And this Victor Sierra kind of does that. And the cool thing about Coast
+these is that their training is standardized, so it doesn't matter
+where you go, talk to a coastie They all know how this works. So what I'd like to do is
+I like to go talk to coasties from two different locations and see if we can understand
+that we're actually going to do a Victor Sierra down here in Florida. But first, I want to go up to Station
+Rochester in New York on Lake Ontario. This is bosun's mate second Class Lucas,
+Western  Lucas and the rest of the crew showed me the RBM, a response boat medium
+that they used here at the station. And once we went into the station, I got a chance to ask them
+about what a Victor Sierra is. So what we're doing for a victor
+Sierra sector search is we are trying to look for a small search
+object and very well known location. Destin  -  OK what you're doing with those triangles
+is your covering a small area a lot. So as you're searching, you're actually moving with the current
+or the winds to figure out how fast the water is moving,
+whether it's by wind or by currents. And then the direction is moving
+the thought process behind it as if someone's fallen overboard. They're not going to drift
+against the wind or against the current. So you want to follow the direction
+that they started to drift in. If You don't speak. Coast Guard, it might be difficult
+to understand what he was saying. So let's just go do one. Let's go down to Station Destin in Destin,
+Florida, and let's learn how to do it. Victor Sierra search pattern. Obviously,
+I think Station Destin is really cool because my name is Destin, but the. Cool thing about this particular trip is
+I went on Memorial Day weekend, which is the busiest weekend of the year
+for this station. There's this little makeshift island
+that pops up just offshore from Station Destin called Crab Island, saw a bunch of
+people go party and all kinds of stuff. It was a really interesting time to visit at one point
+while hanging out in the cafeteria and just getting to know
+some of the coasties. I learned one of the most important things
+that the Coast Guard taught me. All right, so this is Justin. And he's going to teach me how to whistle
+because you whistle at the college. Kids, right? Yeah. So you're going to put your hands together
+to your guns. I think you should line up finger guns. All right. Fingers together. Destin  -  Yeah. And all you do is you just
+push your tongue back and bang down. Destin  -  Back? What do you mean? Destin  -  Cause is. ( really really loud whistle sound )  Destin  -  hold on wait what did you do with your tongue? Destin  -  let me see it , so you push it back. Destin - Uh-Huh. And fold it over, Destin  - uh huh? And you just blow Destin  -  All right alright you want to hold that?  finger guns like that. Justin  -  Yeah. Knuckles together...? Justin  -  So your pinkies?  You see these two lines right here. Destin  -  Yeah. Justin  -  Line those up. Destin  -  OK. Got it! Justin  -  OK, then fingers together
+and you want to hold your tongue over. Destin  -  uh huh!
+Destin  -  ( Destin Whistles and is in pure amazement ) Justin  -  And then blow down. Holy cow. Are you serious. DUDEEE ?  Justin  -  Once you get that down,
+you can do it with one hand the same way. Destin  -  ( Freaking out ) are you serious? Destin  -  ( whistles loudly ) Justin, thank you so much. Justin  -  you are welcome There was a moment, dude. OK. Obviously, that was awesome. Anyway, the next day, before Crab Island
+started to form, I have to go see them prep one of the boats for the day. This is an RBM response boat medium. It's a 45 foot long jet boat, and this is
+one of the workhorses of the Coast Guard. Ortize showed me
+some of the secrets of the boat as they were getting things
+ready, and it's awesome. I get to go out with them later and do some of their drills
+with Shepherd and Lebeouf.  That's Justin
+who taught me how to whistle. They took the RBM several miles
+off the coast out into the deep water to do some training,
+and this is where I started to understand that nuclear sign
+we saw on the SAR OPS software. Justin  -  All right, let's do a victor Sierra. Destin  -  Do a what? So it's a search pattern. It's a it's a drifting search pattern. So we use this if, say we someone says we get a radio call and Coast Guard, I'm in this position
+of the person in the water and we fly out there and we get on scene
+and we don't see anybody. We're going to do what's called a sector
+search or a Victor Sierra search pattern. And you know,
+you'll see more of what we run through, but basically that drifts
+with the current. You and draw it. Yeah. So I'll I'll show you what a Victor
+Sierra looks like on paper. And then we get down. I'll show you what it actually looks like, taking into consideration
+the the current and the drift Shepard  -  want me to take the sticks? ( meaning control of the boat )  Justin  -  Yeah, go ahead. So you're taking control, taking control. Justin  -  So if this is the starting position,
+Victor Sierra is going to be like this and we'll end right here. Destin  -  That's a victor Sierra. Justin  -  Thats a victor sierra search pattern. So we'll start this way
+and then it just goes all the way around. On paper, it looks like
+we're going to end up in the same spot, but you'll see on the chart plotter
+here in a minute, it's not going to look anything like this
+when we get done. Well, try. Destin  -  How do you
+how do you command the boat to do that? Are you saying I'm going to run for
+a certain amount of time and a certain? Justin  -  Yeah, so we go a certain
+speed for a certain amount of time. So we'll run six knots for one minute. Destin  -  And it will take you how far? point one miles. Destin  -  OK. Got it. Justin  -  When I start, I'll set a waypoint and now
+there's a waypoint on our position. Destin  -  uh Huh So it's the
+other way and it's a waypoint on position. When I finish, I'll set another waypoint and I'll use the distance
+and the direction. to determine set and drift and we'll use that
+to plug into our precision search pattern. So you get a good search area, figure out the most probable location
+for that search object. Destin  -  So how long does it Victor Sierra take? About nine minutes. Destin  -  Ok! Justin  -  you have nine legs a minute apiece. The current and the winds can affect that,
+maybe not a half minutes. And then it's like eight and a half. But we're going to try and turn for
+six knots once we get our speed set. We'll leave it. We won't change our speed. We'll just let the current take us. So this is a search pattern, will. And so it's a nomograph. And basically, we'll tell you what courses
+you need to steer. So we're going to start out at 200 degrees and that I know
+my next course is going to be 330. Destin  -  So where are we? Destin  -  So we're in the center right now,
+right? Right. Destin  -  Where is the first one. Justin  -  Leg one right here? Destin  -  Why did you choose that course? Justin  -  So looking at the elements coming
+this way, the wind coming from the north? Um, just estimating that's
+what I estimate said drift is going to be when we come on
+scene, we'll just estimate. And then when we finish,
+we'll get the actual set and drift. But you always want to try
+and go with the elements. Destin  -  So you're trying to maximize the area you cover 
+by also taking into account drifts. Trying to cover a specific area because
+we know they're in that specific area. Destin  -  Got it. OK, this is the nomograph that Justin is using for the Victor
+Sierra and I love Nomographs. It's a mechanical way to calculate things
+quickly, so let's check this out. So if you look at what he was doing,
+you get this little spinning wheel here and it has a bunch of arrows
+pointing in different directions. And you'll notice that the compass heading
+when we were in the in the boat there start at 200,
+which is pointing in this direction. So what this does is this
+tells the boat crew what compass heading they should do the first leg on. After that, they're going to do this
+other heading over here, which is parallel to this, and you can
+just simply look at the nomograph. Boom,
+we're going to go 3:20 on that next one. So you can basically go through
+all of these and you can use the angles associated with whichever
+equilateral triangle you're dealing with. And then that's a quick way
+to calculate your compass heading. I think these things are awesome, and it's clear there's other kind of cheat
+sheets here time and scale speed stuff. This is what Justin is using to calculate
+the compass headings for the Victor Sierra  OK. So when I go to the bow
+and point at them? Ortiz  - Got it. Destin  -  That's the datum.  Ortiz  -  Yes, you can see it. That's how
+it's going up, so we can see it at night. OK, this is so cool. I had to like use
+this as an excuse to get one. I know the word datum
+from mechanical engineering to mean a place
+from which you can measure other things. Now, usually a datum is stationary,
+but this is a floating datum. And I think that's really cool because if one side's heavier than the other,
+you can make the orientation operate
+this little switch in here and light up that thing isn't that awesome anyway. So I think this is fascinating
+because you don't usually use the word datum
+for a moving thing. So the question is,
+how are they going to use a moving datum? By the way,
+this is not a satellite tracking device. It's literally just a floating light
+that blinks. Shepard  -  If we arrive on scene. Possible P.I.W. situation. first thing we're going to do is deploy the datum, to get the most calculated set and drift Datum deployed. So he's going to back off of it,
+so we're not affecting it. And then Shepard  -  we're going to back off
+far enough to where I can pass it going six knots So once I pass it, going six knots I'm going
+hands off the throttle so we can maintain that same
+engine speed the whole time. All right. Ortiz You're going to have port look out
+when it's off to starboard lookout. Keep your eyes forward
+and I'll be all around lookout Justin  -  were going to come up to six knots,
+about eleven hundred rpms Shepard  -  Roger Justin  -  I'm going to pass datum on your starboard side. Your first course is going to be 200. Shepard  -  200 aye Shepard  -  Eleven hundred r.p.m.. Shepard  -  just past 6 knots going to come down to 950 rpms. So as soon as he passes it, I'm going to drop a waypoint and we're going to use that to determine
+set and drift. when we are done Shepard  -  Approaching datum I'm going about seven knots  im going to drop it down. just a little bit more Shepard  -  Datum out the The right window now steering course 200. Justin  -  200 aye Next course is going to be 320
+and 50 seconds. Shepard  -  320 aye  Destin  -  This is fascinating
+because there are so many different concepts happening here all at once. They're following a pattern
+that essentially breaks up a circle. They're searching into equal pie pieces,
+which gives them the most efficient way of searching that circle
+for the PIW person in the water. So there's two sides of the boat,
+the port and starboard. I remember Port is on the left
+because Port has four letters and left has four letters. So with Ortiz looking out the port side
+and Muchachi looking out the starboard side
+and shepherd looking out the front. They're able to cover every point
+in the pie in a very methodical way. Now this would be pretty simple if they were on land
+because the land doesn't float in one direction
+or another at varying speeds. The center of the circle
+would stay in the same position in terms of where they are
+on the surface of the Earth, which means the GPS location of that circle
+would stay consistent. But on the ocean with the current, the circle will need to move
+with the current in order to be relevant. And that's why they drop the datum
+in the water to give them a way to keep the middle of the search in line
+with the drift to the water. And they use math to make sure
+that they're still cutting the moving Pie pieces up equally
+as they search To minimize cross drift. They set up the first leg of their search
+in the direction that the currents flowing as best
+they can tell. Shepard  -  So at this point, we will be going over
+what our search object is. We're looking for a 40
+whatever year old male blue shirt. Destin  - Oh, I see! I see. I'm 39. Thank you. I wasn't describing you at first,
+but then I just picked Blue Shirt. Justin  -  20 Seconds 320. Justin  -  Come to starboard. Shepard  -  so hard to right Shepard  -  coming to 320  Destin  -  Are you looking at Shepard  -  looking at this Shepard  -  need to look at it.  Destin  -  I'm sorry. Justin  -  All right. 320 Destin  -  Alright im going to come look. Shepard  -  alright you are good.  Destin  -  So you're going to hold that. Justin  -  Do you see datum, off the starboard beam. Justin  -  I do straight off the starboard beam I kind of thought turned out. Justin  -  come to starboard datum Destin  -  I do not see it.  Shepard  -  So directly off the bow. 100 yards. Destin  -  Oh wow. Destin  -  That's hard to see in the sun glare. That's hard to see.  OK,
+this is something I didn't think about. If you think about the challenge of trying to find a human at about a 10th of a mile. It doesn't seem that difficult, right? The thing
+is, you're not looking for an entire human body, you're only looking for the part
+of the human that's up above the water. And if you can think about
+how the Coast Guard works, you might have a human head
+and a life ring like this, right? So a human head at about arm's
+length in front of you is about. A foot or so, right?
+That seems reasonable. But if you do the math real quick,
+that same human head at a 10th of a mile or 528 feet
+is more like 47 thousands of an inch. If I do this right
+and I got a 10th of a mile away. That should be about as big as my head is. It is very difficult
+to see something out in the water. I couldn't do it at all
+the coasties were great at it. Another thing to think about
+if there's water going up and down in between me and you, if it's a consistent wave, it's
+going to cover the object half the time. My point is it's very difficult to see
+things out in the water with your eyes. Destin  -  So are you following a course ? Shepard  -  no course I'm aiming at datum? Justin  -  So once you pass datum,
+you're going to come to 080. OK, I don't know if you heard what Justin just said, but it is critical
+to making a victor Sierra work, he said. They go out on a compass heading. They turn on a compass heading and then they head back towards the datum,
+not on a compass heading. So basically, they put this thing
+over the nose of the boat and they're going straight at datum
+and as soon as they pass datum then they pick up their compass heading. This is critical to making sure that the Victor
+Sierra moves with the drifting water. Also, I feel like I need to confess here
+I wanted to get a really sweet view from the top of the boat
+by clamping a GoPro up there. But sometimes I'm an idiot. I went up there to try to like,
+turn the GoPro on, but I was out of phase and I turn the GoPro off
+and I feel shame and I'm sorry. All right.
+So once we finished the Victor Sierra, what we're going to do
+is we're going to measure the distance between the waypoint
+we dropped when we started and the waypoint we dropped
+and we finished as well as get the course. So I've got 153 degrees magnetic at 50 feet. So over the course of nine minutes, we drifted 50 feet. So now we just do the math to see how far we drift in an hour
+and that's going to be our drift. And the set is going to be 153 degrees
+magnetic 50 feet over nine minutes, hardly
+any sudden shift at all. It's going to be like point .02 knots Destin  -  So calm seas? Yeah, it's very calm out
+here. We're  not drifting very much. As you can see on the chart,
+the Victor Sierra is almost perfect. So, you know, and heavier weather,
+you know that Victor Sierra is going to look like this. It's going to come. You know, it may look something like that. Destin  -  Oh, OK. Shepard  -  Yes, it's one of the most perfect victor sierras
+ completed. victor sierras ive ever seen  Destin  -  really? Shepard  -  one of the calmest days  I've seen out here. OK, check this out. Let's simulate
+the GPS coordinates of an RBM performing a victor Sierra
+in different types of sea drift. Man, that was a sentence, wasn't it? The higher the drift rate, the more crazy
+the pattern looks. But if you think about it,
+that's actually the right thing to do because they're actually cutting the pie
+up with that drifting section of water. And furthermore,
+they're getting data that they can then feed back into the sector command
+so that they can input that data into the SAR OPS software so they have the best chance
+of releasing other assets that might need to come on scene
+to help with the search and rescue. This is fascinating. If you were to draw this and say,
+Hey, this is what we're going to do when we get the scene
+and this is the best way to find you, that is not what I would think
+the visualization would look like. But this is an awesome way
+of doing things. I think that Victor Sierra is incredibly clever,
+but it is applied in certain situations. There are other types of search patterns
+in other situations, and to learn more about those,
+let's go back up to Station Rochester and ask the coasties 
+what's up with that? OK, so what are the other kinds
+of search patterns? Because there's other ones, right? Whatcha got So you have an expanding square, which is another form of a drifting
+search pattern, kind of like the same thing and more for a concert area, but
+you're slowly building a bigger square. Destin  -  So is it like playing the game snake? Yeah, you're making 90 degree turns
+and you're going one minute and then you're making a 90 degree turn,
+going one minute, making 90 degree turn around two minutes later,
+you know, green turn down two minutes and then three minutes and so on,
+and you're just building a square that's bigger and bigger. Destin  -  OK, so what else we have? We have any other kinds? You have parallel search
+patterns, you have creep search patterns. So if you had a rectangle
+shaped search area where you'd deem 
+this was the area we're going to search. If you were to do a parallel,
+you would search long ways. Destin  -  ok Miller  -  And if you were going to do a creep ,
+you would search short ways. Destin  -  Oh, OK, so it's your coloring the square. Weston -  Yeah, we have like a barrier search, and that would be like for a river
+example, like station Niagara. There's a lot of barrier searches. Weston  -  OK, so they'll sit in one spot
+and basically go back and forth to catch anything
+that's coming down the river. So there's search, there's search units
+further up there just making sure if anything gets past them,
+they can catch it coming down the river. And then there's a track line patterns. So if we know vessel left in a certain direction
+like that, an overdue vessel, they knew
+they were in a certain direction. We can follow that track line and search for them along that line. Or people go from Florida to Bimini, whatever they know at the track line, just go, Destin  -  huh. OK. And then shoreline search would just be
+we get as close to shore as we can go, and we're looking for something to be on the water
+or a vessel or something like that. It's just kind of a quick and dirty search
+for us. Victor Sierra expanding square parallels creep than we have. What was the one where you go back barrier and then you have the shoreline and then the last one is a track line, right? Destin  -  Wow, that's awesome. That's cool, though. Is it fun? Yeah,
+it can be tricky sometimes. Sometimes it sucks. Yeah, there are like eight footers
+and you're taking them beam too, because that's just how the search pattern
+is like if they're drifting that way. And that's how they. And this is the most probable area that's going to be that doesn't
+mean it's working with the elements. So you might be going
+two miles in one direction and the waves are just hitting
+you beam too. And that's just how it is. There's nothing you can do about it,
+but that's the most probable area where they're going to be,
+and that's what you have to do. Destin  -  Oh, oh, wow. So the search patterns
+calculated at sector are often independent of what
+the water is actually doing. So try to work with as best they can,
+but in some situations that there's no this can't fix.
+Destin  -  So what do you do? You say, Hey, sector, I'm taking big waves
+over here from my left. You can tell them that
+and they'll be like, OK, like I might be have a different way. They can do it, and then they'll they'll
+try to change it for you if they can. But if they can't, that's what you just
+got to work with. It's just what it is. It's interesting that the
+situation on the ground or in the water, so to speak, is often different
+than what it looks like at sector. Yeah.
+What was that smile? No. What was it? I saw the smile. It's just too different is that it's
+the true, isn't it different worlds? That's all it is. But you know. The biggest thing. Is it's pretty fluid as a team
+to accomplish the mission. When it really comes down to it. We rely heavily on them
+to be that big picture person. But we're also their eyes and ears,
+so we see anything, hear anything we let them know, and that helps them
+determine and help close up the case. Have you ever calculated a search pattern
+for somebody on a boat? I've never. I've seen how it works, but I've never
+actually used a computer program. How they do. It. Did that
+give you a little bit of empathy towards. On why the search pattern ends up
+ How it does? Yeah, definitely made me understand
+a little more  Destin  -  Do they send you the search pattern? Yeah. So send it to us in the version of like
+waypoints that we won't see like a little. All the the computer program
+that creates all the possible of the particles, particles
+and where they would go, we won't see that we'll just get the waypoints of
+this is where you need to drive. OK? The Coast Guard is working on now
+with the new sense packages
+are coming out on the new boats. They're trying to implement a way for them
+to send the search pattern from their office directly to us, right
+on, right in front of us. So we don't have to take the time
+and put it in. And they would say is a search pattern. It's out there and we can just start. Destin  -  It'll just come up on the RBM screen, be. Able to pop up and go instead of us and
+manually entering every single waypoint. That's going to save so much time Sounds like
+we need to prioritize that in Congress stroke the check to make it happen. That's awesome. Thanks, guys.
+Appreciate it. Boom, boom. So obviously
+we can't end the video like this without pulling some dummy up
+onto the side of an RBM and saving them right,
+which is what we'll do in just a minute. This episode of Smarter
+Every Day is sponsored by Brilliant. Brilliant is a really cool app and website that lets you learn through
+interactive content at your own pace. In this city of the Coast Guard
+used probability in a software package called SAR OPS to figure out where
+survivors might be located in the water. Now, if you're like me,
+it's probably been a while since you brush up on probability. Brilliant has tons of interactive modules
+that'll help you understand how probability works. This is just scratching
+the surface of brilliant. If you were to check this out,
+you can get it by going to brilliant . org smarter every day. That gets you a 20%
+discount on premium membership, but you can sign up for free and just start messing around with stuff
+and see what you think. If you're like me,
+you actually like touch things to learn, like you want to see how the thing works,
+how it fits in the whatever. That's what brilliant does. But for very complicated concepts
+and when you walk away from a module, you end up owning it like you understand
+the concept brilliant dot org slash
+smarter every day to sign up for free. Also, they give you 20% off
+an annual premium membership. The whole point of smarter
+every day is to get smarter every day, and brilliant helps
+you do that. So big thanks to brilliant for sponsoring
+smarter every day. Big thanks to you
+for supporting the sponsor that makes these videos happen. bring them on board. bring them on board aye one two  (laughing from both destin and ortiz)  Yes, this is a stressful. Situation,
+you're not supposed to laugh Ortiz I'm sorry, i just knocked him out...  Destin  -  did it make it?  Justin  -  person onboard he appears to be stable Destin  -  I'm not sure that he's breathing. Destin  -  
+I think he's going to need mustache to mustache. ( everyone laughing at Destins joke ) 

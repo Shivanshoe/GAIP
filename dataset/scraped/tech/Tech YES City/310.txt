@@ -1,0 +1,186 @@
+[Music]
+what's up guys it's ya boy recently there's this game that is
+making a big buzz across the scene called
+fall guys and we're going to build a pc for it and this is just not
+any pc since this is a new game we're going to be using
+a new case and our good friend on the gold coast kevin
+he's been uh he got a container in now word on the street is like
+damn man kev he got a container in full cases and all this other stuff
+and everyone's been buying up these infinity mirror
+game max cases and i thought well you know one thing if you can't beat them
+join them so we got this case for 115 aussie dollars and in the u.s you can
+actually get it for i think 90 usd so it's not that bad priced considering
+it's got this rgb mirror effect on the front of the pc
+though that aside we've got the other components here of course a used
+banger we're going to be putting this pc together for as cheap as possible
+and when we look at the specs that's required for this game it really is
+ambiguous because this whole like steam requirements just says you
+need a two gigabyte gtx 660 or an i5 or better now if we look at an
+i5 do they mean like an i5 650 because
+that's a really really bad cpu if you put that in you'll
+probably be getting some big stuttering and stuff like that
+anyhow we're going to be putting in an x5670 which is a six core 12 threaded
+xeon and these go for around 15 bucks readily
+available on good old aliexpress the other good
+news is i paid 100 aussie dollars for my x58 motherboard
+and 12 gigabytes of ram but even then you can get x58 boards on aliexpress
+that are really cheap as well as ecc registered ddr3 memory so you can pretty
+much get the same configurations as i'm doing here
+for pretty similar prices now let's take a look at all those prices and then
+build this thing and see how it looks and of course how it
+performs if you want to cop yourself a legit windows 10 pro oem
+license and today's video sponsor scd keys
+has you covered for as little as 15 bucks
+using the coupon code tyc you can get yourself one of these keys
+instantly delivered and they've even got paypal links in description below [Music] so [Music] so here's our infinity mirror build aka
+the game max abyss finished in all its glory and i gotta
+say it is a definitely a different look to all the other cases out there at the
+moment for the price it's not too shabby i mean
+it was very easy to build in but we've got to now download
+our four guys game which is only around four gigabytes so
+it's very quick to download unlike call of duty warzone for example
+which is around 250 gigabytes nowadays so
+very uh quick to download this game we should be up and running in no time but
+i still do want to install call of duty warzone
+for you guys because i want to see how it runs and that's one of the most
+important games when you're trying to flip a pc
+after you're done with it however that being said i'm going to run two sets of
+benchmarks here today one which is stock so if you're buying
+say an aliexpress motherboard you generally don't have overclocking on
+a lot of those boards so this numbers that i'm running for you give
+you an idea of the performance you'll get
+with this setup so if you do come into an x58 board like the one we're using
+here today the gigabyte then you can see how much extra
+performance you can extract out of this thing
+though let's jump into those games [Applause]
+[Music] [Applause]
+[Music] [Applause]
+[Music] [Music] so
+[Music] problems problems and more problems but
+we'll start off with the good stuff first because the problem list in
+today's video is both software and hardware based but
+anyway four guys if you guys want to run this game the good news is
+is it'll run on a potato like that i5 650 joke that we made in the intro
+might just be fine for this game i'm guessing an i5 750 would run
+absolutely fine and a gtx 750 or maybe a 7850
+from way back in the day will be fine for getting smooth
+60 fps with this game now the thing is it looks like four guys is hard capped
+at 60 fps even with vsync off i tried changing some settings
+but that's the max fps i can get out of it so it doesn't really matter if you
+overclock your system or not you're pretty much bound to 60 fps
+however fps aside this game is quite a bit of fun you go through
+round robins and then basically it averages out that
+if you're good at this game you're gonna get through and win uh me
+playing for the first time i was really just kind of getting used to it i
+didn't know what to do especially in some of the events but
+that being said i did get the hang of it and i started making it through and
+progressing a little bit though this is where the problems start
+to creep in for four guys and that is the server issue
+so i'm based in australia and on my ip address
+from australia i could not play this game it just would not let me
+get into a match lobby and meet up with 59 other contestants
+where there's 60 for starting out and then i decided to go into steam change
+the server download server to new york in america
+that didn't work and i was waiting for like a good two
+hours just trying to get a game and i just bought this game then i
+thought well i spoke to some people on the
+discord they said there's only servers in europe and us at the moment and i'm
+thinking to myself well what's the chances i log on to a vpn
+in the us and then it starts matching me up to a lobby
+and so i went on a vpn and based myself in seattle
+and then lo and behold i was now matchmaking pretty much instantly so
+this presents in my opinion a pretty big problem
+that's if they are blocking out ips in australia at the moment because
+they're selling the game in australia so if you're gonna block my ip from
+australia from playing the game why are you selling this game to me it's
+a pretty pretty big issue where i'm thinking about getting a
+refund because me going to a vpn in seattle
+that's giving me a lot of like lag in the process of making the game
+not as enjoyable as it should be so there's the big problem with fall guys
+at the moment i know they'll fix the servers in time but
+being transparent about this thing is much better than me finding out that i
+can log into a vpn and then play the game
+internationally i think that i mean i don't even know like
+might even be borderline legal in australia to do that or anti-consumer i
+mean to the makers of fall guys i would encourage you guys to fix this or at
+least stop selling the game in australia if we can't play it you're probably
+thinking well what's the reason for them to block
+out the ip in australia and that's just simply bandwidth
+international bandwidth costs a lot more than local bandwidth
+anyway moving on to call of duty warzone this is a game that i pretty much
+benchmark a lot now the reason being of course when you go to flip a pc
+a lot of people want to know can it play call of duty warzone and
+i'm happy to say that it does play it at 75 average fps on low settings
+at 1080p with 100 screen resolution the 10.1
+lows were also really well controlled and then overclocking the gpu
+i managed to squeeze out an extra average 4fps
+with 10.1 lows also being pretty much the same
+and this was with the cpu running at pretty much 3.1 gigahertz on all cores
+or threads so the x 5670 is pretty good to go even
+if you go on aliexpress and get a cheaper one and z motherboard
+you should be having no problems whatsoever
+power consumption of this build wasn't too shabby either using around 230 watts
+with the gpu overclock really not making that much of a difference
+and then about 110 watts on idle though here's where the second problem of this
+build and today's video comes into play and that is the gigabyte
+x58 usb 3 motherboard it just would not accept an overclock and i've seen this
+once with a gigabyte well i actually seen it a couple times on different
+gigabyte motherboards where they just refuse to lock in
+overclocks and then basically as i'm booting up the pc i'll
+get this recovering lost dram error and the pc then just pretty much only
+seems to want to work on default settings so i tried updating
+the bios that didn't work the only thing after that is to change
+ram models and the most important part with this motherboard and the problems
+like this i've been down this road before
+you can spend a whole day and still end up at the same result that we've got
+here today and you've wasted all that time and had
+all that frustration put on yourself needlessly this pc as it stands it's
+working absolutely fine the temperatures are pretty good
+especially on the cpu side with that big cooler and the zip tied fan
+and the gpu temperatures were going around 70 degrees both out of the box
+and on the overclocks so in the end with this pc things ended up working out okay
+and the infinity mirror case do let us know in the comments section below
+what you think of this case do you think it's good for the money
+i'm personally it's one of those things that pops up and you're like wow this
+looks good but i think i still prefer the bright
+ring led fans they are they're going to be
+hard to beat i mean the infinity mirror is all nice and all that but
+it kind of gives off this like i don't know it's like
+you're mixing makeup and pc cases together it's kind of like some makeup
+brand has decided to make a pc case that's how
+i feel about it even though even though this case feels
+of pretty good quality i've tried some other game max cases and
+they're kind of hit or miss this one is pretty good the sata
+connection at the back that connects to the rgb board
+that is a real big mystery you are literally just plugging in a sata cable
+to a pcb board and the weirdest thing is you can plug it in both ways and it
+works fine mind blown and with all that out of the
+way if you guys enjoyed today's full guys gaming pc
+then be sure to hit that like button for us also let us know in the comment
+section below what you think of the game what you
+think of the build love reading your thoughts and opinions as always
+just like this question of the day here which comes from james t well it's
+actually not a question but it's a pretty important thing which
+i don't kind of don't want to make a video on because
+sort of a lot of people don't really care too much but a lot of you guys do
+care but anyway it goes along the lines like this brian
+facebook recently implemented an ad review system and i've been getting
+flagged a lot for selling gaming hp dell oems could
+you look into this as it's been quite frustrating
+having my ads taken down with no explanation the only thing i can
+think of lately there seems to be this rumor
+going around facebook marketplace that if you use the same picture
+on different ads it will automatically take it down because essentially it
+thinks you're spamming the system so my recommendation would be uh take
+different photos for different ads every ad here on in
+try make a unique photo and you can even try using a different background
+and see if that helps another thing as well if your account has been flagged
+you may have to give your account a cooldown
+i have experienced this in the past where i was doing a stupid listing
+and i realized after the fact that i'd made a lot of mistakes anyway i'll put a
+video up here for you guys if you want to check that out
+and with all that aside if you stayed this far and you're enjoying that tech
+yes content and you want to see the moment it drops
+sub buttons down there ring that bell and i'll catch you on another tech video
+very soon peace out for now [Music]
+bye [Music] 

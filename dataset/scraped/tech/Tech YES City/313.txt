@@ -1,0 +1,308 @@
+this right here is one untested
+banged up 50 aussie dollar pc that we picked up now
+this is the process of i guess today we're going to go through the process of
+making a banger into something that can play
+games so first of all we've got the power
+supply here i mean the whole thing looks like it's been sitting in a
+garage for probably a year or even more so what we're going to do is go through
+piece by piece before we even try to boot it up because
+i'm guessing if someone sold it for 50 bucks something doesn't work
+so what i'm going to do is go through each part starting with the power supply
+which we pulled out now and then we will go through the graphics
+card and then we'll go through the single stick of ram the motherboard and
+the cpu but i got a good feeling i mean i3 cpus
+especially fourth gen and upwards it's almost impossible
+to blow these things up if they're not overclockable and
+you're probably thinking how do i know this well i've actually tried before
+but uh on to that let's start piecing this thing out and seeing
+what the problem is if you want to cop yourself a legit
+windows 10 pro oem license then today's video sponsor
+scd keys has you covered for as little as 15 bucks
+using the coupon code tyc you can get yourself
+one of these keys instantly delivered and they've even got paypal
+links in description below [Music] and our power supply it ended up being
+faulty it wouldn't even give out a signal
+at all which is already not looking like it's good news for this build so
+we do have a power supply replacement here this is a
+real budget power supply that you usually find within budget cases
+they it says 685 watts this thing is not even
+200 watts uh looking at the 12 volt rail there however this is what the i3
+and also the gtx 750 in waze was designed for it's designed
+for low powered builds you could just shove a
+gtx 750 into practically any pc and you would then have decent gaming
+performance though the single stick of eight
+gigabytes of ram like i mean an i3 two cores four threads
+is already pushing it in 2020 for low frame rates so i'm going to at
+least change over this eight gigabyte stick to two four gigabyte sticks but
+what we're also going to do now is take this motherboard out
+and the graphics card and just start checking everything to see
+what actually works inside this build as well as give it a bit of a clean
+since it is looking a bit filthy [Music]
+[Applause] so we've now booted this pc up and
+everything is looking good so far the gtx 750 is giving out a
+signal the eight gigabytes of rams being
+recognized and also the i3 4160 is working too as well
+as the motherboard so there's four pieces
+that it's working now i did get asked in a previous video
+it was in the flip up challenge video where we're going from 100
+to a high end gaming pc i got asked why don't i test the parts individually
+before putting the whole pc together and so simply the reason for this is if
+you're building up a few pcs every day or
+even if you're just building up one pc a day if you're saving a lot of time
+that leaves a lot of time open for especially if there's a crucial time in
+the market where everything's just selling
+you want to be flipping more pcs so putting it together
+as fast as possible and testing out to make sure everything works fine
+you've got to find the efficiency curve there or the best balance
+and so that's why if everything works from the get go
+i'll work backwards pretty much all the time except you saw in the intro today
+where we started with the power supply first
+that's because the whole build just wasn't booting up at all so it's
+generally either the motherboard or the power supply and since the whole build
+was filthy i just tested the power supply was gone
+then after that i'm testing all the four parts at once
+and that's just to save time if everything's working here then i don't
+have to go through every part individually
+and i've saved myself a lot of time especially if we get to windows
+and then we just run heaven overnight before we sell the pc it's stress tested
+it's working absolutely fine low settings is going to stress the cpu
+a bit as well as the gpu ram is going to be getting thrown in
+there as well dynamic load so it's good for everything essentially
+if we do that test that's what i've been finding lately
+is just the low settings haven't benchmark high settings it actually
+finds out a lot of faults very quickly you can also run call of
+duty warzone if you want to just find a spot in the campaign
+but that of course that game takes such a long time to install especially if you
+don't have a copy ready and it is a big game to download
+anyhow from here on in we are going to put the build back together
+i'm actually going to change over to two four gigabyte sticks right now
+just test everything boots up fine then we're going to put the build back
+together and start testing it out to see how well
+this little i3 4160 and gtx 750 holds up
+[Music] so [Music]
+and the i3 system is now complete for a grand
+total of 65 aussie dollars now we installed windows 10 home
+because i saw a windows 7 home sticker on the build to begin with
+so i kind of put two and two together and figured hey they probably upgraded
+their windows 7 home to windows 10 home and that's
+exactly what happened so windows 10 home was already activated
+on this motherboard which saves us bouncing a key
+and wasting a key of windows 10 pro on this particular build but
+another thing is too you're probably wondering it's late at night
+and this was all happening during the day and i was
+on our discord for a lot of today just talking to all the folks there
+they're all we've got a really cool community going on but originally
+there's a big announcement actually and that is
+um science studios greg salazar he just messaged me and decided he just didn't
+want to be part of the discord anymore it was no like
+there was no bad reasons or anything like that he just didn't have
+the time to be part of the discord anymore so he left and
+um now we've kind of just we used to be science yeah city
+but now we've just reloaded it to tech yes city and so
+if you guys um if there's anything that's happened and you've
+been sort of like we had to re sort of fresh the whole discord
+so if you got kicked or anything like that then i'm going to put
+a discord invite link in the description and also in the pinned comment for you
+guys to see so if you want to rejoin if you got accidentally booted or
+anything like that just rejoin and uh yeah it's going to be called
+pretty much it's going to be the focus of a lot of people basically
+over time maybe greg left because the whole discord just became talking
+about deals used deals meadows and everything around use versus
+new price performance and stuff like that so
+might have just not been greg's kettle of fish i don't know but anyway
+it is what it is so uh greg and i of course there's no
+hard feelings or anything like that we're still gonna do live streams we're
+still really good friends um there's nothing like that at all so
+don't even don't even go there if you're thinking that because
+greg and i are absolutely we're pretty cool don't worry anyhow onto this pc
+everything worked out fine with the whole build itself
+the build is running smoothly everything's working fine
+though we are on a 1080p monitor at the moment and of course we're downloading
+call of duty which just so happens to have yet another
+update which is 50 gigabytes which is bigger than a whole lot of
+games out there for their initial size but
+you know good old call of duty with its massive massive massive massive game
+size we're going to download this after we do
+that we're going to switch over to this budget little combo right here
+where we've got just a banger keyboard mouse and monitor which
+i got all these three components for free because a little 17 inch monitor
+not bad and just a free keyboard and mouse that i've cleaned up gave some
+tech yes loving and the gtx 750 that is a one gigabyte edition i
+believe so it's not really geared up towards
+1080p gaming and so i figured with the i3 and the gtx
+750 i just want to see if it can play call of duty war zone on
+a little monitor like this at a lower resolution
+and also if and how well it runs valorant
+on this little monitor too because i want to put together a little budget
+setup and then see what we can come up with but of course
+we just gotta wait for this game to finish now [Music]
+so starting off with this gaming pc experience the monitor
+it's extremely weird a 5 by 4 aspect ratio
+so most monitors will have a 16 by 9 aspect ratio nowadays
+this one it's pretty much as close to a square as you can get
+and if there's any monitors that are lcd and are a one-to-one ratio
+i would love to know what they are but in the meantime this
+monitor's resolution is so weird that it's actually not natively supported
+in valor and nor is it supported in call of duty war zone so
+i actually had to drop the resolution down slightly to the
+960p from 102 4p and that did the job so that being said
+it does work you just got to change it to
+another slightly lower resolution and that being said it is a 75 hertz panel
+so it was running really smoothly now we're playing a team deathmatch here i
+really am enjoying this it's just like constant
+action and i guess if you're playing a twitch
+studio your wise will just be twitching all the time so
+one good thing you'll notice with the fps is that it's actually pretty smooth
+like this is giving out a decent experience
+the 0.1 lows there was some noticeable stuttering from time to time
+and uh most the time however it didn't happen a whole lot
+but in some clutch situations it can happen so
+i guess that's the downside to using an i3 in 2020
+even on an easy to play game like valeran but for what it's worth
+you can still get good on this setup that's one thing you'll notice is that
+you can still get frags you can still play pretty smooth on this
+game with the i3 now another thing is two right in the
+top left hand corner we're going with the smaller monitor because the vram
+requirement wouldn't be anywhere near what it would be
+on a 1080p 16x9 monitor so i guess that's the benefit of using a smaller
+monitor is it's not going to stretch your graphics
+card as opposed to bigger and better monitors
+than this one now moving over to call of duty war zone this was a different story
+for starters the aspect ratio was weird this is the best i could get it where
+it looks closer to a 3x4 in this mode where you had to change it to window
+mode because i think the maximum supported
+16x10 or something in this game so we got away with uh sort of this weird
+resolution in windowed mode did the trick but the fps you'll notice
+here it's only going to 39 average and then the 1 lows are actually pretty
+decent compared to the average fps it's just
+the 0.1 lows are dipping really low and that's uh one thing you'll notice
+about i3s in a lot of the titles you run these i3s
+through where even if you're putting 16
+gigabytes of ram on them they're going to have a stuttering and they're gonna
+you're gonna notice that with the 0.1 law of seven
+and in valorant under 10 as well you will notice that if you are
+gaming competitively if you're not gaming competitively though i mean look
+40 fps average it'll do the job i mean you'll
+be able to still get some frags it just won't
+be um anywhere near as good as even a 60 fps experience or in this case
+since it's a 75 hertz monitor a 75 fps experience but that being said
+the gtx 750 it just doesn't really have the grunt to
+push out frames in this game the one thing you'll notice
+is the vram is going up to pretty much two gigabytes and it's pegged
+at two gigabytes even at this lower resolution
+the gpu is pegged at 99 the cpu is pretty much pegged near 100 to a lot
+of the time so basically all these components in this
+build are just getting maxed out in call of duty warzone
+which is good for the i guess this resolution and this is even on the
+lowest settings here so we can't drop anything else to get the
+fps higher pretty much unless we lower the render resolution
+but even then since the cpu is getting pretty much
+pegged at higher percentages it's not going to up by fps much we might be able
+to pull an extra 5 if we're lucky 10 fps out of this rig
+so that's pretty much the limit for this poor little i3
+the last two things to talk about with this rig is the temperatures i'm really
+happy with the cpu and the gpu you can see here
+they're pretty much under 60 degrees at all times
+then we've got the power consumption which from the wall is going about 120
+watts in warzone so that's a really good thing
+in this case because this power supply is just a banger it's going to probably
+have around maybe a 70 efficiency if we're lucky so this whole
+build is literally using probably around 90 watts
+direct draw so under 100 watts it's absolutely fine there's really nothing
+to worry about let's get over now to a conclusion and
+with all that gaming out of the way we are now here at the
+conclusion with the i3 in particular this one we've got
+here the 4160 we got it for a really good price a
+local deal we took the gamble there could have been
+more parts that were faulty with it but at 50 aussie dollars for me it was a
+no-brainer we even got lucky with the gpu that it was a two
+gigabyte gtx 750 not a one gigabyte because i think the
+two gigabyte could barely just play warzone even on
+this weird five to four aspect ratio but the one gigabyte i would say
+warzone would just be out of the question now
+valorant that ran really well even despite the
+0.1 percent lows being a little bit worrisome and i think this in particular
+point one percent lows is the main problem i have with two
+cores in 2020. even easy to play games like
+valorant don't run like they run well and you can
+be pretty good on this cpu and valerian but
+sometimes there's going to be that little stutter and that could cost you
+the game which could make you a lot more frustrated and in that
+respect i would much rather you even go for something like a first gen
+xeon x3450 which is a lot better in my
+opinion and it's going to give you a smooth experience
+the i3s i mean look in this case this setup is going to be
+a budget valorant cs go even fortnite gaming pc but it's still got a little
+bit to be desired i'd much rather an i5 in there and that in turn helps with the
+whole gaming experience another thing is too if you want to go
+out and buy it now which a lot of people do complain about in some of my videos
+they're like look dude this is a local deal
+it's not replicable and what i say with deal hunting is you've got to be patient
+you always have to be patient for the good deals
+and you've got to be on point you've got to know when to quickly snap up a deal
+if you know it's a good price so at 50 aussie dollars the deal was
+solid but if you go on ebay and you check out the i3 systems even in
+the us dollar terms they're at the very least
+going to set you back 75 and then you're still going to put a
+graphics card in there so you're going to be going over 100 usd for an i3
+i'd much rather you try and find the i5 variant where
+that tends to be just priced a little bit more in these system packages
+but it'll give you a better experience overall but anyway the negatives out of
+the way this pc right here today it could still
+game the i3 it can still give us a playable experience i could still get
+some frags in valorante and one thing about
+valorante was i haven't played it that much but i
+enjoyed the team death match a lot more than the standard multiplayer
+so hopefully they can work on the team death match a bit more
+and maybe do like kill streaks and stuff like that because i used to play black
+ops 2 and i used to really like team deathmatch in that
+so hopefully they can add that to valerant that'd be pretty cool
+and then i'd probably play it a bit more but other than that
+i guess the i3 is the gateway pc like i'd call this still capable of
+being a gateway pc and that i've heard some people out there they
+play on these old laptops and they're getting like 15 fps
+unplayable experiences and with that fps you would honestly not even know if
+you're good at the game or not this pc here even on warzone getting
+like 40 fps you'd still be able to figure out i
+guess if you were good at pc gaming and if it was for you and whether you
+want to spend more money on the actual hobby itself as opposed to
+the really bad laptop which is probably going to turn you off pc gaming to begin
+with so something like this will do the job and
+i guess it's a great little entry pc if you can pick it up
+cheap enough another thing is too i would definitely recommend
+getting a mouse pad that was the biggest thing that paved me off
+this video and that was i just had no mouse pad so i had to put a mouse pad
+down to play because i was really losing it
+um having no audio as well you definitely want to have some audio
+if you're playing games even a cheap pair of headphones but that being said
+i'd rather you get a if you're going to go with a cheap
+pair of headphones i always say this lately anyway go get the kph-30is
+even though they might be a little bit more expensive than some budget
+headphones out there they're going to be a keeper for sure
+even if you come into a higher end pc you'll probably find yourself
+keeping these headphones and with that aside if you guys
+enjoyed today's video then you know what to do hit that like button also let us
+know in the comment section below what you think of today's build today's
+pc love reading your thoughts and opinions as always
+just like this question of the day here which comes from
+peter janer and they asked what x58 motherboard do you recommend that has
+triple channel support and for x58 motherboards i've been
+saying this in the past my go-to for a good experience on x58
+has always been a zeus motherboards i find like back in that era they got
+everything right in terms of platform stability
+in terms of overclocking and holding overclocks and in terms of also
+longevity of the boards so they're like a shining star on x58
+azus boards even on x79 they did some of the best work there too
+then after that the other board guys started to catch up
+a lot and so x58 definitely go with an azus board if you
+can that's just my personal experience going through a heap of different x58
+boards here at my studio and also when i was back in japan back in the day
+hope that answers that question and if you stayed this far and you're enjoying
+that tech guest content then don't forget to grab that mouse
+and with no mouse pad too make sure you just take the mouse pad up
+and do it on a rough surface go down click that subscribe button
+ring that bell and i'll catch you guys in another tech video very soon
+there's a message it's like uh someone's probably like yo
+brian i need i'm hungry for that i3 pc i know you haven't even put it off for
+sale yet but i need it in my life so i'm gonna go flip it now i'll catch
+you guys in another tech video very soon peace out for now bye [Music] 

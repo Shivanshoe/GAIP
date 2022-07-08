@@ -1,0 +1,208 @@
+- This is a carburetor and
+this is a special 3D printed see-through carburetor. And this is a high-speed
+camera with a macro lens on it. You see where this is going. If you've ever cranked some
+type of lawn care product, with a small engine on it, you have interacted at some
+point with a carburetor. The question is, what does
+this little device do? Yes, it mixes air and fuel together. But how, like, I want to understand how it works. As a mechanical engineer, I thought I had an understanding
+of carburetors until the day I went to visit my dad who was replacing a
+carburetor on his tiller. My dad is a really good teacher
+and he has a really good understanding of how
+mechanical things work. So I decided to suspend
+everything I thought I knew about carburetors and just ask him
+to teach me from the ground up. Teach me. What followed was a 45
+minute lesson on everything about carburetors. - That's the main jet carburetor. See the holes on the side. Bowl, you got gasoline in there. - Uh-huh. - Float. See the needle going up
+and down right there. - Yes, sir. - That's the throttle right
+there. You can see there. Choke. We running open right there. Suction. The intake when the cylinder goes down. - It's a vacuum. - It sucks air through here. Put your finger up there, and the vacuum will pull this right open. The valve closes in the cylinder, the compression stroke comes up and compressors the gasoline. The spark plug fires,
+pushing it back down. (engine turning) That's smooth. Works well. - So my dad gave me a masterclass
+in how carburetors work. What I'm going to do is try
+to explain in brief detail what he taught me. And then we'll move on to
+the see-through carburetor, where I think you can understand
+it a little bit better. So most carburetors are either
+aluminum or thermoplastic. So let's look at this aluminum here. Most carburetors have some
+things that all look familiar. Like you've got some kind
+of little turny thing here. On this side, you've got
+another little floppy do. And down here, if you take off the bottom, you can see that there's
+some type of container on the bottom and a little thing
+on the inside, right? All this looks kind of normal. Like if you've ever looked at an engine, you've seen stuff that looks like this. The thermoplastic version
+kind of the same way. Okay. So what I want to draw your
+attention to is there's two main components to a carburetor.
+There's the top part. And the bottom part, and the
+top part is called the Venturi. And the bottom part is called the Bowl. So in order to understand this, I tried to figure out if
+I could find a see-through carburetor and I found
+two different versions. Number one, I actually found a see-through carburetor on the internet. The problem is the guy that
+sold it to me made me promise I wouldn't run gasoline through this. It was for teaching only,
+and I'm a man of my word. So we're not going to run
+gasoline through this carburetor. So I was left to try to find other sources for see through carburetors, and I found one on the internet. There's a young man in Pennsylvania. He created this. It's basically a see-through Venturi, which is part of a carburetor, but it didn't quite do what I wanted, which was to show the complete inner workings of the carburetor. So at this point, it's clear, we're going to have to make
+our own see-through carburetor. And remember there's two components of the carburetor, right? Okay. First, let's talk about the Venturi. If you are like me and you have really old books on your shelf, you might have one that explains
+carburetors in great detail and explains that a Venturi
+is a really cool thing where you take fluid, that's
+flowing through a pipe. If you neck it down at
+some point to a smaller cross-sectional area, the static pressure at that point at the throat decreases. Creating kind of like a
+vacuum in that one spot. Well, that can be used to
+suck fuel up into the Venturi. All right. So let's look at that. So the Venturi part of
+the carburetor is for sucking the fuel up into the line. The second part of the carburetor, the Bowl is for holding the fuel. So after a lot of collaboration, conversations and actual
+engineering meetings. We came up with a 3D printed solution for a see-through carburetor. It consists of a laser 3D printed housing, which incorporates both
+the Venturi and the Bowl. And we removed a float and
+needle from a thermoplastic carburetor made by Briggs and Stratton. We laser cut our front cover that would allow you to
+see the entire thing. And then we 3D printed a
+choke and throttle lever out of PLA plastic. So this is the 3D printed
+see-through carburetor. On an earlier episode of Smarter Everyday, I described a see-through
+engine and we actually get see the combustion
+happen inside the cylinder. Basically there's four strokes
+to a four stroke engine. You have the intake stroke, which is where it's
+pulling in fuel air mixture into the cylinder. After that you have
+the compression stroke, which compresses the fuel air mixture. And then you have the
+ignition at the spark plug, which creates the power stroke,
+driving down the piston, and then the valve at the top opens and you push out in the exhaust
+out of that valve and you start the whole thing over again. You have intake,
+compression, power, exhaust. Intake, compression, power exhaust. The interesting thing
+about the intake stroke is that it is a vacuum. It is
+sucking air into the engine. And what we can do is we
+can take advantage of that. Hang with me. This is a
+little bit complicated. So this is the carburetor and let's assume the engine
+is out here to the right it's taking advantage of the fact
+that the intake stroke has a vacuum and it makes air want to flow this way into the engine. So once air starts flowing this way, what happens is air comes in
+this side and it starts necking down into the Venturi there. Like we said, in our book earlier, where flow is high, pressure's low. And so if you have gasoline
+down here in the Bowl, down here, all full up right here, what you do is you have a
+little bitty of pipe right here, like a straw that goes up and goes into the center of the Venturi. And what that does is that
+creates a little bitty jet of liquid that comes up right
+here because of that vacuum. And then once that happens, it mixes and then it goes downstream into the engine like this. So basically you have
+nothing but air on this side, you've got the fuel coming up here. And then you have the mixture
+that goes from here forward. That's basically what a carburetor does. The choke in the throttle up top. That's the flappy things
+we were showing earlier. That's the choke and that's the throttle. Basically what they do is control the mixture
+that goes to the engine. If you close off the choke
+and you restrict the amount of air that goes down into the Venturi, then you can create what's
+called a rich mixture. Meaning the mixture that goes to the engine is rich in gasoline. You might want to do that if
+you're starting the engine and it's having a hard time firing up. If you want to lean the mixture like this, that means the mixture
+downstream is lean of gasoline. And there are different
+reasons to do different things. But if you have an ideal
+mixed choke right here, and you have full throttle, then you're going to have
+great chemistry downstream. It's going to make the engine
+run really, really fast. So these are the two controls
+that most carburetors have. And this is basically the simplest design for a carburetor that can exist. So let's go get dad to show us
+how to use this thing and see if we can catch it in slow motion. The first thing we had to do
+is actually hook the gas line up to the carburetor. - Okay, I'm going to open the fuel. Here goes. - And it'll just fill up. - It should. - Ah, it's doing it. (laughs) I don't know why. - Didn't you know that's
+what the Bowl was for? - No, I did not know that
+was what was going to happen. - Well, yeah. - I mean it's obvious, now that you do it. Fuel flows in here and when
+the float starts to float, it moves this needle, which presses into the seat and stops the flow of fuel into the Bowl. So you always have the right amount. Now backfiring is an issue.Right? - It is an issue. And how about getting this. - Ready to go? - Yeah. Cause we spilled some
+gasoline a few minutes ago. - So if, if a backfire happens,
+if I understand correctly, fire's going to come backwards
+back into the carburetor and we did not pressure
+test this carburetor. - Right. - So this this could explode and all this gas could be on
+fire and go around us. Right? - Hopefully not. (laughing) As a matter of fact, open
+the door just a little bit to let whatever vapors
+here on the floor, go out. - Okay. - Ready? - Yeah. (engine cranking) Oh, I saw some vapor. - Did you? - On the intake stroke. Yeah. We're going to see it. Aah, it's running. (inaudible) We can kill it. - (Father)Kill it? - (Dustin)Kill it, yeah. You can see the vapor in the intake. - Can you? - Yeah you can. Did you see it? - No. - What do you mean you didn't see that. - I'm looking for fire. (laughing) Okay. Did you catch it? - I don't know. I think,
+I hit the buttons. - It was running rich. It's
+sputtering, sput, sput, sput. So I open the choke up so
+it lean out the mixture and it started running smooth. - Like it. Like, it was
+actually supposed to be. - Well yeah, that's what it's for. I didn't know there'd be
+bubbles and things here. - Oh, look at that. - Look at that. - You see it? - Yep. (rapid firing) (instrumental music) You can see air, air-fuel mixture going in the combustion chamber. - This is intake. - Now intake is... - (Dustin)Is when it's sucking in. - (Father) Right. - (Dustin) Intake. - (Father) Yeah. - (Dustin) Fire. - (Father) Intake valve closes. - Closes exhaust stroke. - (Father) Yes. (together)Another intake. - (Father) Right. - (Dustin) So can you run two cylinders off of one carburetor? - Oh yeah, yeah. Or three or four. Yeah. - (Dustin) Really? - Yeah. - (Dustin) Okay. - The carburetor, all it does
+is mix fuel and air and yeah, you got one carburetor
+that runs eight cylinders. - (Dustin) Are you serious? - Yeah. - (Dustin) So it's running
+really, really fast? - Each cylinder sucks in
+what it can use burns it. Sucks in only what it can use. - (Dustin) Volumetrically. - Right. Now my motorcycle has a
+carburetor for each cylinder and you have to balance those. - (Dustin) Because if you have one, one that's hitting harder
+because it's getting a different. - Right. It won't run smooth at all. - (Dustin)So the advantage of running multiple cylinders
+off of one carburetor, is you get the same
+Stoichiometric mixture throughout. - Yes. - (Dustin) You can see the
+vortex behind the throttle. Do you see that? - (Father)You can. Oh, it is. It is. Turbulent flow is a vor,
+vortices turbulence. - Yeah, absolutely. You're just trying to get me riled up, cause you know, Derek
+might watch this video. - Yeah. I like Derek. - I like Derek too. What would you change on
+this design? Like now? What would you change? - (Father) I would make
+the control stiffer so that when you put them in position, they would hold themselves. - (Dustin)Okay. - (Father)The engine sucks
+the throttle open. Yes. - Oh does it? - It does. run away. If you don't physically restrain it, it gets faster and faster and faster. - Really? There's no governor. Yes. It's trying to pull that open
+and I'm holding it there so that it does not because
+I don't want it to - (Dustin) Run away. - (Father) Right. - (Father) You feel how
+tough it is to move this? - (Dustin)Yes. - It's difficult to move on purpose. - I understand carburetors now. - Better? - Way better. Yeah. I mean, I guess nobody
+actually a hundred percent understands it. - Well I couldn't do what I wanted to do. I could not make it run because
+it wouldn't hold its setting position, but man, it works. - So when you just went wide
+open, would it run wide open? - Well, I didn't want it to run away. - Try it. We got a fire extinguisher. - Well you got centrifugal forces. You tear the engine up.
+You can run away too fast. You've got governors. You got throttles. You got control in a
+factory built carburetor that we don't have here. You could get, you could. - I could get hurt. - We could tear the engine all to pieces. - Okay. - By supplying more, it'll run faster than it's designed to run. Can you zoom into that? - Yes sir. I can. I can get a tighter lens so
+we can zoom in and we can see the fuel come up into the Venturi and then we can it vaporize. - And get blown away. Get blown away. - You wanna do that? - Yeah. - (Dustin) Let's run it steady state as fast as you're comfortable. - I'll try to, but I can't. I'm going to have to put
+a finger right there. I think it'll just start right now without a choke. - With a finger or fenger? - A fenger. (laughs) (engine running) - Okay? - Got it. (engine sputtering) - (Dustin)Almost kill it. - That's a good carburetor. (instrumental music) - (Dustin) So the fuel is
+coming up into the jet. That's the main jet, right? - (Father) Where's that
+entering, right there? - Yes. It's coming
+straight up in the middle of Venturi and then the intake blows - (Father) Air. - (Dustin)blows air across it. Look at all the stuff dancing down there. Let's run it again, and just look at the top
+of the fuel in the Bowl. I just want to see what that looks like. (engine starting up) The mechanical oscillations
+are way more violent than I expected. - (Father)The engine is running
+pretty fast right there. Each time you see a shake
+is a stroke, isn't it? - No, I don't think so. - You don't? - I think it's a vibration
+mode. I think it's a harmonic. - (Father) You think it's a tuning fork? - (Dustin)I do. - There should be four. Should be intake compression. - Power stroke. - Power stroke, exhausts. - Yes. - So should have four strokes for each. And you do have, if you're
+look at it right there. 1, 2, 3 suck. 1, 2, 3 suck. 1, 2, 3 suck. Top dead center and bottom dead center. - You're pretty smart for a redneck. Well, that's why they call it four stroke. (both laughing) - Okay. So now we
+understand the carburetor on a macro level. We have built a functioning
+carburetor, which is awesome. But now what we need to do is
+I want to see the tight stuff. Like what happens when that jet
+of fuel comes up and the air intake comes over the top of it? What does that look like? (engine running) - (Dustin) Got it. - Ooh. - (laughing) Yeah, I know. (instrumental music) - (Father) It's suspended. A drop of fuel was suspended in the air and then suction comes
+and breaks it all up. Derek is gonna to love that. (both laughing) - Because of turbulence. - Yes. There's change in the laminar
+coming in here, too turbulent. Ooh. - Converging diverging, nozzle. It. So a carburetor is
+just a rocket nozzle. It's a rocket nozzle. Is what it is. I mean you're speeding up. - (Father) Watch it. Oh, oh, oh, oh. - (Dustin) It's a little drop and - (Father) Yeah. Carburetor tries to do is
+increase the surface area on a molecular level. Right? - What do you mean? - In order to get full
+and complete combustion, you need all the surface area
+that you can get of the fuel. - (Dustin) Because ideally
+you have an oxygen molecule right next to a fuel molecule. So now I'm going to get
+what happens right when you pull the rope for the first time, when there's no fuel in the
+carb to when fuel goes in. I'm gonna see what that looks like. (engine running) - Got it. (engine sputtering) - Getting some air from somewhere. - It's fun that we almost
+couldn't turn it off. There's a little bit of risk. - (Father) Perpetual motion machine. (both laughing) - Oh, look at this. - (Father) What? - (Dustin)So on the intake
+stroke here, you see the rope. How cool is that? You can see the rope in the foreground and you see the carburetor. I could not have imagined
+a shot like this. - Oh wow. - Yeah. - Pam, Pam, Pam. (Dustin) Time to a time to mill those out of aluminum, I think. That's PLA, so I bet that PLA
+is getting broken down by the, - (Father) By the gasoline. Because it wasn't that
+flimsy to begin with. - (Dustin) You can see
+the fuel coming up in the, in the straw and the jet. Look at that. You can see, - (Father) You can. - (Dustin) See that the flow right there. You can see everything. For the next shot. We wanted to see if we could shoot the high speed down the throat of the Venturi. So Trenton jumped in to help because we needed more hands. Just pop the choke out. And then we're just gonna
+look straight down the barrel. - (Father)I'll pop the
+choke about three-fours, or at least half of it. Yeah. - (Dustin)All right. So that's going to lean our mixture, right? - (Father) Yep. - Are you pulling focus? - I'm going to have to once it's running. - Yeah. (engine running) - (Father) You're going to
+have meter with your finger. - (Dustin) Yeah. So I'll meter it with my finger
+and you grab the throttle. Throttle is wide open right now, but it shuts off automatically. So if you'll grab it and shove
+it back the other way that will keep it there. - (Father) That way? - (Dustin) Keep it there, yeah. (engine running) (inaudible) - I can literally
+throttle it with my thumb. (laughs) - (Trenton) Come on. - (Dustin) Yeah. Okay, hold on. - (Trenton) I can't focus
+because of your thumb. - (Dustin) Ready? - (Trenton) Yup. (engine running louder) - (Trenton) Okay. - (Dustin) Did you get it? - (Trenton) I think so. (engine sputtering) - (Dustin) Die engine! I don't want you to have
+any, oh, I'm getting it. Oh my goodness. - (Father) There's your
+vapor. There's your vapor. - (Dustin) I saw the vapor. - (Father) There's your vapor right there. - (Trenton) Got it. - (Dustin) Where? Coming out? - (Father) No, in the intake manifold. - (Dustin) Oh yeah. Whoa that's, that's vapor. - (Father) Yep. - Okay. So - (Father) Vapor go away. - What just happened, is dad cranked it I covered, I choked it with my hand. He was operating throttle. For a second there we
+were. We were vibing. - Yeah, we were insane. (laughing) - So I was running choke.
+Dad was running throttle. Trent was trying to frame the shot. Oh, I just hit your mic. It flattens the dropout. - It does, it does. - It flattens the dropout
+and it distributes it. (instrumental music) Look at it. (instrumental music continues) - (Dustin)I now have a
+three-dimensional understanding of how a carburetor intake air interacts with fuel
+coming up in the main jet. - That was worth it. - (Dustin)This journey started by simply asking my dad how carburetors work. And by taking the time to
+build and operate one by hand, we learned that the design
+of a carburetor is simple yet very complex. And the fluid dynamics at
+play are downright beautiful. (instrumental music) So I know a lot of times when
+you get to the ad portion of a video, people kind
+of like click away. They're like, oh, I'm
+not interested in that. But I want to tell you why
+I chose to work with this particular sponsor for
+this particular video. When I look at a complicated
+concept, like a carburetor, that's a very difficult
+thing to understand. So one thing I like to do is I
+like to build hands-on models and understand what's going
+on by playing with all the variables and getting to
+the point where I have a fundamental understanding of the concepts. Well, the sponsor for
+this video is Brilliant. Brilliant is a website and app
+that has over 60 courses with hands on interactive content. So you can understand really
+interesting topics like math, science, computer science,
+all kinds of stuff. This is a hands-on approach to learning. And this is the way that my brain works. Brilliant has a really interesting
+course that I've started. It's a Python course, and it's different than just
+reading a book and going through examples. You actually have an online
+hands-on coding box and you can manipulate the concepts in
+the box and you can write code for yourself and troubleshoot it. There you go. All right. So I'm learning. I'm excited about it. So if you would like to try this, go to Brilliant.org/SmarterEveryDay. Check out all the courses. They have stuff in logic,
+special relativity, whatever you're interested in learning. This will help you go through
+and understand the concepts to the point where you have an understanding of the topic at hand. I think you'll enjoy it. So go check it out.
+Brilliant.org/SmarterEveryDay, sign up for free. Also get a 20% discount
+on the premium membership. I like to learn in a hands-on fashion. If you're watching this
+video, chances are you do too. I think you'll really enjoy it. So Brilliant.org/SmarterEveryDay. I hope you enjoyed learning
+about carburetors with me. This is a fantastic
+device. It's interesting. The carburetors suck as my dad says, but you get the Venturi, you got the ball. I just really like
+understanding how things work. And I hope you enjoyed that as well. Feel free to subscribe. If you feel like this video has earned it, if not, that's no big deal. I do think you would enjoy
+seeing the second channel where I get to talk to my dad in greater
+detail and you get to see the light bulb come on in my mind as he explains everything to
+me, dad's a great teacher. So feel free to go check that
+out on the second channel. Feel free to subscribe.
+If you're into that. If not, no big deal. I'm
+just glad you're here. I want to say thanks to all
+the patrons for supporting SmarterEverDay. Let me do topics that I enjoy myself and I'm grateful for you. Anyway. That's it. I'm Dustin. We're getting
+smarter every day. Have a good one. Bye. What do you think dad? - It's a lot of work. That's what I think. It's not as fun as what I thought it would be from a distance when I'm
+sitting at the keyboard and reading the comments. It's fun. But taking the video shots, I don't need more think about editing. Not many people that I know can say that they have made a
+carburetor from scratch. - I wouldn't necessarily
+call this scratch. - (Father) But now people who
+actually work on small engines could give you a lot more educated words than what you're getting. - I don't want a person that is paid to work on small engines. I want to learn about
+carburetors from my dad. (laughs) - You could have picked
+anybody going down the street. - I think you're doing all right. - (Father) You got more information? - (Dustin)I think you're doing just fine. 
