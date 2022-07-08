@@ -1,0 +1,193 @@
+everywhere you look right now rtx 3080s
+are sold out but i'm told they are coming into stock very soon and
+if one of these does land either for a pre-order or it's
+in stock at your local retailer is it going to be worth considering that
+is zotac's rtx 3080 trinity gaming edition
+card with three 90 mil cooling fans and with the cooler
+individually weighing 900 grams is this going to be enough
+to keep the rtx 3080 under control well let's roll those benchmarks
+straight up getting into the 1080p numbers
+and out of the box this card does perform pretty similar to that of the
+founders and also compared to that of the tough
+gaming which we recently had through here at tech yes city
+but one thing that i will mention about 1080p gaming with an rtx 3080 card
+is that you might want to seriously reconsider
+buying one of these cards if you're going to go with 1080p gaming
+as we see in some of the titles we are starting to get hit
+with a cpu bottleneck and this was tested on a 10 900k
+which pretty much the best you can get for gaming right now
+but if we move over to 1440p this is where the differences do start to expand
+from the 2080 ti to the 3080 and the good news is here is if you
+are an ultra wide gamer or a super ultra wide 1440p gamer then you can
+definitely benefit even more so than the regular 16x9 1440p
+numbers that you're seeing here now in terms of the zotac versus the other two
+cards at 1440p very similar story there's not a whole
+lot of difference to be gained out of going over one card
+over the other that you see here in the graphs
+though stepping things up to 4k it was pretty much the same story
+as 1440p except minus pretty much all the cpu bottlenecks
+that may occur at 1440p and so this is where this card really does shine in
+terms of the 3080 standpoint itself and that is 4k gaming and and also
+quickly throw up some rtx benchmarks for you
+and quickly show the encoder versus the previous two generations
+where i feel like the encoder this time around hasn't been improved
+a whole lot over the second series rtx 2000 series cards
+but that was a pretty big improvement over the 10 series card so if you want
+to use the nvidia encoder it's definitely going to do a good job
+and you've also got av01 decoding now built on to the 3082
+speaking of the differences between this and the founders and the azus tough
+this is going to be one of the most important questions
+probably on your mind if you're looking at this model in particular
+versus say the other models out there now the tough gaming that came through
+and that blew me away i'm not going to sit here in the review
+of the zotac card and say that the tough gaming wasn't
+impressive that is the most impressive card
+i have seen come through here and especially hitting at msrp
+and being a cheaper entry-level card in terms of pricing
+but then providing the performance that did as well as the noise and the
+overclocking that thing was really good extremely
+hard to beat now this car doesn't unfortunately beat
+the tough gaming in terms of noise as well as cooling but
+one thing that it does do is does offer a bit of a smaller
+footprint if you're trying to fit it into a different
+build which i will put the measurements up on the screen here
+for this gpu in particular another thing about the zotac gaming card is
+out of the box the fan profiles are pretty much perfect you don't want to
+use a different fan profile if you're gaming
+because it's going to either create more noise
+or the temperatures will run a bit hotter i found this magical level of 69
+degrees at 69 fan speeds was doing an excellent
+job of not only keeping the noise at a sweet
+spot for this particular model card but also keeping the temperatures
+just under that magical level of 70 degrees
+and even in one of the benchmarks i did when i was playing around with
+under-volting we even got 69 fps so what about the overclocks and for me
+personally more importantly the under vaulting i'm going to say this
+card under vaults well i think any 30 series card is going
+to undervolt quite well and for me personally i've
+been using these cards and i do prefer under vaulting them because it's going
+to save you a bit more power on your power consumption
+in which in turn should save you money on your power bill but
+it's also going to keep the card cooler and it's going to run
+quieter which is an important thing and you're not going to lose much
+fps at all this car did lose a couple of fps
+in horizon zero dawn when i tested the under vaulting and then on the flip side
+when i went on to overclocking it was limited to around a
+megahertz core clock but the memory did go quite high
+to around 500 megahertz so over 10 gigahertz
+on that display which does look pretty impressive when you're playing your
+games but when you do overclock it the power
+consumption does start to run out of control and you're only really
+gaining a few extra fps i think for these cards the 1800
+megahertz under volt is not just a sweet spot in
+terms of the efficiency curve for the gpu itself
+but it's also a great thing for someone who's going with a high-end power supply
+with low ripple suppression so you've got to remember when they designed these
+cards out of the box they designed them to
+work on pretty much any power supply with the rating that
+they're recommending so they can say a bronze rated
+750 watt power supply is going to do the job even if it's got
+a lot higher ripple than say a corsair rmi
+850 which will have a lot better ripple suppression than a lot of power supplies
+out there so when you're using a power supply like
+that you can then in turn give this card a nice good undervolt
+with clean stable power and it should respond pretty well and so
+that's why i recommend under volting especially if you're going to get a car
+like this and especially if you've got a good
+power supply anyway moving through the card itself you've got two
+eight pin connectors so you don't need the nvidia 12 pin
+to two eight pin splitter or of course if your power supply has got that
+direct 12 pin connector then you're going to need
+2 8 pins so that's located roughly to just off center of the card
+in the pcb itself which when we've taken the cooler off
+we can see that this is using a very similar design
+to the pcb of the founders card now another thing is too at the back of the
+card for those who want to know about the capacitors
+it does have six of the larger capacitors so there has been
+a lot of drama surrounding the caps used and the
+overclocks and the stability and when i was doing all the benchmarks as well as
+playing a bit of modern warfare which is a pretty strenuous game i do
+like to play that on all the cards for quite a while this did not crash
+once so whatever zotac is doing here they're
+doing a good job at least the sample i've got here is pretty stable
+that being said however if you do have a problem zotac say that they do provide
+an extended four-year warranty at least for
+people in australia so it's always good to have four years
+on an investment like this which is pretty much what it
+is at this stage if you're getting into high-end gaming and you want to drop
+this kind of money on this card you definitely would want a pretty
+decent warranty so it's good to see that they are backing
+the product with a solid warranty the final thing to go over
+with this card right here is i was going to say the rgb of course we've got to go
+over the rgb we've got zotac gaming rgb on the side
+and on the rear which you can control with their included
+software they call this firestorm and you install the app and then you can
+change it and even sync it with other rgb software if you want to
+and the good thing is with the software you can do more than just tune the rgb
+you can tune the card itself and another good thing is after you're
+done setting up your rgb whether you want to turn it off
+completely or not you can then close down and uninstall the software
+and your settings will be saved into the graphics card itself which is a good
+thing and going through the rear output of
+this card you've got one hdmi 2.1 which is essential for your lg oled
+120 hertz 4k gaming experience if you want to go that route
+which i do use personally and it's really good
+then you've got three display port outs too however the
+this is the standard design and the for instance the board partners can
+implement more ports where we did see with the tough gaming
+for example two hdmi 2.1 outs so this is exactly like the standard founders
+output design if you want to get more display outs
+then you might want to go with a different card and with all that out of
+the way it's finally time to give you guys the raw conclusion on
+the zotac trinity and what do i think of it should
+this be the card that you consider getting if you're
+after a 30 series card now i've compared this to two other cards
+here so far i've also got one more in the pipeline
+and the tough gaming is still coming out on top
+for the 3080 series i'm not going gonna sit here
+and if you just come out of the bush i'm not gonna beat you up and put you back
+in the bush that's not me not gonna beat you around the bush
+basically the zotac trinity however what it does do
+good is out of the box it does work the noise and the
+temperature levels were mediocre i would like to see them
+come down but if this is a card that's coming in at msrp and especially
+in australia if you can get this for one of the cheapest sort of entry
+level rtx 3080 cards versus the others out there then it will
+do the job and i think that's what you've come here to know
+about the zotac trinity is it a card worth buying
+and honestly if this was the only rtx 3080 card i could get
+then i'd be happy with it it does a decent job but does have its limitations
+where it doesn't overclock that well and also compared to the founders it's
+coming in with lower temperature levels but does make a little bit more noise
+and for me personally when i'm looking for gpus
+i'm usually looking for one that brings in really good value so
+wherever you live around the world if this is in stock say for instance for
+some other gpus that aren't in stock and they may have a huge back order
+on them this one comes up you want to know is it good
+yeah it's pretty solid it'll do the job and
+if it's in stock and it's the right price then i would definitely go for it
+if you've also got any questions or comments about this rtx 3080 or anything
+in general then be sure to drop a question down below or just a comment
+down below too i love it when you guys comment love
+reading those thoughts and opinions as always
+and speaking of thoughts and pieces we've got the question of the day here
+which comes from rooks and they ask a 650 watt power
+supply for a 30 80 question mark i thought it needs
+at least 750 what and the power supply thing is i think
+nvidia did the 750 watt because they know
+how many mediocre 650 watts there are out there
+there's i've seen 650 watts that are really probably only a true
+550 or 500 watt and that's even from decent brands
+so i think they give the 750 watt just to make sure that hey
+you're not going to have problems with a cpu and a gpu that aren't overclocked
+out of the box but the 650 watt power supply that i
+ordered in the other video that's going to be absolutely fine for a
+3080 and also a uh the cpu the 10 700 f that i ordered
+as well i mean from the top of my head this
+whole system will probably juice around 420 to 430 watts
+while we're gaming so 650 watt power supply should be absolutely fine
+and the one we ordered is decent i have tried it before in a video up here the
+450 watt with a 2080 ti and a 3950x and that passed with flying
+colors and with all that out of the way i'll
+catch you guys in another tech video very soon
+peace out for now bye [Music] 

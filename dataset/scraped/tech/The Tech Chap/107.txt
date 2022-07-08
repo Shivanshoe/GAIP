@@ -1,0 +1,112 @@
+...that's the card then we've gone for oh my 
+goodness that was close this desk is too small   anyway how much do you actually need to spend to 
+get yourself an awesome rig for 1080p or 1440p   gaming and i'm not talking about bargain basement 
+to get you by i mean something that gets you high   frame rates and aaa titles at high settings has 
+the latest tech looks great runs cool and quiet   and every component has great reviews could 
+you actually do it for around a thousand   pounds well it turns out yes actually but only 
+just hey guys i'm Tom The Tech Chap [ __ ] and   i'm just about squeezing into my little pc setup 
+here i definitely need to get a bigger desk but   as you guys know building or upgrading your pc 
+can be very very expensive uh not least because   components right now are just ridiculous in terms 
+of the pricing but also when you actually come to   spec what you want it's really easy just to go 
+well if i spend an extra 30 pounds or 40 pounds   for a slightly better cpu or gpu then it just goes 
+on and on and eventually you're looking at two or   three grand for a pc so i set myself a challenge 
+what would be the best pc that i would buy and   build uh hand-picked specs for around a thousand 
+pounds or so and this well this is what i've come   up with here and actually i'm really really 
+happy with that it turns out you can actually   build yourself a great pc assuming the components 
+are in stock without completely breaking the bank   so the real key here is a great value cpu and gpu 
+combination and i've gone for this six core 12   thread intel i5 11400f and also nvidia's rtx 3060. 
+now the 360 in here packs a pretty serious punch   and then pairing it with one of intel's 
+new lower end chips like this i5 actually   is a bit of a performance bargain compared to 
+their higher tier models and also ryzen chips   which actually can't compete at this price and 
+despite the moderate price this actually has   quite a few nice extras that makes it feel much 
+more expensive for example we've got this great   looking mesh fronted mid tower pc a fast nvme 
+one terabyte ssd 16 gigs of speedy megahertz ram   wi-fi 6e corsa rgb fans with a controller hub as 
+well as an aftermarket cooler on the gpu i've got   the kf a2 360 model here along with a great 
+cpu cooler and also a fully modular watt psu   but i know what you're thinking tom that 
+sounds great but where can you actually buy   a card like the 36e for retail price this kf a2 
+card should cost you about 330 pounds but right   now on ebay and on a lot of websites it's double 
+that or more i think the technical term is a bit   of a show actually but i've gone ahead with 
+the build anyway for a few reasons one because   if you are buying now on a budget this is still a 
+great example of the kind of system you could get   even at inflated prices two if you're watching 
+this maybe in the future at a time when the market   has calmed down a bit and also three if you've 
+got the patience to put in multiple pre-orders and   maybe keep an eye on stock refreshes from 
+retailers then there is a chance you can   snag yourself a gpu for something close to retail 
+prices so let's dig in a little bit deeper because   the best part of building a new pc is choosing 
+the components going through pc park picker and   different retailers spending hours and hours going 
+between different components figuring out what you   can afford and what will work well with your build 
+honestly that's the best part of it that's the   most fun for me however while i wanted to keep 
+this as close to that 1000 budget as possible   if i were you i would definitely pay the extra 80 
+pounds or so to get the 3060 ti which is a good 20   to 25 faster than the 360. and definitely worth 
+it if you're playing at 1440 and you can still   pair it with the i5 11 400 or eleven six hundred 
+but whatever your setup looks like i definitely   recommend using surf shark vpn it genuinely is the 
+only vpn i use i have installed on all my devices   and it just helps keep you safe online blocking 
+ads and malware hides your location and there's   some fun stuff as well i can go from my uk netflix 
+then log into say a new york server and then i get   access to the us netflix and you can get south 
+shark on pretty much every platform there's even   a handy chrome extension tool so if you do fancy 
+giving this a try click the link below or use the   code tech chat at the checkout to get 83 off and 
+also three months extra for free and if you're not   convinced then they also have a 100 money back 
+guarantee so why not give surf shark vpn a try   but as you guys know it's not just about 
+the raw performance with these cards   really the big magical leap forward in terms 
+of performance is dlss the deep learning super   sampling and it's just incredible stuff and really 
+the biggest reason if you are still rocking a 10   series or older to upgrade if you can and to be 
+honest it's essential for getting playable frame   rates out of games like cyberpunk especially if 
+you are gonna turn on ray tracing as well and it   also boosts others like fortnite into proper high 
+refresh territory dlss is genuinely the best thing   since sliced bread i just realized never actually 
+took the side off let me give you a better view   so that's the card then we've gone oh my goodness 
+anyway as for the cpu i've gone with intel's 11th   gen i5 11 400 f i think i've got that right 
+which costs about 150 pounds 150 dollars and   i think it's a really good value chip it's fast 
+and being six core with 12 threads it's good for   both gaming and productivity and also crucially it 
+won't bottleneck the 3060. now the only downside   with the 11400f is it's non-overclockable but 
+if you want to spend an extra 80 pounds or so   you could get yourself the 11 600 k or kf which 
+do support overclocking as well as having faster   clock speeds so that would be a good choice if 
+you can afford it and pay a little bit extra over   the thousand pound budget of this build of course 
+you could consider team red with say amd's 5600x   uh which is competitive to the 11600 from intel 
+but really value i don't think anything can beat   the 11400 right now as for the motherboard 
+i've gone with msi's mag b560m mortar i know   what you're thinking it's micro atx why spend 
+extra for that but it didn't need to be this   just fits my feature criteria and my budget and 
+also b560 boards are really good value offering   most of what you get from a full fat z590 except 
+for overclocking and with fewer pci4 lanes but the   pci4 graphics card slot is still a time 16 but 
+then you only have one pci 4 m2 slot but we are   getting some nice extras as i say like wi-fi 6e 
+plenty of usb ports on the back including a type c   along with rgb headers although for this build 
+i did need an extra fan connector hub but i'll   tell you what when it comes to picking a pc case 
+there's only really two things i think about the   price and does it have a mesh front you can get 
+some beautiful high-end uh glass or plastic builds   but unless you have a ton of fans and some good 
+cooling elsewhere really for this kind of budget   you're gonna want a mesh front so you've got that 
+good airflow through the fans onto your components   and therefore you get the best performance so 
+that's why i've gone with the phanteks p360a   we've got mesh front and top it's a good size i 
+like this white color as well and it doesn't cost   a fortune we also get this tempered glass side 
+panel and it comes with two rgb fans as well as   an rgb strip along the side and i found it really 
+easy to build in with plenty of room for the gpu   downsides well there's no usbc or dust filter 
+on the front and also the build quality is good   rather than amazing as for ram i went with 16 
+gigs of crucial ballistics 3600 megahertz which   is actually pretty fast for a budget build like 
+this although only cost me a few pounds extra   over the 3 000 megahertz and if you do want a 
+bit of go faster rgb then i'd spend around 15   quid extra for something like corsair's vengeance 
+rgb pro or similar for storage i went with the   data one terabyte pci three drive it's not pci4 
+but it's still seriously quick and you can always   swap it out later now as much as i really do like 
+a good all-in-one water cooler if you're scrimping   and saving you really can't beat the value of a 
+good old-fashioned tower air cooler and i think be   quiet make some of the best ones and sure enough i 
+couldn't even hear this over the other system fans   there are plenty of other options at this price 
+range but this is a solid well-reviewed choice   as for fans well first i was going to go with 
+the noctua sf12b redux these shift a ton of air   and also being noctua they do it quietly and at 
+this price i think they're a steel problem is   i'm a bit of a sucker for rgb which is why 
+instead i went with these corsair sp 120 elites   which also comes bundled with their node core 
+rgb controller but i think as long as you're   not spending a fortune adding a bit of color and 
+flare to your pc is all the more fun and actually   these fans help illuminate the interior and make 
+this look like a much more expensive setup these   two cost a little bit more but you are getting 
+three fans and i also move the bundled fans up   into the roof although of course they won't work 
+with corsair's iq control app for the power supply   i went with the evga supernova 650 g3 nvidia 
+recommends a 550 watt system with the 360s so i   think 650 is fine so i expect it i've built it now 
+how well does it actually perform in games well   i've actually tested a ton with this and in nearly 
+every case you can expect a solid 60 to 100 fps at   quad hd with max settings in pretty much any game 
+you throw at it and also my quick overclock got me   anywhere from a five to twelve percent fps boost 
+so there you have it the official mid-range-ish a   thousand pounds thereabouts tech chap recommended 
+build and if you do fancy buying or building this   for yourself i'll put links to every component 
+i've used below and while i will admit that i am   no master pc builder i'm no pc centric uh marcus 
+would definitely uh show me up if he built one of   these himself but everyone's different everyone's 
+budget is different and also depending on   where you live the availability of these actual 
+components well who knows so uh yeah i'll leave   links below check them out hopefully you can get 
+them for a good deal and build yourself a tasty   little budget pc like this thanks for watching 
+hit that subscribe button if you want to see more   from me and i'll catch you next time right here on 
+the tech chat oh and just quickly don't forget to   check out surfsharkvpn i've left a link below 
+use the code techchap to get 83 off and three   extra months for free and even though they are 
+sponsoring this i would genuinely recommend them 

@@ -1,0 +1,228 @@
+Oh, hey, how's it going  in this video? You're the frog. Hey, what's up? I'm Destin. So what I would like to do today,
+ with your permission, is I would like to use any trust
+ that I've earned with you throughout the years
+ here on Smarter every day.  And I would like to push all that
+ to the center of the table and use it to talk about a topic, a topic
+ that's very important to me. Over the last several years,
+ I have been reading the works of very smart, and credible people, and they've been saying
+ something in the background. And I think they're right.  I think we've let something go too far. And so today I would like to start  what I'm calling this smarter
+ every day privacy series. In this first video,
+ I would like to explore your current privacy situation
+ and how we got here. And then at the end of this video,
+ I have a proposal for a way to push back against the current situation
+ in a very real way. I know that you're smart,  so that puts the onus on me
+ to try to compel you to agree with me. So that's my job here in this video.  I'm going to try to make
+ a compelling enough case to convince you that privacy is worth fighting for. And the way I want to do
+ that is by talking about frogs. There's an old expression about boiling
+ a frog and it goes something like this. If you have a pot of boiling water
+ and you drop a frog into that pot, it'll realize it's hot and it'll jump out. However, if you were to place a frog
+ in room temperature water and then slowly crank up the heat
+ hotter and hotter and hotter, the frog doesn't realize what's going on
+ and eventually it'll croak. It's true that the scientific
+ merit of this experiment is in question. However, the object
+ lesson is very, very important. When you're living
+ in one specific moment in time, you can only see the things around you
+ from your specific spot on the timeline. This is especially true
+ when it comes to privacy. I started looking into history
+ and I realized that as our ability to record and retain information increases
+ our natural desire to collect information on other people and keep
+ that information has also increased. We're just naturally nosy people.  Another thing I realized is
+ as the distance between people has changed and we're able to communicate over
+ longer and longer distances, our ability to intercept
+ that communication and get information on other people,
+ that's also increased. During my research,
+ I purchased this beautiful physical copy of The New Yorker
+ from nineteen thirty eight. There's a neat article in it
+ about wiretapping written by a guy named Meyer Berger.  It describes the history
+ of how wiretapping started when telephone workers
+ joined the police department and details the methods used by both private
+ and government wiretaps. It explains how telephone companies
+ initially assisted in the wiretapping, and then they got put in an uncomfortable
+ position and they quit helping. It also explains how wiretap would
+ sometimes amuse themselves by listening in to private conversations that had nothing
+ to do with their investigations. So in the 1930s, people kind of viewed
+ wiretapping is like this thing that had to happen
+ in order to catch criminals. However, it got so out of control
+ that there was a public outcry. And by the 1950s,  you had all kinds of legal scholars
+ and politicians debating this publicly. And in my judgment,  it's difficult for me to escape
+ the fact that when government officials engage in wiretapping, they are engaging
+ in a form of criminal conduct. And I don't think that we should
+ should impose it upon the American people, because it is a serious violation,
+ in my judgment, of the precious right of privacy, the right
+ to keep the American home, the free Freemans Castle transition
+ to within our lifetimes. In the seventies,
+ the digital revolution is underway. Transistors and digital
+ recording media allow for more sophisticated surveillance
+ and broader data collection and analysis. Surveillance steadily increases
+ until that one Tuesday in September 2001. Now that a plane,  one of the towers of the World  Trade Center, when America was attacked,
+ everything changed. Suddenly, people all over the country,
+ myself included, we were motivated to do whatever it takes
+ to fight terrorism. And we did in that moment
+ through the signing of the Patriot Act. We threw out a lot of mechanisms
+ which prevented the use of unchecked surveillance power.  If you weren't an adult at this
+ time, it's very difficult to describe what that felt like.
+ We just wanted to catch the bad guys. And a lot of our decisions
+ and thinking was driven by emotions. There was another thing that happened  at this point in time, though,
+ in the early 20, OT's, I'll call it. There were these big Internet companies
+ in this new thing called social media. And these companies started
+ developing services that you could use. And the only thing they ask
+ for in exchange is for you to put your data into the company.  It was interesting.  It was like the first time the Internet
+ became a self-propelled business. The engine that made this whole technology
+ happen was user data. All we had to do
+ was put our data in the system. That didn't matter to us.
+ We weren't trying to hide anything. We could put it in the system
+ and all of a sudden we had access to all these new,
+ really interesting, capable. Abilities and it was fun.  So this is where we found ourselves,
+ we had this perfect storm of legislation passed
+ to increase digital surveillance and every big tech company everywhere
+ trying to make money off of users data. Fast forward 10 to 15
+ years later, and you get this gigantic data forms within driving
+ distance of wherever you live. These things have been quietly
+ popping up all around us. And you might not have noticed.  I don't know what this specific
+ location is for, but what I do know
+ is that it's full of data. We put data in huge
+ places like this every day. OK, now we're on the other side
+ of Huntsville in a sketchy sprinter van getting drone shots
+ of the Facebook data center. This thing is absolutely massive. There are two buildings
+ that are completed.  There are two other buildings that are
+ under construction. This is insane. If you're not paying for the product,
+ you are the product. And I don't pay for Facebook, WhatsApp
+ or Instagram. I don't know if you do. You are the product.
+ And this is where they store that product. Some of the stuff that's stored  in data centers like this, I'm frankly
+ grateful for this video, for example. I am grateful for the ability
+ to distribute this to everyone for free. Some of the stuff  that's in these buildings,
+ I'm not cool with how long I looked at a particular picture on Instagram,
+ what my search history was, what the location of my phone was last night,
+ where you slept, who slept there with you? It gets weird, doesn't it?  It's more than that, though,  because I've got all my documents
+ like personal and business. I've got all my emails. It's all there. That's the treasure trove.  It's all in one place. Is that smart? So if you're like me, you might be OK
+ with your data being stored in a facility like this
+ as long as it was kept private. But what if I told you there is a way
+ for someone to remotely extract data from your records without you knowing it? Because that's exactly
+ what happens in the US. We have the Fourth Amendment to the US
+ Constitution, which was ratified in 1789. At this point in time,
+ people were concerned  about unreasonable searches
+ and seizures of their papers and effects. You were concerned
+ about a literal soldier with a gun showing up at your house
+ and rifling through your physical papers. We now live in a very different time. Now, someone just has to gain access
+ to your digital files wherever you store them,
+ which is easy to do without you knowing, because we no longer
+ maintain physical control of our effects. I would argue that our effects
+ should include our digital property, but currently effects are commonly interpreted
+ as only someone's physical property. So at this point,
+ I'm looking at the Fourth Amendment.  It makes a lot of sense to me.
+ If we could just get that to extend to digital property,
+ then we're golden, right? Well, no, it's complicated. Who has access to your digital
+ email is a function of where you physically store
+ the digital files and email server in your basement
+ is one of the only things that's protected
+ under the Fourth Amendment.  That doesn't really sound like a big deal
+ unless you understand how this process works.  If you wanted to share  a private digital document
+ with a friend in a different location, how would you do it?  We like to imagine the file going
+ directly to them, but it doesn't. It goes through a service provider  and often to a big tech company
+ data server like these buildings. Not only could they see what the document
+ is, they could keep it there forever. So the question is simple.  Do you trust these big tech  companies and service providers
+ to keep your data secret? Because you shouldn't
+ because they're not allowed to, let's say big tech company sells you
+ in a cloud service to back up your data, photos, documents, maybe some biometric
+ stuff from your smartwatch, whatever. It's got to factor authentication
+ and it feels super safe. But let's not pretend
+ like you read the terms of service. Who does anyway, right.  Along with the intentional data,
+ without realizing it, you end up putting in unintentional metadata,
+ XOOPS history, phone and message logs, contacts,
+ Internet session times. No one piece of this
+ data would be very useful. But when aggregated, this metadata
+ creates a complete map of who you are, the who, what, when
+ and where of your lives. Even though you're trusting big tech cloud
+ to guard your stuff, at this moment, the government can and does
+ subpoena people's data, and then the government
+ can issue a gag order so that these providers aren't allowed
+ to tell you that your data was requested. This is generally done
+ in the name of national security. But how do you know, since
+ there's no outside accountability, even the fact that your data has been
+ requested is kept secret? So how can we have a review to know that
+ what's being done is right? Some companies literally
+ have a dollar amount. They charge the government
+ to give away customer data. That tells me that this happens
+ way more than most people realize. By the way, even though that  big data center that we were just
+ flying over was owned by a tech company, the land it's sitting on is owned
+ by the United States government. I don't know what that means.
+ I was just surprised by that. Look at this. The president of Microsoft
+ is complaining in The Washington Post about having to execute
+ these secret data requests. I could see how these tech companies
+ are in a pretty crummy situation. And by the way, these secret requests  are happening under both Democratic
+ and Republican administrations. Power corrupts people,
+ and the ability to intercept data and communication between different
+ people is incredible power. If this capability.  He exists as someone in the political  hierarchy is going to choose
+ to use this power and they're going to frame its use
+ as good in an attempt to stay in power, as I'm talking about all the stuff  he might be thinking, well,
+ I have nothing to hide. What does all this matter?  And the answer is
+ this can deeply affect your life. Cybercrime and data
+ leaks are at an all time high. Have you ever gotten
+ a sudden surge of spam in your email? Have you started getting a ridiculous
+ amount of robocalls? Has anyone opened
+ a credit card in your name?  Have you received physical letters
+ from your bank employer saying, sorry, but our system was compromised in your
+ personal information have been stolen. All of these things are the result
+ of hacks and leaks of your information that was sitting unprotected
+ on someone else's system. We've been conducting our business
+ every day in a manner that gives other companies
+ control of our information. We've relinquished control.  If you were to pull a 1980s  version of us forward till now,
+ we would be able to quickly identify how bad it is for us to let others control
+ so much of our personal information. But because it happened slowly,
+ we weren't able to detect the massive changes
+ that were happening all around us. We are boiling the frog
+ and we're the frog. We are giving away our privacy
+ for convenience, entertainment and social media.  My question is, is this
+ the way it has to be? The first thing that made the Internet  run was an engine
+ that ran off of users data. Oftentimes, though,
+ the first version of a technology is not what's ultimately in the best
+ interest of society. We're now running today's Internet
+ by still using the same type of engine we started with.  And a byproduct of this approach
+ is the spewing out of your private data all over the Internet, like air pollution. The damage this does is not immediately
+ obvious, but in the long run, it wreaks havoc on our society and
+ eventually becomes an existential threat. Just like how most car manufacturers  are swapping out internal combustion
+ engines for cleaner electric motors. It's time to take the next big step
+ for how we use the Internet. We need a new technology
+ that's clean that doesn't spew out your private information
+ and pollute the environment. We need an engine built for privacy. Over the past three years,
+ I've been working with a group of developers in Columbus,
+ Ohio, on ways to solve this problem. To do this right,
+ we think there needs to be  not only regulation,
+ but a technology solution. And we think there are three key
+ technologies that need to be implemented. The first thing we think is important  is end to end encryption,
+ where the users hold the keys. A lot of people say
+ they have Indian encryption,  but if the tech company
+ in the middle has the key. You don't own the data.
+ So this is important. If you can have a truly into an encrypted
+ solution where the users hold the keys. Then you own the data.  So what we're working on is a way
+ to make key handling easy and simple. The second thing that's important
+ is called zero knowledge architecture. This protects against hacks, leaks, secret
+ subpoenas and government overreach. This is a way to ensure  that you and only you get to control
+ who gets to see the data. The third thing that's important
+ is open source coding. This allows the systems trustworthiness
+ to be independently verified. Signal is the gold standard for encrypted
+ text messaging and phone calls. The problem is that communication
+ is just the tip of the digital iceberg. We're trying to come up
+ with a way to apply that  to all the other digital stuff
+ you do in your life. Imagine how cool it would be to have
+ a very simple technology that could apply encryption
+ to the everyday business of your digital life in a way
+ that gives you the encryption keys. That's the magic of what
+ we're trying to do, set in a complex way. The most important thing we're doing
+ is encryption, key handling in a very simple,
+ transparent way for the user. So here's what we're doing.  We want to remove the dirty data
+ spewing ingen that the Internet is currently running on and replace it
+ with a clean engine built for privacy. We're actually calling this effort.  Are you ready for it? For privacy. So we plan on incorporating the for
+ privacy engine into other technologies. Whether it's our method or something
+ even better comes along. We want a more private future.  Also, we're looking for experts
+ and collaborators. So if you think you would be willing to
+ contribute in some way, please reach out. We're a small team  and we're looking for people to partner
+ with to make this thing work. If you're one of these folks
+ that think you might be interested,  I will leave links down below
+ so that you can contact us. We would greatly appreciate that.  Last thoughts. Even if you're
+ not interested in our app, that's the proof of concept
+ for the privacy engine. If we could create a successful
+ Kickstarter campaign, that would send a powerful message
+ that privacy is important and things need to change.  All right. This is the first video
+ in the smarter, everyday price. C series, there's a lot to cover here.  So please consider
+ checking out the links below. Thank you so much.  I'm destined to getting smarter every day. Have a good one. Bye. 

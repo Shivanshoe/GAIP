@@ -1,0 +1,84 @@
+- In today's video we're
+going to be retesting the 10400 and testing that
+with 2666 megahertz speeds at both CL16 and then a little custom tune on that CL16 to drop it down to as far as it can go to see how much extra FPS we can get. Because apparently with the
+H4-10 and B4-60 motherboards this is going to be the
+speed limit on your memory in terms of what you can
+get it to with the i5 10400. And so in a recent video
+that Gamers Nexus did, he capped the speeds on the memory and he showed a significant drop in FPS and that caused him to
+not recommend the CPU. And then subsequently from there people pretty much came into my
+comment section saying that my video was completely wrong my recommendation is bad,
+I should redo the video and here we are today
+redoing the test for you guys so let's just get straight into it. Basically we tested with a 2080 Ti, which again is a little bit overdone for these six core 12 thread
+CPUs especially at 1080p but we are painting
+the worst case scenario with these results. And what we can see in Ghost Recon is dropping it down to 2666 megahertz, both SEL 16 from the XMP
+profiles and then a custom tune was that the FPS was still absolutely fine and in fact I saw a higher minimum here out of all the testing
+I've done on this game with sort of like a weird thing that happened on the 2666
+custom tune there CL14. And then moving over to
+shadow of the Tomb Raider we did extract some more FPS
+with that custom tune again. Moving over to Fortnite we saw actually the exact same average FPS here. So the 2666 megahertz was
+the limiting factor itself in this particular title. Move over to Resident Evil 3 we saw some pretty good FPS out of this game. And the move over to GTA
+5 we gained a few FPS on this custom tune and then Warzone was pretty much in line with
+all the rest of the CPUs and their memory speeds here. So basically there's the
+gaming numbers for you and you may notice okay you Ryzen 5 3600 isn't performing as well as
+some other people are showing and that's because we tested
+with 3200 megahertz CL16. Now the difference between CL16 and CL14, this is actually an important
+thing to pull up and mention is that one set of memory
+uses Samsung B-Die memory and that's actually quite
+a bit more expensive at least when I check in the
+local retailer prices here, you can pay an extra 80 Aussie dollars over the CL16 3200 megahertz stuff. And so in America that
+would be around 50 USD and that's a big chunk
+if you're on a budget just trying to get a budget motherboard and a six core Ryzen 5
+3600 or 10400 or a 10400 F. And so when I speak to the retailer's and I ask him about this stuff here, they tell me that this is
+the most commonly sold memory and that is 3000 megahertz XMP CL 16 and 3200 megahertz CL16. It out sells the 3200 megahertz
+CL14 and 3600 megahertz CL16 by quite a big margin. And so when I talk to the retailers and I get this data in,
+at least in Australia, I then base my testing on
+the most commonly used memory with a commonly used
+set up for budget users. So basically coming out of this video my recommendation still stands the same, though I do apologize for missing out the 2666 test in the original video. But basically if you're in the market for a six core twelve threaded CPU, you cannot go wrong buying the 10400 or the upcoming 10400
+F or the Ryzen 5 3600. There amazing value for money CPUs, they've got included coolers
+that do the job out of the box. Now of course you can
+overclock the Ryzen 5 3600 but in my test I wouldn't
+really bother doing that with the included array of stuff. I'd go out and get a better custom cooler which would keep the temperatures down and allow for better overclocks. So then we're adding in another element into the comparison if you
+want to put that in there. Also in terms of the 10 400 F that should come in
+roughly 20 dollars cheaper making it around 160 USD, which will make a good value
+for money for pure gamers. Of course if you want
+to utilize that IGPU, it's not actually completely useless. if you're into streaming for example and you want to take a
+bit of a load off your GPU if you're using that encoder, you can actually use
+the Quick Sync encoder probably getting around 5% FPS because your GPU is now a
+little bit more freed up. And coming out of this when
+it comes to tech reviewers and getting recommendations, go and watch a heap of
+different reviews on the product before you make your decision and see which recommendation
+best matches your wallet. And that's my advice and in terms of my opinion differing from other reviewers especially Gamers Nexus,
+that's his opinion he's more than entitled to that just like I'm entitled to my opinion. And I know in the past this has differed this is not the first
+time this has happened and in the past with the 3500 X, my opinion on that was at least with the Ali express 110
+dollars shipping price, that was amazing value
+for money, I thought. It was the best value for
+money gaming CPU to get and then they closed it off but other tech reviewers
+thought it was real mediocre. They didn't really think
+of it as a good CPU to go out and buy over the
+other options available but basically when the 10 400 F is out and also H 410 and B 460
+motherboards are out, I'll retest the results again
+apparently there's rumors that you'll get a maximum
+speed of 2933 megahertz, which would close the numbers ever so more and make that gap a little bit less. But for what it's worth
+again both good CPUs you can't go wrong with either and if that recommendation
+is not good enough for you then I don't know what to say. But I do know what to say
+to this question of the day here which comes from TikTok videos and they asked basically
+can you build us this PC, I'll pay you 300 US and
+you can ship it to me. And the answer to that
+is when I do builds here on the Gold Coast locally where I'm at, I don't ship them generally at all, unless it's for like a friend of a friend who's living in Australia. In terms of international shipping a PC from Australia to overseas,
+it's just way too expensive. I wouldn't even look at the price, you're looking at around probably a 150 US dollars shipping
+alone for the PC. Maybe even more and then there's the risk if something gets damaged in shipping, which I've had in the past, back in 2016 where I shipped a PC from Japan
+to someone in New Zealand, and that was a giveaway
+PC and that got wrecked. So I generally don't ship
+especially internationally, so hope that answers that question. If you guys enjoyed today's video then be sure to hit
+that like button for us and also let us know in
+the comments section below what you think of the whole
+10400 10400 F Ryzen 5 3600, Love reading your thoughts
+and opinions as always and I do want to thank you guys for also not being nasty in the comments. I mean I did delete a
+few like nasty comments and I guess I don't want any of that coming around my channel. At the end of the day I just,
+I'm a guy who does testing and from time to time
+I might make mistakes, I might be wrong but I never will
+intentionally mislead people that's something I don't do. Though enough rambling from me, I've got a lot to do
+before the end of the month as well as the used PC parts on, so if you want to see these
+videos the moment they drop and your not yet subbed you
+can hit that sub button, ring that bell get the content as soon as it's here at Tech Yes City. And I'll catch you in the
+next tech video very soon. Peace out for now, bye. (upbeat music) 

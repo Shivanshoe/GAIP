@@ -1,0 +1,186 @@
+- I feel like we don't
+know each other well enough to be doing this right now. - This is how you get to know each other. (laughs) The fast path. - I'm ready. - All right, three, two, one. (bat fires) - What up? I'm Destin, this video is amazing. This baseball says
+world's longest home run and the reason it says that is because in an earlier episode
+of Smarter Every Day, Jeremy Fielding and I built what we called the Mad Batter. It's a crazy device that spins
+baseball bats super fast, and if you ever make good connection, the ball will go sailing. Well, recently I heard
+about a guy on the internet, his name is Shane from
+the YouTube channel called Stuff Made Here, and he's
+trying to beat that record. And he's doing it with a really cool bat of a completely different design. Whereas the Mad Batter
+is a terrifying device that I don't wanna be anywhere near, he has a device that you
+can hold in your hands. It's a baseball bat that
+uses powder cartridges, so when the baseball hits it, it'll light that powder off and fling the ball out over the fence. So today on Smarter Every Day, there's a few things going on here. Number one, I want to
+introduce you to Shane from Stuff Made Here, because
+this dude is the real deal. He's just now starting out on YouTube, he is amazing, and I would
+like for you to consider subscribing to his channel on YouTube. It's called Stuff Made Here. Shane has spent countless
+hours making a video about how he made that bat, but I think this is going
+to be key to understanding exactly what's going on. So if you wanna know how he made the bat, go watch that video on his channel. But on this channel, we're gonna take the
+Phantom high speed camera and we're gonna try to understand the collision mechanics between the ball and Shane's bat. I understand the collision of a baseball with a bat when it
+happens on the Mad Batter. Basically as the ball
+comes in and hits the bat, it squishes, and that
+strain energy is used to rebound the ball off the bat. There's an efficiency
+coefficient there called the coefficient of restitution, and that determines how well
+the ball bounces off the bat. What's so interesting
+about what Shane's doing is he's not squishing, well, he is squishing the ball, I don't know, that's the problem. He didn't film it with
+a high speed camera. So what we're gonna do is on this channel, I'm going to investigate
+the collision mechanics of Shane's new powder driven bat and on Shane's channel,
+we're gonna talk about, or he's gonna talk about
+how he built the thing. So anyway, let's go to North Carolina, learn about this bat, and see if we can get Smarter Every Day with Shane from Stuff Made Here. (upbeat music) This is Shane, from Stuff Made Here. I'm genuinely excited to be in this room, because I like being the
+dumbest guy in the room and I feel like that right now, and I feel inadequate
+because of all of your tools. We've got a CNC router, woodworking stuff, we've got a brake, what is this? - It's a CNC. - You built a CNC? - When you can't afford
+'em, you've gotta build 'em. - Okay, you've got
+something that looks like a bridge port, but it's not. I want Shane to beat the record, and you've already beat my record? - According to my distance wheel. - Yeah?
+- 710 feet. - Okay.
+- So, I think you were high 600,
+690, something like that. - It's actually a little over that. - Oh, really? - Let's go look it up. We have to, whatever it is,
+I'm here to help you beat it. And I brought the slow-mo camera because I think what
+Shane is doing is amazing, and the whole point here,
+is to beat the record, because records are made
+to be broken, right? Okay, here's the record. - [Man] That's awesome. - So there you go, we
+hit what I believe to be the longest home run
+in history. And yes... - [Shane] Oh no. - [Destin] 717 foot. - If remeasured. - [Destin] Yeah. - How didn't I see that? - [Destin] Have you done that? What was your number? - 710. - [Destin] Are you serious? - Yeah, so I didn't beat it. - Okay.
+- Aw man. - But we're gonna beat it. The goal is to make you the dude, and then after that we
+go break it together, what do you think? So basically, the
+cartridges go right here. When the ball hits the sweet spot, those firing pins hit these cartridges that fires the gas up in here, which then blows the pistons
+back that way, right? - [Shane] Yeah, so there's
+a manifold down here that connects both pistons to all the cartridges. - [Destin] So now, when that hits, boom, the force fires the cartridges and then fires this thing out. - [Shane] On this side
+there's an exhaust manifold and all the gas comes out the tip. - [Destin] All the gas comes out the tip look at that. - So that's packed with steel wool. - [Destin] It's a suppressor basically. Will we need to wear a hearing...? - It's not a suppressor, it's a muffler. - A muffler, you can't say suppressor, it's a muffler. We're gonna muffle things. - [Shane] Yeah. - Yeah, because laws, right? (laughs) Oh, golly, man. How fast
+does this paddle fly out? That's the first question we wanna answer, and you have not been
+able to figure that out. - [Shane] Everything happens
+in less than a millisecond so I have no idea... - [Destin] what's going on. - Yeah, I don't know. - [Destin] Okay, so we're
+gonna use the high speed to figure that out. We got started by setting
+up the high-speed camera and then we established the test plan, which is one cartridge, then two, then three, then four, because stuff might start
+breaking at three and four. 28,000 frames per second,
+Shane's gonna swing the bat, got the Phantom set up over
+here on the engine hoist. - [Destin] What's this? - [Shane] Body armor man. - [Destin] Body armor? - [Shane] Just in case. That is live. - [Destin] That is live? - [Shane] Yep.
+- [Destin] Safety boy is out? - [Shane] Yep. Ready to go?
+- [Destin] Yeah. - [Shane] I'm just gonna give it a tap. (bat fires) - Is that it?
+- [Shane] That's it, the muffler works. - Yeah, I didn't hear anything, dude. Okay, Here we go. We're coming in, there's the pins. - [Shane] That was a bit low. Now you can see the springs
+really working, that's cool. - So it's still pushing. A typical interaction
+between a ball, is like, if something hits a ball, it bounces off depending on something called the coefficient of restitution. What's happening here, is far
+more complicated than that. You get the collision, but then you're adding
+energy after that... - Getting a... A better than one, - A better than one
+coefficient of restitution. It's exactly what's happening.
+- Yep. - Two cartridges, still
+shouldn't be too loud, but we'll see. - [Destin] Okay, ready? - [Shane] All right, here we go. (bat fires) - [Destin] Okay, now we're talking. - [Shane] There goes your camera. - It did break the camera. Okay, so it looks different this time. There's a, It's a two part, okay, so watch. - [Shane] It almost does hit it twice. - [Destin] Seeing your face
+see this is pretty fun. Cause you've been...
+- [Shane] That's bizarre. - [Shane] Yeah, like it almost launched it and then it was like not so fast. - [Destin] Yeah, so what
+seems to be happening is you get the squish, when it's compressing the firing pin, that's bending brass. - [Shane] Yeah and then
+it's sort of bouncing - [Destin] Almost. - [Shane] Then it spanks it. - [Destin] That's really fun. So you got three cartridges now? - [Shane] Yeah.
+- [Destin] You're good? I'm ready. - [Shane] All right, here we go. (bat fires) - [Destin] (laughs) - [Shane] A bit more power. - [Destin] Oh that's... Oh yeah, like cheap Chinese fireworks is what that smells like. - It's like intoxicating power. - [Destin] What do you
+mean intoxicating power. - [Shane] It's how powerful I feel. - [Destin] (laughs) (slow motion firing) Okay, so what's your
+guess on that velocity? - [Shane] 135. - [Destin] Are you serious? - [Shane] Yeah. - [Destin] It is, why do you think that? - Cause that's what I
+calculate it would be from other stuff. - [Destin] It's one thirty three. - Cool. - Dude is smarter than me and
+I know it and he knows it. Do you know it? - No. - It depends on the topic,
+he's smarter than me. I guess it does depend on the top. - [Shane] I spent a lot
+of time with this bat, so I kind of have an advantage. - [Destin] Okay, here we go.
+We have the data we want. Now we can analyze it. So first, let's take the diameter of the baseball and we can use that as
+a pixel calibration, to determine the velocity
+of each individual shot. Specifically, we can track the paddle, and we can also track the baseball. Let's look at this single
+cartridge shot first. I'm gonna plot, the paddle velocity and the ball velocity, and just let you look at it, and let's see what we can learn together. Okay, that is a lot of
+squiggly lines on the screen, but it didn't really hit the bat squarely so let's move to the second
+shot with two cartridges, and see what we can find here. Oh wow, okay, there's
+a lot to look at here. Let's do it. You can see initially the
+bat has a positive velocity because it's being swung, and the ball is at zero.
+There's no velocity there, but the exact moment they hit something interesting happens. The bat starts to decelerate and the ball starts to accelerate, and they start to converge on one another, and eventually they are
+moving at the same velocity. And at this point we
+are a collision system. Like they're moving as one. You can see that there's this rebound, of the bat, it kind of goes backwards, and ignites the cartridges. But it seems to almost
+bounce off of the cartridges and there's this little bit of lag time, while we're waiting on
+everything to light off, bang! And then there's the fire. You can see that we have an acceleration on the paddle itself. But look at this, the acceleration of the ball
+lags behind, like it's later. And I'm gonna call that the squish delay. And it looks like the same
+curve, but it's just offset. So the slope of this velocity
+curve is acceleration. So eventually the baseball is moving, at the same acceleration, as the paddle, but then up at the top, you can see the paddle stops accelerating, and that's when the bat and the ball decouple from each other
+and the ball starts to fly. Eventually the pistons are fully extended and the paddle decelerates, we see this really sharp drop in the curve and that's due to Shane's
+clever braking design. Okay, let's look at the same graph, but for a three cartridge shot, which means it should take place quicker, but also be more powerful.
+All right, here we go. Contact, squish, primer
+ignition, paddle acceleration. Baseball is delayed. The paddle stops, and the ball is launched. Holy cow! We now understand this super
+complex dynamic system. I guess it's time for the
+absolutely ridiculous, four cartridge load, which we don't trust. So in the interest of safety, I'm gonna stand behind big metal things. And Shane's going to stand behind the swinging device that he devised, strictly to protect him
+from this thing exploding. I'm hiding behind your router bed. - [Shane] Three, two, one. (bat firing) (slow motion firing) - [Destin] (laughs) - [Shane] It's Like a rocket.
+- [Destin] It's still going. - [Shane] Yeah.
+- [Destin] We would expect the fourth charge shot
+to be higher, right? Except it's not, it's actually lower. So what could cause our
+baseball to go slower if we have more charges firing it? For starters, there was a
+whole lot of fire this time. - [Shane] Whoa.
+- [Destin] What we got? - Yeah, that was where
+the fire was coming from. It just blew out where the, completely notched out
+where the firing pin is. - Holy moly dude! - [Shane] I thought that
+was coming past the O-rings. - [Destin] If you look closely, you can see that the back
+of the powder charges actually blew out, meaning it
+vented a lot of that pressure. Another thing that Shane and I
+think might be happening here is something called an impedance mismatch. Basically, if you have something squishy, and you have something rigid and they hit the amount of
+time, it takes to compress them and then relax, leads to a less efficient
+elastic collision. So basically, you want to match the rigidity of the objects that are colliding, so that they can compress
+and relax at the same time, and you get a more efficient collision. In this case, you can
+clearly see in the data, that the ball isn't done squishing by the time the paddle stops pushing. My guess, looking at these graphs is that the optimum charge load for this bat is somewhere around, three and a half cartridges. Okay, we've done the four shots, just to get the comparison to
+the four different velocities. Now we wanna understand the
+dynamics a little better. We've got the high speed camera
+looking straight down here. We'll get a really cool shot. - Two, one. (bat fires) - [Destin] It was pretty
+clear to Shane that the reason we kept breaking
+stuff is we were trying to decelerate the paddle. So eventually we removed
+that stopping mechanism and we just let the paddle fly out freely after launching each ball. - [Shane] It just pushed it,
+it just rocket ships it man. - Okay, here we go. Today is the day where Shane
+is going to break the record. Show the crown. - No one's allowed to wear it. I guess you have to wear
+it, because you have the... - No, no, no, no, no. It was, it's shared with Jeremy Fielding so... - You both can wear it,
+we'll make a big crown. (Laughs) Two headed.
+- So anyway, here's the deal. The goal is for you to wear
+that by the end of the day, for the home run record, right? - That's the goal. - Shane's method for not losing the paddle that flies out of the bat, was to tie it to a bucket
+with some Kevlar string, is a pretty elegant solution, batter up. - Alright, three, two, one, (loud bang) - [Destin] Holy cow. - [Shane] That was the, there goes the bucket handle. (laughs) - Let's go see where this went. I saw the... Oh, it's an electrified fence, I need to be careful with that. There it is. We have to find that, because we can't shoot any
+more if we don't have that, right by the horse poop. So horse poop is how far this went. Okay, here's this. - Not seeing the ball. - [Destin] The ball just go away? - [Shane] We can go look in the field. - Just watch it real quick. (slow motion firing) - Oh, no that was a good launch angle, but maybe a little low. - [Destin] I think you
+were a little over it. - [Shane] Yeah. - [Destin] Oh, you've got this dude, you're gonna break the record. - This wasn't what I intended. - [Destin] Hey Shane, why didn't you make extractors for this? - [Shane] Cause I'm a fool. I'm gonna hit the ball right this time. - [Destin] Let's not
+get carried away, ready. - [Shane] Alright, here we go. Three, two, one. (bat fires) Whoa, that went way up... - [Destin] Right there. It was a pop fly to like
+shallow right center. (slow motion firing) Five, four, three, two, one. (bat fires) (bat fires) (bat fires) (slow motion firing) That's a good hit man, good job . - Yeah, that was much better. - Good job. Okay, you gotta check this out. I wanted to get a super sweet shot. So what I decided to do was
+operate the high-speed camera with my right hand, while simultaneously flying
+the drone with my left. It all worked out because Shane put together a really
+good swing for this one. Alright. Nope, no, nope, not ready. - Okay, Ready? - Yep. - [Destin] Three, two, one, go. (loud bang) - There we go, that was good. (bat fires) (drone buzzing) Three, two, one, go. (loud bang) There we go, that was good. I didn't trigger that. Turns out I did trigger it. (slow motion firing) (drone buzzing) Right there, right there. - [Shane] Oh, oh. - [Destin] It's trying to land on you. So I need to push that forward, (Destin laughs) That's awesome, like you
+almost hit it with a bat. Seriously dude. Look at the drone, (laughs) I told you, I put your
+drone in complete risk dude. (laughs) - That's like a millisecond behind. - Dude we could not redo that if we tried. - To run a mission to find the ball, our local Intel is telling us that, it went over the road into
+some tall, rough stuff, which by my estimation,
+it beat the record. Sorry Dusty. - You're still wearing the body armor. - I mean, it's a pain to get it on and off so now I look cool. - You do look cool. So I came to North
+Carolina to document Shane beating the home run record. And I'm like 99% sure he did it because he hit it way over this road, which is at 600 feet. That being said, we
+never found the baseball, because it's out in the tall grass. But at the very least, I think he has earned your subscription to his YouTube channel Stuff Made Here and moving forward, maybe this record could be broken in an even more epic way. We broke parts and I'm flying out. - We may be broke a
+record, but we don't know. - But the real deal is you're gonna come to Alabama
+and you're gonna bring stuff. - Stuff. - Have I earned your
+trust to combine forces? - Yes. - Okay. - It's like when the Power
+Rangers all connect up. - Megazord. - Yeah, - Yeah, yeah, we've
+got to figure this out. Okay, the new goal, 1,000 feet? - 1,000 feet. I mean just think about it, Mad Batter, plus this, plus
+supersonic baseball cannon. - [Destin] All at the same time. - Yeah, it doesn't count. - We're gonna do that, for time being... - I demand, I demand a recount. - Okay, here's the deal, go
+subscribe to Stuff Made Here, Shane makes really good stuff.
+I'm a big fan of Shane's. - I don't normally wear crowns. - He's smarter than me and... - Debatable. - I really enjoy what he does. So go check out his channel,
+it's called Stuff Made Here. - Stuff Made Here. - And you just make stuff. - And I make it here, yeah. - Yeah (laughs) This episode of smarter everyday
+is sponsored by Kiwi Co. Would you like to explain
+what Kiwi Co is real quick? - Kiwi Co is a monthly subscription box, that sends happiness to your doorstep and you build it and you
+come out with awesome stuff like the ballista we're gonna build today. - [Destin] We're gonna build a ballista, and what else we're gonna build? - A walking robot. - [Destin] A walking robot.
+And then what are we gonna do? - We're gonna shoot the walking
+robot with the ballista. - [Destin] That's exactly
+what we're going to do. Okay, which one you want to go first? - The ballista. - [Destin] This ballista, okay, go for it. Okay, the way Kiwi co works, is it's a company out in California that packages these really cool kits. You don't have to go to
+the store for anything. - We got a protractor, this is awesome. - [Destin] The kits come with
+a really cool instructions that have everything you need to know in order to build it and
+explore mechanics, electronics. It inspires your kids to
+learn things by building, actually getting your hands dirty. So we've actually gone
+to Kiwi Co headquarters and I've spoken to the CEO
+of Kiwi co, which is Sandra. She's an amazing engineer that started this company because she wants to help inspire kids - I grew up making a lot of stuff, and once my oldest two kids got to a point where I wanted them to start making stuff, I started to compile materials and ideas. And one of my friends was like, "This is so much fun you should start a business around this." - [Destin] I totally
+recommend this for your kids. You can get any of these kits up here by going to KiwiCo.com/smarter. Try it for free, and you
+can pick the exact kit, that makes sense for your student. - Kid. - Kid, yeah. (Destin laughs) Get it right dad, huh?
+- Yeah. - [Destin] You choose which
+one makes sense for your kid. Once you pick that, then
+enter the rest, boom. You get Kiwi Co and your
+kids start to have fun. You can go to KiwiCo.com/smarter. You get the first kit for free. That signs you up, you get one a month. You can cancel any time,
+there's no commitment. You can just cancel if
+you don't want it anymore. So you can do the original project and then you can modify
+it to do other things. - Or like it has a
+totally unrelated project. - [Destin] Oh really? - Marshmallow bow and arrows. - [Destin] Yeah? - Yeah, which is pretty cool. - [Destin] This is a
+fantastic gift to give any kid in your life that you
+think would love to build and create things. I'll let my son explain to you what it's like to move
+up through the kits. You started with Koala Crate, didn't you? - And then I went to Kiwi and then now I'm about
+to move up to Tinker. - [Destin] Yeah, Is that your favorite? What's after tinker? - Doodle maybe. - [Destin] Or they have a Eureka crate and they also go to Atlas Crate. - And Maker crate. - [Destin] Yeah, you think
+you're going to get there day? These things are amazing,
+we love them in our family and you will love him in yours. KiwiCo.com/smarter. I have met a lot of
+engineers throughout my life. And Shane is one of the most impressive. You have to go watch this
+video of how he designed and tested this bat. There's gonna be some cool
+stuff coming from this guy. So go subscribe to Stuff Made Here. Also big, thanks to patrons
+of Smarter Every Day, I recently sent you a baseball, with the Smarter Every Day logo and the Trash Panda's logo. Thank you for signing up to be a patron of Smarter Every Day. I'll leave the link down the description if you'll learn more about that, but we have to beat the record. This has to be a thing. Hopefully it'll work out
+with Shane and I can do that. But if you'd like to subscribe
+to see if that happens on Smarter Every Day,
+but more importantly, subscribe to Shane's channel. There's gonna be big things
+coming out of this guy. Anyway, that's it. I'm Destin, you're
+getting smarter every day. Have a good one, bye. (soft guitar music) 

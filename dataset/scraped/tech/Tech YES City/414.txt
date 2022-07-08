@@ -1,0 +1,116 @@
+- I'm a Fortnite gamer, are you a Fortnite gamer? Input Latency and a game called Fortnite. I've always wanted to
+test out the two to see, what's the best settings
+that you can put in on your software in order to get the fastest
+frame drawn to your screen. Now the advantages to this, obviously if you're a competitive player and even if you're playing for money, is that you'll want those
+frames coming up on your monitor as fast as possible. This in turn means that if
+you've got this advantage, you can see the enemy
+faster than they can see you or other things considered. However, today we're running these tests with a 1000 FPS camera, and we're shooting it on an Oris 25 inch, 240 Hertz monitor. So we're trying to eliminate
+as much variance as possible to give you guys accurate
+numbers going forward. That being said, this video also functions as a precursor to an upcoming video, where I'll be testing Intel versus AMD on the hardware side of things, and also Nvidia versus AMD GPU use. Another thing I'll be testing too, is the Ultra-Low Latency mode that Nvidia have introduced in the last few months in their drivers, as well as their max FPS setting where you can set a frame cap. And some people have said, that if you've got a
+G-Sync enabled monitor, setting in a manual frame
+cap below your monitors max refresh rate can
+also drop input Latency, if you are using a
+technology such as G-Sync. So today we'll be testing
+that with 240 Hertz, then we'll go down to
+235, 230 and then 220 on this 240 Hertz monitor to see if it indeed does
+drop that input Latency. And then the last test I'm curious about is DX11 versus DX12, does the API make a difference? Let's find out. - [Narrator] If you're looking to get the most out of your audio then for 120 bucks the
+creative Sound Blaster X3 has you covered with 600
+arm headphones support, 7.1 discreet out for your speakers, Or if you're in a PC gaming, get an edge with audio processing
+such as the Scout Mode, which lets you hear footsteps easier. Links the description
+below to find out more. - So first things first, this is our contraption here, which is made from a mouse which we pulled out and then we rewired it with a click here, that when we click this, it'll actuate a light which will tell us that the left click has been enabled on this mouse. So when we're playing a game like Fortnite and we left click, it will then fire whatever we're using at that point in time. And so this is able to tell us the moment we have a identified. And so after that, since we're shooting with 1000 FPS camera, we can then relate one
+FPS to one millisecond. And so the time it takes
+that from this light going on for the frame, then coming out on the screen, we're able to tell the delay. And the more we test this
+with different settings, we obviously want the
+lowest delay possible, which will then equal the
+best competitive settings. So without further do, let's run these tests and get back with a few
+numbers for you guys. But also, another thing
+that makes this comparison really good with this monitor is that it's able to display
+the actual frames coming out of the monitor itself. So you can see here it's
+actually a 242 Hertz monitor, not 240 Hertz, so you're getting that extra two FPS if you do turn off
+everything like a FreeSync, but if you turn on FreeSync, and then your FPS goes lower than 240, this will actually tell
+you what the monitor is a drawing at real time. So it's actually a really handy feature, especially when it comes to testing those are lower frame cap
+settings on this monitor. (slow beat music) And we just finished DX11 versus DX12, now even though DX12 is in beta, still it showed me some
+impressive results. So we'll quickly take a look at this, we've got an average
+here of 24.4 milliseconds total Input lag on the DX12 setting. And then we look at DX11 that was coming in with
+an average of 31.2. So basically what we did here, was 10 runs of each setting. And I've got to say
+quickly interlude here, I love 240 Hertz. This is the first time I've tested on it, and it was just so good. Where the variants between the best frame and the worst
+frame was six milliseconds on both DX11 and DX12. Where the fastest frame on
+DX11 was 28 milliseconds, and then the slowest
+frame was 34 milliseconds. And then on DX12 the fastest
+frame is 22 milliseconds and the slowest frame was 28 milliseconds. So straight up what these numbers tell us. When I created my own server and the ping was saying
+it was roughly zero, this game can be a very responsive game if you've got the right settings. So going forward I would say, leave it on DX12, if you're not getting
+any major stuttering. So we have a 9,900K here and an RTX 2060. And the settings are on low with the view distance
+set to Epic at 1080p 'cause I believe this
+is what all the pros use and for what it's worth, the experience here is absolutely smooth. So if you can run DX12
+and it runs smoothly, then I do recommend doing that straight up because that's gonna save you around six to seven
+milliseconds in response times. Now one more thing going forward too is that we are testing with the pistol and this is great for correlating the data for a single shot to a single mouse click. And so this is going to
+be the best case scenario for giving you guys accurate numbers. Also one thing I will say moving too is technically even though on DX12 the best frame that we
+got was 22 milliseconds, the real input delay is technically five milliseconds faster. As you can see with the crosshair that's actually opening up before the bang appears on the screen, but we're going to be using
+the bang on the screen because that's much more consistent. So going forward, DX12 is our winner, but what about these other settings in the Nvidia Control Panel, like Ultra-Low Latency mode, let's test this with off, which is already what
+we've tested versus on, then versus Ultra. (slow beat music) So testing out that elusive setting in the program settings in
+the Nvidia Control Panel with the Ultra-Low Latency mode with off versus on versus ultra. We can see here that
+there's really no difference on the setup that we're
+using in today's video, and that is the onsetting actually scored the best one time frame. This is kind of like an anomaly here where we've got 20 milliseconds. However, on this anomaly frame, I did notice a tearing right
+in the middle of the screen where the bang appears. And so this isn't really
+that desirable in itself. When we moved over to the Ultra setting that scored
+24 milliseconds on average versus 23.6, versus 24.4. So basically having this
+setting on versus Ultra, if you're going to have
+DX12 set with no Sync on, is not really gonna do anything for you. Basically the variance is too low for me to confidently say
+one is better than the other. Though that being said, let's now move on to G-Sync technologies which eliminate the frame
+tearing all together. Though do they come at a input delay? And if so, can we make that input delay any better? Let's find out. (slow beat music) And now after testing out capping frames and turning on G-Sync, we've got some of the weirdest results that I would have never have expected. And we're going to get off with setting the cap to 221 first. Basically, we saw here an
+average of 24.3 milliseconds with the worst case being 22 versus 27. The same followed true for 230 cap, where it was pretty similar results averaging out at 24.2, and then looking at 235, so pretty much similar
+results as the 230 and 220. But this is where things get really weird, when we put the in-game cap to 240 because when we initially set it to 240 in the Nvidia Control Panel, it gave us similar results to the two 35 and the other numbers, but it was breaking the
+VSync or the G-Sync. But after we put in the
+240 cap in the game, we got even lower numbers. Then when we got DX12 initially with all the sinking turned of. So this was to the tune of an
+average of 15.5 milliseconds where the worst case
+scenario was 18 milliseconds, and the best case scenario was 13. So basically up until
+this point in this video, we've got the best Latency numbers for competitive play by turning
+freezing on in our monitor and then enabling G-Sync
+in the Nvidia Control Panel and then setting a 240 framerate cap within Fortnight itself. Another thing too about Fortnight's framerate cap versus the Nvidia Control Panel is that the Nvidia Control Panel does seem to overshoot the frames in this particular title as
+opposed to the in-game cap, that hard locks it at 240 and you won't see it jump above that. There without a side. It's now time to run back
+with this 240 a framerate cap and turn on the Ultra-Low mode finally, and then also turn off
+FreeSync and a G-Sync and see if those two can edge
+this input lag down any lower. But let's get the testing done so we can finally conclude the best settings for Fortnite gamers (upbeat music) And here we are now coming
+back with the finale and the finishing results here, taking off FreeSync and then putting the in-game cap, didn't really do a whole lot for us. It did shave us down a couple
+of milliseconds compared to the original comparison, where we got 23.6 but it was
+still a matter of variants where we got 22.8 with the best frame being 19
+versus the worst being 25. But when we put on Ultra-Low
+mode for the 240 cap with FreeSync on, we then got an average
+of 15.9 milliseconds with the best frame being 14,
+and the worst case being 19. There pretty much the same
+result as we had before, so this Ultra-Low mode
+or even the on mode, it doesn't make a difference if you are already getting
+really high FPS draw at least in Fortnite. It may work in some other titles, especially if the settings
+are not optimized for PC. But in terms of Fortnite, you don't have to worry
+about this Ultra-Low setting and whether it's going to affect your input Latency. But for summarizing
+these numbers here today and wrapping up for you. If you're a competitive
+gamer playing Fortnite. Then the best settings I found here today was turning on DX12, and also using the in-game framerate cap as well as having FreeSync
+turned on in the monitor and then having G-Sync turned on in the Nvidia Control Panel. All other things equal, this gave us the best numbers here today. What we averaged out a
+little over 15 milliseconds versus our initial result, which was in the 30's. So if you're a competitive gamer, shaving off 16 milliseconds of input lag, can make a difference believe it or not. And that's one thing I've
+always been passionate about here at Techs YES City is competitive gaming and getting the best settings or hardware to get those frames. Because Nvidia has been saying this thing about frames wins games, but when it comes to Fortnite
+and competitive play, I dare say frames and
+proper settings wins funds, especially if you can
+win those tournaments. So hopefully this video has helped you out and it's given you some insight on what's the best settings to use. If you've enjoyed it then be sure to hit
+that like button for us. But in terms of that especially, we'll go back to that G-Sync
+in that framerate cap. I will state one thing and that is, the first frame of both testing the framerate cap at 240
+in the Nvidia Control Panel and testing the 240 frame
+rate in the game itself. The first frame did have a tear in it on both examples, then after that there was no tearing, so that was a weird thing I did notice, but of course it did so, while it's giving us
+the best input Latency. And another thing worth mentioning is the thing that I've heard
+about dropping the framerate just below your monitors max refresh rate. That could ring especially
+true for other titles, because what we saw there
+with that Nvidia Control Panel was the overshoot of the framerates. We saw that in the game
+with Fortnite FPS counter, but I guess Fortnite has implemented a really good framerate
+cap that works really well. When we look at another game, just for instance, throw it
+out of the top of my head, maybe crossing the street for example, it could work a lot better in that title or see us go where their framerate caps in-games may not work as well as the Nvidia Control Panel or vice versa. So there is that thing no one is overshoot and that could affect your ability to get a good experience out of G-Sync. So in terms of getting
+the lowest input lag and smoothest experience with G-Sync, it's still up in the air. I'd have to test more games out before I could confidently say what you should be doing
+with that particular setting. But in terms of Fortnite itself, we've got the settings that is going to get you the lowest input
+lag here in today's video. So that aside, let us know in the comment section below, if you enjoyed this one and remember stay sobbed
+and ring that bell because this month I will be getting that input Latency testing done with Intel versus AMD versus
+some old school Zealand's too, and we'll find out what's the best hardware to be using if you're a competitive gamer. And now we've got the question of the day which comes from a user called ShampooTime and they asked what did you study at uni? I studied business and I majored
+in finance and marketing. And the ironic thing is I'm doing nothing in terms of my career in relation to those two things. And I've spoke to a lot
+of other people out there who go to university, study something and then they
+end up picking a profession, that's not even one bit related
+to what they studied at uni. The one thing I will
+say about my uni degree was at the time, it enabled me to get a long, extended working visa in Japan, as opposed to if I didn't
+have that university degree, then I couldn't have got that a visa. So it enabled me to live in Japan and work and have a lot of fun there, which I did in my early '20s. Anyway, I've rambled on enough, my fellow Tech Yes Citizens, and also Fortnite gamers. I will catch you in another
+tech video very soon. Peace out for now, bye (upbeat music) 
