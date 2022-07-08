@@ -1,0 +1,90 @@
+with windows 11 finally being official here is 
+everything you need to know and we'll start from   the most noticeable and end up with the under the 
+hood changes you probably wouldn't have noticed   do you feel like this when you see this well if 
+so you can get rid of that windows activation   message with today's video sponsor scd keys for as 
+little as 12 usd after you use that coupon bftyc   you can get activated today links in description 
+below starting with microsoft's new visual   language there's an emphasis on glass i mean 
+semi-transparency from the rounded corners to the   pop-ups even to the radio buttons it looks nice 
+there are new animations for interacting with apps   like maximizing windows and more noticeable 
+minimize animations too though the biggest example   is the new start menu it seems to have switched 
+from a resizable dynamic element to a static   element where the only customizations allowed 
+are the content the scaling and the placement   you always have a 6x3 grid of pinned apps at the 
+top and your recommended section underneath that   which can show you three things recently installed 
+most used apps as well as recently opened files   you can choose which of these three are visible 
+or hidden but they'll always appear in this   section they don't have their own tabs and even 
+if you disable all three options the section will   remain with a link to enable them in the settings 
+which in my opinion is quite lazy programming but   it looks nice so i won't be too critical you 
+can't resize the start menu's height with or   how many icons appear it always looks the 
+same besides what apps you choose to pin   and the color based on your theme and background 
+your account options look like this and your power   options look like this your programs list is moved 
+over to this button here and now looks like this   you can also have multiple pages of pinned apps 
+personally my favorite is the snaps layouts   all you have to do is hover over the maximize 
+button for a couple of seconds and it will show   you a bunch of screen layouts and then you can 
+click to add your window to one like the fancy   zones app the next big change is the addition of 
+widgets you get a little bit of finance weather   news and sports is customizable in terms of size 
+and placement and what you see is based on msn but   that's not even the worst part you actually need 
+to be logged into your microsoft account to even   enable them which is a big no-no i do not support 
+microsoft locking down features to people who log   in in fact i appreciated the fact that you could 
+completely use windows 10 without a microsoft   account with the exception of the windows paid 
+store apps like forza and hvec codecs but forza   is on steam now and you can just use vlc so you 
+could feasibly use the pc without any logging in   forcing a microsoft account increases unstoppable 
+telemetry requires a password login and is just   a bunch of hassles so when it says continue with 
+limited experience if you don't need an msn feed   you won't have a limited experience at all but 
+in better news there is no more forced cortana   rejoice the cortana app remains but the windows 
+setup and taskbar are not using it anymore   the search option remains but as always you can 
+just start typing in the start menu so the search   button is redundant for people with muscle memory 
+speaking of useful voice assistance unlike cortana   microsoft implemented native multiple voice 
+assistant support which will allow voice   assistants besides cortana to function natively in 
+windows i think you can already set up alexa to a   small extent but seeing the google assistant right 
+on the taskbar would be very appreciated being   able to control smart lights or play music with 
+google voice would actually be the one use case   i would use a voice assistant on the pc4 besides 
+asking stupid questions and seeing how they answer according to circle care the banana plant and 
+herbaceous plant not a tree because the stem does   not contain true woody tissue that's why bananas 
+are not technically a fruit but it's an herb   maybe i'm getting too far ahead of myself i mean 
+this is microsoft after all if you have multiple   physical monitors windows will try to place 
+apps in more natural places and reset them   when you reconnect or disconnect secondary 
+monitors speaking of monitors if yours is   hdr then windows will take a feature from 
+xbox and attempt to convert sdr content   into hdr content but they still haven't fixed 
+the washed out look on 8-bit hdr certified panels   like my lg b7 and the aegon super ultra white 
+here in the studio even though the panels have   800 nits and 400 nits respectively on the topic of 
+xbox features the direct storage api requires an   nvme ssd to boost gaming performance windows will 
+copy files from the ram to the gpu memory this is   similar but different to nvidia's implementation 
+which features a game api telling the gpu to load   files directly from the ssd to gpu memory and 
+decompress them without utilizing the cpu at all   keeping with gaming windows 11 has native support 
+direct x12 ultimate api although i'm pretty sure   windows 10 already had this feature as 
+a feature of a previous update and this   becomes a little bit of a theme with windows 11. 
+microsoft describes brand new features and they   have already been implemented into windows 10. 
+two examples of this is spatial sound support   and wi-fi 6e support in the way of native things 
+though microsoft has stopped including skype 3d   viewer and paint 3d on new installs but they are 
+still available from the microsoft store speaking   of they have introduced a new store you can now 
+search and install android apps like tick tock   and have them run on windows without an emulator 
+another feature is alleged ability to install   android app packages also known as apks but again 
+this functionality wasn't working in our dev copy   however a new installer that is working on our 
+build is the win get package manager which allows   you to install an app with no hassles it's kind 
+of satisfying you can use wingate search to find   programs in public cdns and win get install 
+to download and install without a single click   in most cases speaking of command lines windows is 
+transitioning to the new windows terminal which is   a single app that allows you to run powershell 
+command prompt and even linux subsystems   it's seamless and looks very modern it allows 
+multiple tabs overall very nice windows 11 feature   updates will be released once per year instead of 
+quarterly and will still receive monthly quality   updates tablet mode has been replaced with s mode 
+apparently and it's a whole new edition of windows   which only runs windows store apps but even more 
+importantly for touch devices running windows 11   a swipe keyboard finally microsoft has also 
+removed a few features that nobody ever used   or should have used like internet explorer the app 
+and file history timeline and the wallet really   begging the question of why did windows ever have 
+these things in the first place windows also has a   new setup menu or an out of the box experience if 
+you prefer finally we have a few changes to finish   up hardware scheduling is enabled by default big 
+little cpus seem to be properly optimized you can   move the taskbar to the left so it's not forced to 
+be in the middle if you don't like that the search   menu will try and add experiences to the search 
+like if you search for the weather or calculator   new sounds in windows very soft and then 
+new wallpapers new windows logo new icons   added padding in windows explorer by default 
+and finally moving over more web executables   to microsoft edge and edge view 2. teams is now 
+edgeview based instead of electron based electron   is chromium based anyway guys that is all the 
+features and differences between windows 11   and windows 10. this is sort of like a change log 
+and do let us know in the comment section below   did we miss anything and also let us know in 
+the comments what is your favorite difference   between windows 11 and windows 10 besides the uh 
+different ways microsoft is going to get telemetry   enabled but i'm pretty sure that's going to be 
+nobody's favorite thing just like in an explorer   and with all that out of the way if you've stayed 
+this far and you're enjoying that tech yes content   then be sure to hit that like button for us and 
+also if you've stayed this far and you're enjoying   that content then be sure to hit that sub button 
+ring that bell to get the content as soon as it   drops here tech yes city and i'll catch you in 
+the next one very soon peace out for now bye you 

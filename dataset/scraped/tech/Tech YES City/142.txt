@@ -1,0 +1,85 @@
+a couple of days ago i got a message from a friend 
+and they said brian you gotta check out windows 11   and i'm scratching my head thinking 
+windows 11. i haven't even heard about this   and sure enough i went to research what had 
+happened and someone had leaked the developer's   copy of windows 11 on the web and i knew this 
+was legit when i got a link to download it   and the link had been taken down so microsoft 
+isn't going to go around and take down links   if that wasn't the legit thing anyway we ended up 
+getting a copy and we ended up trying to install   it and this is where the problems did start 
+to happen where you will need a tpm 2.0 module   on your motherboard or you will either need tpm on 
+the amd side of things which you can activate in   the bios via the option there with the cpu once 
+either of these two conditions are met you can   then start to install windows 11 and i gotta admit 
+first impressions are really good it looks like   a windows 10.1 sort of thing but the performance 
+feels like it's really good it almost feels like   this developer copy of windows 11 has all the 
+crap or most of the crap taken away from the   get-go which is why i'm going to be recommending 
+if people can get on this copy as soon as they can   then they do that another thing as well is it 
+looks like windows 7 windows 8.1 and windows   10 pro keys they do work absolutely fine on this 
+copy of windows 11 however if you guys want to see   a full installation tutorial on how to install 
+windows 11 do let us know in the comments section   below but in today's video we are going to be 
+looking at the windows 10 versus windows 11   gaming performance and seeing how that stacks 
+up and whether you should think about upgrading   to this os let's get on to it right after this 
+sponsor spot do you feel like this when you see   this well if so you can get rid of that windows 
+activation message with today's video sponsor scd   keys for as little as 12 usd after you use that 
+coupon bftyc you can get activated today links in   description below so the testbed that i decided to 
+use here today was a 5950x from amd and this is on   the asrock phantom gaming x motherboard with the 
+6800 xt taichi now the games that we're testing   here we're going to drop them down to 1080p lower 
+settings to really work that cpu and get the   most fps possible and what i found here was with 
+windows 10 we'll pull up here first of all f1 2020   was that we're getting 480 average fps and the 
+one percent and 0.1 lows were also really good too   and then we stepped over to windows 11 and we were 
+getting slightly higher fps it'd be to the tune of   around five percent more fps which was looking 
+very promising and even though the os's do feel   similar we'll pull up the next example here that 
+shadow of the tomb raider where i'll show you   guys when i got to the end of the benchmark it 
+actually shows it as windows 10 as another build   so as i was saying in the intro it does look like 
+windows 11 is actually based off of windows 10 but   it's just a re-skin and also the features are 
+pretty cool but that being said i believe this   extra performance that you're seeing here 
+in today's video could be due to the fact   that it is a bit of a lighter weight version 
+from the get-go as i did test on a windows 10   default copy so i just reinstalled both windows 10 
+and windows 11 for this video and what we can see   with shadow the tomb raider was a very impressive 
+result on windows 11. i haven't actually seen my   fps this high in shadow of the tomb raider before 
+we got an average fps on this benchmark of 223 and   then the minimum fps was 147 and then on windows 
+10 we got 212 fps and a very similar minimum score   moving things over to fortnite this is the new 
+update where you can fly ufos and i gotta say   flying the ufos was actually pretty fun 
+while i was benchmarking this i was like   you can fly a ufo i was like cool so i started 
+flying ufos i actually want to battle royale   as the tech yes man do you know even if it's again 
+bots i'll take that victory and we got here 468   fps on windows 11 versus 455 on windows 10 but on 
+both these examples that i'm showing up here today   it's almost like the fps was just too high 
+it's breaking this engine where the 1 and   0.1 lows were just actually really bad so i 
+wouldn't recommend taking your fps this high on   fortnite especially this new alien update where 
+i have seen a lot better numbers in the past on   those one percent and 0.1 percent lows now moving 
+over to the final title we decided to test here   and this was cs go where we got the average fps 
+was coming in a similar ballpark on both sides we   got a 520 on windows 10 versus 528 on windows 11 
+so we're just getting etching out eight more fps   on windows 11 side now there was a trick 
+that i had to do in cs go i looked around   everywhere because i was like damn my fps is 
+looking pretty low at least when i benchmarked   this game in the past and i couldn't figure out 
+why the fps was this low i mean i tried uh this   guy on twitter posted up a fix that he was like 
+log address or something in the console i tried   that didn't work but then i found what was working 
+in cs go especially on low settings at 1080p   was the fact that the graphics card wasn't running 
+its full potential so i had to go into the amd   software and then up that minimum frequency to 
+roughly a hundred percent as well and then that   fixed the problem even upping it double the speed 
+of what it is normally because what was happening   was the game wasn't demanding much graphical 
+power at all so the gpu is like falling asleep and   sometimes when the gpu falls asleep you may notice 
+in programs like gpu id that it does show that it   does change from pci 4 down to like pci 2 and pci 
+1 sometimes and so i believe that can affect your   fps so this raised the fps up by quite a lot and 
+that might be a fix for you guys if you're having   fps problems in cs go and maybe not just cs go for 
+that matter maybe other games like minecraft or   valorant for example but that would fix that and 
+there it all is with windows 11 versus windows 10   i believe the performance gains we saw here 
+today were just due to that developer copy being   an actual better implementation of the os rather 
+than the standard windows 10 that just comes with   a lot of crap installed from the get-go i mean 
+their latest update of windows 10 they installed   some weather bar which i just was like what is 
+microsoft doing why are they including a weather   bar no one asked for this but sure enough they put 
+some extra i'd call it bloatware on the os just to   who knows maybe just confuse the end user that's 
+all i could take it out because as soon as i saw   this thing i got rid of it but speaking of getting 
+rid of things if you guys want to see a windows 11   tutorial guide on how to decrapify windows 11 then 
+i can get that done on the channel because windows   10 i feel is going to be at an end of an error and 
+then windows 11 i definitely welcome the changes   that they've done to this os it does look very 
+polished even with this developer copy and it was   running better for games so i can give you guys 
+a heap of content around this if you want to see   that then be sure to smash that like button also 
+let us know in the comment section below have you   tried windows 11 yet love reading those thoughts 
+and opinions as always just like this question of   the day here which comes from california thrills 
+and they ask how do those front fans pull any air   through and they're talking about our custom build 
+here that we did with the corsair 500d i did this   with a fellow youtuber designs by rfi does amazing 
+work but basically this build right here it pulls   air because there's openings on both sides of the 
+glass and then it can pull air through there and   it does keep the build actually surprisingly cool 
+for what would be considered a closed front on   the case itself hope that answers that question 
+and if you guys have stayed this far and you're   enjoying that tech yes content then be sure to hit 
+that sub button ring that bell to get the content   as soon as it drops and i'll catch you guys in 
+another tech video very soon peace out for now bye you 

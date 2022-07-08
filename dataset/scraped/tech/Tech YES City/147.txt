@@ -1,0 +1,146 @@
+my computer won't start it won't boot 
+there's a black screen every time i hit   the power button what can i do to solve this 
+problem now we're going to go through the most   obvious one first which is the most common when 
+i sell a pc i actually get quite a few people   that message me saying there's a black screen it 
+won't start so this problem is easy to fix if it   is this problem and that is first thing you have 
+to do is uh take the little battery out so make   sure the power is disconnected from the pc and uh 
+press the power button a few times just to drain   all the power then i want you to take out this 
+little circular battery and then leave it out   for about 20 seconds i usually find that's long 
+enough to reset the whole pc you can leave it   out for a minute if you wanted just to be sure and 
+also you may have to take out your graphics card   for this as well in this case we can just pull it 
+out since there's no screws attached but you may   have to unscrew the graphics card and take it out 
+and then put it back in because the little battery   may be underneath the gravis card now once you've 
+done this put your battery back in if you have to   reconnect your graphics card then go do that as 
+well and then i want you to make sure that your   monitor is plugged off of the gravis card not 
+the actual motherboard itself so a lot of people   will get the pcs and then they'll plug their 
+motherboard will have what's called a display out   and they'll plug it off the motherboard and 
+they'll get a black screen when they're meant   to be plugging off the graphics card or of course 
+if the pc's bios has been trained to work off the   motherboard and not the gravis card when they go 
+to plug the monitor off the graphics card it also   gives out a black screen so essentially resetting 
+the whole pc by doing this and then putting the   graphics card back in and then plugging your 
+monitor off the graphics card will train the   computer from the get go to work off the graph 
+scope which is definitely what you want especially   if you're on a gaming pc or you're using 
+multiple monitors from the graphics card drivers   so that is the most common problem when your 
+computer won't start and you have a black screen   however there are some other problems and recently 
+there's been two computers that have come to me   especially this one on the desk here which is 
+now the fourth time this pc is coming back and   i'm going to talk to you guys about the more rarer 
+problems that can occur and how you can fix them   right after this sponsor spot did you just 
+shriek because you saw the price of windows   10 pro key licenses online yes well shriek no 
+longer with today's video sponsor scd keys you   can get windows 10 pro single user and license 
+activated for as little as fourteen dollars   using the coupon code bftyc links in description 
+below welcome back to tech yes city and right here   we'll give you guys a rundown of this computer on 
+the desk this is actually a different pc to the   one i initially sold so when i sold this pc the 
+first time around it was working it had a 1050 ti   it had eight gigahertz of ram and a 4570 and when 
+it came back the computer was completely gone   so it wasn't even booting and i was sort of 
+scratching my head because these pcs that i sell   on the lower end here they're actually very sturdy 
+because they're x business like high-end business   server pcs that people use for 24 7 reliability 
+so it's kind of rare for a pc like this that's   come out of the studio and it's fully working to 
+then come back a week later and it's completely   gone there's not even intermediate faults 
+it's just gone so what ended up happening was   that computer had a faulty power supply and i 
+and because i didn't have time i ended up just   saying look there's probably something else going 
+on here so i replaced the whole pc for the person   until i could have time to inspect the original 
+pc so that person then got the replacement pc   with everything changed everything had been 
+changed on this pc they then come back to me   another week later and said this pc something's 
+not working it's giving me out a black screen   and i was then i knew i was like okay this is very 
+weird and what had happened was the graphics card   that's the thing i'm holding in my hand right now 
+there's two of them actually it ended up being   toast it was gone there was no bringing this thing 
+back and so i thought okay perhaps he got unlucky   and the gravis card was on its way out so i then 
+replaced it just to check i then put in instead   of a 1050 ti i put in a gtx 750 just to check 
+because if he's got something wrong on his end   bringing back the pc constantly and me fixing it 
+isn't going to fix the actual issue so i put in   the gtx 750 and sure enough another week later 
+the pc came back and this gtx 750 i'm holding   in my hands is now kebonkers it is gone and this 
+is one of those things where okay at this stage   i'm um i'm actually going to be charging to fix 
+this pc because i know it's not a problem on my   end so i've told them look we're putting in now 
+a gt 740 until they fix their issue and i said   to the person who bought this piece i said look 
+there is something going on at your house and they   admitted to me that their dishwasher had recently 
+failed as well and so i'm thinking to myself okay   well what it is in this case was i've come into 
+this problem twice in the past once was when i was   living in japan and that was that the powerpoint 
+that you're plugging into wasn't grounded properly   and what this does on most devices is it will 
+create a discharge and so for instance if   you're connecting something that's plugged in to 
+something another device that perhaps is grounded   then there can be an initial discharge from 
+that cable that you're connecting to the   said pc device and so the easiest way to check 
+for this is especially if it's a hdmi cable so   you're plugging in a monitor that is not grounded 
+properly to say a computer that you've just set up   and you haven't turned on yet the easiest way to 
+check is just to touch the tip of the hdmi cable   and so if you get a shock from that do make 
+sure that you're inserting your gravis card   and it's a non-discharge cable in that both your 
+monitor and your pc power points are grounded   properly and in terms of grounding all that means 
+is that there's a extra point in the power line   that goes to the actual earth inside the earth and 
+it lets out all the discharge into the earth so   it's important to do this for pc parts otherwise 
+parts can be overloaded and with pc parts they can   quickly become toast if they're overloaded and so 
+in this case with this pc right here i definitely   want the said person to fix up their problems 
+before i'm sending out the pc again because a pc   having faults every single week definitely 
+spells something seriously wrong on the said   person's uh powerpoint perhaps that particular 
+powerpoint that they're plugging the computer off   just wasn't grounded properly and the same for 
+the dishwasher but other power points in the house   were grounded correctly so that's something to 
+look out for that can be a weird issue but can   definitely cause you damage financially because 
+it's going to cost you money to replace the   said parts so the next problem is interrelated i'm 
+actually going to put out two recommendations here   and that is actually becoming increasingly more 
+common and that is faulty cpus on older gear so i   recently had a friend who came over with a pc and 
+he said brian can you help me fix this computer up   uh it's just it boots and then it just as it's 
+going to windows it just gets a complete black   screen and i was like okay that's really weird 
+but because it's doing this problem consistently   i had a suspicion that it was actually either 
+the power supply or the cpu and so we tried a   different power supply and it still did that same 
+problem but then after that i actually changed the   cpu out and it was an i5 2400 and i changed that 
+for a spare i5 2400 that i had on hand and sure   enough that fixed the problem straight away so 
+basically this i5 2400 cpu that we're using had   been used for so long that it just had degraded 
+over time to the point where it was failing to   boot to windows properly and so what happens on 
+this case especially if it's a pc where you can't   get into the bios you sometimes can't change 
+the said default voltages but if you're on an   aftermarket vendor board like a zeus msi as rock 
+or gigabyte sometimes you can go into the bios   and change the voltage settings and up the 
+voltages even just five percent across the board   and that can prolong the life of your cpu but 
+on the back of that ddr3 memory or ddr4 memory   this stuff can be faulty and actually it's one of 
+the most commonly faulty parts that i come into   on pcs however i find with ram if it is 
+faulty it'll either do two things and that is   a faulty sticker memory the computer just won't 
+boot at all but if it's faulty to the point where   it can still boot usually the behavior will 
+be erratic and unpredictable in that you may   make it to windows sometimes you'll boot up a 
+program the whole pc will turn off or sometimes   a program will crash or sometimes the pc will 
+just freeze upon booting and give you the said   black screen but in this case if you want to check 
+if your computer is faulty because of ddr3 memory   and especially if you open the pc up and you see 
+there's two sticks of memory you can just take   out one stick at a time and alternate your usage 
+on the computer between those sticks of memory   and that should give you an idea if perhaps one of 
+the sticks of memory is faulty and now it's time   for the last problem and i mentioned this one last 
+because it is my opinion the most rarest problem   that i've come into i've only ever come into 
+this once where a power supply is faulty   but it passes all the power good tests absolutely 
+fine so all the lights light up the uh the power   supply tester is showing that this power supply 
+should be good but then you boot it up and you   get stuck on windows things freeze and things just 
+don't work properly in general so typically if you   have a faulty power supply things probably just 
+won't boot up at all or you won't even make it   to the bios screen but in this case if you do have 
+a faulty power supply but it's not showing up any   initial symptoms it can be one thing to try and 
+change especially if it is from a no name brand   and you've never heard of that power supply before 
+you check the price on that power supply online   and it's a very cheap power supply so in this 
+case i always do recommend if you're using a   pc especially if you're serious about gaming then 
+you should step things up and get a decent power   supply at least one from a reputable manufacturer 
+anyway guys with that aside i hope you enjoyed   today's video on how to fix a pc that won't boot 
+or just gets a black screen another thing that   you can try too is if your pc has a speaker on 
+it then you can usually listen to the pc and if   it's booting to windows but it's still giving 
+you a black screen it can mean that the pc is   working normally but it's just the graphics card 
+or maybe the hdmi cable or something like that   isn't working properly so in that case an easy way 
+even if you don't have a speaker an easy way is   to test if the computer is working fine still but 
+it's just say the graphics card or in the graphics   card pipeline is to turn the computer on and then 
+leave it for about 30 seconds or even a minute   and then press the power button again and see if 
+it cycles down normally and so that means if you   press the power button even when the computer's on 
+especially in windows 10 it'll just automatically   start turning the computer off for you but however 
+there is a few seconds delay there before the   whole system shuts off and so that can give you 
+a indication if the computer is generally working   fine versus uh something that's wrong from the 
+get-go with say the motherboard the ram or the cpu   but i will refer you guys if you want some more 
+tips and tricks on how to fix some weird problems   i'll thread you to another video that i made but 
+besides that it's always a good thing to have a   little speaker on your pc and if you're getting 
+beep codes that are outside the ordinary beep code   that can also tell you problems with your 
+computer and you can refer to the original   manufacturer's guide so speaking of questions we 
+do have here the question of the day which comes   from randy sprouse and they ask as much as i like 
+your content i have to ask a difficult question   aren't you driving up pc part prices with 
+your reselling so to answer this question   directly it's a good question i'm happy to answer 
+questions like this you haven't been rude at all   or anything like that you're just just asking a 
+question man so i'm more than happy to answer that   and basically i think that we don't use pc 
+resellers don't drive up prices we actually   bring prices down because we're competing with uh 
+new sales which those parts are manufactured at a   constant supply rate usually they're manufactured 
+at a constant supply rate so me selling a   reselling a used pc is not only beating out the 
+retailers where you're keeping the retailers   prices in check with used pc resales but you're 
+also taking away from that demand for new parts   which essentially will bring the prices down 
+however on the flip side since i am buying   used pc parts off the market i can be raising the 
+prices of those so that's why i've always said in   the past that the used market's a great thing 
+because it does work well with the new parts   and it keeps both in a great balance for the tech 
+enthusiast or even someone who just wants to get   into the land of pc gaming hope that answers that 
+question i'll catch you guys in another tech video   very soon if you stayed this far and you're 
+enjoying that tech yes city content be sure   to hit that sub button ring that bell and i'll 
+catch you in the next one peace out for now bye wow bye 

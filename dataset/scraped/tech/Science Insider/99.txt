@@ -1,0 +1,60 @@
+As the novel coronavirus continues to spread worldwide, one common theory is that the pandemic will die down when warmer weather arrives. Donald Trump: Looks
+like by April, you know, in theory, when it gets a little warmer, it miraculously goes away. I hope that's true. Narrator: But the answer is a little more complicated than that. So, why do so many
+people think that summer will stop the COVID-19 spread? Seasonal patterns are commonplace for many infectious diseases. Take the flu, for example. Jeffrey Shaman: We get these
+big surges of seasonal flu that peak in January and February in the Northern Hemisphere and then the opposite side of the year, in July and August, in
+the Southern Hemisphere, places like Australia,
+New Zealand, South Africa. So the question has been why, and there are three groups of hypotheses that have tried to explain this. Narrator: The first of these hypotheses is human behavior. The flu spreads more in colder seasons, when people are more likely
+to gather in enclosed spaces, and lowers once people venture outside. However, COVID-19 appears to spread much more efficiently than the flu, which is why strict
+physical-distancing laws have been enforced, but also why you may have heard experts warn of a rise in cases once people go back to
+their offices, schools and normal life. The second hypothesis has to
+do with your immune system. Immune systems have
+been found to be better at fighting respiratory viruses during longer summer days, which also increase the production of the immunity booster vitamin D. So when summer rolls around, people might have a better
+chance of fighting off the coronavirus as well. And also why you may have seen suggestions during this pandemic to
+spend time safely outdoors, for example, on a balcony
+or in your garden, or even to take vitamin D supplements. But people have focused on the flu's third seasonality
+hypothesis, the environment. That's because both COVID-19 and the flu are respiratory diseases that can be spread through droplets. Once these droplets have been coughed, sneezed, or spat out, they're in the hands of the environment until they reach a new victim. Studies have found that
+the transmission levels decrease when the
+influenza virus encounters a humid and hot environment. That's the opposite of
+what we see during winter, where cold temperatures go
+hand in hand with dry air. One study found that when humidity levels were at 23% after 60 minutes, 70% to 77% of the flu virus survived. But when humidity increased to 43%, only 14% to 22% of the flu virus particles survived in the same amount of time. Shaman: This humidity change seems to be modulating the survival of the virus, such that it doesn't last
+as long in the summertime and it lasts a much longer time when it's drier in the wintertime. And that may encourage and
+allow the transmission, and hence we see these
+surges in the wintertime. Narrator: And scientists
+have a few answers as to why this is the case. The influenza virus is
+a simple genetic code surrounded by a protein
+layer and a fatty envelope, similar to SARS-CoV-2, the virus that caused COVID-19. But once it leaves the body, a layer of water encapsulates it as well. Some scientists believe that
+in high-humidity environments, the virus picks up more water particles and becomes heavier, which forces it to drop out of the air, lowering the chance of transmission. In dry conditions, like in winter, those same droplets evaporate, making the virus much lighter
+and airborne for longer. But that evaporation has another positive transmission effect. The water droplet and virus are not alone. They are also joined by salts, and one study found that
+as the water droplets evaporate in the dry air, those salts are removed, increasing the virus' stability and probability of transmission. But it's not just humidity
+that has an impact on the influenza virus. Researchers have found the virus to be much more robust in
+colder temperatures too, lasting far longer than when
+exposed to higher temperatures. So, by now, you may be
+thinking the flu and COVID-19 are both respiratory infections with somewhat similar structures, so surely they will follow similar seasonal patterns as well. But let's be clear: They're not the same. Not only in transmission rates,
+symptoms, and death rates, but also in the length of
+time that they have existed in human populations. This is pretty important to consider, especially when you look at how virus transmissions slow down. Micaela Martinez: At the
+beginning of the high season, you have some big susceptible
+pool of individuals, and then as that epidemic
+rose and cases climbed, that susceptible pool's
+getting smaller and smaller and smaller and smaller, so when you get up here at the top, you have fewer people
+that can get infected. Narrator: You can think of
+this like kindling for a fire. The longer the fire burns, the more fuel is used, so the less kindling you have, and the fire will eventually
+begin to burn out. Both the smaller susceptible pool and the onset of the low season, such as a rise in humidity, dictate when a disease's high season begins to turn around. Martinez: That's very different from a pandemic situation, where you very well may have seasonal changes in transmission, but then that's having to
+work essentially all by itself if there's not a shrinking
+of the susceptible pool that comes along with it. Narrator: For a new viral
+pandemic like the current one, the susceptible pool is huge. Populations haven't
+developed immunity to it like they have against, say, the flu. And when you throw in a lack
+of vaccines and treatments, the fuel for the fire is almost endless. This isn't to say that
+COVID-19 won't be hindered at all by seasonality. One initial study from
+China showed decreases in SARS-CoV-2 transmission along with increases in humidity. However, another study wasn't able to establish that connection. And both should be taken
+with a grain of salt in the first place, as neither has been produced
+in a lab setting yet. What could give a better insight are the ways in which the four known common human coronaviruses, which are partly responsible
+for the common cold, react to seasons. Shaman: So, there's evidence
+from other coronaviruses, and all four of them do this, that they have this
+pronounced seasonality. So there is this enticing possibility that has to be considered seriously and not dismissed that this novel coronavirus
+may also have this property because it's related to them. Narrator: But notoriously humid places, such as Hong Kong and Louisiana, have seen prominent transmissions. And experts warn that when large groups begin to gather again, we could actually see
+another spike in cases, which brings us back to the fact that we may not see
+seasonal patterns just yet. But this doesn't mean that we won't see one in the future. If and when COVID-19 becomes a more regular presence in populations, there is a strong possibility
+of it being seasonal. As immunity, vaccines, and treatments become more readily available, the susceptible pool will decrease, and the spread will likely increase only when the conditions
+are more favorable and therefore seasonal. But, again, this is a new disease, and these are only predictions. Current methods of stopping the outbreak such as self-isolation
+are far more efficient than waiting for it to stop
+naturally with the weather. 
