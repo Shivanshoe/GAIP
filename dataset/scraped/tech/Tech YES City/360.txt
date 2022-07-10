@@ -1,0 +1,100 @@
+- This motherboard right here marks the first Z490 review on the channel and we're taking a 10900K
+today to 5.2 gigahertz all 10 cores 20 threads
+overclock at 1.45 volt. Now this puts out around about 260 watts. So you will need a good VRM
+to handle those temperatures as well as the CPU itself
+is getting quite hot going up to 98 degrees maximum versus 4.9 gigahertz where it goes up to around 75 degrees and this is around 22
+to 23 degrees ambient, so, this motherboard
+right here is 13 phase VRM with direct drive MOSFET 50
+amps on those 60 amp chokes and also 12 gauge capacitors with an intercept 69269 PWM controller. To review these results more in depth with a thermal imaging camera and also looping Cinebench
+20 for over 10 minutes. We can see here that we've got
+the temperatures on the VRM are very well controlled. Surface temperatures went up to 82 degrees but the heatsink itself
+only went up to 51 degrees and then 55 and 53 degrees in the VR loop, one and two sensors on board. This means that the three
+active fan cooling solution they've put on board
+this heatsink for the VRM is doing a phenomenal job of cooling down all those 260 watts. I've also thrown in the 4.9
+gigahertz out of the box, which goes up to around 185 watts. And of course you're going to
+get even better temperatures. So phenomenal design on the
+VRM and the heatsink included, where you've got 10 phases
+dedicated towards the CPU itself is also to eight pin connectors supporting up to 460 watts officially
+in terms of VRM input. Then with that aside, let's
+go through all the features on this 250 USD motherboard. And if you're in Australia
+480 Aussie dollars. (upbeat music) Welcome back to Tech Yes City. You've got seven ports on
+the back here one of those being USB type C ports with a 2.5g lan as well as a one gigabit Intel solution, the speeds on those
+checkouts absolutely fine. And there's an integrated IO shield that doesn't need to be
+pre-installed into a motherboard. It's already installed on
+the motherboard itself. Going through the audio we've
+got realtek 1220 onboard to the Texas Instruments
+NE5532 headphone amp and checking out the frequency
+response go virtually a flatline all the way
+through with only 10 hertz and under showing a minus
+two decibel drop off, which means that this has really
+good onboard audio to boot though is a little bit marred with the minus 73 decibels crosstalk. I have seen better numbers
+for crosstalk here. Before it's worth this will be great cover with mid range cans, especially if you wanna get good audio out of your onboard solution. Speaking of the mic input, the volume levels go all the
+way up to plus 30 Db 100. And we witness no noise coming through which means that they are
+using noise suppression on the mic input. So you will be able to use this on discord and talk to your friends without getting any of those annoying (buzzing) sounds coming through your mic but that being said it will
+reduce your voice quality so if you want to do
+professional recording solutions, then you will want to get a
+better onboard mic solution. Now for M.2 have done something
+really interesting here and that is they've integrated
+PCIe 4.0X for support. However, with this CPU, it doesn't support this slot just yet. So they put this with
+upgradability in mind, where if you use this slot with an NVMe, it just won't work at all with a 10900K or any 10th Gen CPU for that matter, but there is one right
+beside it that is PCI 3.0. And then one at the
+bottom that is the same and that was supporting
+speeds over three gigabytes per second both read and write and the temperatures went up to 50 degrees with the heatsink on and then with the heatsink
+off it got a lot hotter so the heatsink is doing a really good job of keeping your M.2 cool. There's also seven PWM
+fan controllers on board which can be controlled individually each header on the BIOS itself. And speaking of the BIOS, it's really good to see
+that they've implemented the simplicity on overclocking too. Where all you have to do to overclock. Widen that auto speed bump the
+voltage change into OC mode and you're good to go. Now speaking of memory
+speeds and XMP profiles I tested in my original review 4400 megahertz memory worked
+absolutely fine on this board. And there's also another option in there, which is I really liked seeing this from motherboard manufacturers and that is they've got the ability to tune your XMP profiles
+to make it a stable boot. So if you ever come into an XMP profile that just didn't work
+from the get go properly, you can enable this setting. Say for instance, you
+got 416 gigabyte sticks of 4000 megahertz that might
+not work with your CPU, where you're playing that CPU
+silicon lottery on the IMC. And if it doesn't work, then this will churn it
+to the highest speeds that it will work at. So nice to see that implemented too. And in the BIOS itself, you've
+got polychrome RGB control, so you don't have to install
+any software after the fact which can hit your CPU performance. Even possibly inducing stutter, you can just control from
+the BIOS from a separate chip and you've got 13 profiles to select from with RGB on the top heating
+and bottom heatsinks as well as having two five
+volt addressable outs, and two 12 volts for RGB headers in total. Lastly, you've got eight SATA ports, six of those being Intel two of those being as media and then you've got two
+USB three front outs one of those being right-angled, and then above that a USB type C out. At the bottom of the board you get your manual parent reset switches as well as your doctor debug LED, which I personally love using
+this as a benchmark system to test out graphics cards. And if they're faulty, this will give you a
+B2 error straight away. There's also five PCIe slots
+three of those being one speed, the bottom 16 slots actually at full speed then the one at the top is a hybrid x16 which will support PCIe 4 with the upcoming 11th Gen Intel CPUs. Also I'll check out all the
+USB three speeds on the back. You've also got Display Port HDMI out and you've got a 2.5g NIC for realtek and also 1g from Intel. Then finally below that you've
+got an M.2 Wi-Fi slot there it doesn't come included with Wi-Fi though I think that's
+actually a good thing where we can see what the price tag. We're gonna talk about that soon. It is bringing down the
+price of this motherboard. So if you need Wi-Fi, you can add it in there's also holes in the IO shield to bring out those Wi-Fi
+extenders or the antennas and with all that out of the way it is now conclusion time
+with the Z490 velocita PG. And what do I think of this board? And to be frank, this is the
+first board I've reviewed here but I've already reviewed tons of motherboards here on the channel and I can tell you, this thing is going to be a value king for people wanting to
+overclock 10th Gen CPUs. We saw all those VRM temperatures and also the fan noise itself. I'll give you guys a quick listen and test on those fan noises. Usually my voice is right
+near the microphone, but it's about 60 to 70 centimeters away. We are running Cinebench R20 looping at one while I'm doing this test, this is how the fans will sound and this mic is right next to those fans. (wheezing) And we could just see with those fans that they bring down the temps and doing a phenomenal job even at 260 watts output from the CPU that is keeping this thing under control and there's nothing to worry about. So phenomenal job of the VRM solution and the implementation of that. The onboard audio, they've
+nailed that on the head. Expandability for USB ports and everything in between, they've also hit that really well. That there is one thing and that is if you want to put say for instance 2 20 ADTIs in SLI, you might wanna look
+at another motherboard where that bottom 16x slot is
+actually only a PCIe4 speed. So basically for a single high end GPU, this motherboard is
+going to be hard hitting in terms of value for money. The only real cutting
+point for me personally would be there's no
+clear CMOS button onboard the rear of this motherboard. However that being said, I found with ASRock BIOS and also everything
+they've been doing lately, is rock stable in that if you
+come into a faulty overclock, it automatically detects it
+pretty much straightaway, and it will reset the
+BIOS so you can go back in without even having to hit
+that clear CMOS button. We've also seen the bias
+themselves being proactive with those XMP profiles. Also offering all the
+features you would want to overclock and not install any bloatware after the fact with
+these boards themselves. So ASRock have really come to the table with this board in 2020 in 10th Gen and I can't help but really
+not fault this thing at all. I just think it's a really good buy if you wanna get a 10th Gen motherboard that will overclock extremely well. Though that being said, this motherboard right here
+is going to set a benchmark for the other motherboard
+manufacturers to live up to. And we will be adding those
+numbers into the charts as we go through more of
+these motherboard reviews on the channel here. And if you enjoyed today's video, then be sure to hit
+that like button for us. Also, let us know in the
+comment section below what you think of this board right here. I wanna see them apply
+this exact same formula to an X570 motherboard or even an upcoming X670 motherboard. That would just be awesome. With that aside, we got the question of the day which comes from Daniel.Power, and they ask, "Are these
+comparisons with stock coolers?" And there are 30 video I did two days ago on the 10400F. I'll put the link up here where we compare the 10400F
+with its stock cooler and the rise and 530600
+with its stock cooler. So yes, was done on the stock coolers and for what it's worth both those CPUs really good value for
+money plays at the moment. They're two of my top pick CPUs as well as horizon 530500X and you can't unfortunately, really get that where I'm at at the moment. So hope that answers that question. And if you guys have stayed this far and you're enjoying that content, and you're not yet sub and you want to see the
+content the moment it drops, so button's down there, ring that bell and I'll catch you in
+another tech video very soon. Peace out for now, bye. (upbeat music) 

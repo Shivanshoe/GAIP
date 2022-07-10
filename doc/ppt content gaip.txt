@@ -1,0 +1,108 @@
+﻿Introduction - 
+With the boom in the digital content industry - the primary problems content creators face is how to grab the market’s attention .
+Our project is to study and help the content creators on the youtube platform in creating an optimal thumbnail and titles for their videos which will help them to connect with their audience and gather the views their work deserves . 
+This project can solve several problems for content creators as they spend hours or even days in creating and finding the best for their videos 
+
+
+problem/data - 
+
+
+Our project aims towards providing a thumbnail to the user using the script which the user has created for his videos . 
+The user will provide us with his scripts as text file and his description for the video which will be judged to create the most suitable/engaging thumbnail and a title as well . 
+Our project was to deliver in three categories which were gaming , tech related videos and pets and animals . 
+So our model was trained on each aspect separately for which the data was collected and stored separately for each of the three categories which our team intends to initially serve *
+
+
+Analysis - 
+
+
+The steps taken under the project were 
+1. Data understanding
+2. Data scraping 
+3. Data preparation
+4. Modeling & training 
+5. Deployment and evaluation 
+      
+
+
+  Challenges - challenges faced by the team were data scraping as no direct datasets were available for the sake of our projects and all the data had to be manually scraped and cleaned and aligned by the team in a series of days . 
+
+
+Another challenge faces by the team was to find the relation between a good thumbnail and the number of views it got . we didnt even know if such a parameter other than luck existed but after extensive training across various field we got our findings in a satisfactory result that generally parameters  that govern the popularity of a video through its thumbnails and titles are _____ and ________ , we trained our model on these aspects to get the best results for our user community .
+ Another challenge our team faced was deployment since we were not so well versed in that field and thus many painstaking nights were put into this by our team to bring the project in its current existing state . 
+
+
+Data exploration and preparation 
+ 
+Our data consisted of number of views,captions , descriptions,titles and thumbnails of the various videos which according to us excelled in the genre of gaming , techs or pets and animals . 
+
+
+
+
+Our data also contained the amount of likes it got which helped us bring in the factor of its popularity index among its viewership .
+
+
+Our data also contained subscribers of the channel used 
+Number of views told us how much the video got attention 
+ Ratio of number of views with number of subscribers was used as our parameter to determine if the video was successful or not 
+
+
+Ratio of likes/views gave us idea of how the video was received by the public
+
+
+We collected our data through manual scraping via using the youtube API’s to get data off the backend of the youtube . we used about 40 different famous channels on youtube in each category to get the videos excelling in their genre 
+In data preparation and cleaning we removed all of those videos which didnt have their captions uploaded or nay have hidden their details such as likes etc which help us determine its popularity 
+
+
+We also tried to use only recent videos in our data to keep our model relevant for the newer generation of youtube and to add the recency popularity bias  
+
+
+We also cleaned our data of all the stop words and (emojis (not yet confirmed !!)) to create a 
+Data on which our model can be trained to help it find relations between thumbnails and number of views .
+
+
+Exploratory data analysis was done to find any possible trends in the data 
+
+
+Our findings included - 
+1)
+2)
+3)
+
+
+
+
+Experiments 
+
+
+Our first aim was to find the relations between the success of the videos and its thumbnails and if they followed any trends and to recognize them as well . 
+
+
+We used classification in our models to categorize data into gaming , pets and tech . 
+
+
+Among gaming we used clustering to divide data into the genre of cars racing, violence/shooting , fpv games ,free roam and discrete games such as among us (subject to change) 
+
+
+After that we used GAN(deep learning) to train our model on the datasets we had created . we used deep learning or GAN specifically because we wanted the learning to be unsupervised since we didnt have many relations between the thumbnails and the popularity and we figured that it is best to leave this aspect on the model itself . but we were aware before hand that some relations did exist(through eda ) and we just had to exploit them.
+
+
+Our data sets were split among 80:20 for training and testing the data . 
+
+
+Accuracy wasnt our main aim throughout the project but it was to - ask garvit bhaiya (some catchy line would be great) . 
+
+
+Our results werent the best in terms of accuracy but they were providing the thumbnails which predicted for high views and fared well  .   
+
+
+Discussions and future ambitions - 
+
+
+We learned the youtube culture and how it works . what the youtube audience wants and how to provide them what they want . we also learned about the financial potential of this project in the real market . 
+As a team we also discussed how to advertise out project if we opened it to the public(have to do it if it is included in ppt) 
+We learned a lot in the deployment aspect of a commercial project . 
+
+
+We intend to first increase the accuracy of our model and bring in more data as well in order to integrate human faces as well in the thumbnails which will be provided by our users themselves . 
+Also we aim to increase the number of fields in which our model can deliver with food vlogs being the first .

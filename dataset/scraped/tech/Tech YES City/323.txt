@@ -1,0 +1,273 @@
+what happens if you buy a brand new
+computer or you build a new one yourself and you get a faulty ryzen cpu
+well in today's video i'm going to go through this ryzen 3
+3100 right here and we're going to look at how
+it actually is faulty compared to a normal ryzen cpu
+and this was the weirdest thing because i went to boot this thing up again after
+i did the review and it still runs the cinebench scores
+and it still does the cpu side of things absolutely fine but there's one big
+problem it has where it can't communicate with the
+graphics card properly and actually the behavior
+differs from an nvidia card to an amd card now in the past i've only had
+actually one faulty cpu that still managed to do a
+little bit of work here and there and that was an
+intel cpu i'll put the link to that video up here
+but what happens if you get a faulty ryzen cpu
+well in today's video i'll explain the best i can
+about what the symptoms are of this cpu and what are some of the things that you
+can do if you come in to this very and i'm
+going to say this extremely rare situation and before we go on i
+will say yes i've tried everything different motherboard different power
+supply different memory and different graphics cards of course
+different ssd and it is definitely the cpu and i know
+there's going to be one guy in the comments he's like
+dude have you even tried telling it not to ride on the highway whilst listening
+to inxs yes sir i have even tried that do you
+own a smartphone in 2020 well
+i'm guessing most of you do and in that case today's video sponsor philmore go
+has a very powerful free video editing software and it's a very powerful tool
+where you can edit clips on your mobile phone or even import clips
+from other camera sources and start editing with even one hand
+it's got powerful transitions to choose from and the best thing is
+it runs really smooth for a smartphone i was actually blown away
+by how cool this application is so if you want to download it or find out more
+information about fillmore or go then i'll put some
+links in the description below for you guys
+let's get back to the video so here we are now
+in windows and what we can see now is the
+display adapters here the 5600 xt is showing an exclamation mark next to
+it and so naturally one would think if they
+built their whole pc and they were seeing this
+exclamation mark here they probably think wow my my graphics card's faulty
+and this graphics card believe me it works on every other system here
+in my studio so i know it's not the gravis card and so that's when i started
+testing out everything else and i was like wow this is the cpu that's faulty
+but this is a bizarre thing it locks in the
+display resolution at the native 1080p it's as if the graphics card drive is
+installed on the amd side of things but it's
+not installed so if we even go to boot up something simple
+like the unigine heaven benchmark which we'll quickly do now
+it'll just crash out it won't do anything so let's quickly do that
+so this is what happens when we boot up unigene heaven it gives us this
+fatal error here and it spits out like a mammoth list of errors so
+this is getting to be a little bit interesting so what we're going to do
+now is jump into the bios and just see what's going on but one
+thing i will say with this problem right here
+is it's actually a little bit dangerous because this is the one reason and this
+is how i initially knew something was terribly
+wrong was i booted up my system and usually when i boot up my test systems
+i've got 20 other things here to do in the studio
+and then this whole system just shut off like i was like why did this
+shut off and then i felt the gpu and it was burning hot so this gpu
+currently basically the fans are not spinning and
+even in idle the gpu will still use up some
+power so the problem is is that it's just going to keep getting hotter and
+hotter and hotter and then it will just switch off and
+thermal like thermal throttle and thermal trip
+and so that's a dangerous thing because this faulty cpu
+could cause the gravis card to become faulty if it gets too hot i mean usually
+the safety measures are pretty good but if you become unlucky in some
+scenario it could make your gpu faulty
+so when we're looking in the bios here nothing is out of the ordinary
+everything was on default values the memory wasn't even overclocked either
+however what we're going to try to do now is what i call a hail mary attempt
+and then we're just going to up the voltages of literally
+everything and see if we can get something different
+out of this cpu this is the final attempt before we move on to
+the behaviors on say an rx 470 and also an nvidia graphics card
+um excuse me brian but have you tried just simply turning it off and on again
+i've tried that i've tried reinstalling the drivers on different ssds like 10
+times even with the hail mary voltage throw at
+this cpu right now it's unfortunately still not working
+this this is no chance for this but what i'll
+quickly show you is something really cool and that is it
+still runs a cinebench r20 [Music] [Music]
+so this graphics card right here i'm glad i got this on camera because this
+one just went to like a void where it made the whole
+screen like sort of like a cream pixel color
+and now it's actually restarting so you would think
+just like the 5600 xt that this is a faulty gpu but we'll quickly try
+um the last thing we'll try is an nvidia gpu one that i've actually never tried
+before let's go with a gtx 645 old school and so this thing
+actually boots up into safe mode and within safe mode it's
+saying that the gpu the rx470 is being displayed properly but upon
+trying to boot up a benchmark again unfortunately we are met with an abrupt
+end let's finally try that nvidia gpu but it still says here as well like pci
+device so i'm guessing the pcie controller is
+what's really busted in this cpu [Music]
+and then the cpu said to the gpu in a bogan-like voice
+sorry can't help you mate so instead of finishing this video off last night i
+decided to do a bit of research and digging on
+google to see if anyone else has had this particular problem
+and from what i could see is there was only maybe one person who potentially
+had this problem it's just they never really replied to
+the thread so you never knew but the symptoms they were talking about
+were pretty much exactly the same as me but
+the thread sort of put it down to the power supply and motherboard and stuff
+like that and here's the funny thing after
+thinking about it i was i went back and there was one reply on
+the thread that said try all the different pcie lanes
+i had tried only the top two pcie lanes or the 16x slots
+on my motherboards now with a lot of am4 motherboards
+the bottom slot even though it's a 16x slot is actually truly an x4 slot
+and it runs off the chipset rather than going directly to the cpu
+so what i decided to do here was put it on this real like at the bottom of the
+board where it then blocked out the power button on
+my test bed and trust me it was kind of awkward trying to turn the pc on you're
+like going hey yeah trying to do a little like uh
+flick shots in there to get your power button on but
+anyway we gotta boot it up and the graphics card is now being
+recognized completely normal and it's benchmarking absolutely fine
+so that was definite proof that the cpu has buggy pcie lanes
+and so this right now is just an extremely rare example of
+what can happen in the land of pc or it can happen really in any
+new product with electronics on it you can get a weird fault that makes it
+through testing phases but then after a few
+weeks of using it something just becomes faulty and really
+what we put it down to now is what you can do if you come into a very
+rare scenario like this and the news is kind of fortunate and
+unfortunate depending on which side of the fence you're on
+i know a lot of you guys out there who watch my channel you guys delve in a lot
+of different hardware especially used stuff
+and the good thing about that is if you've got spare motherboards and spare
+power supplies and spare memory and stuff like that you can
+quickly diagnose what the problem is in my case i changed
+the motherboard the gpu and uh the ram and the power supply and
+straight away i was like okay it's really just the cpu that's left to go
+and so it only took me a small amount of time to figure out what was wrong but
+if you're in that side of the fence where you've got the spare hardware or
+you've got a friend who has a very similar setup and you can quickly
+diagnose via pretty much trial and error what the problem is then
+you are on what i consider the fortunate side of the fence
+but then we move on to the unfortunate side of the equation and this would be
+someone who's built their first pc and they don't have someone close by or
+they don't have any compatible hardware to test out what could be
+potentially faulty now in this case the worst case scenario
+would be you've bought all your components from
+different hardware vendors and you don't exactly know what the
+problem is because if you take a working graphics card that maybe in this case
+appears faulty back to the hardware vendor they're just going to get it and
+say hey there's no problem with this graphics
+card send it straight back to you and then you're going to be still scratching
+your head and then you'll have to eventually be paying all
+these shipping costs and all this time and money when it could have been
+something else that's faulty so in this case i would say coming out of
+this video if you're building your first pc and you're gonna be buying all the
+parts individually i would try to buy them all from the
+same retailer because this when i built my first pc there was a place
+um about 40 minute drive from where i was
+and it was called game do computers and i bought all my components from that
+same retailer now i actually had a faulty stick of memory
+and so when i built the whole pc i'd bought all the parts from them built the
+pc and i said to them when i took the pc there i said guys i built this pc but i
+bought all the components here and when i play brood war it's just
+randomly crashing out and they then took the pc they said
+we'll take a look at it they called me the next day and they said yep one of
+the sticks of memory was faulty and so because i bought all my
+components from there they were happy to take that whole pc that i built
+and run some diagnostics for me so i guess that was one of the benefits of
+buying all the parts from the same retailer but
+i guess of course if you go out and buy from different retailers on sales you're
+going to get a better price performance rig put
+together but if it's your first pc and you don't have any friends that have
+similar hardware or you don't have any spare hardware
+to test things out on i would recommend just going from that one retailer
+just because of what you've seen in today's video here
+so now back to the ryzen 3 3 100 and if you're a consumer and you've bought a
+cpu and it's faulty you can get warranty on that you've just got to return it to
+where it came from and they'll replace it for
+you no problems amd however they won't i think warranty
+bent pins so that's one thing do be careful with your hardware
+and don't make sure it's not physically damaged in any way shape or form
+but in terms of the cpu i've got here it's going to be a very different story
+because this is a review sample so i'm not sure
+how warranty works with review samples the only faulty part
+that i've had that i've claimed on and i have
+had a couple of like minor issues with parts in the
+history of the channel but there's only been one that's just been flat out bad
+and that was an rtx 2080 ti from morris and they they took it back
+they sent us out a replacement they really wanted to fix that for us
+and amd i'm i've reached out to them they want
+to do the same thing but i want to keep this cpu because it's
+so rare like i've never seen this problem and even on the internet i can't
+find a proper thread with this problem in it and so my
+thinking is is it's like that uh if you guys i remember like when
+i was a kid i used to collect basketball cards and there was a thing called
+misprints and a misprint could be worth some some
+good money as a collector so i kind of see this cpu
+as kind of like a misprint where it was it just came out the
+factory and it still runs cinebench and it still works when you use the chipset
+pcie lanes so it's um just one of those rare things
+that i kind of want to collect personally
+and uh yeah that i mean that might be a weird outcome from this video but
+i guess weird host weird outcome what did you guys expect anyway
+recapping today's video the most important thing to come out of this is
+that if you're building pcs you are going to
+sooner or later come into faulty hardware
+and it's just one of those things that happens and it's not the company's fault
+in this case it's certainly not amd's fault
+they sent me out of cpu it was absolutely fine and then it just
+something happened it went bad and in the case of the rtx 2080 ti same
+with auris they they it came out of the factory
+absolutely fine then something went bad and so as i said before it usually goes
+bad very quickly in the first couple of months if it's
+prone to failure and in this case that's exactly what happened
+so if you come into this situation just understand that there are steps to
+diagnose what is wrong and the best way to do that and i mean
+seriously the best way to do it is trial and error swapping out the
+parts and you will find out what is faulty
+sooner or later via that process and that's really the
+only way i do it here at the studio it's the only really way i recommend
+doing it because that way you'll get visual proof and you know exactly what
+the problem or faulty part is and so once you find that faulty part
+make sure you go get it fixed and the other thing is is don't run
+faulty hardware if you know something's bad or it's not running right
+turn it off because you as we saw in today's video earlier on
+the fans weren't spinning up on my gpu that can cause
+failure on another component anyway realizing life
+that can happen and i think eminem and d12 they wrote a track back in the day
+about this exact thing so it happens the way you deal with it is just take a
+step back be calm look for any research that you can and
+of course trial and error is always going to be your best friend
+in the case of diagnosing faulty pc hardware and with that aside
+i hope you guys enjoyed this video if you did then be sure to hit that like
+button for us also let us know in the comment section below
+what kind of faulty hardware have you come into in the past
+and what were the symptoms and how did you go about fixing it love reading your
+thoughts and opinions as always just like this question of the
+day here and this comes from pidspuder place and
+they ask would the results be different if you taped the mouse to an intel
+box or maybe a zen 2 cpu box just asking for a friend and they're
+referring to the last video we did on input latency with amd versus intel and
+i even threw in nvidia versus amd gpus i'll put the link up here for that video
+it's definitely a cool watch if you're into that sort of
+very like minute differences in hardware and stuff like that
+um but spoiler alert it wasn't that eventful like it's not
+you know you're not really gaining a huge competitive advantage by going with
+one over the other uh anyway to answer that question what
+have the results been different on an amd cpu box with a zen 2
+box or a intel box and the intel box probably yes
+because a lot of those intel boxes are skinny so the contraption might have
+fallen over and it could have been damaged the zen 2
+box no because i think the shape of the actual box is pretty much the same in
+dimension so the reason i picked that box was uh i
+was looking this is how i do things around my studio
+i'm just like we're making this contraption
+and i think i even made a whole video on how i made this thing it took a long
+time and we're just looking around and i've i
+i'm like okay i need something that's this this tall it'll fit in the frame
+but it won't block the monitor out and i it needs to be quite big because i
+need to put the mouse on top the light on the side
+and we just there's an amd box staring right at me i'm like
+perfect and i even use a i think it's like a 3 900
+x box under my monitor now with the tech yes loving taped
+over it the logo and stuff like that so amd boxes
+they're pretty handy for not just having holding your cpu you can use them for
+other things around the house i think someone's even used them for a
+tissue box and yeah i've gone on long enough guys if you guys enjoyed this
+video and you've stayed this far and you enjoy that content you want to
+keep seeing it the moment it drops here at the channel
+may wish to consider subscribing hit that sub button ring that bell
+and i'll catch you in another tech video very soon
+y'all have a great weekend and peace out for now bye
+[Music] yes 
