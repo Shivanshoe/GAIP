@@ -1,0 +1,28 @@
+This is a battery stress test. And the results are pretty clear. Do not try this at home. In recent years, lithium ion batteries that power our phones, our laptops, and our Teslas have exploded,
+causing serious injury, and in a few cases, death. But a California-based company says they've developed a new type of battery that won't explode, no matter what you do to it. Battery fires are rare –
+about 1 in 10 million – but with billions of
+batteries produced every year, the stakes are higher than you think. Electric cars and e-bike sales
+continue to grow rapidly. And we're likely to see more
+massive batteries being used to store renewable energy for homes. The technical term for how most battery fires
+start is thermal runaway. And it works kind of like this. If this banana were a
+standard lithium ion battery, there's just a thin separation between the parts that carry
+positive and negative charges. When that barrier is broken,
+a battery can become a bomb. A new technology is like a
+bomb squad inside the battery, stopping a fire before it starts. Amionx invented a
+technology called SafeCore. It's a fuse that goes within
+the battery cell itself. SafeCore adds an additional layer, kind of like placing this deflated balloon between the banana skin and tinfoil layer, which represents the current collector. If a battery fails, SafeCore
+creates a physical gap to safely stop the flow of electricity. SafeCore was originally developed for batteries that soldiers use to power their communications equipment. That's why it needed to be bullet-safe. If somebody was wearing that, they'd be on fire right now. SafeCore starts with this black goo. It hardens and then gets rolled out as an additional
+layer inside the battery. Amionx says that SafeCore
+has the potential to quickly scale across the industry because many battery-making
+factories already have the equipment to process
+the SafeCore slurry. We can tech transfer and have battery manufacturers up and running within six months. The company recently
+announced a partnership with Stanley Black & Decker, one of the world's top
+producers of power tools. Companies have a financial incentive to make sure their batteries are safe. We literally, we add pennies
+to the bill of material. The cost is relatively little
+to implement the technology. In 2016, Samsung recalled
+2.5 million phones after several reports of fire. Officially, the company
+claimed $5 billion in losses. Exploding batteries are a
+really key safety problem, and it's a terrible impact on their brand. Lithium ion batteries are poised to remain the go-to power
+source in coming years. With that many batteries,
+it may be impossible to completely eliminate the risk of fires. But Amionx believes that
+their battle-tested technology can get the risk that much closer to zero. 

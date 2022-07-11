@@ -1,0 +1,236 @@
+you are looking at a build right here
+that i was going to build for the new release of valorant
+but then i checked the minimum system requirements, and i was shocked
+they're recommending a GT 730 for like recommended system requirements
+and i was going to put in an rx470 (for this gaming pc) and i thought to myself... that's way too
+good for this title if they're recommending a gt730 so what we're going
+to do is we're going to scrap this build right
+here this will be for a later date and it was still going to be of course
+good price performance but we're going to be putting together
+something under a hundred dollars which you guys have been requesting
+this is a gtx 645 and we're going to see if we can get some smooth
+fps in valorant and look at this recently, i just added rgb to my table
+and this was in like celebration of this new release
+tech yes citizens i have negotiated a new 18%
+off coupon code on a windows 10 pro single end user license with today's
+video sponsor scd keys for as little as 13 bucks using
+the coupon and the link in the description below
+and with all these parts on the table this
+is what we are now looking at gtx 645 we got this for 27
+aussie dollars in a recent parts hunt and now the funny thing about this is
+it's pretty similar in performance to a gtx 650
+except it was made for oem dell systems and it didn't need a six pin or anything
+like that which is going to go perfect with this motherboard and power supply
+and i5 2400 combo right here so this power
+supply is a 200 watt power supply so very low
+power we can't do much with that but we only paid 15
+aussie dollar reduce for this whole combo right here but
+the problem is is it's untested i don't know what could be wrong with it
+so we're going to fire it up soon and see if it works but if it does all work
+out then we also have a 60 gigabyte ssd and a 500 gigabyte hard drive which i
+got in a combo for 20 aussie dollars and then last up is the 8 gigabytes of
+ddr3 ram which we got for 25 aussie dollars
+though this case right here this was actually
+free it was just a dumpstered hp pavilion case
+which i got from someone who was uh selling us a heap of parts
+and like a lot of them were broken and stuff so this was just a chuck away
+so i mean hopefully the power switch works that's really all we've got to get
+out of it so this leads this whole tally now to 87
+which in usd terms is 60 usd roughly so we have come well under
+that budget so let's see if we can actually get this thing to boot first
+and if we can then we're going to clean everything up
+and see how it performs in valorant [Music]
+guys we are out here live with heavy winds reporting from the lenovo
+think headquarters but you just need to hook up this thermal sensor and then it
+should all go away that's much better much better
+so lenovo thinkcentre is working fine here on its first boot it's recognizing
+the ssd we've just got a basic two gigabyte ram
+stick in here because uh that's pretty much the simple thing
+you can do when you're booting up oems for the first time is
+just boot with a single two gigabyte stick
+because sometimes and we've recently done this in a previous video
+where it these boards can actually suffer from a thing called bit rot so
+what i'm going to do is i'm going to now put in my 8
+gigabytes of ram and if that boots fine then we can start putting that in the
+build but if not then we're going to have to
+update the boss on this motherboard so we're now trying to boot this up with
+the blue memory and it's just not taking it's not giving
+us out any signal so it's kind of just like we thought where this
+board is really old pretty dirty and so i'm gonna just get
+on with that bios update right now [Music]
+and after a lot of trial and error and troubleshooting we now have
+a setup with eight gigabytes of ram i5 2400
+and a gtx 650 it's not a 645 it's a 650 so let me get some rest now because i'm
+super tired after doing all this and i'll come back in the morning and
+tell you guys how you can get a lenovo think center
+m81 to work again with i guess uefi boot gpus
+and fear not think center for you have been out thought
+[Music] that it is up now done that exercise
+freshened up and that elliptical rider by the way
+i picked it up like for like a quarter of the price you get it brand new for
+and then i cleaned it all up and it's good to go but this story right here
+this is the lenovo h61 uh motherboard that
+is called the m81 now these won't work with newer graphics cards
+to an extent and so there was a bios update
+that's needed to support newer graphics cards and that was last released in 2014
+so when you update to that bias you'll then gain access to six and seven
+series cards that will now work but you don't get the option to disable what's
+known as secure boot and you'll need to disable that in order
+to get the graphics cards or any graphics card
+to work if not you'll have to go through a list and so
+that's reliant on lenovo adding cards like this
+onto that list so we're now able to use a gtx 650
+but not a gtx 645 since this was an oem made for dell so
+i'm a little bit disappointed about that because this was five dollars cheaper
+than this so we have to take 27 off the budget and
+then add in 32 aussie dollars for this but the biggest thing that i'm concerned
+about here is this needs a six pin and our budget power supply here doesn't
+have a six pin so what i'm going to be doing is i'm
+going to be adding a one dollar connector here
+and i'm going to have to solder that on and i've also got
+since we need two sata ports still i'm going to use a starter splitter
+so another one dollar extender on this power supply so that's two dollars extra
+in our connectors we've also got five
+dollars extra on the gravis card now the last problem that we had
+with this motherboard was the memory the two four gigabyte sticks here they don't
+work in dual channel funny thing is though
+they both work on their own and they work on other motherboards in
+dual channels so going through other memory sticks trying
+to get dual channel to work it just simply did not work
+on this board so the board is inherently semi-faulty
+but i guess the good news and the saving grace is it
+one of these slots and only one of these slots that's the fourth dim slot
+works okay so we're going to put an eight gigabyte stick in
+instead of two four gigabytes six now we're going to take 25
+off the budget and then we've got to add 28
+to the budget because this one costs an extra three dollars when i picked it up
+in a used deals hunt so overall we're adding 10 aussie dollars to the budget
+roughly 7 usd we're still coming well under 100 for
+this budget build so let's finally get this thing cleaned
+up and built [Music] [Music] baby [Music]
+baby [Music] baby
+[Music] baby
+[Music] and now it is time to talk about
+the under 100 pc and it is working it is working absolutely fine so we're
+running a stress test right here while we download valorant
+and i've downloaded the latest graphics card drivers which are important for a
+newly released title like valorant and the good thing about the gtx 6
+series at the very least is that it still gets
+new driver updates as opposed to say a 5 series and
+below nvidia stops supporting those cards
+quite a while ago so this should work fine in valorem well
+i got my fingers crossed but the game's actually pretty quick to download
+i'm just running a stress test now to make sure everything's fine
+nothing's out of the ordinary nothing crashes everything's working 100
+before we boot this game up and i've also done the inspector taking off those
+security update things that make my i5 2400 run slower
+and we've tuned this pc up so it is ready to go
+and you may notice i decided to mount the drives in a weird way on the power
+supply that's because i was just feeling a
+little bit different with this build and the 3.5 inch drive trays are missing
+i decided to leave the front panel off the plastic front panel protector
+just mainly because i didn't like the pavilion branding
+the hp pavilion especially second gen is one of the worst
+pcs to work with in terms especially in terms of motherboards
+and the bios updates there like is no bias update i'm actually grateful that
+lenovo did at least give a bios update so this gtx 6 series card
+could work and with that aside there's only one thing left to do
+and that is boot up valorant and see how this gaming pc performs [Music]
+and now here we have it for under a hundred bucks and against all odds
+we built ourselves a pc that can run valorant
+really smoothly and this was at 1080p low settings so as soon as i jumped into
+the game i took a look at the settings and basically there is one setting i
+would change if you're jumping into this on something like this a low spec
+machine that would be the anisiotropic filtering it had it on one x
+and i set it up to 16x and everything looked pretty good
+and the fps this was an even better response here
+where we're getting over 100 fps average going around 120 to 130
+most the time while we're playing on this map ascent
+and it seemed to pick this map i played three full rounds in a row
+and it seemed to just keep picking this map for me and it's basically a five
+verse five mechanism like cs go so if you're used
+to playing cs go then valorante you'll be able to just
+jump into this game and start playing it no problems now the abilities are a bit
+different and so there is some differences between
+the two games but overall the feel of the
+game is pretty much identical and i dare say that this
+has better sort of server registry and bullet rage even though cs go was
+really good for that this feels like it was just that little bit better so very
+responsive game and it did run really smooth even on an i5 2400 and a
+gtx 650 which we had here today though i will say the one percent lows
+were looking pretty good though around 60 to 70 most of the time
+but the 0.1 percent lows did dip and this especially happened when it was
+on big events like if someone was planning the spike
+or if it was changing between rounds i noticed it would sometimes dip to around
+four or five fps but all the other times it was going
+around thirty to forty point one percent low so
+the game ran really smooth it's just be careful of those big events it could
+especially if you're in a clutch play for example it could affect
+your ability to get that w but other than that i mean we look at
+how this pc came together and it was just a miracle that it ended up working
+i mean that single stick of ram seems to work fine for valor ant though
+of course i do recommend dual channel that'll make things run that bit better
+though the gtx 650 that's a perfect card for 1080p low
+settings on this game i would say even something like a gt640
+would work but i wouldn't go any lower than a 6
+series car just because of that driver support and if you're on the amd side of
+things hd 7000 series card or better i'd say
+even something like a 7770 that would work fine for this game too
+so this thing here will play cs go valerant and all those other easy to
+play games like league of legends dota 2 absolutely fine though what about
+fortnite and that's where i've already tested the gtx 650 it's good for around
+720p low settings epic distance so this thing will still play fortnite
+it's just won't play it at 1080p that well anyhow some other benefits
+involved with this build since we're going with the open air design
+if you guys haven't checked out the previous build i did
+put the link to that up there where we just used open-air chassis this is kind
+of going off the same formula where we paid nothing for the case
+and the temperatures were really good 50 degrees on the cpu
+or under 50 most the time and same with the gpu that was under 50
+and the noise wasn't that half bad so the pc itself is running really nicely
+and that ssd this is the like funniest thing was we put a 60 gigabyte ssd in i
+expected the 500 gigabyte backup drive that we used here
+to be needed though valerant was like i think it was like a four gigabyte
+download or something like that it was pretty small game you could
+download it within an hour on most internet connections
+and it just fit completely fine on the ssd to begin with
+and with all that out of the way that leads us to the best part of today's
+video and that is valerian is free to play so
+it matches perfectly with a budget potato so if a lot of your
+friends are playing this and you just want to get into it and say
+you've got a console but you just want to play
+on pc then you can definitely get away with building something super cheap
+like we've done here today though keep in mind all the problems that we've gone
+through in today's video that was it was a bit of a task to get
+here and also another thing that i had to do
+was the this is a hp case so the power switch was actually
+routed a lot different you didn't get the standard 2 pin
+it came in like this this 10 pin pack so i actually had to keep adjusting it
+until i found the right configuration for the power button to work properly
+and that about does it for this valerant gaming pc right here if
+you guys enjoyed this one then be sure to hit
+that like button also let us know in the comments section below
+what's your experience with building budget pcs or
+if you've built a pc for valerian yourself what's your thoughts on the
+game love reading your thoughts and opinions as always
+and one more thing before we get on the question today this system didn't juice
+up a whole lot of power either it was using around 125 watts from the wall
+whilst we were playing the game itself so that was good to see
+not juicing up a whole lot of power getting some really good fps
+you'd be able to match something like this with 144 hertz monitor
+if you could find one of them for cheap then you'd have a really good experience
+on this game though speaking of the question of the
+day it comes from ken patchy strength and they asked what's the highest gpu
+you would pair with an e3 12 30. they're speaking of the e3
+1230 xeon this is a sandy bridge part very similar
+to the i7 2600 for course eight threads i'd personally
+pair this maximum with like a 1650 super rx 470
+something like that will match really nicely with that cpu you'd be able to
+play a lot of different titles at 1080p and
+get smooth fps hopefully that answers that question and
+if you guys have stayed this far and you're enjoying that content then be
+sure to hit that sub button ring that bell
+and i'll catch you in another tech video very soon
+someone's banging some wood outside now so i'm going to get on out of here
+peace out for now bye [Music]
+wow 

@@ -1,0 +1,62 @@
+99.9% of what our brains
+process is unconscious. And without a doubt,
+somewhere in there are biases. Biases about women in the workplace. Biases about people of different races. And all these biases are things companies like Google,
+Starbucks, and even Insider have been trying to train out
+of their workforce for years. But is it working? Calvin Lai: We don't know.
+We really don't know. Narrator: And a lot of that uncertainty has to do with our understanding of implicit bias in general. So, what do we know? Implicit biases are stereotypes that we form about
+certain groups of people. Every day, your amygdala processes and categorizes billions of stimuli. And because of this, almost all of it is happening automatically. Every experience you have,
+every bit of socialization, every piece of media
+is processed and stored by a stereotyping neural network, creating a database of shortcuts that your brain can pull from. And while it's helpful to see
+a big metal box with wheels and immediately know it's a car, categorizing people in
+the same way is harmful. And that's where the implicit
+association test comes in. The IAT is part of many
+implicit bias trainings. It's supposed to establish a baseline for each participant's unconscious
+biases by measuring them. The problem is, we don't
+actually know if it does that. Lai: I think that the
+implicit association test is an imperfect measure. It's been incredibly
+useful for researchers to understand how the mind works in ways that are not self-reported. But if you want to use it
+as a diagnostic measure of how racist or sexist you
+are or something like that, it's not gonna tell you that. Narrator: A psychological
+test is usually measured in two ways: reliability and validity. Test-retest reliability means
+that people should be able to take the test over and over again and get nearly the same results each time. A perfect reliability score is a one, but a test is solid if
+it scores at least 0.7. But studies have put the race
+IAT's reliability at 0.44 and the IAT overall at 0.5,
+well below acceptable standards. This means when a person
+takes the test multiple times, they get notably different results. And experts can't say for sure whether that's because
+the test is a bad tool or if the concept of implicit
+bias actually fluctuates. Lai: So, one of the theoretical
+ambiguities right now about the nature of implicit bias is the extent to which it
+reflects something deep about a personality or
+an enduring attitude versus something that is more fickle, something more like an
+emotional state or a mood. Narrator: Either way, this discrepancy makes it difficult to rely
+on the results of the test. Which leads us to validity: Does the test actually
+predict what it says it does? The IAT was intended to and
+is currently used in a way that is supposed to link
+implicit bias to behaviors. At least four different meta-analyses between 2007 and 2015
+looked at this exact thing. And all of them suggest that the IAT doesn't really predict
+behaviors that well. Lai: It turns out that
+predicting discrimination is just difficult, full stop. Narrator: But even if the
+IAT was conclusively valid and reliable, implicit bias
+trainings still have a problem: Acknowledging your bias does not mean you're gonna act less racist. At least one study found
+that recognizing a bias is a necessary step to getting rid of it, but it won't solve the problem on its own. Lai: You want to make people
+feel enough motivation, maybe something like enough guilt or shame to be actually motivated to do something about the problem of
+bias or discrimination. Narrator: And some studies
+suggest that the trainings can even make the problem worse. They have the potential
+to dredge up stereotypes and make a person act on them more. So, how do we make sure that implicit bias trainings are effective? Standardizing the programs is a start. Lai: I've seen ones where
+the IAT is never mentioned, let alone used in any way. I've seen ones where they
+put a measurement of bias in the middle of the thing, and they do it as a group activity. Some of them are just
+purely just a collection of PowerPoint slides with
+nothing else attached. Narrator: One 2016 meta-analysis of over 40 years of
+diversity-training data found that the programs were successful if they focused on skill development and were conducted over
+a long period of time. Many trainings end up being reactionary, half-day or shorter events that end up being more performative than impactful. It's like using a Band-Aid
+to treat a broken bone instead of a comprehensive treatment plan. Lai: Exactly! You might not be so certain that any individual initiative works, but we know that, generally, when firms or companies have more of them, their diversity and inclusion
+outcomes tend to be better. Narrator: Harvard Business Review found that a combination of things like college recruitment,
+mentoring programs, self-managed teams, and task forces have increased diversity. Diversity task forces alone boosted Black women in management by 23%. Instead of focusing on the
+thoughts of individual employees, these tactics address the
+bigger, systemic issues that make bias a problem
+in the first place. So, just because we don't know for sure if implicit bias trainings
+work doesn't mean they can't. We should be asking ourselves what we do know we can do differently in order to ensure lasting change. I just want to be very
+clear that the information we're presenting here has to
+do with implicit bias trainings and their effect on diversity and inclusion within companies. Bias is very much real, and it's something that we as individuals need to continue being aware of, checking, and unlearning. So, please, continue the
+conversation in the comments below and in real life, and subscribe
+for more "Deep Science." 

@@ -1,0 +1,86 @@
+over a week ago there was a big discussion i had 
+on twitter about sea sonic power cables and i   got asked if the advice given in the c sonic 
+manual was good advice which details that if   your graphics card has a total tdp rating of 
+over 225 watts then seasonic advises that you   should not use what is known as a piggy backed 
+connection from piggy tail cables and instead   use two separate 8-pin pcie cables so why 
+would they recommend this is it sound advice   and why do they even include them well i'll 
+tell you right after this sponsor spot axe labs   today's video sponsor are running this giveaway 
+to promote their new game vale vr on steam links   are in the description below though what is vail 
+it's a competitive 5v5 multiplayer vr shooter   the game is currently in testing and the players 
+can request access on steam vail is completely   equity crowdfunded so it is built on community go 
+and check out their discord using the link below   the aim is to work with teammates strategizing 
+ways to make your way through the map to take   over the point or eliminate everyone on the enemy 
+team to win it definitely reminds me of cs go   but much better being in vr maps have multiple 
+objective points so strategizing with teammates   is a must and don't forget to keep an eye out 
+around the corners it'd be awesome to play some   games with our viewers so go ahead join the epic 
+giveaway request access to the game which listed   on steam and we'll see you all over the community 
+discord links will be in the description below   first of all what is a piggy tail cable exactly 
+well a piggy tail cable is a single cable   from your power supply that essentially splits 
+into two eight or six plus two pin pcie connectors   which connect to your graphics card these are very 
+common especially on more budget orientated power   supplies that are not modular though why are they 
+included on nearly every power supply of sea sonic   is starting to recommend against them we'll meet 
+exhibit a this is a power supply i picked up off   a miner over a month ago and while one of the 
+connectors was fused at the modular connection   point going from the cable to the power supply and 
+this was as you guessed it on a piggy tail cable   the power drawer simply became too much for the 
+three pins that put out the positive 12 volt power   to the graphics card they in turn heated too much 
+to a point where the insulation around it melted   and therefore expose the wiring to oxygen in turn 
+oxidizing the wire and this process compounds in   itself because as the wire loses conductivity 
+it has to pull through higher resistance in turn   producing more heat and the process literally gets 
+to a breaking point where your power supply then   just turns off if it has safety precautions if not 
+then i would suggest having a fire extinguisher   handy this is because the gravis card 
+can no longer pull the power it needs   through the wire so in order to avoid this sea 
+sonic recommends using a single cable for a single   pci 8 pin connector over and this is important 
+this next bit for tdp graphics card power draw   of over 225 watt now relating this back to the 
+original question in the intro that we asked   why include these power supplies the piggy tails 
+with power supplies in the first place well over   the years and especially with most recent rtx 
+3000 series launch and amd's rx 6000 series launch   average gdp tdp power requirements have risen 
+significantly compared to previous generations   for example take a gtx 1080 it has a power draw 
+requirement of 180 watts so piggy tail cable that   splits one connector into two eight pins would be 
+fine however if now we compare that to an rtx 3080   it has a tdp recommendation of 320 watts so 
+according to c sonic's own recommendation we   should not be using a piggy towel cable for the 
+rtx 3080 on both the eight pin connectors and   instead use two separate cables even if one of 
+those eight pins comes from one of the portions   of the piggy tail cable also we can take amd's 
+rx 6800 xt it has a power draw requirement of 300   watts so just like the rtx 3080 recommendation 
+two separate 8-pin power connectors coming from   the power supply directly to the gravis cards 
+would be advised the most important thing we   can see here with the gtx 1080 versus the rtx 
+3080 is that over the years the power drawer of   these cards are going up and up in general and 
+you may be asking why is this especially since   the efficiency of the cards that is the fps per 
+watt has improved well as amd and nvidia compete   for the top spot for graphics performance they do 
+so at the cost of adding more stream processors   on their cards so even though the cards become 
+more efficient they add more power draw in total   because overall the stream processes that 
+they have added has produced more power   draw than efficiency itself derived from the 
+architecture and node shrink gains can take away   leaving us the consumer with more overall power 
+draw so a lot of manufacturers of power supplies   in the past would have not envisioned this when 
+producing 650 750 and 850 watt power supplies   for example since they thought that perhaps gpu 
+tdp power requirements would have not ballooned   especially as fast as they have to the levels 
+that we're seeing with new graphics cards though   what you see going forward is unlike this piggy 
+tail cable right here in my hand is you'll see   more singular 8-pin power cables on mid-range 
+and higher-end power supplies to account for   this though for now the simple recommendation 
+that c sonic has given out i would simply follow   it is sound advice from one of if not the most 
+reputable power supply companies in the business   and for them to make such recommendations would 
+simply be backed by experience knowledge though   to simplify the recommendation going forward on 
+rtx 3060 3060 ti and 3070 piggy tail connections   should be fine to use since they all have a power 
+requirement of under 225 watt though the 3070 ti   3080 and 3090 all come over this so i'd follow 
+the recommendation from seasonic and use separate   eight pin cables for these pci power connectors 
+on these cards mentioned over to amd's camp the   rx 6700 xt 6800 6800 xt and 6900 xt all come over 
+that 225 watt power recommendation so for all the   rx 6000 series cards currently available i would 
+use separate cables though in the case of the 6700   xt you should be fine with a piggy tail cable 
+lastly it is simply a matter of heat the weakest   point being the modular connection from the power 
+supply to the piggy tower cable if we look at this   hx 1200 watt power supply that i bought here 
+clearly the miner that i bought it off did not   follow this advice though it's good to see that 
+the power supply still works absolutely fine   and the safety features corsair have implemented 
+on this power supply work fine too though in   the example of this miner and the power supply 
+cable used it may be a little bit different of a   situation as before because they may have used two 
+rx 570s for example on one piggy tail cable where   these cards have a tdp rating of 150 watt each 
+therefore becoming 300 watts together going well   over that 225 watt recommendation and hence if 
+these two cards were used for mining for example   it could have melted the cables fast and 
+caused the oxidization that we're seeing   right on this cable that i'm holding anyway guys 
+hope you enjoyed today's video if you did then   be sure to hit that like button and let us know 
+in the comment section below have you had any   experiences like a burnt out cable here or have 
+you had perhaps a different experience where the   cable gauge isn't thick enough and the whole 
+system perhaps shuts down while you are gaming   this is another reason in favor of sea sonic's 
+recommendation though i've never had this happen   on a sea sonic power supply since the gauge of 
+the wiring they use is very generous anyway if   you stayed this far and you're enjoying that 
+tech yes content then be sure to hit that sub   button and ring that bell and i'll catch you on 
+the next tech video very soon again don't forget   to check out axe labs and their vr shooter 
+in the description below peace out for now bye you 

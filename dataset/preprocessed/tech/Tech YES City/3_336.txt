@@ -1,0 +1,338 @@
+welcome to the next installment of can
+yes fix it. This is that episode that happens once in a while where you guys
+send in your broken parts or stuff that just has weird problems and you want to
+see if I can either give it some tech yes lovin' or I can try some janky
+methods to try and get this stuff working again, and today on the desk we
+have so much stuff that you guys have sent in and we're gonna go through the
+letters here just like this one here love the channel brother keep up the
+awesome content and you guys have to know by now that that feeling is mutual
+I love you guys too let's move on with the next letter here we've got from
+comes from Ben and they say hey Brian this B150 M board has been giving me
+some issues I think maybe relating to RAM it has a three short beep code and
+it is beyond my abilities to get it to post I've tried both Kingston HyperX RAM
+modules and Corsair modules but it just won't post thought this would be a
+possible contender for a Ken yes fix it episode good luck with this one Ben he's
+got these ins to handle they're plugged and then we got the next letter
+Brian greetings from sunny Singapore I love watching all your videos on YouTube
+this is an old motherboard that I've managed to save from a junkyard in
+Singapore I'd like to see you working some magic on it for an episode of can
+yes fix it or can yes wash and make it work again I would love to see you in
+Singapore and going on a used parts hunt to stay safe and healthy and keep the
+content coming but the most important thing out of that message is definitely
+stay safe and healthy in terms of a used parts on in Singapore if the road ever
+takes me there then you know what's gonna happen it's gonna be some mad
+deals on wheels hopefully if I can get wheels in Singapore I don't know the
+situation there but here we've got the next letter from Kevin over in the
+United States and they say Brian thank you for inspiring me to get into PC
+building as it has become quite profitable for me and very fun you're
+persistent positive energy and great content is something to look forward to
+every time I log under YouTube I don't know how often you hear this but thank
+you for your hard work and please know that you make a good impact on the lives
+of your viewers a little about me I've always been
+computer nut and a car guy I became an automotive technician and I credit my
+success in that field you know my experience with computers as a type of
+person who continually looks for alternative sources of income
+supplemental income I found that building and selling pcs is
+the best complement for my experience with two kids at home and wife building
+PCs in my garage it's a much cleaner and less time-consuming side job that my
+kids enjoy as well choosing to take on a new venture and become a PC builder
+started when I discovered your channel thank you for everything you do on your
+channel and thank you for sharing your knowledge with the world and thank you
+so much Kevin I really love reading letters like this and that's part of the
+channel is just yet showing the whole journey along the way and sharing the
+tips and making everyone grow together this whole tech community when I first
+got into tech it was just a world full of open minded intelligent people and I
+love that it's still that way in 2020 and I love the fact that it's helping
+your life and it's helping your beautiful family thank you so much and
+they also said one more thing Australia has always been a place I
+wanted to visit and once before considered relocating there if I'm ever
+in the Gold Coast area I owe you a beer I'll definitely take you up on that
+offer I love me a good beer anyhow with those letters aside we've also got some
+other packages that were sent in everything here is on the desk we're
+gonna segment this whole video into different sections where look first off
+we're gonna start with gravis cards go through them see what the problems are
+and then quickly see if we can get these working again the simple process to go
+through here is to give it a clean initially then if it doesn't work after
+that we can then try the heat gun method after that we're gonna segment into
+motherboards and we've got a few of these that we're gonna try out here and
+then we'll after that go into these two laptops that were sent in with problems
+and then lastly some faulty ddr3 memory let's roll that intro and start this
+massive plethora of PC parts here and see what unravel [Music]
+so starting off with the GPUs we've got a massive pile here but what we're gonna
+do now is sift through them and quickly see if they either give out no signal
+or they have a problem where they artifact in Windows or the device driver
+just simply doesn't install now one of these scenarios if it happens and that
+is the artifacting or there's weird glitching on the screen I'm actually
+just gonna take the coolers off that and not even bother with the heat guns
+because I've heat gun to this date a lot of GPUs and the only GPUs that have come
+back to life fully from the heat gun method have been ones that have either
+given out no signal or given us a b2 error on the debug readout so basically
+they're the cards that we're really looking for here and we're gonna pull
+them aside and then give them some proper tech yes loving and then a heat
+gun session so let's start smashing through these cards right here and see
+what the verdict is [Music]
+so this Radeon 79 in but it's only working fine off the DVI to VGA adapter
+and so this is a thing you can try as I guess before you take it to the heat gun
+and that is maybe the HDMI scaler in the GPU is gone and so running it through a
+VGA cable can still extract performance out of it and can still make it work
+absolutely fine so this is this graphics card here it
+doesn't need to go under the heat gun but that being said the future of the
+card itself means that it's going to have to work with a VGA monitor or a
+monitor that has a VGA in like this AOC right here [Music] you so got one more graphics card here that
+had the exact same problem as the 7950 and that is the HDMI scale is gone
+worked through VGA perfectly fine [Music] [Applause] [Applause]
+so out of all the GPU testing we did we've got four GPUs that work fine these
+two here just need I guess to clean up and this one here needs the cooler
+attached properly this gtx 680 came with like a water cooling kit that is on the
+CPU and the GPU in one 240 ml loop so i guess it would work well with say an i7
+3770k or something like that even on the 240 mill loop both overclocked on GPU
+and CPU these two here are VGA only so going with the DVI 4-way so you can see
+the horizontal and the vertical line there that means it's actually got
+analog support built in so that the ports were using from here on in as
+opposed to this port here is DVI only so DVI a works fine on both of these so
+they're good to go they don't need any extra work done to them and but let's
+move over now to the balcony where we're gonna start the next process so now
+we've got all our cards here on the table this one is not going to get a
+cleaner or a heat gun unfortunately it's the RX 470 and when I booted it up it
+quickly got into Windows and then said there was a memory error so this one's
+just that old that the memory has now degraded to the point where no amount of
+heat gunning or cleaning or tears loving is going to bring it back so useless
+card but these are the ones on the desk here they all have a chance in my
+opinion so what we're gonna do now is brake cleaner them down and it's just
+the quick and easy method of course if you've got time and you want to save a
+bit of money you can wash your components down just make sure you dry
+them up 100% I have done this in the past but break clean is the quick and
+easy method and it does clean off all the dirt and grime and then after that
+we're gonna go through each of them with the heat gun and we'll quickly go over
+the settings after we've done the break clean
+[Music] [Applause]
+[Music] [Applause] [Music] and now we've prepped all these graphics
+cards we are ready for the final phase or the Hail Mary and that is the heat
+gun and I've got this set to about two-thirds of the way full because I've
+found that's the settings that's worked for me in the past and now you want to
+give it around six to eight minutes but what and what you mean by six to eight
+minutes is if the PCB and the card and the die especially is smaller then that
+gets less time you can even get away I said five minutes on something like a
+GTX 10v two TI but if it's a bigger card like this gtx 780 here we can give it a
+good eight minutes of just straight heap now for mounting them up i've got two
+little pieces of our four mount them on the side without the bracket here so
+that way it's not i guess all the heats not sink
+sinking into the table here though with that aside we're gonna get on the weight
+of heat gunning all these cards and see what comes out of it [Music] [Music] [Music] [Music] [Music] [Music] [Applause]
+so our first card which is the r9 270 we've fixed this it is working and
+initially I just put the little hate thing on to save time because if it's a
+goner it's a goner but this one showed some response and now we've put the
+cooler back on it with stress testing it and it's looking like it's a-okay we are
+now 1 for 1 [Music] [Music]
+and now here we are with the next card that is working and it's came back to
+life this is two four six now so we did come into quite a few duds all in a row
+here but this r7 370 seems to be working absolutely fine so I'm pretty happy
+two four six I'm pretty happy with this hail-mary method so here is now our 780ti that didn't
+even boot and give out a signal before it is back it is working absolutely fine
+giving us some pretty good FPS and the temperatures actually look really good
+too on this model now this is the third of the seventh graphics card that we've
+got back here so I think like at least with this method I'm doing overtime with
+the heat gun I'm saying I mean I'm starting to just get decent at it where
+you know how long to do it you know what temperature to do it on and you know to
+give the components the best chance they've got so man this one's just like
+I'm super ecstatic about this one because I think it got sent in and it's
+just like the person thought it was just gone like they thought it had no chance
+it's a Hall of Fame and we've given us some tech yes loving too so it's looking
+schmick as well right on that table man this one's actually this one this
+one's hit the fields now we're on the last graphics card here which I did
+bring back in a previous video I forgot exactly which one but the FPS on this RX
+570 was just like dipping and going up and down up and down now it's back and
+stable like a hundred percent after the second round and I I guess it's just
+that you just got to work on that technique with the heat gun and here it
+is here rx 570 now back from the brink and that's some really good news because
+I think we're now full graphics cards out of 8 which is the highest success
+rate I've ever had now here's the four coolers for the ones that didn't make it
+and the good thing about this is we've still got the coolers and especially the
+fans so if I come into a GPU in the future that has a busted-up fan or
+something like that or it's just got a really crappy
+reference cooler or some really weak cooler then I could definitely see
+myself using one of these three coolers this one here yeah I mean it's really
+cutting it I mean this is probably why that 1050 Ti didn't make it in the first
+place okay we've got three good coolers in the bag so now we're on to the
+magical world of motherboards and I'm going to give these
+a complimentary tech yes service this is on the ones that look really clean and
+as we have done previously in other videos which is going to give the pins a
+light clean down because I've had some really good success with that except for
+this one here which is an am-3 socket motherboards so we'll get onto that and
+then see if these boards have been sent in that are working or if their faulty
+if they're faulty we can then maybe give them a more thorough cleaning or see if
+they need some sort of bias update or something like that to get them going
+[Music] so out of those first five motherboards
+three of them worked absolutely fine they were giving out a signal and
+everything was good to go now one thing when you're testing motherboards you can
+go through them pretty quickly like I do here if you just got a basic stick of
+memory and also just a basic graphics card this here is like a 56 70 and I
+just plow through them and so the signs that you're looking for basically
+hopefully a keyboard post and that you at least get some kind of a light out of
+it that means you can do some further cleaning you might want to dip it in
+water and just thoroughly clean the board but in this case the azouz board
+just switched on and then switched off after 15 seconds and it was just giving
+out no signs at all even with a different ddr4 memory sticks so the big
+150 was a no-go the msi h97 when we turned that on it just literally
+like switch quickly on and off so something is inherently faulty on that
+board to the point where you're gonna have to replace a faulty part on it
+because you just quickly go and then it would short out and then if you try to
+turn it on after that it just wouldn't turn on at all and so none of the lights
+or none of the diagnostic lights worked either this was just a completely faulty
+board though the good news there we've got three or five boards working however
+the next lineup of boards here they are absolutely filthy so they're gonna need
+the brake cleaner they're gonna need a thorough cleaning so let's get onto
+these and see if we can get them to work [Music] [Music] so now we've finished up with the last
+three motherboards and the gigabyte was the most interesting of the board's
+because this one can work except it's going to need a BIOS where the main BIOS
+chip actually is because it's currently missing and so when I acted the backup
+boss to flash to the main boss that's when I realized oh this isn't working
+what's going on and then I saw there was no main BIOS there so I believe this
+motherboard could work if there was to be a main bar soldered back onto it now
+I actually don't have the tools to do that in my studio here so I will keep
+this motherboard around because I think it can come back to life in terms of the
+other two motherboards the Biostar that was just complete junk it would just
+turn on and it basically wouldn't give out any signals at all try different
+memory try different CPU try different slots nothing and then the b85
+motherboard we tried that as well and that was booting up and then I was
+booting off in just this consistent pattern and the good thing about that
+was I could play musical chairs with the RAM in that every time it booted off I
+could quickly change the RAM slot without having to turn anything on and
+off again just to test all the board out and see if it was total toast so there
+we have it we've got I don't know what you call this maybe half a motherboard
+because half working but we've got three and a half motherboards out of eight
+working so far though the next thing we've got here is faulty memory or
+memory that just doesn't work properly what we're gonna do here is wash this in
+hot water with detergent and then after that we're gonna give it a quick heat
+gun not too long we're only gonna give it a minute because it's a very small
+sized PCB we're gonna give it a quick zoom over with the heat gun and see if
+we can bring this memory back to life [Music] [Music] [Music] [Music]
+[Applause] and we just finished off testing the
+memory and we've got some really good news here that is three of the seven
+sticks are now working again one of those being an 8 gigabyte stick so
+that's really good news 16 gigabytes in total is back to life
+and now we're gonna finally move on to these laptops which I do put out a
+disclaimer their laptops pretty much not my field of specialty but I'm just going
+to take a simple no-nonsense approach and see what I can pull off here so
+we're now checking out the first laptop of the two and this one looks absolutely
+fine it did have a message on their boot problems so we went into the BIOS and if
+you get into the bar so that's usually like 99% of the problem solved and then
+I saw there was only two-year bytes of RAM so we installed a 4 gigabyte stick
+to it the to you back stick out because if you want to install windows
+especially x64 Windows 10 you need 4 gigabytes of memory that's a
+prerequisite so we put that in we set the BIOS clock to the current date and
+then we reset the system and it seems to be fine I mean Windows is installing
+right now we had to put in our own Drive so I just put in a regular 2.5 inch
+firing you buy hard drive and it looks like this is fine
+[Music] and now here we are at the finale with
+this Lenovo laptop and we have removed the SSD we've removed the Wi-Fi we've
+unplugged the battery and it still just boots cycles after being booed up for
+like a minute so I did get into the BIOS and I did change the settings in order
+to get this thing to reinstall windows but it has a problem where something is
+inherently on the verge of giving up and it's faulty now this is the problem with
+these laptops here and this is a big reason why I'm not big on laptops
+personally and that is we've got GPU CPU we got RAM all on the same motherboard
+so if one thing is faulty we've got to replace this whole motherboard in this
+laptop so I don't know how much one of these is gonna cost and I mean I could
+try I don't know I can try and put a heat gun to it but I'm not putting a
+heat gun to it with the battery so close so I think we're gonna stop there and if
+someone repairs laptops they can and specializes in this kind of thing maybe
+they know exactly what's wrong with it but I've got a feeling that it's it's
+one of these three things right here and because they're all attached to the main
+motherboard the motherboard needs to be replaced
+so this one here unfortunately is a no-go er but we did get an m2 SSD out of
+it and also a little Wi-Fi card too and here we are now at the next morning the
+conclusion we're actually filmed this last night but my microphone my lavalier
+mic had a faulty extension and then that caused noise to come into the recording
+and it was too late so I was like we're gonna get some sleep
+get some yes sleep and then get Thunder charged for the next morning and what
+we're saying here is the power of quick and easy and effective methods that work
+and they work well especially with the gravis cards I haven't had that much
+success with cleaning and a heat gun ever in the history of this channel and
+this episode was definitely a big one in terms of the amount of stuff that we got
+fixed and working again so we got a whole table of working parts
+and in part it's thanks to these right here these chemicals so of course we got
+the brake cleaner that's the quick and effective method for just getting all
+dirt and grime off really dirty parts but also getting into areas where you
+say for instance a USB port or something like that and it's clogged up and you
+just don't have maybe the right tools to clean that out like a very small brush
+or something like that with a thin bristle this will just get it all out
+easy done and dusted and then of course this right here is the everything spray
+makes stuff look good you can spray it on live electronics won't do anything as
+opposed to the brake clean you've got to make sure it's all dry before you try to
+boot that part up though what we came out of with today was just a really good
+experience in that if you take your time with some of these parts and just go
+through a process of ok it doesn't work it's not giving out a signal what can I
+do I can give it a heat gun then you can get parts back to life now this 780ti
+was for me the favorite resurrection of today where this thing was just showing
+no signs of life before we gave it some tacky-ass love another heat gun and now
+it is back to life it is fully working again and it looks like it's working
+well plus after some techie ass lovin it's looking schmick as well of course
+going through the motherboards I've been down this path so many times before look
+for bent pins try one memory stick try resetting the CMOS and then after that
+if you just kind of get anything out of it even if you try a different CPU for
+example in a different memory stick and it's usually most of the time it's just
+a goner I mean you keep it around try some different things you can even try
+washing it that's a last case scenario but generally I find motherboards you've
+got just a simple standard set of methods that you go through after that
+you just don't bother with them you're just wasting way too much time and I
+believe me you can waste a lot of time on a motherboard to get it working again
+if you want to and then at the end of that you might not even get it working
+again so you've just wasted a heap of time and I think the Ken yes fix it
+episodes they do fact in that time efficiency and because you
+don't be wasting a lot of time to when you're dealing with PC parts especially
+if you don't have to so with the motherboards we had a few that worked
+well we had a few that didn't work - and then the memory that was one thing that
+actually surprised me because I thought all these memory sticks just would not
+work before I tried doing the clean and the heat gun they just didn't work at
+all they would boot with no signal but then after we did that we got 3 sticks
+working again and that is Zeus p67 multiple that I've got pretty handy
+because it's got that D Ram LED so if the RAM is causing the PC not to boot
+that'll just flash up and let you know so and of course last up we had the
+laptops and I got one of them just I think one of them wasn't faulty to begin
+with it was just more a compatibility issue with Windows 10 and then the other
+laptop it just had a really weird problem where I may try hate gunning
+that and see what I can do with it but after I thought about it a little bit
+more of a night I thought it might be the memory the RAM on board that because
+Ram will cause a PC to boot in such a cycle like that where it's gone poomm
+poomm poomm poomm poomm and since it did work momentarily I believe it has
+something to do with the RAM who knows if you guys repair laptops and you
+definitely know what that problem is be sure to drop a comment the comment
+section below and also let us know in the comments what was your favorite
+fix-up of today and as I said before the 780ti definitely wins it for me and also
+if you've got some tips and tricks of your own about quickly fixing parts and
+be sure to drop them in the comment section below
+love reading your thoughts and opinions as always just like this question of the
+day via which comes from gray and this one's a really big one and they asked
+I've been thinking of getting into reselling there is no shortage of x58
+next 79 parts to be had cheap as well as 1050 TI's and RX 580 type cards is it
+worth it in 2020 to buy these build them up and resell mainly in the
+US market they still work decently as production computers and I can play a
+fair amount of games at respectable fps I'd like to eventually get into x99 kits
+too because the ability to use car Jen parts on many aftermarket Lobos is
+there as well but even though many current v3
+processes are reasonably priced for enthusiasts a full set up might be
+overpriced so I'd like to start by building X 58 X 79 stuff people can
+still get a few years out of before moving to X 99 any thoughts and when it
+comes to PC reselling basically my thoughts are with that is if you can get
+the deals then definitely go for it it's all about the price that you get that
+stuff for and with X 58 and especially x79 those are two parts that at least
+where I am locally you can find someone selling a whole PC and they're just
+getting rid of it and you can say for a hundred Aussie dollars get next 58 mobo
+i7 920 or it's usually a 960 or something like that 12 gig of ram
+harddrive case power supply for that kind of money yes you can definitely
+resell and make a buck it all depends on that deal that you're getting initially
+in terms of the respectable fps in 2020 X 58 next 79 are going to deliver
+especially with a 1050 TIR in rx 580 that's not a problem whatsoever
+especially the six cores and on the XM e 9 these 8 core Xeon I'm going to be
+doing a video on that soon where I'm going to be comparing that to the best
+of the best from AMD and Intel we're gonna see how that fares but I'm also
+going to be giving that a really hard overclocking to so in a nutshell yes can
+definitely be worth it it's all about what price you get the stuff for and
+with that aside I hope you guys enjoyed today's video if you did then be sure to
+hit that like button for us and if you've stayed this far and you're
+enjoying that check yes content and you want to see more than hit that sub
+button ring that bell because we've got also some input latency stuff coming up
+and there's a lot of juicy videos that I want to get done this month that have
+been on the back burner and I finally got time to do it so I'll catch you in
+another tech video very soon peace out for now bye [Music] 

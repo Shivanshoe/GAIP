@@ -1,0 +1,170 @@
+AMD B550 is finally out here in the wild
+and I gotta say straight up this is a weird one of sorts and for a few reasons
+and we'll go over all those before we get into this board right here but first
+of all the delay on B550 versus X570 is huge right it's almost a year later
+and then we look at the differences at a chipset level they are sporting some
+differences which B550 we've got 12 PCIe lanes versus 16 on X570 but on the
+X570 you've got those chipset lanes being all peace a 4.0 whereas opposed to
+the be 550 they're actually four PCI 300 lanes and eight PC 800 lanes though of
+course the CPU itself gives out 20 PCI 4.0 lanes for for an nvme Drive and then
+16 for that top slot before your graphics card and whatnot so B550
+essentially does have PCI 4.0 it's just not on the chipset so the benefit of
+this is it does allow the chipset heatsink to have no fan and it runs a
+lot cooler when we're testing this B550 right here with a graphics card and an
+MDOT 2 loaded up over PC a3 it was giving out really good temperatures so
+you've got nothing to worry about from here on in on b550s and chipset
+heatsink temperatures and worrying about having a fan on them just a simple
+heatsink on your b54 motherboard and you're good to go pretty much just like
+the b450s out there now in terms of the chipset pricing this is one thing I kind
+of don't understand at the moment I've been asking around everywhere to try and
+get an idea of how much you're paying for the actual license with B550
+versus X570 versus B450 for example and from what I can gather I can only
+really guesstimate these costs where I think B550 would be somewhere around
+40 to 45 dollars and B450 for example would be somewhere around 20 to 25
+dollars and then X570 would be around 50 to $60 so you are getting a discount
+on the chipset license versus X570 but that being said continuing through the
+differences we no longer have as USB 3.0 ports where we've got up to a
+max of 8 3.2 parts on X570 then a max of 2 3.2 and for 3.1 in conjunction to 6
+3.1 and two together and then we've got a maximum of 6 USB 2 ports versus 4 on
+the X570 so they're given B 550 the max allowance of 6 but this is the weird
+thing with the b-52d tied to you've actually got 11 in total USB 3 ports
+where the front out you'll get an additional 3.2 which makes it 3 in total
+and then you've also got an additional 4 USB 3.1 so that makes it 11 USB 3 ports
+in total if you hook up your front I oh so that's the main differences with B550 and X570 but you also get on select X570 boards support for SLI and also
+env link where as opposed to b5 do you just get in this case crossfire support
+and no NV link or SLI support however the good news all starts to come
+together for B550 where there are no limits on what the manufacturers can do
+with the vrm and also with that the overclocked ability where the B550 tied
+to you with a 3950 X both out of the box 3.95 gigahertz you were just
+getting lukewarm on the heatsink in the VR em so it was absolutely no stress at
+all even in the hottest climate in the world you'd have no problems with this
+motherboard without even needing a fan it's basically that good then we move on
+to the 4.3GHz custom OC that I did here which which point around 200
+watts directly to the CPU as opposed to the three point nine five gigahertz
+that's pulling about 126 Watson and I did cross-references with power from the
+wall just to make sure the figures are right in hardware info and what we saw
+here was a maximum PCB readout temperature of 74 degrees and then on
+the heatsink 65 degrees then the software readout was 69 degrees so vrm
+with customer sees the max you can go on a 3950X pretty much you are seeing
+this motherboard just handling it absolutely fine this is in a 22 C
+ambient - by the way running Cinebench are 20 watts just constantly looped so
+we're utilizing that avx2 instruction set as well they're going
+through this vrm more specifically we've got here a 14 plus two phase power
+designs - 16 phases in total 14 for the CPU - for the SOC and that is rigged up
+with vishay si si six five four CD 50 amp direct drive MOSFETs and then
+they're using 60 amp inductors and then for the doublers we've got here the
+Intersil is l six six one seven eight and the PDR controller is the raw - two
+nine zero zero four and for the caps that 12k ninja cons so this vrm is
+actually better than the x5 seventy Taichi so it is cool to see as rock and
+this is the first time I've seen this where the little brother board is
+beating out the big brother and not just phases but also the quality of some of
+the components for instance the 60 amp inductors as for the heatsink it's 253
+grams so slightly heavier than the x5 70 taichi's heatsink and it's made of all
+solid alloy and it's got heat pads on both the inductors and the MOSFETs of a
+cooling both those down so for m dot two temperatures and slot edge they've got
+two nvme slots on this board the top one being PCI 4.0 X 4 and then the bottom
+being PC a 3.0 X 4 and they're both covered by heat sinks and the heatsink
+does a pretty good job so taking the temperatures down quite substantially
+with both the heatsink temperatures the service temperatures and the software
+readouts and then when we take the heatsink off we can see that we're
+getting kind of into that uncomfortable level where I wouldn't want to see my
+nvme SSD running at those temperatures personally 24/7 especially from editing
+videos they'll go through the onboard audio they're using the realtek 1220 LC
+it looks like they have kind of copy pasted this from the x5 70 taichi though
+the numbers were slightly different so going through the frequency response
+curve first we've got a base roll-off with 10 Hertz and under around 2.3
+decibels which is absolutely fine after that we've got pretty much a flat line
+up until 10 K and above where we've got a 0.1 DB drop-off so basically the
+frequency response curve is going to be flat it's gonna be good for your ears
+and I even kind of prefer that slight drop off in the treble I'm not a big fan
+of treble personally but then we move over to the crosstalk and the numbers
+here are actually better than the x5 70 tied she coming with around -
+ninety-two decibels all the way up to a volume level of 90 then going from
+volume of 91 to 100 does have the crosstalk sort of bumping up on both
+left and right hand sides so if you were to use this onboard audio I recommend
+keeping the volume at 90 and under then we've run to the mic import they're
+using suppression so basically this is gonna be good for chatting to your
+friends playing games they're gonna be hearing you clearly no matter what you
+do at the same time it's going to give you a voice a little bit of a thinner
+tinny sound as opposed to a professional recording so if you want to use this for
+professional recordings I would get another solution
+anyhow moving through the BIOS it's as rocks typical it can do it bios very
+simple yet has all the features you would want to a degree and I will
+critique them here with the be 550 Teijin that is they've taken away the
+polychrome RGB sync within the BIOS which I really like and I really enjoy
+and they've added it so you have to install it in Windows which I'd like to
+see them add in an update to configure it from the blouse but they've also
+taken away the internet DHCP upgrade so you just connect to the Internet and
+then you can download the BIOS ROM so there are two features I'd like to see
+them bring back though in terms of the other features fantastic tuning you can
+control all the different seven PWM fan headers manually and then you can
+overclock with ease for horizon 39 50x getting this overclock at one point four
+volts for four point three gigahertz took me literally in half a minute and
+the 40 400 megahertz XMP profiles on this Oris memory that I'm using worked
+absolutely fine first go-around no hiccups whatsoever they do say you can
+go up to 4,000 733 megahertz and that definitely seems like it would be a
+possibility if you had memory that good they'll go through the input and output
+we've got integrated IO shield Wi-Fi six Bluetooth five BIOS flash back button
+and a clear CMOS button display port HDMI out eight USB ports manual 5.1
+surround out optical out and also an Intel two point five gigabits per second
+Ethernet which does differ from the x5 70 taichi's one gigabit per second
+Ethernet so with all that out of the way that now leads us to the most important
+part with a motherboard and that is the price so you would think be 550 would be
+the value line up like B 450 but this time around we're gonna have a
+massive range within B 550 and this board right here is pretty much
+top-of-the-line it even goes topper than the x5 70 Taichi so be 550 itself is
+kind of like cut-down X 570 but it can be better and it might be better for a
+lot of people especially if you just want to get a single nvme Drive a 2
+terabyte PC a fall for example and a upcoming r-tx 3000 graphics card or
+something like that so it can give you better value within
+the realm of what it offers that the price point is pretty high I mean we're
+looking at 280 USD for this board in a straight 569 ozzie dollars versus the x5
+70 Taichi which was three hundred US dollars and then in Australia 589 ozzie
+though in Australia the x5 70 I did see it on sale for 529 Aussie so these price
+points I would go with the x5 70 Taichi in Australia of course when something's
+on sale and there's not that big of a difference between the two I'd get the
+item on sale though as it stands if they're both at MSRP and you want to get
+one of these two bullets I would personally go with the B 550 Taichi but
+the main reason for me would be actually two things that's the onboard audio
+slightly better and then the vrm with that slightly
+enhanced 16 phase that does have slightly better components on it than
+the x5 70 Taichi and that did show with these results I mean handling that 39 50
+X with that OC the way it did with the temperatures no fans on the heatsink at
+all with honestly really low temperatures is something that asrock
+have done well also the last thing to go over that I forgot to mention was RGB
+you've got four headers in total to those being addressable and then two of
+those being 12 volt and one each at the top and bottom though I would like to
+see as rocking a BIOS update bring the polychrome RGB control back to the boss
+as well as the internet update as well those two features I actually really
+like them in the BIOS so if they can get them in a BIOS update I'll let you guys
+know if they're coming in the BIOS update I'll let you guys know in the
+description and with all that other way I hope you guys enjoyed today's review
+of the be 550 Taichi for me personally it feels like this one in particular is
+an X 550 that the way I would think of this board and
+that aside if you guys enjoyed this review be sure to hit that like button
+also let us know in the comments section below what you think of B 550 so far I
+actually had this motherboard for over a week it's just there was an NDA on
+actually lifting to performance figures so I do like to just give you guys
+reviews and numbers on motherboards rather than unboxings and showcases so
+that's sort of the way I do things with motherboards because when I go to buy a
+motherboard I would I love it when there is all that information available and
+then I can make a decision so hopefully that answers that
+and speaking of answers we've got here the question of the day which comes from
+transcendence media and they asked which cooler would you suggest best for risin
+530 600 my idle temp is 45 to 65 and gaming temp is 70 to 85 well the stock
+cooler is what should be a bit better than that I mean those temperatures do
+seem high so if I start as you may want to look at what case you using
+especially if there's absolutely no air flow on that case just take off the side
+panel to help it breathe a little bit easier but in terms of a value for money
+cooler since you are using the Verizon 5 3600 I would go with my main hookup and
+that is the Snowman this thing is delivering amazing value for money and
+if you get the to fan version that thing was even handling a 10 900k out of the
+box which is pushing around 175 watts so incredible cooler for the money and
+we'll definitely see your rising 530 600 gets some sweet overclock stew in the
+process and lower the temperatures so hopefully that answers that question and
+with all that aside if you guys have stated this far and you're enjoying that
+content then be sure to stay subscribed or hit that sub button if you haven't
+already ring that bell to get the content as soon as it drops because the
+next video we've got a be 550 comparison where we're testing out all these be 550
+motherboards that were sent in its gonna be a big round robin so hopefully you
+guys enjoy that one and i'll catch you in the next one peace out for now bye [Music] 

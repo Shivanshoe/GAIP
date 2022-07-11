@@ -1,0 +1,386 @@
+if your PC gaming on Windows 10 and
+you're either on an old potato computer that's very slow or you're even on the
+latest and greatest high-end gear, then today's video is going to be the
+tutorial and guide that helps you make Windows 10 as fast and snappy as
+possible without doing any irreversible damage to
+the OS itself though first thing is first we're going to be starting off
+here with a fresh install of Windows so in order to make your fresh install of
+Windows a bootable USB Drive you can then install Windows off of you just go
+to Microsoft comm and download their media creation tool which I'll put the
+link in the description below as of today they still don't have a 2004
+creation bootable so you will have to install Windows and then after you do
+this you will have to go to the update in Windows itself to update to version
+2004 and if you can't currently see the update option for version 2004 then
+either one of two things has happened and that is you don't have version 1903
+or 1909 installed yet or your computer isn't ready for the update so if you've
+made it through the update process and you are now on version 2004 then there
+are a few things you can do and that is you can just check if you are on this
+version by just typing in system info and then you can bring this up here and
+it should actually say to you build 1904 one and this is actually a version 2004
+so if you've got that version right there that means you are on Windows 2004
+another thing is to about this current version is that there are quite a few
+changes compared to 1909 1983 if you wish to know what changes they are I'll
+put the link to the video up here that I recently did stating all those changes
+and the last thing before we get into this tutorial as well is this currently
+a lot of known bugs with version 2004 so if you're currently on a work PC and you
+cannot afford any instabilities at all then I do not recommend upgrading at
+this point in time to version 2004 though that aside it's now time to start
+optimizing Windows for all you gamers and power users out there [Music]
+so today we're working off a fresh install of Windows and what we're doing
+here is when I first install Windows on pretty much any device I always
+disconnect the internet this allows me to install Windows without having to
+sign into a Microsoft account and I feel like this for me is a good thing it just
+allows me to not only when I sell a PC the person can then put all their own
+info in but when I personally use the PC I find that I don't have any cloud-based
+apps that I feel put my PC in a laggy state so this is the reason why I do
+this I want it basically all my stuff to be installed on my hardware so super
+snappy and super fast another thing when you're first installing Windows is you
+want to uncheck all these boxes there's seven boxes in total that it presents
+you with and then on the next tab after you've restarted your computer you can
+then decline Microsoft's device history as well this will then take you into
+Windows but you will have to then update the version 2004 though once we're
+moving on to this desktop right here you'll notice that we can now start
+applying all the tweaks and tricks that we're used to doing so what we're gonna
+do here is just go to settings tab and we're gonna start from the system itself
+and going through I'm just gonna quickly go through all the settings that I use
+personally and I like to leave on now one important thing is there's a
+graphics setting right here that if we go in display and down to graphic
+settings there's a thing called GPU scheduling and at this point in time I
+am going to do a test on it but I'd recommend just living off for now you
+can turn it on of course in the future and if you update your grabs card driver
+and it appears there then it may be worth leaving on for you they straight
+away with nightlight this is something I personally like to leave on it saves us
+installing flux and it actually does a really good job my settings here I leave
+it on 40 I scheduled nightlight and I set the hours from 7:00 p.m. to 5:30
+a.m. your mileage may vary of course depending on where you live in the world
+you might want to customize it to how you like your nightlight the movie
+through sound there's nothing there to change notifications and actions this is
+one thing I like to completely just turn off altogether
+because I don't like any suggestions or tips or tricks from Microsoft and it
+just turns off services that I usually don't need basically next up here is
+focus assist I like to turn this off and I like to turn all these other boxes off
+here then we move on to power and sleep and this is a pretty important one
+depending on what device you are on I always like to leave it on high
+performance mode and then I go to change advanced settings and I like to change
+this right here to turn off hard drive to zero then go down quickly to sleep
+and allow hybrid sleep I like to turn this off and the reason being is because
+some computers especially when I'm flipping a PC some of the PCs I'm
+flipping can have problems with hybrid sleep another thing you can do is turn
+this slide show here to paused that's just how I like to set my power
+settings and then we can close that down next up here is storage and we can move
+down to the optimized drive tab setting here because this one is actually a bug
+that's been going around some people get affected by this heavily and I like to
+manually optimize my drives regardless it's one thing that I've been doing so
+being left click on the change settings here and then left click on run on a
+schedule and then click OK now it'll be off and so if we need to optimize our
+drive here we can just click optimize it's done now how I usually do this is
+after I delete a lot of my temporary files on my desktop which I use for
+video editing on this computer behind me I then optimize my drive after that so
+that's an easy way to do that apparently there's a problem where it'll just keep
+optimizing your drive more way more frequent than you need and if specially
+if you're in the middle of a game that's not a good thing moving through now we
+can skip to tablet we can then move on to multitasking this is up to you I
+personally like to leave all the snap windows off because I stream and I put
+multi min windows through different monitors snapping just really like
+affects how I can stream and stuff especially on my main rig though if you
+like snapping definitely leave it on timeline I like to turn this suggestions
+tab off here moving through projecting to this PC there's nothing there shared
+experiences there is a setting here that I like to turn off and that is let apps
+on other devices open and message apps on this device
+and vice-versa so it's basically just taking off this share control anything
+that can really annoy you and bring up a service that you don't need we want to
+be turning that off now clipboard history I like to actually leave this on
+personally on my main rig this is something that I leave on because I find
+it's extremely handy tool when you copy pasting for instance when I sell stuff
+on gumtree and Facebook I like to just copy stuff across from the Facebook ad
+to the gum tree add in two different titles or three different titles and so
+that's actually very handy I personally like to leave that on remote desktop I
+don't use that I don't need it so I leave it off and then we can go back now
+and we're gonna move through so that's the system tab all done we can now move
+through the devices tab now bluetooth if you have a Bluetooth device connected to
+your PC leave this on I don't have any Bluetooth devices currently connected to
+my benchmark rig this is the one I'm optimizing so I'm going to turn it all
+off that's just a service that we no longer need running printers and
+scanners it's the same thing if you don't need your printer on you can just
+protect that off let windows manage my default printer if you don't have one
+but since I am using a printer on my main PC I would leave this on Mouse we
+can have now cursor speed so this is a new feature to Windows 10 2004 and you
+can change your cursor speed in increments of 1 to 20 as opposed to the
+original 1 to 11 which that option still does exist in Windows itself it's just
+you've now got an additional layer where you can change your cursor speed even
+more so it's great if you've got a mouse that doesn't have big I mean small dpi
+adjustments so you may wish to play with that but um scroll inactive Windows
+whenever I hover over them I like to turn this off that just enables me then
+to essentially have all my scroll windows showing up so they're not hiding
+now the next thing here typing this pretty much gets it right from the
+get-go you don't have to change anything there same with pen and Windows ink
+autoplay this is a service that I like to turn off because it's actually been
+made to be an individual service on its own there remains active so I turn that
+off nowadays because I just don't use it USB as well notify
+when they're issues connecting to this USB device I'd take this off I don't
+need any services running in the background that is just waiting there
+and especially if you're on a potato computer hogging resource so that's
+devices done phone unless you've got a phone connected to your PC there's
+nothing here to share network is an interesting one because if you're using
+a LAN cable like I do in my studio then I can just turn off Wi-Fi completely
+though of course if you need Wi-Fi make sure you leave that on but one important
+setting that I think you should turn off is let me use online sign up to get
+connected so we just take that off it's a useless setting unless you use it of
+course but it's one that I just turn off personally going through here dial-up
+VPN all this other stuff I like to turn this off airplane mode we don't need
+that basically cuz we're on a desktop computer right we're changing all these
+settings to a desktop power user they're going through personalization there's
+not much to do here besides making your own custom windows look the way you want
+see here I like to change this to red that's the recent color in terms of
+background I'd like to upload my own image which is not currently on this PC
+and then we can go down to start here and I like to turn all these off except
+for show recently added apps so that way you know if something is has been
+recently added in your Start menu just so you're not fooled by anything if
+something's secretly installed on your PC you be able to know what it is then
+we move over to taskbar and this is an important one because I like to take
+this off replace command prompt with Windows PowerShell so basically when you
+hit Windows X key which I do use you can quickly bring up remote command prompt
+admin but if you have this on it'll bring up PowerShell admin so I like to
+turn that off and I like to take off show badges on the taskbar and then
+we've got this one here I like to never combine my buttons on my taskbar so that
+just essentially shows me all the programs that are open in my taskbar
+which is something I've always done ever since I've used Windows so moving on now
+we've got apps and this is another important one because I believe this is
+the optional features we now get full control over what we can uninstall from
+Windows here so you guys can just go through and uninstall all this stuff
+that you don't need that was previously just on your computer and so if you're
+not printing which I'm not on this rig I can take off my print management console
+WordPad I used notepad persley Windows Media Player we can get rid of that
+Windows hello face if you're using this on a phone Windows Phone you may wish to
+leave that on especially on a laptop if you're using
+hello sign in but these are the things that I just get rid of because I don't
+need them and so fax and scan another important one if you're scanning
+documents and your computer special print console but if you're not doing
+any of that you can get rid of that stuff and you can add these features
+back later so again this is all reversible you can change that and add
+it back in the future now after you've done with that you can go through and
+remove any of these add like apps that you just if you don't use them you can
+just get rid of them I actually calculated pretty important I like I
+like calculator when we're gonna leave that on but farm heroes and saga
+feedback hub I mean this is just all crap and more crap groove music I'm
+pretty sure everyone uses Spotify anyway mail and calendar I mean I use outlook
+personally Maps I wish I could get rid of that but I can't onedrive is just I
+use Google's thingamajig and Google Drive so yeah that's what I use with
+that so solitaire I don't play it my parents do so I'd leave it on their
+computers but just going through getting rid of all the crap here all the crap
+it's going it's going office I do use that on my main PC so
+you just basically saying do I need this program if you don't need it I use
+original paint to over paint 3d but do you need these programs if you don't
+need them you're just getting rid of them to clear up clutter and clear up
+crap on your desktop and believe me look how much this is just more and more
+every windows update there's just more and more of this stuff so we're just
+going through here and I just don't need this stuff if you're an Xbox use it
+though if you connect your Xbox to your PC you might want to leave these Xbox
+services on and especially with the game bar when we get on to that later though
+default apps once you've installed your browser so if you've got Google Chrome
+you can change that to Google Chrome also we can go you know Microsoft edge
+so we've got that we'll just do that for now now going down to offline maps we
+can left-click it delete all maps and automatically update apps we can turn a
+map sorry turn that off and then move on to apps
+for websites I'd like to turn these off I don't want any services running in the
+background video playback they get that right we
+know security notification icon I just turn that off
+and start up it helps free up some stuff and we've uninstalled onedrive before so
+we just did ourselves a favor now we can move on to accounts and this is your
+info right if you've signed in with a Microsoft account you can change all
+your stuff here same with your email and accounts but again as we said before we
+don't have to worry about any of this stuff
+because we haven't had a sign-in account on Microsoft though if you do sign in
+with an account and you're using different windows 10 devices you can
+leave this option on because then if you've done all this whole Windows 10
+tutorial you can log into your Microsoft account and it'll apply those settings
+to that particular device so that's is the beauty of Windows 10 it is getting a
+lot better than that regard but because I have only two computers I got my
+benchmark rig and my main rig I just leave this off I used to have my travel
+rig but with what's going on around the world at the moment I ain't gonna be
+doing any traveling for some time to come who knows how long
+anyhow moving through the rest of these tabs there's nothing worth mentioning
+here so we can go back to the main settings tab and we can go to time and
+language now one thing is I like to do this quick trick and that is set time
+automatically so I can turn it on it sets it automatically then after that I
+like to turn it off so basically it's not a process in the background that's
+automatically syncing to Microsoft every time my clock ticks a minute or a
+second over so that's one thing you can do I personally do it on all my rigs I
+just leave the time like once it's already set to what it is I leave it off
+region you can make sure your regions all set properly
+they're too aware of a country living in there is no actual English Australia
+there's only English UK and English United States for the actual core OS so
+I just after that do English Australia anyhow we're now
+moving on to the gaming tab here where if you've got an Xbox and you like the
+Xbox game bar then you can leave this setting on I like to turn it all off I
+don't need this I don't need the captures as I personally use invidious
+capturing program shadow play and I just like to take all this off personally
+because I use a different program so if you're using this you might want to do
+it as for game mode I like to turn this off it's something that I don't need I
+have found in the past that it does help really old computers but it just depends
+I think in this time around because we've got GPU scheduling we can turn
+that off and we turn everything off and intend and we'll just have it raw OS so
+that's something we'll do for now and then going over to east of access we can
+left-click this because this is actually got some really cool settings that
+aren't really to do with performance so much but more so to do with aesthetic
+but we'll take off in the first display tab I like to take off the show
+animations in Windows if you're on a really old computer you may wish to take
+off show transparency in Windows but because I like my windows looking a
+little bit bling worthy I like to leave this on personally I'd like to also take
+this one off automatically hide the scroll bars and windows just so I know
+I've got my scroll bars there I'm not too fussed on having those scroll bars
+showing up it sort of reminds me a bit of the old-school windows and I used to
+like that show desktop background image of course I prefer that but if you want
+to make a raw snappy windows as fast as possible I want to take both of these
+off but I find they're just they're basically not a service that's pinging
+to a Microsoft server all the time so these two aren't too bad though now
+moving down to mouse pointer you can see that this mouse icon this whole video
+has been big and the reason it's been so big is because you can now change your
+mouse pointer size and you can also customise it so we're seeing here I'm
+customizing this big time here making it the big mouse I'm not gonna make it too
+big but you can also change the color of it too
+so we've got just the custom color day you can make it transparent if you want
+to I like to take this off show visual feedback I don't need that it's okay
+I don't need your visual feedback Microsoft I'm all good here so leave
+that as it is then we can move down to text cursor of course if you're on a
+normal like after this video I'm gonna change it back down to like the smallest
+size I think it looks really cool I can definitely see my cursor more easily
+than I could before though now moving on to tax cursor this is a really cool one
+that you may notice that I've left it on as well we can see here that I like to
+make it nice and big around 4 and change it to pink and that way whenever there's
+a textbox that's active these two little things will come up and I can see that's
+where I that's where I'm on at the moment so really handy feature I
+actually really like the addition of text cursor in Microsoft Update 2004
+then we got magnifier I personally don't use this so if you're into using this
+then you can customize these settings yourself but I have to turn everything
+off with that same with color filters this one's really good if you're
+colorblind of course something managed to look into with high contrast but I
+leave all these off I am slightly colorblind but it's to a real light
+shade of pink which I really don't have a whole lot of problems unless I'm
+playing some types of video games but moving over here now to no radar it's
+off by default and so we can just leave that off if you want to use narrator as
+well you can have that on but this has had a massive update with us so many
+options now for you to change in narrator itself so if you're using the
+radar its received a big update you can see here I'm just going through taking
+off all this stuff because I don't use narrator personally it's more for
+something I use when I'm in my car with my smartphone so with you know
+voice-activated commands are going through audio there's nothing really
+here to change and same with the rest of these options here this is nothing here
+to really worry about the movie row to search now I like to personally go into
+search here and I like to take off the settings work or school account
+Microsoft account the moderate setting is actually pretty cool I find the safe
+search moderate settings pretty cool search history on this device I like to
+turn that off I like to also clear the device history when I doing that and
+then we move over to searching Windows the classic setting here has had an
+improvement to it as well with the indexed items so leave that on classic
+though if you like you more enhanced setting you can turn that on if you've
+got a really powerful computer and you're constantly searching for things
+on Windows though turning that leaving that on classic is the best option for
+me personally though now we can move over to privacy and here's where I just
+like to turn pretty much everything off here I don't like Windows having
+anything to do so we're going through these tabs and we're just pretty much
+turning off all this stuff and we can delete the diagnostic data as well as
+going to feedback frequency here and going and selecting left click never
+that's an important one because we don't want Windows asking for feedback we
+don't want a service running in the background as well trying to pop up out
+of nowhere now we go down to active activity history we can left-click store
+my activity history on this device like to take that off and also like to clear
+it at the same time and then moving down through location there's nothing really
+here to change because we turned a lot of these settings off when we first
+installed Windows with those checkboxes but now moving down to camera and
+microphone if you use a camera and microphone be very careful here to make
+sure that the apps that you're using with your camera art selected to off but
+so it's one of those things where on my main desktop I'm gonna leave this on
+same with my microphone right with Adobe Premiere Pro even though it's not
+installed on this thing if you don't use a web camera then you can just turn that
+off completely right if you don't use a microphone to you can turn that off but
+if you're using disk or with a microphone definitely leave this on but
+I still like to take it off from katana because we're not using katana and I
+like to take it off from Microsoft edge because I'm not using that it's only
+really my games and our discord that's using my microphone and as well as Skype
+on my main PC but we just don't install that on this PC but moving now through
+voice activation I like to turn that off as we said before we don't really use
+these settings I only use them on my smart phone notification we can
+left-click and allow apps to access your notifications to turn that off going
+through account settings here but I like to just turn all this stuff off I don't
+want anyone accessing my personal information and I don't
+on any sort of services running in the background that could access what I'm
+about so we're going through here and we're pretty much turning all these off
+and just useless services that I don't use personally and I don't need then we
+will stop here background apps because this one's pretty important where we've
+got here if we turn all this off then we might come into some little problems
+especially if we've got other apps installed I personally like to take off
+all the apps that I'm not going to use and so even if they're running they're
+not running in the background so I'll leave the Nvidia control panel on
+because I use an Nvidia graphics card it's pretty important to leave that one
+on app Diagnostics I like to turn this off automatic file downloads is nothing
+there documents I like to turn this setting right off here and then moving
+through the picture library off and then that turns all these other extra
+features off same with video allow access there bang off in the last one
+file system allow apps to access your filesystem off and then we can get back
+to the main tab iam we've got one more to go through in the window setting
+that's update and security we can left-click this right here because there
+is some important changes here and the best one for me personally is the
+delivery optimization we can personally change this to anything we want I'm just
+gonna limit Microsoft to 10 megabits per second when they are updating my PC so I
+think that's a good setting it's new to 2004 Windows security is another
+important tab this one here has a new deep scan within it but if we left click
+on that icon like we just did there so I left click that again
+threatened virus protection we've got the scan options there's a new scan if
+you think something's wrong with your PC you can do a full scan that way but what
+I like to do here is virus and threat protections I like to left-click on this
+right here and I'll leave real protection on but I'd like to turn all
+the rest of these off so automatic sample submission and tamper protection
+I find I don't need these personally and then in terms of other settings through
+here I find I'll leave them all under fault
+there is another settings tab here in exploit protection which if we left
+click on that I've got some really advanced settings which I personally
+haven't test yes so I won't know how they perform
+with games so we're just gonna leave that one for now and I will come back
+with the video same with that and GPU scheduling and see how much of a
+difference they make on the rig itself though that's the most important tab in
+this Windows Update as a security so coming off Windows security that's about
+all we have to change here because there's nothing left to change in that
+tab now we're finished with the Windows settings we can go back to our main
+desktop and we're going to apply some quick tweaks here to the services tab so
+we just type in here services left click services don't app and I like to change
+this to running because every time I install Windows and every time you
+update windows there's always these two settings they always appear connected
+user experiences and telemetry properties I like to open this up here
+and then left click disable apply and then stop and then go okay and same with
+this one here distributed link tracking client right click that left click
+properties go left click disabled left click stop and then apply and then those
+two services I find they are really annoying they're the most - especially
+if you're on a old hard drive this can speed things up just that little bit and
+they just keep coming back every time you update Windows or install Windows
+after that we can then go to MS config and then left click system configuration
+go to left click boot tab no GUI boot and applet click apply then after that
+we can then go type here left click and type in system and we should see this
+one right here system left click that and then we can go to our advanced
+system settings and of course this is what we do every time we install windows
+here around check your city we just pretty much make it so it's snappy but
+it still looks good so we can see there you just copy those settings and that'll
+just make things very fast we already see that taking effect and it's just
+making Windows more snappy and then this one here we go startup and recovery and
+left quick time to display operating systems that will just make it boot up
+that little bit faster system protection it's usually off by default and then
+remote tab here I don't know why this is always left on by
+fault that I like to take this off just in case a hacker wants to gain advantage
+it to your system and then we left click okay and at that stage we are pretty
+much good to go and with all that out of the way that's
+about it for optimizing the core of Windows 10 on 2004 these are the
+services and everything that I turn off personally that I feel makes a
+difference and of course if I've got something or I come into a problem in
+the future I can always reverse the steps and turn them back on the last
+couple of things I like to do when I install Windows on a fresh install is
+install VLC media player for playing videos and music that's manual files and
+also Google Chrome for browsing the net and with all that aside if you guys
+enjoyed today's optimization tutorial then be sure to hit that like button for
+us and if you have any tips or tricks of your own be sure to drop a comment in
+the comment section below if you need any help and be sure to drop a comment
+in the comment section below because around tech air city we're all about
+helping out one another and if you guys enjoyed this content and you've stayed
+this far and you know yet subbed and you want to see the videos the moment they
+drop then be sure to hit that sub button ring that bell to get the videos the
+moment they drop and I'll catch you guys in another tech video very soon peace
+out for now bye [Music] you 
