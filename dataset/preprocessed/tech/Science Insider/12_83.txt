@@ -1,0 +1,46 @@
+Believe it or not, this is sharkskin. And it's a little different from your typical fishy scales. It's made up of thousands
+of dermal denticles, the toothlike structures you can see here. And they're tough. So tough that sharkskin by itself can badly injure animals. The trick to sharkskin is
+not just those denticles; it's how they're structured. All those denticles point backward, making them smooth one way but incredibly sharp and rough the other, sort of like tiles on a roof. That specific shape and alignment interact with water in astounding ways. Those grooved channels disrupt the flow, forcing the water past and
+away from the shark's body, significantly reducing drag and even pulling sharks forward. And unlike whales and manatees, which are coated in barnacles and algae, that same tiled pattern helps
+prevent those freeloaders from hitching a ride on sharks. And all of these properties
+have inspired engineers to create the first
+antibacterial man-made pattern, led, in part, by this man. Tony Brennan: I am founder,
+chairman of the board, and chief technology officer
+for Sharklet Technologies. Narrator: Tony and his team have mimicked the sharkskin pattern. Brennan: This is a diamond shape
+that all shark scales have. Narrator: And copied it
+onto a scalable surface. Brennan: But when you try to draw that, you end up with these two
+diamonds here that I've got. Narrator: To work, the
+pattern Tony is holding is scaled down to about 3 microns tall and 2 microns wide. Then it's imprinted onto a film, creating millions of these
+microscopic channeled patterns. Brennan: But if you look at this and you look at this direction, you see channels. If you look at this direction, you don't see any channels. It's walls. That key element there
+provides an asymmetry. And so water droplets behave differently, depending on if you're
+tipping it this way, this way, or at an angle. Narrator: It's the precise alignment of these asymmetrical lines and channels that make it really hard for bacteria to attach and colonize. For bacteria to grow,
+they need a few things. First, they like to be
+in a liquid droplet. Brennan: So if I take this
+surface and I say to you, I'm gonna take a droplet of water and put it down on this surface. Here comes the water droplet. And if you look at this, the water is not going
+down into the channels. It's staying on top. That's the major secret to Sharklet. Narrator: Without being able to attach, the droplet should simply
+roll off the Sharklet surface, just like water pushes
+past typical sharkskin. Secondly, bacteria like to stick together and form what is known as a biofilm. Christopher Jones: A biofilm's
+a community of bacteria that adheres to a surface, and they make their own matrix, kind of like the glue or the cement that will hold a bacterium to a surface. And other bacteria can stick
+to that initial colonizer. Narrator: Let's say a
+bacteria-filled droplet fails to roll off the surface. The bacteria will then fall
+into one of the many channels. But the unique pattern
+makes it extremely difficult for bacteria to find
+one another and link up like they would on a smooth surface. So while other antibacterial products typically look to kill
+biofilms after they've formed, Sharklet stops those biofilms from forming in the first place. This makes it especially
+useful in hospital settings. With microorganisms unable
+to attach to the surface, the film minimizes spread
+from surface to surface, one of the main causes
+of disease transmission. Jones: We show over 95%
+reduction in touch transfer with Sharklet pattern compared to smooth on multiple types of bacteria and fungi. Narrator: That includes
+Staphylococcus aureus and E. coli. And Candida albicans, the
+fungi responsible for thrush, showed over a 99% reduction
+in touch transfer. And the pattern has
+also worked on viruses. Recent work has looked at influenza B and a coronavirus that's a
+close cousin of SARS-CoV-2. Jones: And we show 80 to
+85% reduction of transfer of coronavirus and influenza on our commercially available films. Narrator: Since Sharklet is simply a film, it can be applied almost anywhere. In healthcare, they've begun adding it to personal protective equipment like face shields and gowns. Jones: If you intelligently apply where you put the Sharklet, let's say things like
+elevator buttons, handrails, doorknobs, things that are
+very high-touch surfaces, you're really limiting
+the amount of exposure from person to person. Narrator: Yoga mats, pacifiers, pens, and shopping carts are also being explored and manufactured with
+the Sharklet pattern. While the technology isn't a replacement for cleaning surfaces, washing your hands, or wearing face masks, it's an additional tool that can help fight the spread of diseases. But Sharklet isn't alone. Engineers are now using
+sharkskin as a model for a whole heap of technologies, like anti-barnacle
+paint, underwater robots, and even on airplane wings to reduce drag. So it's safe to say that you might not look at sharks the same ever again, and we've only just skimmed the surface. 

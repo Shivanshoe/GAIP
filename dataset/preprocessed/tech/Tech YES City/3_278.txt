@@ -1,0 +1,204 @@
+x58 and the accompanying i7 cpus
+were released all the way back in 2008 and then two years after that there was
+a architecture known as westmire which was released in the form of the i7
+980x and also on the xeon side the x5650
+and also one of my personal favorites the x5675
+now these days these six core 12 threaded overclockable xeons
+can be had extremely cheap on aliexpress starting at around 10 bucks you can get
+the x5650 and then if you're feeling a little bit more enthusiastic and
+passionate about x58 you can get the x 5675
+which is a better bin at least from the testing i've done here
+and that you'll get better overclocks for the same voltage
+versus the x5650 however today i'm going to be using my rampage 3
+extreme now this board is pretty special to me because
+i got given it to me for free in a deals hunt because the person
+who gave it away thought that it was broken because the water cooling kit on
+it had cracked and it had water that had leaked on the motherboard and
+then since then i gave this board a bit of
+tyl that is a tech yes loving for those of you who are new here
+and i put two aftermarket heatsinks on there in a janky kind of way
+and this board it checks out it takes my x5675
+all the way to 4.5 GHz and ultimately that is what
+used price performance is all about it's about getting those parts cheap
+and then making something out of it they can play games
+just as good as the new stuff can except you're saving over half your money
+however here is the kicker today we're going to be pairing
+this x58 motherboard this cpu with the overclocks and some ddr3 2133
+megahertz in triple channel versus the 1680 v2 in quad channel
+versus the i9 10 900 k in dual channel with ddr4 corsair dominator
+and the ryzen 9 3950x with a rtx 3090 this is the big
+grand behemoth of gpu gaming graphics cards right now
+which if there's differences between these cpus it is
+definitely going to come out with this configuration
+so let's get into a good old-fashioned cpu comparison
+and see where our little zeons lie in 2020
+and that's like liars in like placement not
+liars in telling a lie but nowadays i kind of have to clarify my english
+because people get confused but you won't get confused about this quick
+sponsor spot right here are you sick and tired of that windows
+needs activation message in the bottom right hand corner of your
+screen and you want to unlock some extra features in windows 10.
+well if so today's video sponsor scd keys has you covered for as little as 14
+and a half dollars you can instantly get that key and you can check out with
+paypal make sure you use the coupon code tyc
+for an 18 discount let's get back to the video
+now before we get into those gaming benchmarks
+there's something that i like to do personally and that is to disable
+spectrum meltdown updates i found that although there could be
+some risk your computer could be more at a risk of being hacked
+i've personally found that there hasn't been one documented case
+of someone an individual being hacked at their own home
+and furthermore the performance hit of spectrum meltdown takes around
+10 percent performance away from xeons like the x5675
+and also the 1680 v2 now i've included the 1680 v2 which is a third generation
+ivy bridge xeon for those of you who can't wait for an
+upcoming video we're going to be specifically talking
+about this xeon but with that aside let's roll through the 1080p
+benchmarks first where in shadow of the tomb raider
+our poor little friend here the x5675 he did take a bit of a beating
+moving on to do maternal showed a similar trend but then moving over to
+modern warfare showed that the actual lack of avx instruction sets or more to
+the point avx-2 showed that even the 1680v2
+was experiencing a little bit of a bottleneck here versus the ryzen 9 and
+also the i9 moving over to mechwarrior 5 showed that
+our x5675 was falling behind a little bit
+too here then when it came to fortnite it was still putting up a respectable
+battle royale if that was what we would call it against the other cpus
+tom clancy's the division two it was a pretty impressive result
+and same with the outer worlds it was doing its
+job and then moving over to 1440p it's actually more a similar trend
+to 1080p where although the gap does minimize a bit
+it is still there and it is still significant in a lot of these titles
+and then lastly when it comes to 4k this is where
+things get pretty interesting because in some of the titles you'll notice
+that there's no difference between this 10 year old xeon
+and the latest and greatest 10900k and ryzen 9 3950x though
+this is where the question of what is the x5675
+good for in 2020 comes about because this cpu if you want to go get
+it which a lot of the times the x58 boards you
+can pick them up very cheap on the used market i'm finding
+that they're starting to become less popular as the years go on and
+rightfully so as time goes on things get more obsolete
+and of course the parts get more at risk of failing which
+those two things combined makes them a lot less desirable
+however even on places like ebay you can pick up an x58 board nowadays
+for quite cheap and coupled with a 10 cpu
+you can get some really respectable performance if you also couple it with
+say a snowman 20 cpu cooler you can be
+tasting 4.3 even 4.4 gigahertz on daily overclocks and getting some
+really good price performance for your dollar though
+the best part with x58 as we said before is when we get them on these deals hunts
+where people think that the parts are so old then they must be worth absolutely
+nothing altogether and of course that x58 motherboard being
+the key element to getting the most out of this older
+platform whereas to me personally when i found that i've overclocked on these
+older platforms i've had a lot more success overclocking
+on the zeus motherboards versus all the other
+brands back in this era if you do want to check
+out how you can overclock one of these cpus then i'll put a
+tutorial right up here though one more thing to be aware of is
+that there are these boards out there that are being manufactured new on the
+x58 line even in 2020 however these boards
+pretty much don't have any support for overclocking so that's one thing to be
+mindful of if you want to get the most performance out of these older cpus
+then you'll definitely want to get a good motherboard but generally with x58
+you'll want to stick to a zeus motherboard but if you can't find that
+evga and gigabyte do make some solid boards however with the
+gigabyte models i've found that sometimes they just have
+rare issues where the bios just doesn't work properly no matter what you do
+and you're just scratching your head as to why overclocks don't work
+if you're in that situation don't worry it's not just you
+that gigabyte motherboard has probably just seen too much use
+and it's acting a little bit finicky though in terms of msi motherboards
+you generally would have to go for the higher end boards because i've tried a
+few of their entry level x58 boards and let's just say it hasn't ended well
+they have either even failed on default clocks
+or they just have really weird issues then
+the azeroth boards you're probably thinking what about the asrock boards
+i've actually had one of these boards come through and
+although they are decent i just find that they're so rare
+on the used market that they're not even really worth
+mentioning back in this era because there wasn't that many of these
+boards manufactured to begin with then of course there are some other
+brands out there most notably the intel x58 boards
+but they dropped support even stopping the bios downloads completely
+for their x58 motherboards so i would try and avoid them
+if you can anyhow with that out of the way we've seen the fps differences
+between our beloved x58 and the latest and greatest stuff
+and somewhere in between and that leads me at the question of
+well what graphics card should you be pairing
+with an x 5675 xeon and well i cross referenced this with my rtx 3090 review
+and we've got some pretty solid i guess consistencies
+running through these numbers at least at 1080p
+for instance if we look at tom clancy's division 2
+we can see that it lines up roughly around a 2080 super
+then if we look at the outer worlds we're sort of looking at around again a
+2080 super then moving on with fortnite we're at
+those levels of around a 2070 super then modern warfare 2080 super and then
+mechwarrior 5 20 70 super and then do maternal 2080 super and then
+lastly shadow of the tomb raider vega 64. so that pretty much averages
+out in my opinion with the best card if you're going to
+overclock an x5675 for example the 4.5 gigahertz and give it some decent memory
+the best graphics card to match with that would be the rtx 2070 super
+or a 1080 ti or of course you can get any card
+under that in terms of graphical performance and you should be
+having happy days where you're not missing out on anything because
+in my opinion when it comes to gaming on pcs
+that's the definitely the one thing you want to do is get the most out of your
+gpu and make sure your cpu is in a bottleneck so if you go out and buy a
+2080 ti for example and you're going to play at 1080p then
+this cpu will be letting you miss out on a few fps more than you otherwise
+should be able to obtain if you had a better cpu though on the
+flip side of things the cpu and the motherboard combo
+can be had for a ridiculously good price just keep in mind that there are a
+couple of downsides to using this architecture the first
+that we mentioned before is that there's not even avx instruction
+sets nor the avx-2 instruction sets avx was introduced in sandy bridge error
+that's second generation and then the avx-2 was introduced in
+fourth generation that is haswell and upwards then for the
+motherboards they generally don't carry usb
+3. there are some models that do carry usb 3 but they're a bit rarer
+than the ones that carry usb 2 which is pretty much all
+the x58 motherboards then for the sata 3 ports
+they're actually not true sata 3 so think of it more of
+hey you're still going to be ending up with sata 2 though for most part
+that's not going to make a difference when it comes to playing pc games
+and then of course you're still stuck on pca gen 2
+x 16 but i've done a recent test in this and even an rtx 3090
+can't completely saturate the pca gen2 bandwidth believe it or not i'll
+put the link to that video up here if you wish to look into it more so all
+these negatives won't stop you however from playing
+games unless it's horizon zero dawn which unfortunately
+wouldn't load due to it having no support for that avx
+instruction set so this is the one outlier where the
+games come out and the developers are just not even
+going to bother patching in support for the older cpus
+and so unfortunately we couldn't run the benchmarks
+for the x 5675 with horizon zero dawn but that aside
+that one game aside and i think there's only one other game out there
+that does this as well they are certainly not going to stop you in 2020
+from getting one of these motherboards and a 10 cpu
+and having at least a 144hz gaming experience
+they can get up and boogie still in 2020 and they can give you an enjoyable
+smooth gaming experience even if you couple it with the likes of
+an rtx 2070 super or 2080 super you can have ultra settings 144 hertz
+gaming and still have no issues and that's all
+for today folks do let us know in the comments section
+below what you think of x58 and also those budget xeons in
+2020 do you share my same sentiments or do you think
+differently love reading your thoughts and opinions as always
+and also don't forget to toss us a like on the way out because we got the
+question of the day here which comes from carter demon and they
+asked would it be good for video editing in davinci 2. and
+they're referring to another xeon which we might be testing in the future as
+well when after i do a build with it and that is the e5 2678 v3
+this is a haswell 12 core xeon 24 threads that although
+locked does give a lot of good value for money too
+and doesn't really carry those limitations that the x58 carries
+even in 2020 but to answer the question yes it will be very good for da vinci
+especially in terms of value for money because you can couple it with ddr3 ecc
+registered memory which is very inexpensive and you'll
+have yourself a 64 gigabyte 12 core 24 thread
+video editing workstation beast on a budget and with all that aside i'll
+catch you in another tech video very soon
+peace out for now bye [Music] 

@@ -1,0 +1,422 @@
+Hey, it's me, Destin Welcome back to Smarter Every Day. We are on the way to my dad's work, and everything about this is weird I have been trying to interview my own father for two years now at his work. The reason it's so difficult is because he has a really unique job It's 2 a.m., let's go see what he does I think you'll understand. I can not find the building because it's unmarked. I found his car just after driving around for a really long time Okay, for a bit of context, my dad worked for the auto industry when I was growing up, and he's something called a metrologist. So as the parts came off the assembly line, he would make new, interesting ways to measure those parts. So right now, we are here at my dad's work. You can see there's testing in progress. Hey, is Darryl Sandlin here? How's it going? -Good! Nice to see you Doing alright -Very well. Is my dad here? He's in there. Is he? In this room? Your dad is actually the one the computer That's him? Okay. So that's my dad. And that's the bottom layer of the sunshield of the James Webb Space Telescope. Hey, it's me, Destin Welcome back to present-tense Smarter Every Day. So here's the deal. My dad did amazing things, and I got to investigate the James Webb Space Telescope in a couple of really interesting ways. First of all, I got to speak to Dr. James Mather. He was the chief scientist over the whole project. I did a really interesting interview
+with him. It was fantastic. Feel free to check that out
+if you're interested in that. But also, I got to speak to my dad, who, at this point in the video, was working on the sunshield, and he had been doing so for many, many years. So the sun shield for the James Webb Space Telescope protects the optics of the telescope from heat and light from the sun, and reflected heat and light from the earth and the moon. It also protects the optics
+from all the electronics that are on the bottom
+side of the telescope. This is a critical part of the mission because in order to get the images they want in the infrared wavelengths
+that they're looking at, they have to keep the optics
+at a very cold temperature. And the sun shield is
+what makes all that possible. There are five layers to the sun shield, and they unfolded like origami ten days after launch, as the telescope was on its way to L2, which is the second Lagrangian
+point of the Earth Sun system. So here's what I want to do. I want to go back in time to 2016 when I got to go into the clean room with my dad as he's working to measure the sun shield for the James Webb Space Telescope. I'm excited to show you what he did because I didn't understand all of it And I got to just ask questions And for me, this is far more than a YouTube video. This transcends all the smarter-  This is amazing for me because it's dad and it's me getting to ask him stuff. So let's go do it. Let's go back to 2016, get smarter
+every day with Darrell Sandlin. As we learn about the sun shield for the James Webb Space Telescope. All right, so what's the deal? There's the dirty side of the room, there's the clean side of the room Okay. Where you're sitting is the dividing line [...] Sounds French Well, I agree with you on that What's the veil for? Breathing potentially... It's for spit and facial hair Spit? Yeah, [?] This is a hood? That's a hood Is that alright? [Just a little thing] It's like that? Yup [And I'm not supposed] to touch the ground with it? Yeah, right. And step over here in the of the sign You're on the magical clean side now. Yes. Well. It's a lot hotter under here, isn't it? And we've all done this probably five times a day for the last... long time Are you serious? Five times a day for how long have you done this? It's been a long time... Been like what, four years five years? Oh, more than that for the program There's positive pressure from there to here to the- So all dust is blowing that way
+-Right Gotcha. Alright. So this is the core measurement group, right Dad? Yeah Core? We've got a measurement crew! So this is Bobby, Bobby Thorn. And y'all have worked together for 100 years? 25, at least
+-Combined, it's almost a century I've known you for 25, I didn't say we've worked for 25 years And this is Mark And Mark, you're the specialist on the shield
+itself, right? I'd say I'm a putz is what I do. Okay. I like to putz with everything I've done process, I've done measurements, I've done a whole bunch of different things on this program. Got a patent on one of the things that we've done, so that's kinda nice Sweet. Cool. Alright. My name is actually on the cleanroom access list There's a D. Sandlin here. Oh, yeah. That's you right there! I don't think it works that way, does it? So it was kind of a big moment
+for me to walk in and be standing in the same room
+with this thing. And my dad. It was one of those moments that, you know, will be special
+for the rest of your life. This is my dad,
+and he's about to finish this major job you've been working on,
+which is the James Webb Space Telescope? Sunshield for the James Webb Space Telescope. Okay. Just so you understand, it's harder
+to get in this room for me, than it was to go see the president of the United States To talk to my own dad, you don't have any idea
+how much email I had to do to get in here, do you? I have no idea, nuh-uh It's ridiculous. Alright, so what I want to do, if you don't mind, is, you know, when I was a kid and you would teach me stuff? 
+-Yeah, I want to do that, only like 20 years later. And I have an engineering degree, And you've worked on the most expensivetelescope to ever exist. 
+-Yeah. Can you do that? 
+-Sure. Okay, let's go have fun!
+-Alright. So this is what keeps the sunshield.. What keeps the telescope shielded from the sunlight, Earth light, moonlight Got it. Okay, and so that's because the instrument
+has to be really cold, right? Yes it does, very cold. All right, so this is like a potato chip sack or something? Well, it's only one-thousandth of an inch thick What you're seeing is two-thousandths, this is the thickest layer. It is two-thousandths deep There's five layers, I understand Five different layers. Right. And this is the flattest layer. This is not the true shape of it It's just on a 1x load, it's not the true shape of it right now, It's not under tension. Gotcha. Like, how does this thing hang up
+next to the spaceship? That's the rim area That's where the telescope will be. When we say rim, that's where the sunshield attaches to the space telescope. We're in a structure right here that we call the verification structure Do you mean these yellow things are the verification structure? Yes. Yes. So they simulate what? The cables that are pulling the tension
+on the heat shield? We mount these pully blocks, you'll see the pully block here Very precisely, we try to get them within five-thousandths of an inch And when we put different weights on them, These structures will flex or bend a little bit They'll be loaded, and they'll move a little bit. So we try to put them in a position
+so that when we put them under load, they move into the position that they will see in space. So what you're doing,
+you're a metrologist, right? You measure stuff. 
+-I measure stuff, that's true You dragged me all over north Alabama when we were growing up, measuring stuff... -Measuring car parts, yeah How the heck did you get to this from
+car parts? Well, when I retired from working in the auto industry, I went to work for some company that worked for the Air Force, the Navy, Army... Medical things, I've measured knee joints, hip joints,
+a bunch of things. Nothing this big. This is really big. Okay, so can we go over to the backside
+and look at underneath it? Sure So... so I saw you measuring it the other day. They let me watch through that window.
+-Yeah. And I saw that you guys had two types of measurement devices.
+-Yes Okay. You had a... I mean, I know a little bit about laser scanning. You had a laser scanner that would just do that 3D point cloud. 
+-Yes. And then you had point scanners, and you were using corner reflectors, right? Like these little spots on the ground? Yeah. Monuments in the floor. Yes. So you're measuring the 3D shape of the sun shield in relation to the floor? Right, well, the floor gets a rough position
+on the verification structure The floor was just a reference. There's a lot of different coordinate systems involved here, a lot of different coordinate frames. 
+-Okay. And the floor just gives us an idea
+of where we need to put everything so we can set it up
+relative to each other. Really? 
+-Yeah. Okay. So what is the master coordinate system
+for the James Webb, then? It's the J1, J2, J3 system. It comes from that rim. Actually, the mass recording system is down in the floor. And this is J2 J1 is forward and aft Are you talking about a plane or an axis? Just an axis. 
+-Okay. So this is where... this is the bottom
+side of the space telescope here. So there's telescopes on the top.
+-This is the sunny side. This is what the sun will see. It'll be purple like this. This is silicon on this side. So why would you have a dark color here? I thought you'd want a light color to reflect the sun's heat Radiation, specifically I'm not sure. I make the thing, I don't know that. I mentioned, you know, the reflectivity You'd have to talk to Mark or someone, an engineer for that. Okay. Gotcha. Okay so one thing I've noticed in here
+is there's a lot of holes all in the space Yeah, it's holey, isn't it Oh, check it out! You can see our reflection in it. Oh, yeah, you can, can't you! better on the other side on the vapor deposited aluminum. Really? 
+-Yeah. So why are there holes in a heat shield? if you're trying to block the sun, why would you need a hole right in the middle of that thing like that? Well, it's going to be folded up in the rocket that puts it up there. The Ariane 5, I believe? Ariane 5, the French rocket?
+-Yes. It's going to be folded up
+and stowed away. And when it launches, the air that's trapped in the sun shield has to get out somewhat. So these are vent holes, air vent holes But won't the sun make it through that
+and hit the telescope? Well hopefully the vent hole that's in layer two will not be in line with the one that's in layer one and the vent holes in layer three is still out of line, and four and five. So these holes are specifically for deployment and nothing else Right. That's right. So if they do their job, after that point, it's just wasted space or it's a wasted... it's a wasted feature. Okay. Once it gets in space, you know, there will be no air conveyance. So you know the way the atmospheric balloons swell up when they... Well, this is to keep that from happening to our nice sunshield. Oh, so you're saying when it's folded up like a shirt inside the Ariane 5, the French rocket, as it flies up in the atmosphere that gas starts to expand. 
+-Yes. And once it expands, it tries
+to blow the whole thing up like a balloon. That's my understanding of it, yes. It's what the vent holes are for Let's talk about scanning. Alright, Let me get a laser scan. 
+-Okay. How many years have you been doing this The laser scanner, the reason I took this job is because they've got this device right here, and I had never used a 3D laser scanner before. This is a Pharoah Focus 3D scanner. You're used to using like XYZ coordinate measure machines, right? Yes, CMMs, Coordinate Measuring Machines but this is see this mirror, the way it turns out here? Yeah. I have a mirror that turns. 
+-Uh-huh. We mount it on a tripod
+or a hot pod that we have over there. This mirror turns at a high rate A laser comes out of here, bounces off this mirror. Now, that laser is not very eye-friendly yet. Gotta be 35 feet away. 
+-Okay. Okay. When the laser hits this, it will make a plane just a big plane like this at a very high rate of speed. It would take 975,000 points per second. X-Y-Z points. And then this will begin to rotate like this As it rotates, it'll take plane, plane, plane...
+-Oh! So... It planes the entire room So right now, if I were to cut a section right here. Yeah. It would take a plane, and then you would
+rotate it over like this. But this, this would be a pretty bad spot to do that from, right? You can't see much from here. So where do you do it? Well, we do it in seven
+or eight different places. What's important is these spheres. Can you see that sphere from there? Yes, I can. This sphere over here,
+when we do the scanning over here, you see, we've got one, two, three, four, five, six, seven, eight, nine We want at least three spheres in view. Can we go walk to the sphere? Yeah. Let's go look at spheres. All right, so this is the sphere?
+Yep. Seven inch Sphere. What's important about that? It's a reference point. When we do a scan from the middle, we want to be able to see at least three spheres in view. So that we do a scan, Then we take the laser tracker, and we precisely measure
+the position of each of these spheres. Okay, so what you're doing is
+you're getting a hemisphere worth of data. Yes. The scanner calculates the center that sphere using one algorithm or one set of measurements. With the laser tracker,
+we would take seven points on it using an SLR,
+a Spherical Mounted Retroreflector. A corner reflector?
+-Yeah, a corner reflector. You know about those. 
+-I do. And we get a precise location with it The scanner's not that accurate, but the laser tracker
+is very, very accurate. So we measure these spheres. We compare where the scanner thinks
+the spheres are to where the laser scanners say the spheres actually are Okay, this gets a little bit complicated. So I want to jump in here and make sure that we understand the two different types of instruments we're using. The first one is a laser scanner
+which pivots around the room and paints the area with a laser to give you a wide
+point cloud of what's going on. The second thing we're going to use
+is the laser tracker. The point of the laser tracker is to precisely measure individual points We're not painting an entire area with the tracker. We're just locating one specific hard
+point to a high degree of accuracy. Okay. So two tools: Laser scanner paints a wide area, gets a point cloud Laser tracker gets us individual points to a high degree of precision. This episode of Smarter
+Every Day is sponsored by Kiwi Co. KiwiCo is a really cool company that loves inspiring the next generation of learners. KiwiCo has come up with this really cool
+way to engage young minds by sending crates to your house
+that are themed along a specific line. There's nine different lines
+to choose from. You can get the panda crate, koala crate,
+a tinker crate, doodle crate. It goes on. They come to your house and you open the box up
+and there's all kinds of stuff in the box. Everything you need to build the whole
+little kit is right there in the box. What are you working on? I'm working on a crawling robot. A crawling robot... looks like a crab, doesn't it? You think it's going to work? 
+-Yeah. What are you working on, little girl? Oh, you're exploring stars! How appropriate. That's the one I'm about to do. But the one, that's the one I'm gonna do. Oh, so there's like two kits in one? 
+-Yep. Oh, cool! You get two projects. That's awesome. You're excited?
+-Sure am. There's also step by step instructions
+that tell you everything you need to do. It's amazing. We love Kiwi Co,
+and we know your family will as well. If you want to try this out for you
+or kids you love, go check it out at kiwico.com/smarter30 That gets you 30% off your first kit. I reached out to them to begin with
+because I knew you would love it. And I only like to work with sponsors
+that I believe in. And I know you will enjoy KiwiCo. Watch this- when you take it out, it lights up
+-Oh, look at that! And then it goes "I'm the sun, I'm the sun, I'm the sun, I'm the sun" Can I touch the eyeballs real quick? If you want to try KiwiCo, you can do it if you go into kiwico.com/smarter30 and that gets you 30% off your first crate Alright, does that work buddy? I can't, I can't see you. Am I pointing the camera at you? There you go, sorry. A big thanks to KiwiCo for sponsoring, and a thanks to you for considering supporting the sponsor, which ultimately supports Smarter Every Day I'm grateful. Alright, so this is the tracker right Mark? Yes, this is the laser tracker. We've got four monuments. We've got holes drilled in the floor for solid points. What they'll do is determine a frame of reference relative to the structure and the rim, the pulley block points which allows us to take tracker measurements from different spots. So what we've already done is
+we bumped into the floor. We measured for monuments. Now we have a frame of reference. The frame is actually about a foot
+underneath the floor right now. So basically the tracker knows
+where it's at. Yes. It's locating the instrument. So we've located the instrument. It knows where it is compared to everything else. It does all of the transformations and that way we can point at things, it makes life a lot more convenient. We've got a measurement script
+that says go here, go there, go there. So when Bobby and Darrell are running
+around in the middle of the night, making measurements, I'll call out where we're measuring. They'll make measurements, and- Can we simulate a measurement now? 
+-Yes. All right.
+For instance, you've got our alignment for that sphere over there. That is sphere number three.
+We got one, two, three. We just go clockwise around the membrane Five and seven and eight are in the rim So I'll point at that one, we'll do a simulated measurement
+for S3. Okay, sounds good. I'll do point test three, and you'll see the tracker swing around. We've got it docked in the center of that sphere now. So this is your retroreflector, this is a corner reflector? This is a corner reflector. And I can tell that because anywhere
+I move the camera I can see the camera lens in the corner
+reflector. Right
+-Alright, cool. So you're going to... how do you locate that sphere? Well, the detector knows where the center is supposed to be. We'll take this will measure up to seven points around it to get the actual position of it Okay. So you just bump the side of that sphere up next to that sphere. I touch it, but he'll point to it and he'll say I'll fire the beam for you, which is what I'll do right now the laser tracker will turn green when I do this. Alright. When I intercept the beam I'll intercept the beam now Alright, I have the beam. Okay so I can see it in the corner
+reflector now. So... So you can carry the beam with you?
+-Yeah Now I can touch the side of it and it knows that I'm touching it I'll move it a little bit and then the software will say "Waiting for stable, Waiting for measurement" It wait till it gets quite a few measurements that are stable,
+not moving, and it'll acquire one point, then I'll move it when it stabilizes, it'll acquire a second point. I do the seven times Four, five, six, seven What I try to do is go to the North Pole go around the [?] hemisphere
+and then take an equator so they get a good hemisphere. It takes seven points and calculates the exact center of the sphere. But if you had, if you had all of the points
+around the perimeter of it, you wouldn't be able to get depth
+in as high of a tolerance. Right, It's a three-dimensional surface. You know, it's a 6.9-inch sphere, all of them about the same size. So it's important to define as wide
+of a position as possible It's just a circle. Not a plane but the three dimensional
+center of the sphere. Got it. That's what the laser scanner,
+this center, all these spheres here, each point will be compared to the scan and that lets us position the scan relative to... So it's a temporary datum 
+-Right. But it's the most important,
+the most accurate data that there is. Because it never moves. So we've got labels on all the points
+we measure. You can see we've got a sphere right here. It shows the sphere center. And again,
+the data says that it was within less than three mils of position. Three mils, meaning 0.003
+-Thousandths of an inch .003 inches
+-Got it. That's pretty tight. 
+-Yeah That's pretty tight when you're talking about
+measuring a big plastic surface like this. And I'm sure
+Darrell already explained to you that these are the registrations figures
+for the... the scanner The scanner does not actually register
+to the coordinate frame. This is our reference for the scanner to
+get back to the coordinates frame for the rest of the system It's a temporary datum. A laser scanner works by shooting some photons from one emitter out to something and then getting a reflection back to a detector and if I know how long it took in time
+for that light to go out and back and I know the speed of light in air, then I can just use algebra and I can figure out
+how far away the object is. That's pretty cool. The second thing is,
+if I know where I'm pointing my laser at the time in both azimuth (left and right) and in elevation (up and down), then I can use trigonometry to calculate
+a 3D coordinate of where that thing is. X, Y, and Z. Boom, that's your 3D point. You get a point with the 3D coordinate
+and you do that a kajillion times. You can define a surface
+or the shape of something. Here I have some metal right?
+Kind of reflective. If I'm going to scan this thing,
+the ideal way to do it is to get my laser scanner
+as orthogonal to the object as possible, meaning I want to hit it
+straight on 90 degrees, right? Because I'm going to get a bounce back
+laser return and I can measure that, right? But if I measure a reflective object
+at a shallow angle like this, what'll happen is my light beam will go down and it'll bounce off the shiny object for that reason, Dad the team always tried to position the laser scanner in the most orthogonal spot possible, meaning as close to 90 degrees as they could get. The problem is because this thing is so
+big and the room is like kind of confined, you can only position this thing in
+certain areas, so you might be able to get a really good shot on a close up position, but not far away. It's pretty interesting to think about and the team has a lot of really
+interesting tricks to deal with this. These are laser targets. Those white... are they paper? No, no, they're not paper. We can't have paper in this room
+-Okay with all the particles, This is flash breaker tape. They are targets, too They're very precisely located
+with a laser tracker so that you can look at the position
+that they used and you can calculate the line Oh, I think I just got it.
+-Yeah I think I just understand: there's two types of reflection of light, right? 
+-Yeah There's specular and diffuse, right? 
+-Yes. This is specular reflection. This shiny surface is a specular reflective surface, right? 
+-Yes. The diffuse is what I'm seeing on those targets. 
+-Yes. So is it true that the laser scanner can pick up the diffuse reflection? Much better, much better than than
+the highly reflective strip. So you can tell where the surface is. But there's no way
+you're going to fly that diffuse...! No, no. They're just laying on there temporarily. They have very low mass. They're not reflecting the surface. They will actually move. I don't want to touch it right now...
+-Right But they will take these off, Now, this is tape, they will pick this tape off. And what you'll see is just a shiny part then. Gotcha I'm gonna turn on the surfaces, and then we're going to colorize the surfaces ... render those. Oh, so it knows what the shield is supposed to look like. Yeah, we have a [3D] model for the shield in here. So I'll go to top view. So that's what it looks like. We can turn any of these features on and off Again, we have them labeled, and I can point to any of these features
+in here at this point. That's pretty cool. So so the final data product
+here, who processes the data? Is that Navine's job? Naveen will process the data, we are... we are the measurement monkeys. And what is the the final data product? The data product, you can see this one's only six mils off. Yeah. It depends on how tight we set the pulley blocks up [...] The data product is a plot of the shape of the membrane in its corrugate frame And we have to tell it how much
+this membrane shape is RMS So all these hard point measurements
+are support functions for the stand measurements. Gotcha. I want to take a second to talk about
+what the team is doing exactly. Number one, they have a laser scanner
+that's measuring point clouds and they have a laser tracker
+that's measuring precise points. The team has to measure
+this really big sunshield. And the sunshield is designed to block
+light, which is what these instruments use. So they can't set up in one position
+and measure everything because part of it might be shaded
+by another part of the sunshield. So they have to position
+these instruments all over the room and then add up all that data
+into one data set To do this, they position spheres in the room. And these spheres don't move
+over the entire measurement process. Every time they set up an instrument,
+they have to be able to see at least three of these spheres
+because the centers of any three of these spheres defined an exact 3D plane
+between those three points, which could anchor everything
+back to the external coordinate system. So if they could see more than three
+spheres, that would make their measurements
+even more anchored. So they always tried to locate
+as many of these spheres as they can so that they get more accurate data. For example,
+the data from one scan may look like this, and the data from another scanning
+location might look like this. But doing a coordinate transformation
+and aligning every scan up with the reference frame defined by these seven spheres,
+they're able to create a common coordinate system that can be used
+to simply add up all the scanning data and create
+an overall measurement of the shield. Because each scanning setup
+can only see a portion of the sunshield, the spheres are the key to tying
+all the data together. They move around the room,
+repositioning the instruments over several weeks to get different
+vantage points of the sunshield, and then they add all this data up to
+create a 3D model of the entire sunshield as it exists physically, accurate up
+to five thousandths of an inch To get all of the sunshield
+geometry top and bottom tip to tail the team usually had to set up and measure from at least nine different
+instrument locations to get all the data. This process seems straightforward enough
+for one sunshield, but when you realize this routine was performed for every prototype, every repair or modification, and the final flight hardware for all five layers, that's why my dad worked on this project for so many years. Tell me this... if you've got the the surface here,
+-Yes. I mean this, this My- is it Mylar? No, it's Kapton
+-Okay So the material that makes up the heat
+shield here is experiencing weight. It has weight here because we have one Jeep pulling it down. Right. So you're measuring it in a one G environment. How do you equate that
+to a weightless environment? Smarter people than me figure that. Oh, really? 
+-Yes. Yes, they do But that's what they do. So, like Naveen, he'll he'll take the data that you give him. 
+-Yes. And then he has a way of turning that
+into a weightless type measurement. Yes. He'll compare it to the finite element analysis of it We have people that do that,
+and we'll put it under a 3x load. And what you're seeing right now is a 1x load All we do is just holding it up off the floor, really We're just supporting it right now. 
+-Okay. This is not the final shape that you see When we did the test a couple of nights ago, that was- The one where I was watching through that window over there?
+-Right, right Everything was really tight then. 
+-Yes. Yes it was Okay, so it's a more stressful test. 
+-Yes, it is. Okay. Gotcha. Once Bobby, Mark, and Dad get all this data, they have to hand it off to an analyst
+who's really good at math so they can do all these coordinate
+transformations and add all their scans up so they can compare it
+to a model, is my assumption. Now, the reason I usually hear
+of engineers comparing things to models is you want to see what spots are high and what spots are low
+and see what's messed up. But the good thing is I actually know
+the guy that did the analysis for him. His name is Naveen and he's a buddy. So let's just call Naveen
+and go ask him what he did. Okay. Fast forward to now. We're like six years ahead
+from the timeline of the video here, not only is Naveen super, super smart, your Ph.D. in, like, fusion or something like that Nuclear Fusion
+-Nuclear fusion, okay. But we're buddies and we've known each other for a while,
+and Naveen worked with my dad. True? 
+-Yes, on the James Webb real quick,
+like, you actually love astronomy. Yeah. Anything space,
+-Anything space -especially astronomy. 
+-Okay. So I wanted to interview Naveen up here
+because this is VBAS, the von Braun Astronomical Society. And you're on the board, right? Yeah, I'm an officer,
+and I'm mainly the outreach coordinator. So we take telescopes to schools
+and museums and, you know, look through the telescopes, the planets,
+the deep sky objects and all that. So James Webb was more than a job for you? It was like a passion, right? Yeah, it is. It was. And it still is, actually. So Naveen was the smart guy that dad
+and the team would take the data to. When they would measure with lasers,
+they would get a huge amount of data, and they would bring it and they would drop it in your lap. 
+-Yeah. And my question is, why? What did you do with the data? So there is this data is Lidar data. So it's kind of like detection and ranging. So it's a lot of points. So you're really good with MATLAB. MATLAB... any programing software. But this one is mainly coordinate transformation. It's called photogrammetry. You see that in like a mainly taking topographical pictures of different landscapes. So we did something similar
+using the scans. And you have, depending
+on where you put the scanner, So it will give you a different point cloud. 
+-Right. So now we need to do the appropriate
+coordinate transformation to make sure all the clouds align. And then we clean that data to compare it with the final data that we want. So step one, you've got the spheres
+throughout the room. So you would use those spheres
+as anchor points and then you would take whatever the scanner saw there and you would transform it. 
+-Yeah, exactly. And then you would line up all the data.
+-All the data. Okay. But after that,
+after you added all the data together, you had the true point
+cloud of the entire sunshield. That used to be like ten gigabytes of data or something like that. Of just x, y, z points. Yeah, just point point points everywhere. Okay. And so Dad told me
+a couple of interesting things. He said that when you guys were measuring
+the kapton, it's like a big kite. And he said
+when they were actually scanning, they had to sneak through the room
+because of air movement. Is that true? 
+-That's true. Yeah. We had to shut down all the air
+conditioning, HEPA filters and all that, and then walk very, very slowly. 
+-Yeah. Luckily we did all the testing in the middle of the night, so there isn't much disturbance from outside. And whenever we used to go,
+only one or two persons is to go into the clean room and walk
+very, very slowly to change the scanning locations You assumed a position like. Like, like that or something. Just, just like that. 
+-Really? Yeah. So when helicopter flew over the building, the vibrations due to that helicopter flying over the building could actually be felt on the kapton layer and we could see it. So what we used to do is to write down, "okay, at this time in the night,
+helicopter flew over the building." In that way, when I get the data,
+I look at the point cloud I could see that sometimes
+-Really?! Yeah, in that region you could concentrate it and you can see some kind of ripple kind of effects. That's insane because it's the vibration because you were measuring that
+accurately. Yeah. Laser
+scanners are very, very accurate. Okay, so, so this is the question. I get it. You're actually defining the shape of
+the actual sunshield as it was fabricated. As it was deployed, and its gravity. In Earth's gravity
+-In Earth's gravity. So my question is, it's in space. So how do you compare a one G environment to zero-G space? That's a pretty good question. That's the reason why we deployed in the earth's gravity to measure it. And we compare what we measured with the model, final element analysis model. And in the final analysis model,
+we predict how the shape looks like
+in Earth's gravity. And we compare the test data
+with the model data. And then we can see how good the model is. If the model has some, it differs
+by certain amount, which is acceptable, then we can immediately use the model
+to predict the shape in zero gravity. So because we have confidence
+in the model. So it wasn't so much about measuring
+the actual shape, it was about developing a model
+which could be used while it's in space. Yes. 
+-Okay. And why does it matter? Like why does, why does the shape of the sunshield out
+in the middle of the sunshield matter? Because it sounds like if you're just trying to cast a shadow,
+like if you're the instrument, as long as I'm blocking you what does it matter what the kapton is doing out in the middle? It's not only blocking the light, it's also about the heat. One, heat is coming out, coming from sun
+and earth, heat is also coming from the telescope base
+where all the instruments are. The big box underneath
+-Yeah, underneath That box is creating heat, generating heat. We want to make sure this heat is all radiated outwards
+-Okay and that shape, the gap between these two layers, those five layers play a very, very important role in dissipating, in radiating that heat out. So it's just reflecting it off. Reflecting outwards like that. And it's like reflect goes up
+reflect down, reflect up, reflector goes down,
+and then it goes out like that. Oh, is this like a pipe? So it's bouncing back and forth
+till it goes out to the side? It's just like a light right? Light bouncing off two reflect material,
+between two reflective materials. So you have- 
+-Shut up! You have total internal reflection of heat?! Yeah, yeah. And you're, you're like dissipating it out to the sides. 
+-Yep. That's why there's five layers.
+-Yes, exactly. Okay. It's all radiating the heat outwards. Okay. I had no idea,
+so it's not about a shape model. I mean, that's part of it,
+but it's about a heat model. But the shape is
+what is directing the heat out right? So the shape is important. Explain If we have only two layers that are like flat. 
+-Okay, Well, how is the light going to... the light and the heat that light is bringing in going to go outside? It's just- it's just going to bounce back and forth like this. Yeah. Okay. But if you... if you play with the shape,
+I don't want to go into the details, but if you play with the shape
+and you have the right shape you can direct this heat that is generated
+at the core, at the bus, the bottom box you can generate, you can direct it
+in such a way that it just radiates out. So you're making... So Dad was measuring points to predict the shape using a model. You were validating the model in one G
+so that when it's in zero G, you could then use the model to determine if the radiation pipes or planes were working correctly. 
+-Yeah, I've, I've known about this sunshield for years and I never knew that was the point. Did Dad know that? I'm not sure! He just measured it. 
+-Yeah. He went to lunch with you and gave you the data. No, these technicians are... I wouldn't do these technicians job. They are so precise. I don't have that kind of experience
+to be so precise. If they want to weld something like,
+for example, the seam warning,
+they're so, so careful about that. Where is, where in exactly the right line should stand on the entire sun shield. These these technicians were like really amazing. I wouldn't do that. I wouldn't even touch. I probably touched the layer
+maybe ten, 15 times. That's it. 
+-Yeah. I wouldn't want to touch that. That's amazing. Okay. I had no idea what you did,
+and now I do. Thank you very much. I appreciate it. So now we'll go back to the past and we'll see how the team
+is finishing up with the data. Does that make any sense? You're in a... You're in the middle of a video here. 
+-Oh and we're going back in time now. 
+-Okay. Wait, are we talking about time travel here? Basically. Yeah, basically, that's what the James Webb does kinda, right? Okay. So yeah. Yeah, it is going all the way
+to the beginning of the universe. Yes. So this is like this is an art, right? This isn't like just gluing together a potato chip bag. This is... Oh, no. It's- That's where the secret sauce is, right? It's precision, it's precision and you have to be, or you would be, when you stretch it out tight, you would have folds and... yeah it has to be very precise. Gotcha. Okay, so... So that curve right there, you've told me about this over dinner a couple of times What is that curve? That's called a catenary curve: C-A-T-E-N-A-R-Y
+-Okay. It's like a curve that a chain or a string would have if you suspended it from both ends. 
+-Okay. Fact check that, just to be sure
+-I will, I will! A catenary curve... So if you apply force here and down
+there, that's the natural force that'll spread out to make the center of the sun shield tight like the head of a drum My dad gave a really good explanation of what's going on with catenary curves on the James Webb Space Telescope by using a model in the viewing room. But keep in mind that this model was
+several years old, so it's not up to date on the latest design
+that flew up in space. However, it gives you a pretty good idea
+what's going on. This force vector here
+along this force vector will define where this catenary curve is. Okay, and so that's the curve that basically suspends the whole... the whole sheet.
+-Yes You've got one right here. And one right here. It's kite shaped, sorta but the real force stretching this thing out, putting tension on it and really, I'm not the person to ask this. I'm a measurement man. I'm
+a test measurement specialist. Okay I'm not an engineer who stressed this drawn. 
+-Okay. But look up, for your Smarter Every Day. Look at catenary curves Okay
+-You know what one is? If you hold a string up like this,
+right here, from two points, that curve that a chain will follow. You know why I know about it, right? Because you taught me about it. You were teaching me about hyperbolic sine
+functions in high school, and I didn't want to learn about it. That's what I know about this. 
+-Yeah. So if I'm not mistaken, a catern- a catern- (I always put an 'n' there for some reason) A catenary curve is a hyperbolic sine function. I'm told, I might be wrong
+-Probably so, I don't know. Okay. 
+-I would check that before I said it out loud, check it Okay. So-
+-The light lines are straight lines
+right here. The pulley blocks you see out there, you have three pulleys on them. 
+-Uh huh, You have them hold here to here. Uh huh. And that defines this curve? That, that defines this line. Right here. The light line. Okay. The light line, but this curve is defined (and I'm not the one) by the tension on the main pull. 
+-Uh huh. And the tension on the main pull here. 
+-Okay. And there. So these two curves are tugging at this grommet. 
+-Got it. And what's this table over here? This is an assembly table When we need to inspect or attach or lay out the things that are attached to the membrane we put it on this table here. The gantry is designed so that you can go
+over and you can work on it without- Oh, so you float. You lay on your belly here. Lay on your belly. Yeah, we actually have a belly board you can see back there that you can push around portable, but you can only reach
+about ten feet in board with the belly boards. Gotcha. So you lay on your belly on this thing. 
+-Yes. And then-
+-Six of us can lay on the belly. And then this rolls out like a crop,
+a crop irrigation system. It does. Exactly. Uh huh. And then you just, you can get to different spots on the shield.
+-Right Huh
+-And the laser tracker here, the laser tracker over there on the board. Yeah. We can pinpoint a precise point, target it. We can mark it, and the technician can come by here, and punch a hole or adhere a part to it. Well-
+-Whatever the technicians do, you know, they do a lot. Really? How do you position the holes? On a print? 
+-Yes. So this is... I'm looking at a curved structure here
+-Yes. So in order to create a curved structure using a planar tool...
+-Yes. How the heck do you do that? Well, Pro/E, which is a design software
+that I'm sure you know a lot about, can flatten it and can do it. Northrop Grumman gives us the position
+or the recipe of where these holes go and we put them there we mark where the punches go
+with the laser tracker, and then we come through
+and get them within 30 thousandths And then we come through again and we fine-tune them to ±0.003 of where the hole is supposed to be and then the technicians come in
+and punch these holes and then we go through
+and we measure it again to see if the punches moved
+during the production process. I mean with a big sheet of material like this, what are you going to do if a punch is in the wrong spot? We don't want that to happen. We tried many, many safeguards and double checks to make sure you cut clean
+-Measure twice, cut once kind of thing. Yeah, absolutely. And you've got other people
+looking at what you do, but you can patch it
+if you make a bad mistake. I don't think we have any patches
+that I'm aware of, but it could be done, y'know  Huh. That's interesting. Is it okay if I go to the center? 
+-Yeah I'll get Dad to go with me. So this is what the instrument
+is going to be positioned at the telescope
+will be right here in this rim. Gotcha. And so all of this sunshield protects it...
+-Right so you can keep the instrument
+on the correct temperature. Right. And look at that. That's pretty neat. It is, isn't it How long have you been working on this? About six years. I came in late 2010, in November 2010. We've been making and measuring this thing with the team for six years. 
+-Yes. Have you been here for six years, Bobby? No, I've only been here two Two?
+-Two years Oh, you just came for the final part, huh? I've been involved in all 5 layers Oh, really? So the layers weren't created
+until the last couple of years. Or measured
+-Right The final layer, they did test layers, stuff like that. Oh, so you guys made this before
+you actually made it? Oh, yeah. We measured everything on these things here. Oh, wow. But the manufacturing process
+had to be developed. You know,
+they make practice layers first and they measure them, see how close they were and everything. But the final flight material, which is what
+this is, we've done in the last two years the flight material that will actually see space. What's it like to work on something that is going to be on the other side of the moon? It's tiring. Tiring. It's a lot of work
+-Really? Isn't it, Bobby?
+-I just want to see it fly! You want to see it fly? 
+-Yeah Bobby and I had to put all this structure
+in place in the right position
+and everything before they can hang it. Bobby had to do most of it My back's been hurting the last two weeks That may have been, been carrying a heavy load for the last two weeks.
+-Yeah? I couldn't. That's why.
+That's awesome. So, so he's been a little bit of a
+a sissy man, and you've had to help him. Ah, he's... he's pulling his weight Sissy man
+-Sissy man So this is put together like a big wheel. 
+-Wheel. Is it is it welded together?
+Like you heat it together and... [we have this...]
+It's called thermal bonding. It's a process that the company that
+we work for patented it in this... So it's a proprietary process. -Yeah.
+So this is the only place that happens? We're the only ones that can do it
+-And the company is called what? Mantech NeXolve. Okay. So Mantech owns the process
+that creates this sunshield. That bonds the layer to the sunshield 
+-That's the secret sauce. The secret is... Yeah. 
+-Huh. That's interesting. That's why it's in Huntsville. 
+-Really? That's why it's here. Yeah. 
+-Because Alabama guys are doing it? That's right! that's funny. So, Bobby, I notice
+you put a corner reflector right here, and this is to simulate the telescope
+itself, right? It's with these two. This is the rim?
+-The rim. Okay, so, so what really matters is where everything is in relation to this surface right here. 
+-Yes. The surface is flat within 0.005", isn't it Bobby?
+-Yes. We work hard to make this surface
+right here. The interface on the surface, flat within 0.005" You have to shim it?
+-Oh, yeah. Shims are, you can see those shims right here. See those shims here? Yeah. Torque on these bolts. How long did it take you guys to get it
+that flat? Two and a half days. But we're good at it now. That's the way it always works. Once you do it and you're done then you're good at it
+-That's right All right. We leaving? Yeah, we made. 
+-Okay So Dad and Bobby slipped away,
+and I took a moment to get this panoramic view from the vantage
+point of the telescope. Like right in the center of the sunshield. This is the spot where the telescope
+is literally going to be making historic astronomical observations. That'll give us a glimpse into the deepest
+reaches of time and space. And when I started to think about it,
+I realized this is a very significant moment
+and a very important spot, and I wanted to document it
+in a very special way. Can we take a selfie together? 
+-Yeah. From the spot where the telescope is going to be? Yeah. 
+-Alright. Don't touch the flight hardware! All right. Look at the lens 3, 2, 1 I think that'll be good for the Christmas
+card. Yeah. Are you ready to be done
+with this project? I'm tired Well, I mean-
+I'm tired and old, yeah I mean, it's- I've measured many things. 
+-I mean, just... This is 4 a.m. after an all nighter in a laser scanner Darrell Sandlin talking. I'm tired, but yeah, this is the last layer. And before we did these five flight layers,
+we did five tepid layers, which was practicing and developing in the process. So this is ten layers
+that we've done this size. So this is-
+-The last six years, this is what I've been doing. So tonight's the night. Tonight, the final layer one acceptance shape test. Now, a lot of people have got to look at this data and make sure we didn't do something wrong So what are they doing here? They're going to build a cradle
+so that when we fold up the membrane, the layer that they're going to lay it in,
+it helps insulate it and clean [power]. And later on, they will purge it of oxygen, So nothing going get to it. They're making it- So I need to get out of here
+and let these guys work. We need to let them work, yeah. Watching the team fold up the sun shield
+to ship it out to California is amazing. It's a beautiful and complex origami
+dance of sorts. And to me that represents the whole James
+Webb Space Telescope program. It's an amazing
+technological collaboration of a bunch of different people
+working patiently together to accomplish
+something truly extraordinary. Standing by for terminal count. They better not burn up that sunshield "Neuf, huit, sept..." And we have engine start and liftoff! Boy, that thing jumped off the launch pad! Punching a hole through the clouds. 20 seconds into the flight. Good pitch program reported. Oh, shoot. That's what's happening right now. 
+-What? The rocket goes up, and those holes that you put in there, that you spent half of your life putting holes in that thing, that's the let the air out on ascent
+-Yeah That's true
+-That's what just happened ...view from the upper stage camera on the Ariane 5 looking at the James Webb Space Telescope as it moves gently away from this launch vehicle I want it to work It's going to change our thought process is going to change the way we think, just like the Hubble did These mirrors were made in Coleman, Alabama. That's... the sunshield was made in Huntsville. Extraordinary
+things are done by ordinary people. This is my dad and there's 10,000 stories
+just like his, of people who worked on this telescope when they started
+this dream was literally impossible. Many of the technologies
+didn't even exist yet, but each team worked hard to overcome
+the problem in front of themselves, having faith
+that every other team would do the same. In the end, thousands of people
+from all over the world came together to make this thing
+a reality. And I think that's really,
+really beautiful. I mean, I never imagined I grew up in India in a small town, and where there was no television or telephone the first time I saw NASA, was in my dictionary. I used to speak a language called Telugu We had, my dad brought a Telugu-English dictionary, so every English word is translated into my language. So I saw NASA the first time in that 
+-Yeah, I never imagined I would even come to the United States and get to work on a telescope like this, which is now in space. So I'm excited about that. I hope you enjoyed this video. Obviously, this is super special to me. I'm really proud of my dad. He's taught me so much through the years
+and it's just... I don't know, I just this makes me feel things
+and I hope you enjoyed it. One last thing, I'm not really a merch guy, but I really wanted a shirt for the James Webb Space Telescope, and I wanted it to have all the science on it. And so this one, I commissioned an artist. It's got the Earth, the moon. It's got L2, four times
+the distance out there. It's got five sunshield layers. And that's
+actually the orbit path around L2. So I took that from a research paper. I just wanted this for me,
+and I had it made. And so I think you might like it as well. If you want one of these,
+I'll leave a link down in the description. No big deal if not I think it's awesome. That one has rainbow on it. I think it's cool. Anyway, that's it. I'm Destin, you're getting Smarter Every Day. Thank you so much. Also,
+thank you to the patrons. I'm grateful. Have a good one. By Alright. So what are we doing now? Oh, It's always to go to the bathroom if you have to before you go in Yeah, you've got to go to the bathroom then go in. I don't.
+-Tell you what, This is like a laxative when you get this stuff on you Makes you have to go? All right, so what's the deal? This is the dirty side of the room, that's the clean side of the room
+-Okay. 

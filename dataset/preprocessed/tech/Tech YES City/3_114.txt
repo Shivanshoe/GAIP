@@ -1,0 +1,113 @@
+this here on the table is a pc that has been 
+completely pulled apart and we're going to clean   it up very soon where in the pc ultra clean 
+series we turn trash into treasure however   this one here is a very unique story in that the 
+person who traded in they did not want this thing   at all they said it's giving out no signal it's 
+junk to me can i just have a pc that works and   they message me on an office pc that i had up for 
+sale and typically my office pcs they have an i3   they'll have no graphics card eight gigabytes of 
+ram ssd basically they're just there for browsing   the web and doing things like excel and so when i 
+saw that the motherboard inside this build was an   x79 that is the motherboard was pretty much worth 
+more than the whole office pc i decided to take   the gamble now also included in this build is 32 
+gigabytes of ddr3 memory a gtx 560 which to me is   probably the worst part of the build the two hard 
+drives an ssd a 120 mil liquid cooler from corsair   and this blue martian themed thermaltake case now 
+all this stuff is very dirty but the person said   strictly that this pc did not work so what i'm 
+going to do is before i spend all this time   cleaning it up i'm actually going to see which 
+part is faulty so we don't have to clean that up   like we did in a previous episode where i 
+actually came into an x79 motherboard but i   ended up spending all this time cleaning it where 
+in the end it unfortunately didn't end up working   however that aside let's find out what the problem 
+is and take you guys through a journey from start   to finish on what something is and what it can 
+be let's get it on right off the sponsors button   hey bro are you tired of seeing this annoying 
+activate windows message then if so today's   video sponsor scd keys has you covered for as 
+little as fourteen dollars using the coupon code   bftyc you can get activated today works for 
+windows 11 pro too, links in description below so we now just spent a heap of time with 
+his x79 board and you can see the one in   the previous episode right here i don't know 
+what it is with these rampage boards but   they don't they're just not working in 2021. there 
+must be something with this particular model of   motherboard that just gives out after a certain 
+time frame and the difference here was that this   one wouldn't give out a signal and i tried a few 
+different things i tried g skill memory it did get   past the initial boot code that it was giving 
+out previously and then after that i tried to   bias flashback it to refresh the bios and that did 
+not work either so what we're going to do now is   we're actually going to try the bios out of this 
+board right here the older one and then put it in   here and just see if that works if not we'll then 
+try and just give it an ultrasonic clean anyhow well at least the gtx 560 works by casting shadows let's go don't lead them no it's on yours so we've now cleaned this thing down thoroughly 
+the data vac that's given it a great bj   and it's just it's still not working the thing is 
+just it's i don't know i mean before it went into   the ultrasonic cleaner it just came out the same 
+state as it before it went in and this is pretty   much the exact same issue that happened with the 
+uh previous rampage board that we had in the other   episode so i don't know what it is but like these 
+boards are meant to these boards are meant to be   just ironclad they're meant to be rock-solid they 
+should not fail at all but what we've got here is   i have this is a second rampage board that's just 
+really finicky there's something faulty on them   that prevents them from booting and functioning 
+probably and i've tried different ram i've tried   different ram slots even tried a different bios 
+tried different cpus tried flashback you go   through the list i have tried it with this thing 
+it just does not want to work and so it's a little   bit disappointing it's a little bit disheartening 
+because this is the main part of like when i saw   this come in as a trade i was like yeah the x 79 
+rampage board is the selling point that's the one   part that i really wanted to work just like the 
+last build that came in and sure enough i kind   of got hosed on that first trade-in this trade-in 
+i mean at least we've got a decent power supply   we've got you know a corsair water cooler 32 gig 
+of ram uh i mean i was going to say gtx 560 but   i mean it still works out okay but it's just 
+that main part that would make it a winning deal   it just it's not a winner and so that's that's the 
+most frustrating thing this is just this is what   it's like if you're dealing with used parts and 
+you're hustling you're going to come in to these   bad streaks of luck and i'm glad you guys get to 
+see it on the channel like i always just show the   the wins and the losses but this is a big loss 
+and you know i what i want to do to this thing   right now i'm very frustrated so i'm going to 
+just have a sleep it's pretty late anyway i'm   just going to go to bed i'm gonna wake up with a 
+calm head and then just get back into it because   we have to use a different motherboard and a 
+cpu but we'll keep it really budget because   that's the whole point of this series is 
+i want to keep doing things honest budgito um and the roller coaster ride of this pc is finally 
+complete and i've been testing it out in cs go   but there's some pretty bad news as you guys saw 
+with that motherboard i kind of had to calm down   because two rampage x79 boards in a row it's 
+not just the fact that i was unlucky and that   both these boards didn't work it's the fact that 
+they're some of the best x79 boards that you can   get and the fact that two of them in a row i just 
+could not get them working no matter what i did   it's kind of it's it's like it just sucks when 
+you're into pc building especially used stuff   you are going to come into just pcs that no 
+matter what you do they don't work however   one thing i did learn out of this whole process 
+was the fact that coupling a gtx 560 with an x79   motherboard should have been at least it was a 
+little bit suspect before i took the trade-in   but i should have definitely checked over the 
+trade-in and looked out for a signal at least   before it came in because what i think happened 
+with this pc right here was they were using it   because they had a pretty decent power supply they 
+had 32 gigabytes of ram i7 water cooler and they   probably had a graphics card say maybe a gtx 1070 
+or 1080 ti and when the computer stopped working   they probably uh took the graphics card out 
+put something really low end in like a 560   and then just said all right let's get what we 
+can for it because we don't know what's wrong but   there is some good news that's going to come out 
+of this and that is i've got a 32 gigabytes of ram   i've also got a one terabyte hard drive 250 
+gigabyte ssd a 900 watt power supply and we got   a corsair 120 mil water cooler and you're probably 
+like well brian you did have to put in components   in place of that and that's exactly what we did 
+with this pc however i wanted to build around this   gpu which is the gtx 560 since graphics cards you 
+cannot let them go to waste at this point in time   and so having something like this the gtx 560 i 
+decided to use an i3 550 eight gigabytes of ram   and office motherboards just a hp first generation 
+motherboard and we've got a 500 watt thermaltake   power supply and we then swap the 250 gigabyte 
+ssd for a 120 gigabyte ssd and also put in a 250   gigabyte hard drive just to balance out the whole 
+system and then we kept all the other components   for a later build where we can put in a higher 
+end gpu and match everything so overall all those   parts we put in ended up costing me 50 but if we 
+couple this with a monitor keyboard and mouse we   can then have an entry-level gaming pc that as 
+you witness here plays cs go with smooth frame   rates we're getting around average 80 fps and the 
+one percent lows are pretty decent and then if we   want to move over to dota 2 league of legends 
+and also valerant i found in the past when it   plays csgo with smooth fps it should play these 
+other three titles absolutely fine as well so   i was pretty impressed with the balance of the 
+i3 550 and the gtx 560. for instance in cs go   we've got it pretty much running at 100 on the cpu 
+and then 100 on the gpu and the temperatures are   really good too and i've just decided to record 
+this while it's playing a game and the noise   is just really quiet this pc surprisingly is doing 
+a very good job remaining quiet the temperatures   are still good and i'm happy in the end that we've 
+got something that i've still managed to salvage   even though that motherboard was the most 
+important piece of the bill when i saw it   i thought i was in for a treat however you guys 
+know if you've been into building used pcs even   building new pcs you can come into situations 
+that you can't do anything that's just a faulty   part you just cannot do anything to bring it back 
+and that's what we've had here again however with   pcs it just gets to that stage where you just come 
+into a lull of fails and uh can be frustrating but   you just calm down get through it and there'll 
+be another day where you will get a big victory   and as you guys know if you've been watching for a 
+while you'll know that i'll come into some massive   wins from time to time and it's always just like 
+it's just the jet coaster of pc building you know   i got that 1070 ti for 200 aussie dollars and then 
+we come into this and the x 79 board doesn't work   and you have your ups and downs and just know if 
+you do like a trade-in where the person does say   something's wrong with the build then do be 
+prepared to deal with some problems i just   had a feeling that maybe the rampage board was the 
+part that would have worked but of course i knew   there was a possibility that that board couldn't 
+work too since no signals no signal anyhow guys   hope you enjoyed today's video if you did be sure 
+to hit that like button also let us know in the   comments section below what do you think about our 
+little budget build setup that we ended up coming   out here with today love reading your thoughts 
+and opinions as always just like this question of   the day here which comes from uh bukalex1 and they 
+asked what's gdp tdp i'm bad at economics sad face   i got kicked for being inactive but gdp means 
+gross domestic product and it's basically the   sum it's a dollar value of all the products and 
+services that are changed in dollar values in one   year so it's usually measured on an annual basis 
+for that particular country and so in the us i   believe it's around 20 trillion dollars of gross 
+domestic product per year however tdp is thermal   design power and that has nothing to do with 
+economics so hopefully that answers that question   if you guys have stayed this far and you're 
+enjoying that tech yes content be sure to hit that   like button ring that bell and i'll catch you in 
+another tech video very soon peace out for now bye you 

@@ -1,0 +1,205 @@
+if you are looking for the best Z490
+motherboard either in feature set or for your money, than today we have nine
+different motherboards which I have thoroughly tested over the last month and I'm happy
+to report to you that there's pretty much good news for all these boards. Now
+of course when it comes to a comparison between MSI, Asus, ASRock and Gigabyte
+who holds the crown when it comes to the Z490 release let's go through the Z490
+Taichi, Aorus Master, Plus TUF gaming Wi-Fi, Maximus Formula XII, MEG ACE, Z490-E
+Strix ROG Gaming, Aorus Pro AX, PG Velocita Vs. Vision G.
+motherboards and first of all the price let's pull this up here because these
+are the MSRP in US dollars and from what I can check on you egg this is
+roughly what they are indeed coming out over in the USA then when we look at
+the price comparison compared to Australia this is important to note and
+it's going to be a big theme going out of this video that is there is a pricing
+differential compared to PPP terms to the US and that is it looks like
+gigabyte is edging out here so in other words if you're in Australia the
+gigabyte boards are going to represent the best value automatically based on
+better rates that gigabyte of selling their motherboards in Australia for
+asrock is following close second here and then a Zeus do need to fix up a
+little bit of their pricing in Australia I feel especially the likes of the
+formula 12 which is coming almost double that in dollar terms versus the US
+dollar 500 versus 980 so with that said let's move over to the VRM the most
+important thing with a motherboard especially in the likes of Z 490 where
+you're most likely going to go out and buy a 10 900 K or an overclockable CPU
+and you want to make sure that it's going to handle it at the very least out
+of the box and of course if you want to put some water cooling on there you can
+extract some even higher overclock so this is where I was happy to report out
+of the box all of these motherboards in today's comparison did very well they
+did so with good power efficiency to the Azurill PG velociter did win on both the
+overclocked and the stock results with the power efficiency though the pro ax
+do a good job here as well where that came in second place some of the other
+boards though it wasn't much of a difference we're talking 10 20 watts at
+best out-of-the-box and both overclocked though I will point out even though I
+felt the formula 12 had slightly ever slightly the best PRM in today's
+comparison its power consumption did go up because it's got so many extra
+features on board like a massive amount of RGB as well as an oled readout so do
+keep in mind if you buy this board you will be using more power even if you
+overclock to 5.2 yigit's there's pretty much all the rest of the competitors in
+today's graph though another thing I will point out here even though the
+temperatures look the lowest on the tough gaming I did test this in lower
+ambience and even though I've dealt or adjusted these results I feel like I've
+seen this over the last few years where Delta adjusted results I feel aren't
+100% accurate in that the cold of the temperatures are I feel that they favor
+those that are tested under colder conditions even after the Delta
+adjusting if that makes any sense if someone studied thermodynamics and can
+tell me and validate what I'm saying here and why I would love to read your
+thoughts on that but what it's worth out-of-the-box if you're getting a 10
+900k letting it boost a 4.9 gigahertz old core you do not have to worry about
+any of these motherboards in the graph and with that said it looks like the z4
+90 tough gaming plus Wi-Fi is taking out the best value if you just want to get a
+ten nine hundred K put it under some water cooling or a big air cooler and
+then enjoy your CPU but what about the overclocked results here's where we're
+moving in through that territory where a bed of erm poor some of the best VRMs do
+matter and this is where the pro ax did a really good job as well as the
+velocity even though the temperatures got hot their power efficiency still
+remained very good in that even though they got less phases for instance versus
+the Maximus formula 12 they did so with a lower switching rate I feel which is
+represented in the temperatures and also the power consumption so both these
+boards perform phenomenally well the vision G was still able to take the 10
+900 K to 5.2 gigahertz but it did need more power and so it did start to lose a
+bit of power efficiency at these levels the Z 490 tough gaming plus wasn't able
+to get the CPU to 5.2 gigahertz the vrm just wasn't
+good enough but that being said we took it to 5.1 gigahertz and it still did a
+good job and considering it's one of the cheapest motherboards in today's
+comparison I think the vision Jian is eight for ninety tough gaming are very
+well justified even at that all the rest of the board's here in the comparison
+that this Trixie the Meg ace the RS Pro X the master and the Tai Chi and the
+velociter all do the phenomenal job of handling the 5.2 gigahertz
+ten nine hundred K overclock with great power efficiency though now moving on to
+onboard audio if you guys want to get a total solution and you want some of the
+best onboard audio then I feel like the vision G did a pretty good job here as
+well as the velociter and the pro ax for the money
+the Z for 180 tough gaming it did have great crosstalk levels and it also had
+decent bass roll-off but it did have a slight shake in the frequency response
+curve when we tested that so the onboard audio on the TUF was decent though the
+rest of the boards in today's comparison were good or very good in the case of
+the Maximus formula 12 that was extremely good to the point where you
+could even use the mic in for professional recordings versus the other
+solutions which did have either noise or noise suppression being used on the mic
+import but in terms of the output the Z 490 tough gaming plus Wi-Fi was the only
+odd outlier here but even then it was decent enough of course what about
+getting a high-speed nvme Drive and then wanting that to be cooled by the
+included heat shields that these motherboards offer and this is where all
+these boards here did a great job of cooling down um to drive you can see
+that versus the no heat shield option which does take the nvme to very high
+temperatures which if you're using it for prolonged times could invert some
+throttling on that drive so basically they're all fine make sure that if you
+want to use more than one m2 at high speeds make sure that the board you're
+looking at has two of these m2 heat shields or you may wish to install one
+yourself but if you're just using a single nvme driving at n900 k then all
+boards are going to do an absolutely fine job there with all those
+temperatures and results out of the way it's now time to talk about my
+experience with the boards and the feature sets included which I feel if
+you're buying boards especially at this price range you want to get a good
+feature set that matches what you need so out of the four boards I'm gonna
+point out a zoo sand as rock because they've got features that I like and it
+depends on who you are Azusa have there AI features which you
+got the AI overclocking they've also got the AI cooling which you can control
+both of those in the bios then they've got the AI networking so if you're on a
+congested network it can handle your packets and prioritize gaming packets I
+have tested this out on their routers in the past and it has worked phenomenally
+well as rocked on the other hand they do have their RGB control built into the
+BIOS and for me personally this is why I would be picking an AZ rock board out of
+the Z 490 lineup even though the pro ax is going to win in terms of total value
+in today's comparison we'll get onto that later the internet update in the
+bias as well is also an extremely handy to have feature so the other three
+boards from gigabyte MSI and a Zeus they all have their software based RGB
+control but I feel like Azrael definitely do get the nod for having
+that RGB control on the bios and it can affect performance if you've got the
+software on in Windows as I've been chucked in the past don't terms of the
+BIOS itself from all these four companies in the years of use of that
+BIOS I feel like all four companies have done a very good job however I did find
+a slight problem in the vision Jie it's nothing that you can't work around and
+same with the C 490 tough gaming when I did those individual reviews I'll put
+the links to those reviews up here and also in the description for all the
+boards that I've done dedicated reviews for but for what it's worth none of
+these motherboards in today's comparison had any glaringly wrong problems that
+would detract me from buying it was just some little problems that you may come
+into and they're easily solved in the case of the vision G and the Z for
+naughty tough gaming of course the last thing to talk about is how many PWM fan
+headers these boards have how many USB ports they have if they have included
+Wi-Fi 6 or Bluetooth 5 now you can check this out on the individual websites on
+the spec sheets on the boards themselves though generally with Z 490 the more
+money you spend the more USB ports you're gonna get on the back you're
+gonna get Wi-Fi 6 included Bluetooth 5 and more addressable RGB and PWM fan
+headers though with all that out of the way it's finally time to give you guys a
+clear-cut recommendation on these boards and as I alluded to in the
+intro with the price differences between Australia and the US if you can find any
+one of these boards around their price point on sale then I would definitely go
+with the one on sale because there really wasn't anything that would
+wholeheartedly stop me from buying any one of these bullets in today's
+comparison now if the board isn't in today's comparison it means that I
+haven't tested it so I cannot give you a recommendation on that board
+I have heard some bad things about some of the real entry-level as rock and
+gigabyte boards so you may wish to check out individual reviews of those before
+it's worth awards for value it's gonna go for the z4 90-plus tough gaming Wi-Fi
+this board comes in with Wi-Fi six Bluetooth five you've got a really good
+vrm for the $200 price point and if you don't need the Wi-Fi you can save twenty
+bucks but the board performed phenomenally well throughout all the
+tests and the ten 900k was able to get to 5.1 gigahertz now the onboard audio
+was decent but at this price point if you want to get a Z 490 motherboard
+that's going to do it all then this is a well justified board for the money so
+with that aside the Z 490 tough gaming Wi-Fi definitely gets the award for
+value having Wi-Fi 6 Bluetooth 5 and also having a easy to use bios
+overclocking quite well and giving you good vrm temperatures I felt like the
+board really hit hard for the money and if you don't need the Wi-Fi 6 then you
+can get it for $20 cheaper at 180 USD and it can still handle the 10 900k
+absolutely fine now in terms of the vision G that board the aesthetics on
+that easily wins out I thought it was one of the best-looking boards in
+today's comparison even despite it having a typo which dad man pointed out
+in the review and he sort of made a little joke about it but other than that
+I'd say the $200 Vision G at 5.2 gigahertz it did start to struggle in
+power efficiency so out of the box the Z 490 tough gaming Wi-Fi did very well but
+the vision G had slightly better onboard audio so if you're going for the onboard
+audio option with no Wi-Fi you might want to go with that choice around $200
+though is stepping up now to the mid-range $250 around this area I feel
+like this is personally where it is if you want to get a ten 900k and you
+just want that bit extra because these options all had phenomenal onboard audio
+and they also had phenomenal power efficiency and they had that bump up on
+the vrm quality the pro ax objectively wins out in today's video i'm gonna call
+it the number-one board out of all these nine motherboards I've tested here I
+feel like it's a premium board at a mid-range price within the Z 490 realm
+where you're getting a phenomenal vrm you're getting that Wi-Fi six Bluetooth
+five really good onboard audio and everything worked out in terms of
+compatibility and overclocking was a breeze though the velociter PG gaming
+even though it had these little fans on board its power efficiency was the best
+when overclocked in today's comparison and even out of the box as rock have
+done a great job on the switching rates on the vrm to balance the temperatures
+and give you really good wattage and power consumption whilst you're
+overclocking and of course with those fans on board it's going to keep the vrm
+heatsink quite cool so I feel like as rock have done a phenomenal job there
+and I would be personally picking this board because of the polychrome RGB
+built into the BIOS in the ISA views with internet flash if I need to update
+my boss now one more thing though it doesn't come included with Wi-Fi 6 or
+Bluetooth 5 so that might be a deal-breaker for you and also with the
+onboard audio you want to keep it at a volume level at 90 or below other than
+that though both these boards score out in the boards to get in my opinion then
+of course going up to the top of the pack we had the e Strix rog gaming which
+if you want to go with the Zeus's premium value option then that's going
+to offer everything that these other two boards that we just talked about did but
+it's going to come at a slight premium over the other two boards then we're
+going up to the Meg ace that did a phenomenal job but it didn't really
+stand out to me personally because it didn't really offer anything over what
+the other options had this is a very similar story with the taichi the Auris
+master and also the maximus formula 12 however the maximus formula does have an
+integrated 10g Nick which did offer an absolutely gorgeous aesthetic and at the
+same time offered the option to insert water cooling into the vrm heatsink as
+well as having an OLED display readout but that
+does come at a cost of slightly extra power consumption first the other boards
+in today's comparison and with all that out of the way I hope you guys enjoyed
+today's Z 490 roundup and comparison if you did then be sure to hit that like
+button for us and also if you've got any questions or comments about any of the Z
+490 boards please leave a comment in the comment section below and I'll get back
+to you as soon as I can and then with that aside we got the question of the
+day which comes from mad cat four-five-six
+and they asked wait you can wash Ram with water so they're referring to our
+Kenya's fix-it episode which we did up with a link up here where we did wash
+some faulty ddr3 memory and it did end up working out in the end
+make sure if you wash computer parts with regular tap water please be sure to
+clean all the water off before you run any current through it but also at the
+same time I like to put some multi-purpose spray or wd-40 on to
+protect it and make sure it doesn't corrode over time
+hope that answers that question and I'll catch you guys in another tech video
+very soon if you stayed this far and you're enjoying that content be sure to
+smash that sub button ring that bell on the way out and you'll get the content
+as soon as it drops in your sub box peace out for now bye [Music] 

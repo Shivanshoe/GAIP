@@ -1,0 +1,184 @@
+so on the desk here we have a meta box
+laptop and I got this in today as a trade-in on a system that I sold and the
+value I placed on this when the guy wanted to get rid of it was 200 Aussie
+dollars now this has a gtx 1070 in it and it's also got an i7 6700 HQ but the
+problem with it is that when it's on battery it works absolutely fine, but as
+soon as you plug in the AC adapter it then starts to either reset or switch
+off and so what I'm gonna try and do is replicate this problem right now and see
+what's actually going on in front of my own two eyes because basically when he
+came over and he showed me the problem it was just starting up and I couldn't
+really get a proper glimpse of things but basically the history of this laptop
+was is that he bought it initially for $900 dollars and then it worked fine for
+three months but then when he was playing call of duty warzone it started
+to crash and the crashes became more frequent to the point where he had no
+idea what was going on with this laptop and of course being the situation that
+we're pretty much all in and around the world at the moment he just wants to
+play games and basically when it comes to laptops I still really have no idea
+what they're worth or how much they cost to fix where I put the worst case
+scenario down as the motherboard could be faulty or the GPUs faulty and that
+would cost me a lot of money to fix hence why I traded in for $200 dollars
+because that is the worst case scenario that I would be able to get my money
+back on at least with that value so anyhow this thing I'm looking at it
+already and the drivers here from 2017 so that's already one big problem I can
+see another problem here is that it's got a hundred gigabytes of SSD storage
+just completely unallocated so it looks like it's got a 500 gigabyte SSD in it
+that I'd have no idea why this is just 100 gigabytes sitting around there and
+we go here Windows is activated it's got all the specs there 16 gigabytes of ddr4
+memory everything's looking great it except those two things so what I'm
+going to do now first and foremost is just quite simply reinstall the OS and
+also take this thing apart make sure the thermal paste is fine everything's
+intact and the temperatures are fine but before I do that I'll also quickly plug
+in the AC adapter and run some stress tests just to see what the temperatures
+are like now and just to see if I can actually get it to switch off like the
+guy was saying people like to laugh with me for this kind of stuff [Music] so now we've been stress testing this
+CPU for over ten minutes and the temperatures are getting pretty hot
+especially on core one which could indicate that we do need to change over
+the thermal paste but for what it's worth laptops do usually run pretty hot
+anyhow this thing is getting moderately loud I have heard laptops get a lot
+louder though for what it's worth it's showing here it's using up thirty-eight
+watts so it's pretty powerful but the CPU is micro throttling there we can see
+with this overheating detected so basically it means that we've got to
+change the thermal base but I haven't seen it crashed just yet so what I'm
+going to do is I'm going to change over to unity in heaven now and put it on low
+settings on low resolution to not only try and stress the graphics card but
+also stress the CPU at the same time so we just loaded up UniGene heaven and as
+soon as we did that we will almost instantly met with a black screen and
+now the system has restarted so the problem is definitely to do with either
+the GPU itself or it just can't get enough power so what we're gonna do is
+we're gonna quickly install afterburner on this system and then pretty much down
+clock the GPU on both the core clock the power limit and the memory and then run
+this test again and see if it works so going through some further tests with
+this laptop it's clear to see that the GPU is having some sort of issues and
+what we saw was not only did it drop out after the heav'n benchmark but it also
+dropped out after we installed the latest drivers and I tried loading up
+afterburner and changing the core clock speeds and the system would just go one
+color even when I try to drop it down fifteen megahertz then I tried dropping
+the memory speeds down individually just by itself and that's sort of bugged out
+where it just went plus to some insane value and then I tried changing it and
+just basically ended up setting it to default so it doesn't like to
+communicate with MSI Afterburner that well and still in the latest drivers did
+not help so we're gonna pull this thing apart right now and see if something's
+wrong that's visibly wrong with the hardware we're gonna try to give it some
+tag guest loving and then give it a reboot so pulling the laptop apart I can
+see that this thermal paste is really sloppy we definitely need to clean up
+this GPU right here and then put some new thermal paste on that could even be
+the problem in itself where if this is even capacitive this thermal paste that
+could be causing the instant cut out when the benchmark is loaded I wouldn't
+say it would be the fans because we heard the fans ramping up before and
+even if one of the fans has failed it would take like a good thirty seconds
+for this to overheat and switch off where it's switching off instantly and
+it's even switching off when we try to change things like the core clock so
+what we're gonna do now is of course clean this all up and then put it back
+together and see if that fixes it but also just go over this laptop with a
+fine-tooth comb and see if anything else stands out
+[Music] [Applause]
+[Music] [Music]
+[Applause] [Music]
+[Applause] [Music] so here we are now at the next day we've
+given this some tech yes loving temperatures are looking a little bit
+better but the problem is it's still like after I've reinstalled everything
+it still does cut out after that running that heaven benchmark and I've also
+managed to find the cleveo app where we've managed to down clock the GPU and
+also down clock the memory to as low as it can go and this is the weird thing
+I'll show you right now it I can get it to actually work properly and it's a
+weird fix where I go to the Nvidia control panel and then I change to
+integrated graphics the Intel HD graphics run the benchmark close it down
+then I change it back to auto select and then I run it and it then works after
+that so it's looking to me like either something is damaged on this laptop like
+a little chip that connects the GPU and the CPU or it needs a new v bios where
+it's just not as efficient as it used to be so what I'm gonna do now is I'm
+actually gonna flash a gtx 1070 max cube bios onto this laptop and see what the
+results are like [Music]
+[Applause] [Music] so now we have a meta box laptop that we
+picked up for 200 Aussie dollars and it's working absolutely fine
+nothing is now faulty it now runs due maternal runs f1 2019 and it ran those
+games for quite a while and the temperatures are okay on the CPU and the
+GPU but to get here it was a string of events that I consider very lucky and
+we'll talk about the string of events the first being the env flash tool now I
+went onto Reddit and there was thankfully someone who had left up an
+older version of env flash and it was only one of these versions that enabled
+me to force flash a different bias on to this laptops gtx 1070 and that was the
+5.1 for so big thanks to vipre and also the guy on reddit that uploaded this and
+made this env flash version to begin with so after that we then went on to
+tak power up and bless the tech power up for having this v bios database because
+someone uploaded an unverified cleveo gtx 1070 bios with the same file size as
+this meta box right here and basically the meta box is a I guess of rebrand of
+a cleaver laptop which I think cleveo our big laptop manufacturer in Taiwan so
+we then got that gtx 1070 bios we downloaded it I then tried false
+flashing it numerous times and it was right at the last time I was like look
+I'll just try this on this different version of env flash and sure enough it
+then forced flashed and we restarted and it ended up working and the funniest
+thing is we just had nothing to lose so I tried everything I could to get it
+working and of course trial and error in today's video ended up prevailing with
+the Big W though what if this laptop didn't work after that V BIOS flash well
+this comes down to me just then putting it up as an office PC and turning it on
+integrated graphics and disabling the gtx 1070 because i would have still got
+my money back as a just a 15.6 IPS laptop ddr4 i7 6700 HQ that would have
+easily been worth what I traded it in for so that was sort of like my retainer
+I really had nothing to lose except my time when I tried taking the gamble on
+this laptop but it paid off big time with those three steps but you're
+probably wondering now this TDR video failure blue screen what's going on
+there because I read up on forums that people were having these problems not
+with just with meta box laptops but other laptops out there so you're
+probably wondering what is the exact issue now I can only really hazard a
+guess as to what exactly is going on with this laptop and that comes down to
+this feature in the BIOS I feel it's called GPU performance scaling now what
+this does is if your CPUs not using a hundred percent and the GPU is using a
+hundred percent it can then essentially borrow that TDP budget that's not being
+used or that what's that isn't being used by the CPU and then transfer it
+over to the GPU essentially over volting the graphics card to get more
+performance while your CB is not using up much performance and what happens in
+this process is I feel is that there's a chip for that that enables that to
+happen and on this particular laptop I feel like that chip has become faulty
+and it's just cutting out so by me flashing it to a different gtx 1070
+cleveo bias that maybe doesn't support this technology I was then able to get
+the gtx 1070 working absolutely fine again
+so if you do see this error on a laptop in the future then you may wish to
+consider flashing the vblast but the problem is you've got to then rely on
+lock to see if someone's uploaded a different V bus for your gtx 1070 on
+your laptop or whatever grabs card for your laptop is on to the tech power up
+website so I was really fortunate and really lucky that someone did that and
+it ended up working because basically it said the PC a subsystem ID was different
+to the gtx 1070 i had on board here and so basically that ended up fixing this
+laptop where the performance was impressive the noise wasn't that loud at
+all in the keyboard and everything else checks out the build quality is actually
+quite good on this box right here to begin with
+now the gtx 1070 that's actually got more cout
+cause then the desktop very nice just clocked lower and then of course there's
+the max-q variant which is even clock slower than this gtx 1070 in this laptop
+here so I will give kudos to this particular 1070 it's not a bad version
+or bad variant it actually can get up and go
+especially at 1080p even in something like doom eternal on Ultra settings
+we're getting some really good fps numbers so I'm really impressed at what
+this thing can do but one thing I will point out is there's only a single ddr4
+16 gigabyte stick in there I'd like it to be 2 sticks to get that dual channel
+so perhaps I'll upgrade this laptop and make it 32 gigabytes of ddr4 who knows
+but for what it's worth we've now got this thing up and running it is working
+absolutely fine and I've got to say this is probably one of the best scores I've
+gotten in the history of the channel where this thing here is traded in for
+$200 dollars we just gave some tacky as loving applied some new thermal paste
+and here it is at Tech yes City going through the steps the trial and error
+with that motto that is if you've got nothing to lose you've got nothing to
+lose so do let us know in the comments section below what you think of this
+deal right here I believe personally I think this thing would be worth in its
+current state in Australia in the current situation going on right now
+around about 1100 Aussie dollars that's what I feel something like this would go
+for so that's a big win on my part getting this thing to work again to a
+hundred percent of course love reading your thoughts and opinions as always and
+speaking of thoughts and opinions we've got the question of the day from 60
+schastye and they asked do these apply to AMD based components as well and they
+referred to yesterday's video put the link up here where we talked about one
+of the tuneups you can do using the inspector program on Intel CPUs now I've
+tried inspector on AMD CPUs both old and both Rison in the past and it doesn't
+give any performance boosts in fact it can be a slight by 1 to 2 percent
+detriment to performance if you do disable the spectra and meltdown updates
+on the CPUs well I think it's actually you can only disable one of them because
+Rison at least is immune to the other vulnerability so if you're on an
+MDC PU you don't have to worry about using inspector it's not going to really
+make any difference whatsoever and with that aside I hope you guys enjoyed
+today's video if you did then be sure to hit that like button for us and also if
+you stayed this far and you're not yet subscribed and you want to see more of
+that potato juggling madman flip and yes-men then you know what to do hit
+that sub button ring the bell to get the content as soon as it drops around here
+Tech yes city and I'll catch you in another tech video very soon peace out
+for now but [Music] 

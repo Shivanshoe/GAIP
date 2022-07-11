@@ -1,0 +1,151 @@
+if you're on an old and filthy laptop
+and you are getting terrible FPS, or your PC has simply broken down and you want to
+play the latest Call of Duty warzone which is actually free for the Battle
+Royale which is what we're gonna be playing in today's video then you've
+come to the right video because we've got six cos 12 threads after Ryzen 5 1600 AF is pretty much the same CPU as the Ryzen 5 2600 only
+it's coming in at eighty-five dollars which is a really good deal in my
+opinion though for the cooler we're gonna be saving money and just using the
+included stock cooler with this CPU and then for the motherboard we're going
+with a budget be 450 m motherboard this one here is a gigabyte gaming I just
+found the cheapest motherboard I could find on eBay and selected it and I was
+lucky because it's got a nice red and black aesthetic which is going to go
+well in today's build now if you do want to overclock your eyes and see if you
+you want to upgrade to more cause more threads in the future you may invest a
+little bit more on a motherboard but for what it's worth this one right here will
+do an absolutely fine job for today's build for the graphics card though we're
+going with the gtx 1070 this is a used one I picked this up for under 200 USD
+and the thing about this card is got a gigabytes of vram and it's still very
+quick by today's standards if you want to go with the new graphics card you
+might want to consider something like a 1660 supe or a a 5600 XT from AMD then
+for the memory we've got 16 gigabytes of Vengeance Pro RGB memory from Corsair
+again I picked this up on a sale you don't have to go with this stuff but
+it's going to look definitely fancy on this motherboard
+right here and then the powders whole build we're using a cool master MWe 450
+watt and you may be thinking whoa 450 watt that's not enough juice for today's
+build believe it or not I actually tested this power supply in a video I'll
+put the link up here with a 39 50 X 16 core and a RT X 28 ETI
+that's right the best on both fronts for gaming pcs and this thing held up
+absolutely fine it's also got all black sleeve cabling and it's a really good
+value for money powers play at the moment though for
+drives we've got a 240 gigabyte SSD one terabyte hard drive and then the last
+element is the RGB case this is a tempered glass TG 303 it even includes
+their remote control so you can change the RGB to make your PC go faster
+on-the-fly though speaking of RGB and making things go fast with the jokes
+aside we've got a PC that's coming in over the recommended specs where they're
+recommending a GTX 970 or better and then on the CPU side they've got a risin
+5 1600 X which in this case like we said before this is more like a 2600 so it's
+actually better in performance and then on the CPU side for Intel they've got a
+2500 K which is nowhere near similar in performance to a risin 5 1600 X anyway
+I'm not sure what's going on there but weirdness aside we've got one fast AF PC
+to put together and then run some Battle Royale through it so let's get on
+[Music] [Applause]
+[Music] [Music] [Music] [Music] [Music] [Music]
+and now we're at the finished product and there is a few things to do before
+we boot into call of duty modern warfare and that has to do mainly with the
+memory right here and getting that to its XMP profiles this is going to give
+you a big performance uplift on rising systems so in order to do this when you
+start your computer you just hit the Dell or f2 key and then in the BIOS
+there should be the option to load XMP profile we just hit enter put this in
+and then we go to save and exit changes now with the CPU I tried overclocking it
+a little bit but I found since we're using the included cooler I tried to get
+this up to 3.8 gigahertz all core and the problem is is that it started
+overheating on the cooler now the good thing about this CPU out of the box is
+it runs 3.5 gigahertz all-cause that it also boosts up to 3.7 gigahertz or at
+least that's what I'm seeing here in my tests so basically the only thing you
+need to do to get this running really smooth out of the box is load those XMP
+profiles and of course have an RGB remote if you change this to red you
+should also get some more performance as well so the last thing before we jump
+into the games is since we're using a brand-new motherboard we're getting that
+annoying windows needs activation message in the bottom right hand corner
+so the easiest way to get rid of this is to use today's video sponsor in the
+description below by clicking that link you can get a Windows 10 Pro license for
+as little as $15 when you use the coupon code TYC sk on check out it's easy to do
+grab that code whack it in click activate and you're good to go
+[Music] [Applause]
+[Music] [Applause]
+[Music] [Applause]
+[Music] and playing war zone ended up being a
+mix of absolutely love it and then on the other side absolutely frustrating to
+get this game to work properly I've never seen so many errors upon
+installing a new game in my life and so what I did was I kept getting these dev
+errors and then I had to go in open his administrator in the settings apply it
+to both the exe files in the folder but then after that it's sort of half worked
+and it kept dropping out and giving me errors and then after that I decided to
+update my BIOS and finally it started working at least like probably two in
+every three games would work properly sometimes I'd still drop out and in fact
+there was this weird thing where my graphics card didn't even not even
+overclocked my graphics card was fine the temperatures will find everything
+was fine it would just start displaying weird textures so that when they say
+this game is still in beta they really mean it's still in beta so if you come
+into any problems you're most likely just going to have to wait for an update
+for the game itself to update or update the drivers so I did also on top of that
+reinstall my drivers completely after I did the BIOS update so things seem to be
+working okay but after finally working out all the problems and getting into
+the game they've really done something different with this battle royale I
+absolutely loved it and it's like a squad mode where you've got two other
+teammates and you can res each other but even if you drop off you can then have a
+chance to get back into the game so the mechanics of the game automatically in
+that feat are really good the circle also closes in a bit faster I believe
+than other games so it does get to conclusion time a lot faster which I
+personally enjoy and then they've got all the loadouts and mechanics of the
+game which I am really digging so far I think it's a lot better in the mechanics
+of the game than the previous Call of Duty Battle Royale that they released
+this one feels really polished besides all the problems so hopefully they can
+iron that out in the next couple of weeks and they're gonna have a really
+popular battle royale on their hands I think over 6 million people have
+downloaded this game already in the first 24 hours so it is very popular
+of being a whopping 175 gigabyte download absolutely huge I'd like to say
+that maybe just make a condensed version for the Battle Royale because if I'm
+benchmarking this thing and I've got to redownload the game every single time on
+different computers that 175 gigabyte limit on my straight internet is going
+to get tiring very quickly now let's talk about fps and this game if you
+can't get anything to work and it only works in safe mode for now that might be
+an option you have to go with so initially we're getting around 160
+average FPS 17.1% loads we're really smooth but keep in mind in this mode
+you'll be limited to 720p and you can't change any of the graphics settings but
+when you reboot the game if you want to go into 1080p and do a mix of settings
+which I'll show you guys on the screen what settings I'm using you can get some
+really smooth fps and pretty much no dips but also still a good visual
+experience I like to leave textures and some other settings on high but then
+turn down volumetric lighting and stuff that can cause stuttering and things
+that really aren't going to help you spot the enemy I will say one thing
+about safe mode I had some problems seeing people from afar especially since
+it was at 720p low settings it was very blurry but when we stepped up to 1080p
+on a blend of high settings and things turned off we were getting a hundred and
+forty average FPS on this setup with our ddr4 XMP profiles at 3200 megahertz and
+the gtx 1070 that we had here we decided to leave this on stock and not overclock
+it because i was having issues with the game even though i can overclock this
+card and get an extra 10 percent performance out of it i decided to leave
+it off and even use shadowplay while i was doing these benchmarks so if you
+have shadow play off and you turn on the overclocked you'll get over that 144
+average sweet spot with these settings which will make it a great combination
+for playing competitively and still getting a good visual experience in
+terms of the Rison v 1600 AF that cpu is incredible value for money at $85 the
+included cooler does a really good job out of the box where in games we're
+seeing around 3.6 gigahertz all cause without overclocking but as we said
+before overclocking the CPU was a bit difficult on this included cooler it's
+about 26 where I live and so it does get a bit
+hot but if you're in a cooler climate you may wish to experiment trying to get
+a bit more out of this CPU which you can definitely do and with all that out of
+the way if you guys are after a gaming PC for a little over 500 bucks then this
+combination right here is one to think about well we've even got the bling
+thrown in to match the whole build so we've got aesthetics we got performance
+and we've also got a pretty good budget I'll leave some links in the description
+below but with that aside do let us know in the comment section below where you
+think of call of duty war zone and also what you think of this gaming PC love
+reading your thoughts and opinions as always and speaking of it being hot
+we've got the question of the day which comes from stuntman Ford and they say I
+don't want to be rude I love your content and you're awesome but I've
+always wondered why it looks like you're sweating in your videos sorry if that's
+rude Lowell is it that hot there do you not have air-conditioning and so in some
+of my videos I'm going to be honest I do sweat in some of my videos it does get
+pretty hot where I'm at in Queensland especially us going through the summer
+where the rest of the world is pretty much going through the winter if it gets
+that hot I do turn on my air con but most of the time even in like 28 degrees
+up to about 30 degrees I do leave my aircon off just because I don't believe
+in wasting power just like with you guys watch the used builds I don't believe in
+wasting used components too so hope that answers that question for you if you
+guys enjoyed this video then be sure to hit that like button for us and if you
+say this fart and you're enjoying that content then you know what to do and
+I'll catch it in another tech video very soon
+please out for now bye [Music] 

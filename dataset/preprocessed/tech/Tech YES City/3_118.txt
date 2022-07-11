@@ -1,0 +1,126 @@
+So Ii decided to do today's review of the rx 
+6600 XT a little bit later than the launch date,   and the reason i did that was because i wanted 
+to see the street pricing of these cards where   AMD told me that they were going to come in 
+from 379 usd or if you're in australia from $589   aussie dollars but upon speaking to some people 
+who are getting these products in the shelves   they're telling me in australia you can expect 
+this thing to come in at around about 750 aussie   dollars and then if you're in the united states 
+i'm guessing that you're probably going to expect   to pay around $500 usd plus and there's a few 
+reasons for this as well so let's get all those   gaming benchmark numbers out of the way and then 
+talk about everything that the 6600xt is and isn't so those gaming benchmark numbers aside it's 
+going to be very hard to get excited about   the 6600 xt where the performance falls pretty 
+much similar to that of an rtx 3060 or a 5700 xt   but of course as you go up to 4k the 
+performance does scale off a little   bit and that's because they're using a 128 
+bit memory bus on this graphics card even   though you get 8 gigabytes of vram it does 
+start to scale off at higher resolutions so   i wouldn't particularly recommend this card for 4k 
+gaming but that being said at 1080p and also 1440p   it does give out an okay experience considering 
+you could get it for 379 usd or in australia 589   because this is where the biggest problem comes 
+in and that of course is the mining profitability   where even though the ethereum 
+mining profitability dropped   per the absolute value was hoping the value of 
+ethereum as a gamer would have stayed the same   or come down coupled with the profitability that 
+would have really helped out the graphics card   prices for gamers but unfortunately the mining 
+profitability dropped but the price of ethereum   went up right around this time and so that's 
+pretty much left that profitability for everyday   24-hour earnings for miners still pretty much the 
+same and so what this means with a card like the   6600 xt at least from the calculations i did hear 
+even after you're paying 10 cents a kilowatt hour   it's still going to earn a minor 2.50 a day usd 
+and those 32 mega hashes especially if you're   going to undervolt the card just means that the 
+card is pretty much going to have a price floor   when it comes from what miners are prepared to pay 
+versus what gamers are prepared to pay and we've   seen this with the rtx 3060 ti for example with 
+the low hash rate models that have been released   on the market versus the normal models which are 
+selling for higher prices so what this means is   that the miners are always going to be there and 
+they're willing to pay a certain price floor which   i believe is well above that of the gamers which 
+are already angry that this card is costing 379   usd or in australia 589 aussie dollars even though 
+i feel like if these cards hit the market at that   price the miners will soon buy them up with the 
+current profitability levels but continuing on   that note of pricing there's obviously going 
+to be a lot of people scratching their head   at the 5600 xt which was a sub 300 card versus 
+the sub 400 card the 6600 xt where the price   performance of these cards is pretty much going 
+to level out which is very bizarre considering   this is a generational improvement going to rdna 
+2 from the original rdna and the scariest thing   about this is ever since i've been looking at 
+graphics cards as an enthusiast i've never seen   a trend like this in the graphics card industry 
+in that every time we've had a new generational   improvement the price performance has improved 
+from the previous generation and it's not like a   refresh for example we had the 600 series to the 
+700 series from nvidia back in the gtx days and   then amd they had the rx 470 going to the rx 570 
+pricing remained relatively the same even though   you've got a little bit more performance out of 
+the cards so technically even on refresh series   you got better value for money so then what gives 
+why are these cards coming out with higher prices   and people think well it's just amd and nvidia 
+being greedy they can simply charge those prices   and it's actually got to do with another 
+factor a big factor which we'll go into   in this review we y as well and that is inflation 
+and i've been talking about this in the last six   months on the channel recently in the fomc minutes 
+conversations from the federal reserve themselves   they've said that inflation is going to be 
+essentially permanently transitory and that   if you had a 25 increase in tech prices they're 
+going to remain at a 25 increase forever and then   inflation after that is going to be a lot lower 
+than that initial surge of inflation which quite   simply means that if you had a dollar in 2019 it's 
+probably in the tech scene lost about 25 percent   of its purchasing power unfortunately so in 2019 
+if you had a dollar then you would need a dollar   and 25 in 2021 to get the same amount of tech that 
+you got back in 2019 if that makes any sense but   unfortunately here is where the worst part of all 
+the pricing comes in and that is since 2019 to   2021 i would guess that most industries and most 
+people especially working class people on average   are not earning 25 percent more money than they 
+were in 2019 and so essentially what we have is   a lot of average gamers being priced out of the 
+market due to inflation and then to compound   on that problem the cryptocurrency miners are 
+adding to the price because they are creating   artificially more demand for gaming graphics cards 
+so at the moment the gamers are at their worst   point in history for especially buying a pc gaming 
+graphics card so my advice in the last few months   has just been simply to wait it out especially 
+when these cards are coming well above their msrps   so hopefully after all that information you 
+guys are still with me and we're going to talk   about the red devil card itself i'll put up the 
+weight and also the dimensions of the card up on   the screen for you but one thing about this card 
+was itself if you're looking to get one of these   cards if they come back closer to that msrp is 
+that the red devil model i was very impressed   with what this had to offer not only was the 
+noise and temperatures really well controlled   i was also really impressed with the aesthetic 
+of the card i quite simply thought the way that   they've implemented the leds on the back plate 
+the side and also the front plate as well as the   lighting up of all the input output ports if you 
+guys are into building a bling pc which let's face   it a lot of people are this card is going to look 
+phenomenal especially if you decide to vertically   mount it in your build though the red devil card 
+has two modes and that is a silent and also a bias   oc mode i left it on the bios oc mode because 
+the silent mode wasn't even necessary out of   the box we're talking about these fan speeds and 
+temperatures out of the box this car went up to 40   fan speeds which was whisper quiet and also did 
+a very good job of keeping temperatures extremely   low and then going up to 60 percent does increase 
+the noise but does drop the temperatures more   i would suggest this if you want to overclock the 
+card a little bit more than that of the default   spec the 80 and 100 fan speeds i wouldn't 
+recommend these as the fan noises got simply   ridiculously loud and the diminishing returns 
+of noise versus temperatures increased heavily   when we did this but speaking of overclocks 
+i simply wouldn't bother if you were getting   this card to overclock it and in fact i would 
+recommend the opposite where in my opinion this   was easily the most impressive part about the 6600 
+xt where i might do a low power consumption build   for you guys here on the channel where when 
+i undervolted this card roughly 100 millivolt   as well as drop the clock speeds down to just 
+over that of 2000 megahertz as well as upping   the vram speeds i got performance in the shadow 
+of the tomb raider 4k benchmark very similar to   that of the default settings however the wattage 
+went from roughly 140 watts down to under 80 watts   so quite simply seeing the wattage numbers for 
+the fps you're getting this card right here is   got the best power efficiency that i've seen from 
+any gravis card coming through the studio to date   at least in terms of raw rasterization performance 
+though on the flip side if you're looking to get   this card for ray tracing then i wouldn't bother 
+at this point in time i thought the ray tracing   performance just isn't there for the rx 6000 
+series in general the 6600 xt being no different   now the last thing on overclocking and under 
+vaulting was the power limits out of the box and   i don't know if this is limited to the red devil 
+xt or if it's a thing that's going to affect all   6600 xt's but the power limit out of the default 
+settings did cause some very rare stuttering   on games and i alleviated this and this is not 
+introduced in today's numbers where i manually   upped the power limit in the radeon software so 
+this is a problem across all 6600 xts then you   may see either a v bios update or a driver update 
+implemented to alleviate this problem and then   the last point to talk about with this card is 
+the inputs and outputs where you get a hdmi 2.1   as well as three display port outs and having a 
+metal back plate and front plate really makes this   card feel like a high quality item where i feel 
+like power color are doing a very impressive job   with the 6600 xt in the way they've implemented 
+it so now it's time to conclude the rx 6600 xt   review for you guys and who is this card going 
+to be for well at its current street pricing   it's not going to be for many gamers let's put it 
+that way because as we said earlier in this review   the crypto miners are going to soak these cards 
+up with a price floor that i feel is going to be   higher than that of msrp and so that's the first 
+problem and as long as this problem exists then   miners are simply going to be taking away cards 
+that gamers would otherwise purchase and put in   a gaming pc and that's why the whole industry 
+especially in the new part of the segment just   sucks to be in right now because of this crypto 
+problem and demand from miners and at least when   it comes to inflation as well we won't know the 
+true effect of that until the crypto demand goes   away and we can get back to some sort of normalcy 
+with graphics cards so until then the gamers are   essentially getting worse value on these gravis 
+cards at least at their street pricing and then   only once we get back to that phase can i give 
+you an accurate recommendation of if 379 usd is   a good deal or not in 2021 but hey that's why i'm 
+hoping the crypto rug pool comes sooner than later   and if you guys enjoyed today's review 
+then be sure to hit that like button for us   also let us know in the comments section below 
+what you think of the 6600 xt launch i just think   it's another lackluster gpu launch in 2021 due to 
+the crypto miners pretty much raising the prices   on the street pricing that's out there in the 
+market though i love reading your thoughts and   opinions as always just like this question of the 
+day here which comes from graphics card and they   ask can you do a video on installing this os on 
+unsupported hardware and they talk about windows   11 where we did an optimization guide yesterday 
+but we've also already installed windows 11 on   unsupported hardware and the way you do it is 
+you get a windows 10 usb install and then you   put the windows 11. esd file on there or the wim 
+file and then you can get around that i've also   done a video on that i'll put the link up here 
+for you but with that aside i'm going to get on   out of here and if you've enjoyed this tech yes 
+content you want to see at the moment it drops   then be sure to hit that sub button ring 
+that bell and also give us a like if you can   appreciate it very much and i'll catch 
+you in the next one peace out for now bye you 

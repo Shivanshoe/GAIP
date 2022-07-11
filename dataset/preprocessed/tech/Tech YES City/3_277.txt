@@ -1,0 +1,192 @@
+a couple of months ago here at tech yes
+city we said that new parts would be coming down in
+price and fast forward to this very date and
+that is exactly what is happening where we're going to
+be putting together a pc that comes in at around 600 us dollars shipped to your
+door and there is even better news if you're
+down under in australia and that is this whole build that i put
+together here is 819 aussie dollars with tax included and if
+we change that to the u.s pricing that's actually cheaper than
+what the folks over in the usa can build this pc
+for which means that you're getting extraordinarily good value
+right now if you decide to build a new pc
+however let's take a quick look at these parts in today's build the first of
+which is the ryzen 3 3100 this is a four core eight threaded
+cpu coming in with a phenomenally good price
+tag considering it also has an included cooler so you don't
+have to go out and spend any extra money on an
+aftermarket solution then we've got the graphics card we've
+got the gtx 1660 super which can be had for around 220 us
+dollars in australia it's a really good price at
+around 320 aussie dollars if you're looking for a little bit more
+gaming performance and you have a little bit of extra money
+the 5600 xt is also a really good consideration at the moment then for the
+motherboard we've got an a320 phenomenal price performance
+coupled with this four core eight threaded cpu here and it's got all the
+bells and whistles that we're going to need on this budget
+without spending more then for the ssd 480 gigabytes for the
+memory 16 gigabytes 2x8 sticks for dual channel
+with 3200 megahertz cl 16. this is a real sweet spot at this
+price point for getting the best price performance possible then for the
+power supply we're going with a 405 watt solution don't be worried if
+there's higher power supplies out there that cost more
+for this budget this is more than we need considering this whole build in
+total while it's maxed out in games we'll only
+be using around 200 watts then our last component is the case
+we're going with a budget solution here from deepcool this is their matrix
+30 solution fan in the back to exhaust all that hot air
+it's the most important system fan you can have in a
+case and we've also got a clear side panel to see
+our build once it's completed i'll put the tally up here for the build in us
+and aussie dollars for you guys and with that aside if you do need a windows 10
+pro key i'll also put my sponsor scd keys
+in the description below for you guys where you can use the coupon code
+tyc and get an 18 discount on check out i've been using these personally for a
+long time here at tech yes city and they've always delivered on time
+with single and user licenses and with that aside let's put this thing
+together and then see how it performs in games
+[Music] thank you [Music] [Music] [Music] [Applause]
+[Music] so [Music] [Music]
+so after building this gaming pc there's two things that i usually do on a
+ryzen system and that is the first thing to install the amd
+chipset drivers which you just download from their website directly
+and then after that i like to lock in the ryzen high performance
+plan just to make sure i'm getting the most fps possible while
+gaming and then another thing is is when i restart my computer after installing
+everything making sure everything's stable i then
+hit delete or f2 key to get into the bios and just enable
+those xmp profiles which will help you give a lot
+more fps because your memory speeds are now
+running a lot higher than they would out of the box and essentially that's
+those advertised xmp profiles so with that aside let's jump
+into the first game here where we'll play modern warfare
+and see what kind of fps we can get here at 1080p
+high settings so straight away into modern warfare and this pc
+is playing this game extremely smooth and the fps is averaging around 100 at
+pretty much all times on these high settings now the
+temperatures are getting a little bit hot and that's
+usually on budget cases you're going to find
+airflow can be a little bit limited but what we're going to do right now
+because essentially the temperatures are getting the gpu up around 80 degrees the
+cpu at 70 is absolutely fine but the gpu running 80 degrees at all times
+especially in the 25 degree ambience that we're in at the moment
+is a little bit uncomfortable so what we're going to do is just take off this
+glass side panel and then check out what our temperatures
+are before and after and then we'll move on to the other two [Music]
+games [Music]
+and here we are playing strange brigade and this gaming pc is just
+smoking that fps we're getting over 150 average fps here at high settings at
+1080p which means if you had a 144hz monitor
+you would be getting a very good experience
+on this resolution and this settings the gpu and also the cpu are running a lot
+cooler now that we've taken the side glass panel off
+and we're just letting the computer breathe and this is a really good thing
+if you're on a budget i do recommend doing this on budget cases it's going to
+save you a lot of money but it's also going to save your gear
+in the long term from running at high attempts
+so overall strange brigade with the 1 and 0.1
+lows too is just an absolutely smooth and very playable and enjoyable
+experience [Music]
+and next up here we've got doom on high settings and we're just benchmarking
+this now and the fps is going to around again that magical spot of about 140
+which just like the strange brigade shows that this little combo here
+is perfect for 1080p 144 hertz gaming now
+if you're worried about a four core eight threaded cpu
+in 2020 don't be especially at this budget
+where we've got the gpu pretty much at all times
+being near a hundred percent which really is a good thing
+and it means you're getting a lot of value for money
+out of the ryzen 3 3 100. and so we've just finished up this little benchmark
+right here and it's showing that the one percent and 0.1
+lows which is an indicator if it gets really
+low that's an indicator of stuttering but since this is 80 and 107
+respectively it's showing that this is going to give
+out an extremely smooth gaming experience and now closing up
+today's video with this new gaming pc right here i am
+shocked at the value for money you can get
+in this price category the ryzen 3 3100 is a beautiful little cpu and it's great
+coupled with a 1660 super and these games at 1080p high settings
+they had no problems no stuttering whatsoever and another
+really good thing about a build like this
+is that from the wall the total power system consumption
+was only around 230 watts while we're playing call of duty war zone
+which is intensive on not just the graphics card but also the cpu as well
+and we saw in some of those benchmarks this was scoring the highest
+temperatures on the cpu side so that just shows that if it's using up
+230 watts your power supply here even a 400 or 450
+watt power supply is going to be absolutely fine for this
+combo granted it's from a company that regularly makes power
+supplies and has a reputation for making decent power supplies i don't recommend
+going out and buying from a brand name that you've never heard of before
+and no one's been using these power supplies because you may come into some
+troubles and i've used power supplies in the past that have said
+700 watts on them and then you even put something as simple as a 1650 on that
+with a ryzen cpu or an i7 and the thing just goes toast
+so don't go out and buy a no-name brand power supply
+but that aside the case itself if i was to change something
+i would if i had a bit of extra money i would definitely get a case with better
+airflow where i would recommend if you got a
+budget case like this just leaving the side panel off it's
+something that i've recommended for years
+if you're on a budget just leave that side panel off and you'll be tasting
+much better temperatures or at least your computer components
+will be tasting those better temps and that leads to as we said before
+just better longevity on all your computer components in
+general though another thing i'm going to talk about is the size of the games
+this has to be addressed because we put in a 480 gigabyte ssd here today
+and that's a really nice size for an ssd but if you
+are playing a lot of different games especially if you're playing call of
+duty and you're going to be playing a lot of
+other games that are coming with big download sizes
+you may wish to invest in something like an eight terabyte hard drive
+with a long warranty and just use that over the years to store
+all your games on and then change that if you upgrade your computer in the
+future you can just take that drive with you
+and keep something like a 480 gigabyte ssd
+or a one terabyte nvme as your main windows boot drive and then leave your
+backup drive with all your games on it the last thing to address is people are
+going to say you should get a b450 instead of an a320 with the ryzen 3 3100
+it's not going to make too much of a difference
+unless of course you want to overclock and you want to upgrade your cpu in the
+future but me delving into gaming pcs a lot
+here on the channel i'm a big believer in just building the pc
+once and then after you've played it for a few years you pretty much re-flip it
+on the used market where that's another thing we'll quickly
+address and that is the prices of new parts are so good right now
+it's actually better in my opinion to be building a new pc where
+i got all these pc parts just from my local retailer which was about
+15 minute drive from where i live and there was no hassles of finding any
+deals on the used market where i feel at the moment they use deals although
+they are there and they do come up they just get snagged up
+straight away when they're actually a pretty good deal on the used market so
+on the flip side of things the availability of the new parts
+is definitely there and it's definitely time if you're thinking about buying a
+gaming pc and you want some of the best price
+performance then the pc we built here in today's video
+is definitely going to give you that and with that aside i hope you guys enjoyed
+today's video if you did then be sure to hit that like
+button for us also let us know in the comment section below
+what do you think of today's build love reading your thoughts and opinions as
+always just like this question of the day here
+which comes from shoops and they ask i just updated my graphics drivers and
+now my monitor has no signal can someone help me out and
+basically if your computer updates a graphics card
+driver and this monitor then says no signal as
+soon as it's updated the graphics card driver
+unfortunately that is usually a faulty graphics card
+and as much as i don't like to be the bearer of bad news that usually isn't a
+good sign however there is another possibility and that is
+that the graphs card you bought if you especially if you got on the used
+market it could have a mining bios on it and if someone's essentially installed a
+patch with that previous driver and then
+you've gone and installed a new graphics card driver
+that can cause that issue too but usually that doesn't cause your display
+to go black and actually if you go to device manager
+it will just show an exclamation mark next to that graphics card itself hope
+that answers that question and with that aside i'll catch you guys
+in another tech video very soon and also if you're keen to build something like
+this then i'll put some links in the
+description below for you as well as a great monitor
+to pair with this pc right here and i'll see you next time
+peace out for now bye [Music]
+yes 

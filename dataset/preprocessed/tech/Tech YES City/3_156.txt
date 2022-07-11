@@ -1,0 +1,260 @@
+oh what is tech yes citizens today we are going 
+to go through the tacky studio in 2021 and have   a look at what's changed since the last time i 
+did a studio tour now the biggest thing is i'm   still at the same location but i've added a lot of 
+rgb into the mix now there's a big question that   i've been getting asked about oleds and it's like 
+well brian after using oleds as your main drivers   do you have problems is the burn in an issue so 
+we'll get straight on into that because this is   the biggest change in my entire studio is that 
+i went from this main setup here and this is now   still like a main setup we'll talk about that a 
+little bit later for this here being my main setup   where i'm using two 55-inch oleds and they're 
+both 4k one being the b7 which is from 2017   and this one here being the cx now i'm going to 
+say in terms of oleds they are absolutely amazing   in terms of viewing angles colors and especially 
+this one here 4k 120 hertz but there is one big   problem that i'm having with the oleds and that 
+is that they're too addictive and this is like   i'm you might be sitting there laughing and but 
+this is serious like i i sit on these things and   i just get lost in playing games like starcraft 2 
+which is from like 2009 i just enjoy playing games   on the oleds too much to the point where i 
+was thinking i'm just going back to like 4k   60 hertz monitors with matte coatings on them 
+and 32 inch because i think they would be better   for me in terms of just not getting distracted 
+so much because if you guys didn't know one   of my problems is that i can get addicted to pc 
+gaming and it's one of those things where it's not   healthy like i don't think it's a healthy thing 
+but anyway let's continue on with the studio tour   and i will say today's video is sponsored by busy 
+future where they did send out some really cool   things and i thought like some of the things 
+i don't like and we'll be talking about some   of the things which i think are not for me but 
+but some of the things like this here this mouse   bungie from moto speed is absolutely amazing it's 
+a little mouse bungee but also has a four port usb   hub and a bit of rgb bling i think this thing 
+right here you guys will love a gadget like this   if you want to get a cool mouse bungee but let's 
+go through the rest of the setup here ultra light   2 for my main editing setup and then we've 
+got here a deteriorated heavily deteriorated   microsoft ergonomic keyboard that i absolutely 
+love because of the shape and people will say   brian why don't you get and use the mechanical 
+keyboards they're so much better and i'm gonna   my argument against that will be we all use the 
+mice for the shape and shape is a huge thing   with gaming mice then the same could be said for 
+keyboards for me the shape of the ergonomics is   absolutely phenomenal and i want to see what 
+companies could do i think because the patent   has run out for the ergonomic i think a lot of 
+companies could make some really cool designs   just like this one here but with mechanical key 
+switches i'd be looking forward to that because   i absolutely love the shape of the microsoft 
+ergos the og ones back in the day this one has   been running i think for nearly 20 years now in 
+terms of production and i've also got another one   that i picked up on a deal and i got this for ten 
+dollars by the way and i got another one for 20   and they go very cheap on the market then we've 
+got a stream deck i use that for switching scenes   when i'm live streaming and then we've got the 
+elgato wave 3 which i absolutely love absolutely   phenomenal microphone in terms of ease of use but 
+also the quality of the voice work that i do for   you guys you guys always say you love seeing this 
+thing on live streams and we got the virtual oso i   use this for around the studio with the wireless 
+adapter for talking and working at the same time   very handy then we got back there that's an 
+upcoming video with we've got some laptop cpus   that we're going to be using with z3 70 and then 
+we've got here the main setup this is the main   rig that i'm using at the moment and you may be 
+wondering like what's going on here you've got   the uh this is what used to be darth jar jar i 
+made it work in terms of functionality so it is   a bit of a messy rig it's definitely not anywhere 
+near as good looking as the synthetic sewer build   that we put together but you maybe notice that 
+i'm using a 6800 xt and this is one big thing   for me because i wanted to try amd for years i 
+haven't i've been using nvidia cards on my main   workstations and i'm going to point out i'm not 
+going to sugarcoat anything i'm going to point out   the big differences at this point in time for me 
+personally and that is that the nvidia cards with   rtx studio they do work better in adobe premiere 
+pro which is the main video editing software i   used videos for you guys but the 6800xt also has 
+at least with the oleds here i've been seeing   some driver issues the most annoying one is when i 
+leave my computer i either idling i'll be watching   some youtube videos while i'm working and the 
+screens will automatically turn off or i'll just   turn them off manually what happens is it just 
+won't wake up and i have to like hard reset my pc   in order to get the signal out again so that's 
+the uh that's a driver issue i'm having with   the 6800 xt at this point in time it is a little 
+bit annoying but other than that has been solid   we've also got 64 gigabytes of ram and the 18 core 
+7980xe in this big base right here which does a   great job for 4k video editing and we've got more 
+rgb here we've got some grog and then we've also   got the colo lights these things are really cool 
+and that you can control them by your smartphone   if you want to you can also manually control them 
+from the back of the card and they make a really   good backdrop especially when i'm live streaming 
+or doing talking head videos from this setup   these things really make that backdrop come to 
+life then we've also got a yongnuo yn300 air 2.   we'll talk about that a little bit later when we 
+go through the camera gear and lighting and then   we've also got some more subtle rgb and a ring 
+light well this got the panasonic g7 this is a   japanese edition which you can't change over into 
+english i'll show you guys what i'm talking about   right here if we turn it on you can see there you 
+just got japanese in the system but i get around   that because i can read a little bit of japanese 
+and it's easy to navigate for me and then we've   got the key light and that provides the lighting 
+from when i'm live streaming and then we've got   two more uh key lights up there as well this one 
+being the air so it's a smaller more efficient   version then we've got over here one more key 
+light air to provide lighting if i'm using the   pc from this way or if i need a hair light for the 
+camera work now behind that is some rgb this is a   new addition to the tech studio which you guys 
+say is a really poppin in the background so for   this i used uh kolo lite rgb strips these are the 
+five meter versions they've also got a two meter   version and all up this will cost you if you want 
+to get a big backdrop like this with ambient rgb   lights i'm using in total 20 meters of rgb and you 
+can control that from your smartphone if you want   to i've also got a remote for it but basically 
+this has a big piece of acrylic and it's diffused   and that essentially allows the rgb light 
+to show up in the background like it does   and i really like this for when the it's dark 
+at night too and you need that ambient lighting   behind your monitor if you're using the setup 
+so that was a really cool addition that we did   in terms of also covering up holes from what 
+i was changing i used to have two monitors in   the backdrop here and i've changed that 
+over just now to a single ultra wide   which uh the monitor has automatically turned 
+itself off but here we've got the main synthetic   sewer now in terms of building something like 
+this right now especially with the rtx 3080s   they are ridiculously pricey and who knows when 
+these prices of these graphics cards will come   back to normal because at the moment it's looking 
+like we're either suffering two scenarios and   that is either inflation nation where the prices 
+will just grow into that new norm or we will see   a crash but either way something has to give 
+it's not going to be a smooth sailing line   like i've been saying here on the channel but in 
+the in the meantime i just at this point in time   i wouldn't recommend going out and building 
+an rtx 3080 system unless of course you've got   a huge amount of cash flow and you can afford that 
+but i mean this build right here i've been i was   saving up for a long time to build this thing and 
+i hooked up with designs by ifr corey and we built   this custom pc and it was absolutely amazing the 
+whole process and i think the finished look just   shows that corey's work is on another level where 
+we called it synthetic sewer but this is hooked up   now to the corsair k100 this keyboard is insane in 
+that the speed at which the keys actuate is pretty   much the best i did a review on this thing and it 
+was insane if you're gaming and you want a really   fast keyboard for that and then we've got here the 
+mz1 zeiss rail so one of my really good friends   one of my best friends on the gold coast here 
+zai i've known him for a while we met years ago   when we were both doing a collaboration together 
+on youtube and we just hit it off and we're really   good friends and since then he's been working with 
+extrafy to design his own mouse and this is what   the product is this is actually an engineering 
+sample he gifted to me and i was very grateful   i'm using this on the ultra wide gaming setup and 
+i absolutely love this mouse for fps so if you   want something to aim within your fingertip 
+gripper especially or you're a claw gripper or   you just have really small hands in your palm grip 
+then this mouse is going to be an absolute winner   i really love what he's done with this thing i 
+think it's awesome that a youtuber is designing a   mouse and you can get one of these if you want to 
+support zai i'll put the link in the description   below then we've got right here an rgb headset 
+which i gotta say these are extremely comfortable   one of the most comfortable pair of headsets i 
+have ever tried on the rgb on the sides i don't   know if that's going to be for you or not if you 
+love rgb then you're definitely going to love this   headset right here but surprisingly the sound 
+imaging on these was extremely good for a closed   back headphone and also the mic wasn't half bad 
+one thing i will say though is that they are a   little bit tinny on the tinny side but they've 
+also got heavy bass so if you like that v-shaped   eq profile then you'll definitely love these 
+but if you like me and you prefer more warmer   headphone then you might want to try something 
+like the l ones that's my personal favorites   then moving over here we've got the test bed setup 
+this is the intel side of things and then we've   got the amd side of things so for the intel side 
+we have the 11900k currently and this is hooked up   i'm testing out a z590 azus rog motherboard here 
+but the problem is right now i've been very slow   to do the z590 coverage even like having this 
+stuff for a few weeks here i i'm gonna be honest   with you guys i've been really jaded when it 
+comes to doing a lot of uh this newer stuff   and that of course has to relate to the graphics 
+cards where you can't really build a new pc right   now because you can't really get your hands on a 
+graphics card at a decent price so a lot of this   new stuff the reason to get it isn't really there 
+and so i've just been having a really tough time   personally seeing the point of reviewing a lot of 
+this newer stuff where i think the used stuff is   a lot more exciting in terms of some of the other 
+gadgets right here i just quickly whacked in some   xpg ram that i got off a deal just to test that 
+it was working and you can see here it does work   absolutely fine though i will say out of this 
+whole test setup right here one of my favorite   products to date and the easily the best cpu 
+cooler is the h115i rgb platinum this thing just   does an absolutely amazing job the 280 mil rad 
+the two 140mm fans so quiet and it remains so cool   this thing hasn't missed the beat then we've got 
+two random sticks of memory that i was testing out   to make sure they work and they do work absolutely 
+fine now we've got the k70 rgb special edition   keyboard with a custom wrist rest there i always 
+recommend people get a custom latex wrist rest   if they're serious about spending long time and 
+long hours on a keyboard then we've got the g102   just to match up that white aesthetic on this test 
+setup right here then we've got a 4k monitor using   for uh testing out both the intel and the amd test 
+system here which is x570 phantom gaming x at the   moment we've got the 5950x in this thing so when i 
+need to test out a gravis card from nvidia or amd   i can test it on both intel and amd and get you 
+guys reliable results we'll see if there's any   discrepancies between the two platforms then 
+we've got another corsair cooler right here   this is the capelex version but i will say that i 
+personally prefer the h115i rgb platinum i think   out of the box this thing is just the go-to for 
+epic cpu cooling then over here we've got the   dare you 10 keyless keyboard that busy future 
+sent over now this keyboard is honestly extremely   good so we're going to talk about the mouse pad 
+soon which i actually don't really like but this   keyboard right here is absolutely phenomenal the 
+build quality the color scheme they've also got   different color schemes with it and you've got 
+a magnetic cover which if you're using this for   traveling is going to save you a lot of hassle 
+if you want to clean the keyboard you just take   that off get rid of the dirt and then put it 
+back on and it's going to be very functional as   well in terms of its size and weight and you've 
+also got the option there to take out the usb   type c connector to carry this with ease and the 
+best thing is you've also got optional rgb which   you can then control from the keyboard itself 
+so very sturdy keyboard you've got the choice of   cherry mx blues browns and reds and i absolutely 
+love what this keyboard's bringing then we've got   this mouse pad here from moto speed hard surface 
+i'm not a big fan of hard surface mouse pads i do   prefer as you can see here around my studio i've 
+got the cloth cloth and then also cloth soft style   mouse pads but if you like a hard style mouse 
+pad and you like rgb on a mouse pad then this   is certainly going to be for you me personally 
+i think the rgb on a mouse pad is a little bit   annoying because you've got this extra cable 
+now to contend with and then over here we've got   another product from dare you this is a i don't 
+know what to say with this one it feels like a   zowie fk2 i believe so if you're into a hybrid uh 
+fingertip sort of palm grip uh sort of grip there   and you like low button height then this 
+mouse is definitely going to be great for fps   very good mouse very good shape and the build 
+quality on this thing is extremely good so if   you're looking for an alternative to an fk2 then 
+this mouse is definitely going to deliver and   then next up here we've got a 100 tripod this one 
+said it was heavy duty because the last one broke   hopefully this one does stand the test of time 
+but it's funny because i've still got this tripod   right here this was one that i bought from a junk 
+store in japan for 50 bucks and now apparently   some of my friends are telling me like brian 
+how did you snap this thing up apparently these   things are going for like in excess of 200 but i'm 
+starting to see why because they were just so well   built back in the day this thing has stood the 
+test of time i've had it around the studio since i   did that parts hunt back in japan a long time 
+ago but speaking of camera gear and production   stuff i've got two of these in recently they are 
+the godox sl60 watts and these things are just   like they're bright they're really bright 
+you've got all the way from 10 to 100 percent   and they're soft boxes even though i've got 
+one of them that's not on softbox at the moment   that's just providing like a pin light and these 
+things like for what they are they're really good   value they're not too loud they've got a little 
+fan in them because they're a 60 watt led but   they provide so much lighting if you're in a home 
+studio i think some people are saying like you   should get the 150 watt i mean if you're filming 
+outdoors definitely the 150 li what is going to be   beneficial fighting against sunlight but in terms 
+of inside a studio the 60 watts are absolutely   perfect you don't need to get anything more you 
+can save yourself a lot of money by just going   with the 60 watts and they're going to be a little 
+bit lighter so you won't have to buy as expensive   as a beam there to support it anyhow we got the 
+desk here i added in rgb lighting to this desk   and that's been really good actually because it's 
+got a little lip here that comes out of the desk   so whenever i'm building pcs and we've got two 
+builds in progress at the moment uh whenever   i'm building pcs and screws get to the edge they 
+don't fall off the table so that's one really good   benefit of this rgb lighting plus it provides a 
+good sort of extra element for when i'm shooting   photos of the builds before i flip them and so 
+that's a new addition we've also got this 360   hertz monitor here which azus sent in and i use 
+it all the time for testing it's really good for   testing our system input latency and doing other 
+tests because it has an inbuilt latency module   inside but this monitor right here being 360hz 
+it isn't cheap by any means though speaking of   cheap this led lighting here it was pretty cheap 
+to add in i think i spent 80 dollars in total   getting this done with a five meter strip and 
+then my friend came around with his tools and we   got the desk here because i was lucky because this 
+desk was really thick were able to dig into it and   then that was able to put the led lights in and 
+it worked out perfectly though other tools new to   the tech air studio if you're into fitness one of 
+these things here i got this for 30 aussie dollars   i absolutely love this thing it's like one of 
+those sit up support things and when i first saw   this thing i thought it was a gimmick but then i 
+tried and i was like damn that really really gets   the abs working so can really recommend one of 
+these as opposed to a lot of that other stuff you   see on fitness channels and stuff it's a lot of 
+it's gimmicky but then we've got the weights there   for just sometimes i do a bit of it i haven't 
+been doing weight training as much as i'd like to   i will get back into that soon then we've got 
+the new setups here where i got this desk on   sale on the used market for 30 dollars and it's a 
+clear sort of glossy desk it was pretty much like   brand new and i've been using this set here 
+for b-roll where i got these from the local   hardware store they were just some floor tiles 
+and i was like well they're gonna look pretty   cool as a backdrop so decided to make this a new 
+little set for filming uh smaller products not   so much builds but individual products like you 
+see here and all up this costs like i think 50 60   so for the backdrop and for the little table 
+but i also decided to add in a little light   here which i got for 10 bucks from ikea and that 
+sort of just adds a little bit of spice to this   whole set right here then we've got another 
+set which i put together but i found myself   using this one more for selling pcs where we 
+got these 3d tiles in the backdrop and then   you'll notice i've got some rgb bling right here 
+these are the yong nuos and they're a little bit   expensive and you do have to get your own 
+adapters for them and so i've i had to go   buy the adapter separately and then the light but 
+they do provide so much lighting in terms of rgb   and you can use them as normal lights too i think 
+if you're starting out in the world of film these   yn300 airs are definitely going to be a really 
+good investment i've actually got two of them   right now which gives you a nice look if you're 
+getting the set all set up for whatever you're   filming in this case it's a used banger that 
+we're gonna be putting up on good old gametree   anyway sitting down now summing up the studio tour 
+i've also got some cool little tips and that is if   you want some cool coasters you for your drinks 
+then you can pull them out of broken hard drives   this right here is a one terabyte platter and 
+i also managed to pull out some really strong   magnets out of those hard drives as well anyhow 
+guys with the studio right now i'm sort of at that   point where i don't know if i should change back 
+to 4k 60 hertz monitors or keep going on the oled   because i do want to get more productive and stop 
+being sidetracked for gaming i think that's the   main conflict i've been having with myself lately 
+and i've been learning to get over that because   in december halfway through december cyberpunk 
+came through and i binged through that then i   started playing starcraft 2 and dota 2. and that 
+was just it's i still play some starcraft 2 and   it's so enjoyable on the oleds to the point where 
+i've got to cap my addiction and sort of like the   oled feeds that so i don't know if you guys had 
+have had similar problems where you get addicted   to video games but it's one sort of achilles 
+heel that i know is up with myself and i don't   mind talking about it publicly and i just want to 
+get back onto being you guys want me to get back   to being as well going hitting up the gym more and 
+being buffier city and going out and getting more   deals that's the verdict that a lot of people are 
+telling me so i'll get back to that in the next   couple of months and in the meantime i may 
+change out those oleds for as i said for the   more boring monitors i think that's a big sort of 
+personal goal of mine but i mean that in ways is   a testament to how good the oleds are it's just 
+an unexpected thing that's come out of it in the   last few months for me personally but speaking 
+of everything else around the studio here it's   mainly like lighting rgb and cool little gadgets 
+that i've added into the studio since the last   time and with that aside if you guys want to know 
+anything more about the tech yes studio and stuff   that we use here behind the scenes but be sure 
+to drop a comment in the comment section below   i'll put all the stuff and prices that i can find 
+for all this stuff in the description below as   well so if you want to check out some of the cool 
+things that we featured here today and if it's   a decent price then i'll drop it below if it's a 
+rip-off i'll just leave it out of the description   but other than that uh we got the question of the 
+day here which comes from it's actually a really   good one it comes from joe mars and they said 
+how is jensen still not fired and they're talking   about the video we recently did with the uh 360 
+ti's being sold for ridiculous amounts of money   the fact that individuals were able to get so many 
+of these cards and in terms of jensen being fired   he's not going to be fired anytime soon i mean he 
+would have to resign himself if he was to leave   nvidia because over the track record of nvidia he 
+has grown the sales he's grown the company which   is what mainly what shareholders care about they 
+care about if they're getting a return on their   investment from nvidia they don't really care 
+about the gamer well especially they don't care   about the gamer and whether they're getting 
+a graphics card or not but in the long term   they actually should care about gamers because 
+that is their long-term loyal customer base   and so i think jensen could take a look around 
+and implement those mining limiters sooner if   he wants to take care of that loyal base even 
+though he's not going to get as good of a profit   as he would in the short term i think in the long 
+term it would do better for him to consider that   especially if say for instance intel comes along 
+and they start making gaming gravis cards and   they put in just anti-mining algorithms that lock 
+miners out then they could build loyalty towards   their brand and take it away from nvidia same 
+with amd so i guess that's one thing to consider   for uh jensen and nvidia is that they do want to 
+definitely take care of those gamers in the long   term but in terms of the short term yes the gaming 
+graphics cards have been going to a lot of miners   and that's been causing a lot of disruption in 
+the industry but in terms of gen site i don't   think he's going to get fired anytime soon he was 
+i think like last year rated the number one ceo of   the world anyhow hope that answers that question 
+and if you guys have stayed this far and you're   enjoying that tech yes content be sure to hit 
+that like button for us and also smash that sub   ring that bell and i'll catch you in another 
+tech video very soon peace out for now bye you 

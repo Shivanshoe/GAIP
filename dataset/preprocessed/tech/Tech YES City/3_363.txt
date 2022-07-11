@@ -1,0 +1,165 @@
+(upbeat keyboard music) - [Narrator] This PC right
+here is a first for me, where I sold it over 18 months ago and the person essentially
+wants more performance. And so they wanted to trade it in for a higher end system I was selling. And I said "Sure thing." And when they brought
+it in, they said they were extremely happy with the system but, they just want more
+power. So today I'm going to be critiquing myself on my own build that I did over 18 months
+ago and also see what has changed in this time
+frame between selling a PC right now and
+selling one 18 months ago. And we can already see
+here that the fan has had bit of usage, it's pretty dirty. So first things first, we're gonna clean this system out and then
+check out the temperatures. If you are sick and tired
+of making passwords, only to forget them a few weeks later, then today's sponsor
+DashLane is for you. With the ability to store passwords
+on all different types of devices, laptops, smart
+phones, desktops and Macbooks. This will mean that you can jump onto a new PC, put your master password in and then from there you can
+auto-fill all different types of user name and passwords.
+Now hold on a second, you're probably thinking
+"Is DashLane even safe?" DashLane stores all your
+passwords and user names and encrypts them so if there ever was a breach in privacy, then your passwords are still not going anywhere. And of course I've saved
+the best 'til last. And that is, you can use
+DashLane completely free on your first device
+if you use the link in the description below and if you decide you wanna upgrade to
+a more premium option, then you can get 50
+percent off using the link and the coupon code in
+the description below. So I'll put them down
+for you, let's get back to the video. (upbeat electronic music) So the first thing we're
+doing here is cleaning out all the fan points with
+the DataVac and cleaning it quite heavily and
+the reason for that is, is that's where all the dust
+build up is mainly going to be. Now since this hasn't been
+cleaned out in over 18 months, we can see that some of the
+things like the fans here have dust just ingrained into
+the actual plastic itself and so I do recommend if
+you can, clean your PC out every say six months or
+less. That way the dust is gonna come off a lot
+easier as opposed to cleaning it every 18 months, like
+we're doing her where the dust has sort of ingrained
+itself into the pots. But now that we've done all the dusting, we can then just go with the final phase and that's a nice multi-purpose spray and clean all the ins and outs of this PC to give it that final touch. (electronic music) So we're now re-installing Windows after cleaning this thing up and making it all look fresh and like new. But one thing you'll notice here is the power supply has no
+labels on it whatsoever. And so if you do come into
+a power supply like this, you're probably wondering
+how can you tell if it's a decent power supply 'cause I don't know exactly what
+power supply this is. But since it's got thick
+gauging on the wires and it's got quite a few
+connectors, as we can see with the cable management
+at the back of the case, we know that this is at
+least a decent power supply. It's also got two
+eight-pin PCIE connectors so it'll power something
+like a GTX 1060 six gigabyte, which is exactly what this card is here. And an i7-3770 and 16 gigabytes
+of RAM absolutely fine. Now another we're doing too
+is checking for the fans and seeing if any of them
+make any weird noises. And it's a good thing to see that none of these fans make any bad noises. So if you've got a fan that's making a really weird noise, you may wish to put some multi-purpose spray on it, see if that can fix it.
+If not, just replace it. But another thing is too, from here on in we're gonna be testing out this thermal paste right here, the GD900. This stuff is really cheap.
+You can get it for like $5 for a massive tube of this stuff and I was recommending this hard and I still do recommend it a lot here on the channel. The one thing I'm curious to see is, since we used this here 18 months ago, what are the temperatures gonna be like, say with this thermal paste 18
+months later versus say a tube of freshly paste MX-4 on this CPU? Let's find out right now. (upbeat drum beat and electric guitar) So we've now finished
+testing the temperatures on both the GPU and the
+CPU. Now the GPU made the biggest difference where we saw that go from 80 degrees to 76 degrees and also go down with the auto fan
+speeds from 67 percent to 61 percent, so changing
+your GPU thermal paste will make quite a big
+difference even after 18 months of usage. But also with the GPU that was the stock thermal paste, since that was a new card that I put into that build if I remember correctly. But here's the really
+good news, and that is after stress testing
+the re-paste of MX-4 on the CPU, we got the same
+temperature, 78 degrees as the GD900 18 months later, which means that this Aliexpress Special, you're getting 30 grams of this stuff and you're getting it for $5
+shipped international. That's extremely good value
+for money for thermal paste. And comparing it against MX-4, I mean MX-4 I think, costs like $10
+for an eight gram tube, you're getting around four
+times more thermal paste for half the price. So you're
+getting like eight times the value out of GD900. And
+as we can see right here, it's held the test of time. Even though it's a non over-clocked CPU it's only drawing 50 watts of power. It's still dead impressive
+to keep delivering these temperatures exactly the same as brand new MX-4 18 months later. Now for the final test, just
+an interesting comparison, I'm gonna load up War Zone and test the 1066 gigabyte versus the GTX-970 which we featured in yesterday's
+video, I'll put the link up for that up here,
+and see what the FPS is on this particular game with a 1060 versus a 970. And since they're
+both using the i7-3770 and 16 gigabytes of RAM, it's an apples to apples comparison. (electronic music) And now we're finished
+up with all the testing on War Zone and I was
+surprised in this game, because the 1060 six
+gigabyte actually lost to the 970 and this was at normal settings. But the funny thing was,
+on the 970, I noticed that the V-RAM utilization,
+the memory usage in yesterday's video, that
+was about 500 megabytes lower. So in my opinion the picture
+did look slightly better on the 1060 than it did on
+the 970 and we got lower FPS as a consequence, even though we set in the menu settings the
+exact same settings as we did yesterday but we're
+getting 92 average FPS with similar one percent,
+point one percent lows versus the 97 on the GTX-970. So
+like I've been saying before, if you wanna go with a new
+videos graphic card and you just wanna play
+games and you can control the settings, then the GTX-970
+is definitely a good buy. Well we picked this up for
+150 Aussie dollars, where as opposed to, at the moment,
+a 1060 six gigabyte's going to cost like 250
+Aussie dollars, even though they're gonna get
+similar performance if you can control the
+settings. And that means don't go putting the
+textures and loading up the anti-aliasing 'cause
+that's gonna require a whole lot more of V-RAM
+than you actually have on the 970, where-in
+video kinda caps that with the drivers, at least
+from what I'm seeing here. Now another thing is too,
+with the GD900 we were only using 50 watts on
+a non over-clocked CPU, but since I'm guessing a
+lot of builders out there don't over-clock their
+systems when they sell them, this right here, the 30 gram
+tubes, are absolutely amazing. Though do stay tuned
+because I will be doing another high end comparison
+with something like a 2080 Ti that puts out a monstrous amount of heat versus any other pot here. And I will be testing that again with a thermal paste round-up
+conclusion, but this is probably the most
+happiest thing I've seen in a while was that this
+thermal paste right here, it came out of this video
+just performing so well for the money. Very good value for money. I'll put the link to this
+if you wanna get some in the description below but I'll also be ordering some more
+myself. So, I've been using this stuff heaps and heaps
+and I've still got like a third of the tube left, so
+definitely lasts a long time. The last thing to talk
+about here with the system is that on a GPU, even
+a 1060 is not using up a whole lot of power, say
+versus a 1080 Ti and this was only after 18 months
+of usage, so if you've got your graphics card and you've
+had it in your computer for a couple of years,
+you may wish to change your thermal paste over.
+Because as we saw with this stock paste out of the
+box, it did degrade over those 18 months. Even though
+it wasn't a huge amount, it was still four degrees
+and lower noise because we were getting six percent
+lower on the auto fan speeds. And now here's the final
+thing about this PC. I believe I sold this for
+around 1000 Aussie dollars about 18 months ago. And now
+it's came back 18 months later, the scary thing is, something
+like this 18 months later is still pretty much worth
+the same amount of money as when I sold it all that time ago. And the last thing I've learnt
+from this whole endeavor is that a gaming PC
+really sells because of the gaming graphics card
+as long as the CPU, in this case it's an i7 that's
+fairly old, is still able to support the maximum FPS a
+1060 six gigabyte can put out. So as long as the CPU
+is fine, you'll still get good money and that gaming PC is still very attractive in the market. But the scary thing about that, is in those last 18 months,
+we really haven't seen any advancements in
+GPUs, especially in terms of value for money and in
+fact in the last few months, we've seen value for money in
+GPUs go the opposite way due to a really high demand,
+due to a certain thing out there at the moment.
+So it's kinda really weird where in the last few years we've seen this bizarre see-saw effect
+between CPUs and GPUs, where a few years ago we
+weren't getting any enhancements in the CPU department.
+But then Rising came along and really pushed the CPU
+value for money sector through the roof, but at the same
+time the GPUs and their value for money just tapered off
+completely. So I'd kinda like to see that see-saw
+balanced a little bit back. Or of course we just rocket
+ship the whole see-saw up to a new level. So do hit that like button if you like rocket ships,
+but also let us know in the comment section below, have you had different experiences
+to changing thermal paste and what's sort of the
+most common problem you've come into when you're fixing older PCs? Love reading your thoughts
+and opinions as always, just like this question of
+the day here which comes from V1peR, and they asked
+"What pre-built PC do you think I should buy?
+E3 1270 v2 or an i5 4590?" Erm, pre-built PC. You haven't
+said VR there so I would go with the 1270 v2, it's gonna give you 4 Cores eight threads
+versus the i5 4590 which you're only gonna have 4
+Cores four threads. In terms of the clock speeds, I
+believe the 1270 v2 should be a little bit faster and
+it's 4 Core clocks too, so that's gonna give you a
+good advantage there. Though the i5 4590 will official VR support and the AVX2 instruction sets. But if you're just doing normal
+desktop gaming you will get a smoother experience on that 1270 v2. Hope that answers that question. And if you guys stayed this
+far and you're enjoying that content, you want to
+see it the moment it drops, do hit that sub button, ring that bell. (electric bell ringing) That was just an email
+coming in and I'll catch you in another tech video very soon. Peace out for now. Bye (electric music) 

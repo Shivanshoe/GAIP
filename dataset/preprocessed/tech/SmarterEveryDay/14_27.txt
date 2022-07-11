@@ -1,0 +1,131 @@
+- Hey, it's me Destin. Welcome back to "Smarter Every Day." This video is awesome because we're finally
+going to shoot it at stuff. And if you don't know
+what I'm talking about, in a previous episode
+of "Smarter Every Day," we fulfilled an important dream of mine by building a baseball cannon that could shoot a baseball
+faster than the speed of sound. With the help of my friends Jeremy, David, and Trent, we designed, built and tested the world's first
+supersonic baseball cannon. We used a special high-speed camera setup up to get schlieren imagery of a baseball with a Mach
+cone out in front of it. You can see the pressure weight
+in front of the baseball. After that, we did a good
+old fashioned stick test to make sure that our math was correct, and that the baseball
+was actually going faster than the speed of sound. Yeah. Hey, it's supersonic. That was Mach 1.35. I mean, it's just measured
+straight up with poles. Okay, we have a supersonic
+baseball cannon. It is verified. We were floored by what we saw when we captured super slow motion of the ball hitting the steel backdrop. The amount of kinetic
+energy in this baseball is absolutely insane. It's time to actually use the
+supersonic baseball cannon. The first video we did with this thing was all about building it and proving that it is in fact a
+supersonic baseball cannon. We had some breakage though. As this rod came back and hit this piston to try to decelerate
+the rod as it came back, it flexed the whole thing because you have a moment
+arm between here and here. (piston firing) And everything was in tension but it was only supported
+by these on the bottom. So this is what we call the strongback. Jeremy plasma cut them out, which is pretty rad. (machine hissing) - Oh yeah. - [Destin] And can we just admire him? Tell everybody. - Yeah, I'm just proud
+that you did it, man. I'm proud that you did it.
+(Destin laughs) - Anyway, I'm learning how to
+weld, it's kind of a thing. (sparks crackling) All right. So let's talk about
+supersonic baseball catches. So these are the two main types of gloves. You have what's called a basket weave here and you also have what's
+called an H weave here. If you catch a baseball, you wanna get your body
+behind the baseball. And the reason I do that is because I wanna see
+where the ball is coming. I want to get in front of
+it, all that good stuff and plus all your coaches
+always say that, right? We're gonna baseline what would happen to a human body if they did in fact get behind a ball. So, the first shot we're gonna do with a slow motion camera is we're gonna fire a
+baseball just at Bob, the boxing target here. And when we do that, we're gonna see if this ball will actually go through him. Will it stop? I don't really know. This thing is kind of, I don't know, it's kind of blubbery. Kind of interesting, I thought this was funny, "This side not intended as a target." I guess that means this side is. The whole point is how do we take energy out of a very, very fast moving object? In this case, a supersonic baseball. And my thought is, I don't know that the
+human body can do it, and moving forward, I don't know that a
+baseball glove can do it. Will just the inertial
+forces rip the glove apart? I don't know. So we're gonna start there,
+then move to the glove, and then we'll start stacking gloves up and see what it takes to
+stop a supersonic baseball. Let's go get smarter every day. All right, there we go, Jeremy will ram it in. (drone buzzing) (drone buzzing intensifies) There's one tree in this field, Trent. - I was getting a good shot (laughs). (drone crashing) The drone is ready. I'm not going to fly it
+into a tree this time. (laughs) - Okay, here we go. Vacuum should be coming down, it is. Bets on what happens to Bob. - I think he's gonna cave in. I think he's going to cave in the chest, and then the rest of the energy is going to go into knocking him over. - Bob is gonna die. (group laughs) - You ready? Three, two, one. (cannon blasting) Where's Bob? - Oh. There's our deformed ball. - Baseball came back.
+- It ripped the cover off. - Okay. All right. Well, that's interesting. What happened to Bob? Oh. - [Jeremy] Cannon's in
+safe mode, by the way. - Okay. Okay. I don't think we went
+all the way through Bob. I think he's dead. Oh, what did happen? - He's leaking. Oh, what? - I don't understand. - Whoa. - [Destin] I don't understand. - Could it have gone in and come back out? I mean, the ball went that way. - Do you think it went through Bob and then hit that? That's not fresh, is it? - [Jeremy] No. No. No. That's not that, no way. - That's- - Oh, that's a new one. It went through. - It went through Bob. (laughs) - Oh man, we don't have a
+chance with a glove, dude. - You're not going to
+believe what this shows. (cannon hissing) (rubber ripping) (air rushing increasing in intensity) (group laughing) - [Jeremy] It's like a sonic
+wave through his chest. (group laughing) - This is like a little- I mean, it's real scary. And then the ball came back. (cannon blasting) Okay. So here we go, next shot. So, we've got a glove in front of Bob. And if you think about what's going on, we've got all the energy in the ball, we have to do work on the ball. We have to do force over distance
+to decelerate this thing. So first question is, does the glove survive? This is a really thick
+catcher's mitt, by the way. The second question is, if it doesn't totally
+blow through the glove, will the glove spread
+out the force on Bob, and will he be able to survive? Three, two, one. (cannon blasting) (cannon blasting) (air hissing) Ooh. Let me play this thing real quick. (rubber tearing) (air rushing) - Did it go through the glove? - Yeah.
+- There's a hole in the glove. - It went through the glove in a way that we didn't... - [Destin] Yeah, it didn't even slow down. - [Jeremy] Okay. We're
+barely holding the glove. - [Destin] That's just
+the inertia of the glove. So the mass of the glove
+is trying to accelerate. - [Jeremy] Yeah, it doesn't have time to get out of the way, it just- - [Destin] It can't get out of the way. - [Jeremy] It rips first. - But, it didn't go through Bob. So I feel better for Bob (laughs). I've seen worse, seen worse Bob. Look at that. - [Jeremy] Oh, it didn't go through him. - [Trent] It's in the bottom. - Oh my goodness gracious.
+- I guess it just went- - The ball is in there?
+- Yeah. - Where's the ball? The ball is in the bottom? - I think so. - [Jeremy] Can you take the top off and we'll look at it some? - Yeah, he's in there. - [Jeremy] Yeah, you heard
+it sloshing in there? - That's impressive.
+That's going on the shelf. So the next step was
+to bring in an I-beam, so we could set up baseball
+gloves in a consistent manner. We've got these fancy pants little framing fingers, we'll call them. So we'll put one in the pinky side, here. Oh, actually that's more
+like the ring finger. We'll put the other
+one in the thumb, here. Okay. We're about to do
+something interesting and scary. So, I'm going to load a
+"Smarter Every Day" ball. And then we're going to (laughs), we're going to fire that thing right here into this glove. The idea is to see this perspective here, where the ball running
+through the glove here and just blowing it open. That means that the high-speed
+camera needs to be downstream of the supersonic baseball cannon. And the issue that we
+had a long time ago is, the last time we put the
+high-speed camera downstream, we had all that air pressure coming down trying to flip that thing over. So what we've done, is
+we have the tractor here in position with the forks here just lightly touching. This has to act like a kite, right? So we're assuming that all the force is
+going straight into that. And we're hoping that the
+tractor can save this thing. Now, all that being said, if the baseball hits the pinky right here which is a metal rod, as you can see, it may deflect and go
+straight into the camera which is no bueno, but we're thinking it's
+going to fire fast enough where that's not an issue. Okay. Time to go. That high speed camera is in a dicey spot. And I don't have a plan
+for if we hit it, so. - Yeah, we don't quite know
+how the ball is going to behave after it hits the glove as well, so. - Yeah, we know that Jeremy,
+you don't have to say it. - Oh, well, since we're discussing it it's a part of scientific discourse. (Destin laughs) We'll work our way through
+the problems mentally as the pressure rises, and it's
+too late to walk out there. - It wasn't a big deal until we got ready to
+shoot, now it's a big deal. I'm gonna go watch this really close. - [Jeremy] Firing in three, two, one. (cannon blasting) - Camera's okay. Oh, glove's gone. Camera's okay. - Hey, the camera didn't move at all. - That's good. The forklift method worked. Oh man. It's just sick of- - [Jeremy] We hit it
+right where we wanted to. - Yeah. That's cool. Okay, cool. So I think we know what that
+high speed's gonna look like. (cannon blasting) (glove ripping) (air rushing) Oh, the leather of the glove ripped off the leather of the ball because they're the same material. - [Jeremy] Exactly. - So, he doesn't care relative to what? It thinks the glove's traveling at it, at supersonic velocities. So for all the ball knew, the glove was traveling supersonic. - The ball could have been still, it could have been the opposite. - Yeah, yeah, yeah, yeah, yeah. Okay. So that's what happened to the H. Now its time for the basket weave. Question is, how does that break? I think it's stronger, I really do. - [Jeremy] Everybody ready? Minus 10 on the vacuum. 300 PSI. Three, two, one. (cannon blasting) Wow.
+- Good gracious. Oh my goodness. (Jeremy laughs) Yeah, okay. Hold on. Let me just get it in the can real quick. It didn't even slow down, man. - You can't even tell that it's like, "Just get out of my way". - It didn't even check up. (cannon blasting) (glove ripping) No, no, no, no, no, no. Hold on. Am I seeing fire? (glove ripping) Oh, there's fire?
+- Oh my gosh. - The leather is flying.
+- There's fire. (group laughs) - What have we done, y'all? - Wow, that was unexpected. - [Trent] When is fire coming through? - [Jeremy] That is seriously
+like striking a match. - It doesn't compute. - Yeah, that was a flame.
+- There's fire. There's a lot of fire. We released kinetic energy on impact, like a missile interceptor. If leather hits leather fast enough, it creates fire. We know that now. - [Trent] Smarter every day, huh? - Smarter every day. Destin from the future here. I don't know, it could
+have been that stitching. Those threads, the fire
+could have come from that. I'm still not sure. Let's take a side by side comparison shot of how these two types of gloves held up. At first glance, it doesn't seem like either one of them slow the ball down at all, but if you look closer you can see that the H-weave
+deflects the ball up. Now, I don't really know why, but maybe it's because
+the strap of the H-weave is more massive, that's causing the ball to
+have to move it out of the way. I don't really know, but it doesn't really
+seem like the basket weave is doing that much. Okay, here we go, moment of truth. How many gloves can a
+supersonic baseball go through? We've got everything aligned. We had to lift up the
+back just a little bit. You see the wood under there. The main issue is as it hits in the glove, at some point is it gonna take an arc up? And if it does, what's gonna happen? Is it gonna deflect out? We don't really know. But, how many gloves do we have? One, two, three, four, five,
+six, seven, eight, nine. We're doing predictions. I'm thinking three gloves
+and then it deflects up. - My prediction was going to be the same. About three or four gloves-
+- No, no, no. - Okay, I'll take one more. Four gloves, and then
+it's gonna deflect up. I think it will knock
+them all over though. - David, what do you think? - I think after about two the
+ball will be damaged enough to where it's slowed way down. - Really?
+- I'm not sure if it would go through. Because we saw all the
+damage from one glove. - Yeah, that's true. - Yeah. - What you thinking? - If we pull full vacuum, it's gonna go through all of them. - You think? Oh, wow.
+- Oh, okay. - Oh, he's kind of put that in your court. - Okay. I'm gonna do it guys. Three, two, one. (cannon blasting) (cannon blasting) (group laughs) (cannon firing) (gloves ripping) - Oh, it made it all the way through. - It went through all of them. Trent called it. - Oh man, dude. (gloves ripping) (air rushing) (metal clinking) - We gotta figure this out. How can we catch a supersonic
+baseball with a leather glove? That's the challenge. I don't know if you know this right now, but we're in the middle
+of a bicycle shortage. If you've gone to a store and you've tried to buy
+a bicycle for a kid, maybe they didn't have one because when I did it, there were none. And it's my understanding, this shortage is widespread. So here's the deal. I am turbo excited to explain
+the sponsor for today, which is Guardian Bikes. Because we've negotiated together, to have the possibility
+of having a bicycle sent directly to your house. If you do this now, it could happen before Christmas. This is the biggest of deals. Guardian Bikes makes bikes for kids. That's what they do. And they incorporate specific
+technology into the bike to keep it extra safe. My son's been wanting a new bike because he outgrew his old one, and my daughter is just
+now learning to ride. So we got him Guardian Bikes. When you buy these things online they come to your doorstep 95% assembled. It's super easy to put
+these things together. These bikes are designed with
+the kids' safety in mind. They only have one braking handle. My son's has a gear shifter
+that works really easily, and he can understand what's going on. - Just keep knowing just keep knowing, I can do this. - [Destin] My wife, Tara, is
+super good at teaching kids how to ride bikes. She's done it several times, and the thing I like about the way it went
+down on the guardian bike is there's a lower center of gravity, which gives the kids more stability, which means my daughter was
+able to learn how to ride a bike even faster than the other kids. - Mama, I'm learning how
+to get the brakes now. - So guardian bikes have
+a special technology called SureStop. Basically the force of the
+rotating wheel in the back brake is what pinches the
+caliper on the front brake. And the results are the inability to flip
+over the bike handlebars. Right? Yeah. You can see the rear wheel
+on the left locks up, but the front wheel which
+is on the right doesn't. I loved riding my bike as a kid. And back in the day, we thought a mullet counted as a helmet which it totally doesn't. But when you go to
+GuardianBikes.com/smarter, that specific URL will help
+support "Smarter Every Day" and get $20 off any accessory. I totally recommend the helmets. These things are super high quality and it's exactly what you
+want your kid to wear. They've made all this
+really simple and easy and they've got a hundred
+day money-back guarantee. Yeah, having the ability to
+purchase a bike right now is a really big deal. So if you want one go to GuardianBikes.com/smarter, and you can get $20 off when you put an accessory in your cart. But it's just the fact you can buy a bike. That's huge, because we're
+in the middle of a shortage and I want to get kids outside, away from screens, doing fun stuff. Anyway, GuardianBikes.com/smarter. They make great gifts. Thank you for supporting
+"Smarter Every Day." Thank you for watching this video. Please consider subscribing
+if you're into that, but I really want you
+to get a bike for a kid. GuardianBikes.com/smarter. Anyway, thank you very much. I'm Destin, you're
+getting smarter every day. Have a good one. Bye. - I like the bike. - [Destin] Why do you like it? - Cause this is my first
+real bike, basically. - [Destin] What makes it a real bike? - How big it is in the gears and basically everything. - [Destin] Yeah? - And brakes too, my old one
+didn't have a brake handle. - You're good at teaching
+kids how to ride bikes. - Don't stop, stop. Don't stop pedaling. Don't stop pedaling. You can do this. Don't stop, stop. (Destin laughs) - [Destin's Wife] Good job. - [Destin] Good job. 
