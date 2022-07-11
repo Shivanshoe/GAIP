@@ -1,0 +1,146 @@
+this PC on the desk behind me is a
+recent unit that I picked up in a deals hunt for roughly 300 Aussie dollars or a
+little over 200 United States big ones and it has an RX 470 inside of it and it also has
+an Athlon 3000G, a single stick of ddr4 memory and it was untuned and it also
+had the case, the power supply, the a320 motherboard and a 2 terabyte hard drive. So at this price I could really only see one thing and that was potential, and
+so my objective with this build here today is to what I call spruce it up (for a cheap budget fortnite gaming PC) now
+you're probably thinking what is a spruce Prime what's a sprucing what is
+this new term that you've been thrown around lately
+well it's a combination of spicing it up so we're gonna be cleaning it up and
+making it look better since got a lot of dust on it and we're also gonna be
+juicing it up in that we're gonna be adding some components onboard and so
+that makes it a sprucing and trying to confuse your friend Bruce with spruce
+anyhow in terms of those upgrades they're all pretty important to get
+better performance so the first thing we're going to be doing is adding a
+risin 5 1600 AF 6 cores 12 threads and performs pretty much the same as a risin
+5 2,600 now we're also going to be throwing in a 120 gigabyte SSD so this
+thing can boot up and use Windows 10 a lot quicker the next thing we're gonna
+be doing is upgrading the graphics card 5600 XT pretty good price performance
+and will perform a lot better than an rx 470 then the last component we're
+throwing in of course and I believe one of the most important is to make this
+thing dual channel so we're gonna be adding in another 8 gigabyte stick of
+memory for ddr4 there with all that aside I'm gonna test out this thing
+right now in its current state and then do the upgrades and see how much
+performance we gain check yes citizens I have negotiated a new 18 percent off
+coupon code on a Windows 10 Pro single end user
+licensed with today's video sponsor s cd-keys for as little as 13 bucks using
+the coupon and the link in the description below characters not even
+getting displayed [Music]
+see the trees what is going on
+[Music] [Applause] [Music] [Music] so we've now just finished benchmarking
+this PC and it was a really weird experience what we've got right here is
+the best case scenario for honor actually ran with no stuttering it ran
+pretty smooth 75 average FPS 1080p high settings 45 minimum but for tonight I it
+was doing some really weird stuff in fortnight none of the things would
+displaying properly there was like trees going through my character and I
+couldn't get a proper reading in that game I couldn't even like hit the
+benchmark key which I can do right now on this paper game to get an accurate
+benchmark number so that was really weird and then doom that was stuttering
+as well and that's really weird for doom to stutter
+this was 1080p high settings as well for doom as opposed to fortnight where we
+use competitive settings so doom and fortnight were really bad experience but
+of course that single channel untuned memory is probably most likely the
+biggest culprit for those two games not running properly the other side it's
+finally time to give this thing some check yes love and change the video card
+over put the extra RAM in and that 1600 F we also may have to update the BIOS
+just as a precautionary measure [Music]
+so now we've finished up the sprucing of this piece see it is so much cleaner
+before it was so dirty to the point where the cloth that we were using to
+clean it with did pick up a lot of dirt and also the dust filter under the
+powerplay that was filthy and another problem we came into was at the rear of
+the build one of the USB ports had the i/o shield protect a bit going into the
+USB port which is really not a good thing you can't really use that but it
+could also cause some problems but now that we've fixed up everything we've
+tuned the memory to twenty eight hundred megahertz since it is using and
+originally like a twenty four hundred mega stick and we've added in another
+2666 stick this is pretty much budget memory but we can still clock it to
+twenty eight hundred megahertz and get some good frames but it's also in dual
+channel now so that's that with this bill but another good thing we did was
+we pulled out an RX 470 and also that dual core 3000 G so we can use that for
+an office PC later and then this graphics card right here we can use that
+in a separate build at a later date but finally with all that aside it's now
+time to test this thing out in games and see how much performance we shall gain
+[Music] and we've just finished up now
+benchmarking this PC right here the spruce ax and I was just blown away by
+how much smoother things were for starters but also it's such a good path
+to consider if you don't mind buying someone else's PC that they have and
+they just really had a bad configuration from the get-go because what we saw here
+was dooms suddenly lifted to over a hundred and seventy fps 180 FPS when it
+originally was at around forty four fps now the rx 470 is going to go a lot
+harder than 44 fps in this game at 1080p high settings it was just being let down
+by the single channel untuned memory in the 3000 G now adding in the Rison v
+1600 F made a huge difference in Doom it also made a huge and this was the
+biggest difference in fortnight the game was completely playable and we're
+getting around like 200 FPS on average it was working absolutely fine
+everything was smooth so that may be a problem if you guys are playing
+fortnight and your system isn't configured properly especially if it's
+running in single channel memory and you've got say a dual-core you may come
+into this issue where things are not appearing properly on your screen and so
+that's something to be a guest aware of with fortnight where I've actually never
+run into that problem and I initially thought maybe it could have been the
+hard drive but here's the scary thing is that is I actually tested all these
+games out and redid it with the hard drive because all the games were already
+installed I didn't have to reload anything and so now I'm gonna go back
+after this video and reinstall the whole OS on the SSD and make things even
+better because I think in fortnight it was dipping the point 1% Louis because
+that hard drive was having a hard time loading up background process in Windows
+while it's trying to load up some of the stuff in the game so that's definitely
+something you can be aware of if you're diagnosing problems for your friends say
+in fortnight in there running with potatoes they might want to put in some
+dual channel memory or upgrade to at least
+true quad-core the last game actually surprised me the most and that was for
+honor where this game is clearly extremely well optimized for PC where it
+was running absolutely fine beforehand and then after we still got a massive
+boost in fps we're running it like 166 FPS average and the minimums were
+incredible too but it didn't give us in respects to the other two games were
+running the same amount of gain if that makes any sense even though we've got
+over double the FPS it still ran kind of smooth beforehand so that was impressive
+to see with for honor I do like it when these PC games are really well optimised
+and that's one title I can think of off the top of my head but another title as
+well would be strange Brigade they're probably like after doing this testing
+they probably the top two games on PC that you can even run in single channel
+and you probably won't notice a huge difference to your FPS it then becomes
+GPU bound where you'd have to upgrade you grab a scar to get more FPS that
+being said the RX 470 is capable of more FPS and that game and with all that out
+of the way I hope you guys enjoyed today's video definitely on the AMD site
+I like the a320 motherboards they go really well with six core 12 threads
+especially the Rison 5 1600 AF even though we can't have a clock it on this
+build it still runs absolutely fine out of the box at 3.7 gigahertz all core and
+we change that budget memory to 2800 megatons now something about that budget
+memory right if you come into this real cheap 2400 no heat sinks and no XMP
+profile memory you can still get more out of it and I found twenty eight
+hundred megahertz around like what we've got here seal 17 is still a decent speed
+and it will give you a lot more FPS than the previous config on that memory and
+of course we didn't break the bank in sprucing this thing up and the FPS was
+really smooth so this is an option to consider if you're in the market and you
+want to get really good FPS for the dollar and the story behind this PC was
+apparently the guy I bought it off he like I don't even know because I've been
+asking for more details and I just haven't really followed up on the
+situation properly to get both sides of the story yet but one thing you guys
+send the previous video in the comments this is the most important thing to come
+out of stuff like this and the previous story where I got this PC was that when
+you're buying used parts always make sure you check it out and it's working
+and you're getting what you pay for before you buy it and so I think that's
+the most important thing rather than the actual story itself it's the message
+involved and that is when you buy stuff in the PC world especially if it's got
+that use price tagging this is a funny thing even when it's new and you buy it
+from some Amazon stores and the price is too good to be true just double check
+and ask around I mean sometimes with a good deal you
+don't have time to ask around so it's kind of the main thing with use parts if
+the seller has no reputation no feedback definitely go make sure that part is
+working before you purchase it that's the most important thing and without
+side I hope you guys enjoyed today's video if you did then be sure to hit
+that like button for us and also let us know in the comments section below
+what you would have done differently if you had got this streaming PC which
+couldn't even play fortnight without streaming so that streaming thing that
+when I originally bought it that way if this wasn't a stream PC now it's a
+streaming PC you can definitely stream but what you would have done differently
+love reading your thoughts and opinions as always just like this question of the
+day which comes from Super Kahuna and they asked do you have a life and if you
+guys keep watching the tech yes city around here I think you know the answer
+and that is no I don't have a life and when RT X 3000 hits in August yeah like
+if I even if I had a little bit of a life it's gone if you guys have stayed
+this spot and you're enjoying that content around tech yes city and you
+know what to do here that sub button ring that bell to get this content the
+moment it drops in this sub box and I'll catch on the next one very soon peace
+out for now wait [Music] 

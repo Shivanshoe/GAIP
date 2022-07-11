@@ -1,0 +1,209 @@
+behind me here is the widest monitor
+i have ever gamed on and this is aoc's agon 49 inch 120 hertz
+5k gaming monitor now the resolution is 5120 pixels wide
+by 1440 high essentially making it two 27 inch curved monitors with 1800r
+curvature stuck together with no bezel and i think
+that's the appeal of this monitor if you're looking
+to get one of these you're either one of four people i think
+or at least i hope because there are other better choices out there
+at least for the money for different people and we will get onto that
+after we talk about these four types of people first of all
+racing sims if you are into racing simulation
+this monitor does give you a very good experience
+the second type of person would be someone who wants two monitors
+but hates bezels in between the third type of person would be someone who
+loves extended timelines in music production or editing videos for example
+then the last type would be what are warcraft players they seem to love
+everything though those pros aren't without cons
+and that's one of the things if you've come to this video
+you probably want to know what are the downsides
+to something like this especially verse competition
+and the price tag which this monitor currently comes in at around a thousand
+us dollars and in australia it's going to come in
+at around 1600 aussie dollars and of course there's the other option
+out there that's coming into stock and that samsung's g9 which now has the
+updated model has 240 hertz better response times but it does cost
+more though the pros of this massive monitor
+don't come without cons so let's go into all the negatives on
+this thing before we give you guys a recommendation
+[Music] so going straight into the response
+times which for me personally is one of the biggest things
+when it comes to especially a high refresh rate gaming monitor this is 120
+hertz and it also supports freesync in the range of 48 hertz to 120 hertz
+now the response times here they are at best seven to eight milliseconds this
+is on the highest overdrive setting where they
+have five different settings here ranging from off to weak to medium to
+strong and to boost i would personally leave it
+on boost even though you may get some
+overshooting and purple fringing i found on this monitor especially when
+i was gaming on it on these settings it wasn't distracting and this is one of
+the most important things about gaming monitors
+and recommending settings to you guys because i have had people come into the
+comments section and say person x recommended these
+settings on this particular monitor whereas i've recommended different
+settings and what it all comes down to is
+simply use the ufo tester i'll put the link in the description below
+use your own two eyes and then change these overdrive settings
+to what your eyes think is best so that's what i do i also test it out on
+some games after i feel like the ufo tester
+has satisfied what i feel is the best and then make sure there's no
+obvious and bad artifacting or noticeable purple fringing for example
+though speaking of the response times there is another setting
+within this called mbr or motion blur reduction
+the aegon 49-inch utilizes a technology that i just call red frame insertion
+because when we put the 1000 fps camera on this piece of tech it shows red
+frames being inserted from it depends on the
+range that you're going with here it goes from 1 to 20
+where the 20 has at 5.5 milliseconds of red frame insertion
+basically no backlighting and then 2.5 milliseconds of just normal frame
+and then the weakest setting one will have it at 6.5 milliseconds of
+just normal frames and then 1.5 milliseconds roughly
+of red frame insertion though i found leaving this on 20 was a little bit weak
+in terms of brightness i found my perfect medium for response
+times and mbr on this monitor was a setting of 10 and then putting the
+overdrive to max so your mileage may vary but that's just
+what i would do if i was using this monitor
+as my main though speaking of input lag i measured here two to five milliseconds
+of input lag on this particular monitor right here
+there seems to be a ever so slight amount of input lag very
+minimal of course you're in the exceptionally
+good range of input lag when it comes to measuring it on this
+monitor the next thing we're going to talk about here is the
+hdr which is printed on the box hdr 400 is in my opinion
+basically a gimmick where you've got an 8-bit
+panel on this monitor it's an 8-bit va panel
+and no matter what you do you're not going to get true
+10-bit hdr out of this panel even if it had a thousand nits
+brightness it would still do hdr a little bit janky
+so basically in order to get true hdr content
+you want you would want a thousand nits brightness most likely
+and you want a true 10 bit panel the easiest way to tell if your
+panel is at least capable of working with true hdr is to turn this setting on
+in windows if you notice a significant i guess
+washed out effect on your monitor then that means
+straight away just turn it off don't even bother
+with hdr on your panel however speaking of colors
+and also profiles here's where things get very good
+for the aegon 49 inch in that they've got a mode on here called full enhance
+which i think gives the best sort of contrasty
+vibrant look if you're into playing rgb if you're into playing rpgs and also
+other titles where you really want to enjoy the monitor
+this mode will do the job it's also got the srgb mode and when i tested this
+with my color calibrator the results were very impressive coming
+very close to being color accurate out of the box
+however there is one catch to that and that
+is it will only do srgb at a hard locked 230 nits of brightness
+but basically if you wanted something for content creation
+and gaming or splitting two monitors this monitor is definitely going to be a
+good consideration in that regard though
+speaking of brightness this was also pretty good as well i
+measured 479 max without artificially boosting the
+contrast which i don't like to do because the
+picture is really unusable at these settings and so realistically
+the most you're going to get out of it is around 480 nits however there was
+some big variance in between parts of the monitor
+where we got a 16 variance from the center
+to the worst square on the screen ideally you do want to have this at 10
+percent or less but at the very worst you want to have
+it under 20 percent otherwise your eyes will start noticing a bad experience
+though just when it sounds like i was giving this monitor a bit of praise
+it then comes in with a curveball and this is with the osd
+and honestly aoc this is some feedback for you guys
+this is easily one of the worst osd's i have ever used on a monitor period
+and the fact that this has come out in 2020 or i think this monitor was
+in development in 2019 the fact that this osd
+made it onto this monitor really surprises me
+first of all there's no d-pad which any monitor coming out in 2020
+i'd like to see a d-pad on that monitor itself
+but secondly using the monitor like sometimes you'll you'll have this method
+where okay you've got the hang of it but then you'll click left and that
+won't work or you click right to lock in a setting and that won't work
+and it really is one of the most frustrating osd's to use however they do
+include a controller and that seems to work a little bit better so if you do
+want to change settings on this monitor i do highly recommend
+using the controller over the actual buttons on the monitor
+itself though there are some extra options in the monitor itself
+there's volume control which the speakers are really nothing to write
+home about i would recommend either getting
+a different set of speakers if you're serious about audio
+or a decent set of headphones these are okay for just typical skype calls and
+whatnot but if you want to enjoy sound definitely get something else but
+the last setting in the osd that you guys will probably want to know about
+is their black equalizer or black booster in this case they call a shadow
+control it really is just a gamma booster in all
+intents and purposes i would just leave this
+on the default 50 setting out of the box and even then i don't know why they
+called it 50 when there's only adjustments of 10. so
+they just should have made it 1 to 10. anyhow that aside going over the
+physical attributes of this monitor in that you can adjust it 130
+millimeters vertically up and down you can also tilt adjust it and
+horizontal swivel and honestly if you want to try put this
+thing in a vertical position this stand won't support it and you
+would be one of the craziest people out there if
+you try to do that but for some reason part of me wants to do this
+and then perhaps you'd be called like a surfboard gamer
+the monitor is vase amountable though you will need a stand with a bracket
+that's smaller than 120 millimeters in a square format
+otherwise you will need longer screws to accommodate that
+then for inputs and outputs we've got two hdmi in two display port in and also
+a usb type c and you can also use this as a
+usb hub there was no visible cross hatching
+when i pulled up an orange background and also blacklight bleed is very well
+under control i really didn't notice any problems when
+i was using this monitor and the last thing is it does have a
+matte coating and with all that aside now comes a
+recommendation for this 32x9 right here
+and who is it for that is the biggest question because this is certainly not
+for everyone in fact i think it's only for a very
+small amount of people because once you start going into the premium range
+you've now got very very serious contenders for me personally
+i'm using oled 4k 120 hertz that's me if you are in the market for
+this you're probably most going to want it
+for the ultra wide racing sim experience or you don't like bezels in between
+using two monitors i feel like that's where this thing
+excels but even then there are downsides to something like this if you watch the
+whole review you'll know response times are really far from the best especially
+for a monitor coming in with this price tag where the two strongest overdrive
+settings were the only settings i would use this
+thing on and even then i'd have the motion blur reduction on which
+cancels out the freesync and the g-sync or the adapter sync
+and so if you don't have it on the strongest response time settings you're
+going to get what's called double frame overlay in that one frame
+is going to transition into the other and it doesn't look good it's not a good
+looking experience especially if you're paying this kind of
+money so i would like to see the response times improved though that
+being said if you're playing racing sims or you're
+playing games that can utilize that full 32x9 then it is a gorgeous
+experience another thing is too the osd that
+frustrated me i don't know if it's going to frustrate
+you but once you've set your monitor up the way you like it
+i guess it's like a good thing you're like hey i won't have to come back
+to that osd ever again but if you're using the osd constantly and changing
+between 32 by 9 for example and two 16x9 monitors
+this osd will annoy you anyway guys that's it for today's review
+all the pros and cons have been laid out on the table
+and ultimately when it comes to a purchasing decision
+do the pros outweigh the cons or do the cons
+outweigh the pros that's always your decision to make
+or at least it should be and in my case for instance i'm using
+4k oled 120 hertz as i said before and although that's only 16 by nine it
+is 4k so i use that for video editing but it
+is 120 hertz and it does have better response times
+this however is great for that person who wants that
+ultra ultra ultra ultra wide experience though it does have those negatives but
+with that aside if you still want to go ahead and get one
+then i'll put some links in the description below for you guys
+and we've got the question of the day here which comes from inky steve
+and they ask why is the windshield on the wrong side of your mic
+and this was actually the most common asked question in the previous video
+yesterday and for me personally the answer is
+justified just from the comments alone where in
+the previous video before that i was using this microphone and people
+commented on how hideous it looked so i decided to cover up the microphone
+so to speak so people wouldn't comment on how
+hideous it looked and i guess that worked i didn't get one
+comment in the previous video about how bad looking the microphone was
+however that was to the detriment of a new problem that arose
+and that is yes it was the wrong side around
+but perhaps it wasn't [Music] okay i'm done i'll catch you in another
+tech video very soon peace out for now bye 

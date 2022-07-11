@@ -1,0 +1,113 @@
+Today we're going to be building a budget 
+gaming pc with a very weird twist and that is   this 1080 ti i picked this up for 600 aussie 
+dollars on a recent deals hunt i'll put the   link to that video up here but someone 
+messaged me and they wanted me to trade   this and four hundred dollars my way and a 1070 ti 
+so i just said that seems like a good deal it's in   my favor and so whenever trades work out in your 
+favor usually you take them up so out of the good   courtesy of my heart i've given this graphics card 
+right here some tech yes ultra clean lovin and now   we're gonna go deliver the goods and of course 
+after you do this kind of cleaning the thing runs   even better than brand new but let's go jump in 
+the car and then we'll talk about what other parts   we're going to peace out for what's going 
+to be the best price performance gaming pc   i've put together in 2021 hey bro are you tired 
+of seeing this annoying activate windows message   then if so today's video sponsor scd keys has you 
+covered for as little as 14 using the coupon code   bftyc you can get activated today works for 
+windows 11 pro 2. link's in description below so we ended up just hitting up this 1070 ti 
+it was weird he had 350 cash then he put 50   in my bank account so that's the trade done 
+there but also someone's messaged me now and   we're gonna go quickly pick up a pc for 400 
+aussie sometimes when you're doing stuff on   the road so many different things come 
+up and you're just like yeah let's roll we're now back with the 1070 ti and when i handed 
+over the card they just messaged me about 20   minutes ago and said they were super happy with 
+it they were absolutely loving it and they gave me   the 1070 ti which they've cleaned up and they've 
+actually changed the thermal paste around so   i really won't have to give it any more cleaning 
+but on that note we've effectively got this gravis   card for 200 aussie dollars a 1070 ti which in 
+this market especially considering all those   miners are still buying gpus it's a very good deal 
+and so the way that we did that was we had the   higher price card and we had the more desirable 
+card at least for people who want to upgrade and   they're willing to trade their inferior card and 
+pay more so this really makes it one of the better   deals that i've got on gpus but we'll talk about 
+some of the other stars of the show here because   i'll put up the total tally of this build for you 
+and how much it's going to set me back now the   next ripper deal that we've got here is a 600 watt 
+power supply this is from fsp it's 80 plus and now   some people who build pcs and if they're giving 
+you advice they might tell you to stay away from   used power supplies but over the course of years 
+of building pcs i've never had a problem with a   used power supply that's passed the power supply 
+tester considering i haven't gone crazy with the   uh demand on that power supply for instance don't 
+get a 450 watt power supply and then go chuck a   1080 ti on it with an 8 core cpu and expect it 
+to be an absolutely amazing experience so you've   always got to match your power supply to the 
+goods so 600 watt power supply for a ryzen 5   1600 and a 1070 ti is going to be absolutely fine 
+especially when it's giving out good readings   on this power supply tester now some of the other 
+really good deals that makes this build is a 25   a320 motherboard we got this super cheap off 
+the used market i've actually had it here in   the studio for a while however it didn't come with 
+an io shield so that's the downside sometimes you   get a cheaper product there is a little bit of a 
+negative there but we've also got the ryzen 5 1600   and we got that for 90 dollars in the parts hunt 
+now we are adding in some drives the 120 gigabyte   ssds really cheap really good for that base drive 
+then we're adding in a two terabyte drive to keep   the storage up and put all your games on then for 
+the case we've got here a new part that is a tr   1100 three ring fans and also i can take out the 
+power supply that's included and use that in an   office pc later on the line and then last of all 
+we've got the ram which we also went new with some   kingston fury i picked this up off the new sale on 
+ebay and it's got rgb as well as the motherboard   having some leds on it we're gonna have a little 
+bit of bling since we are going with that ray   stealth cooler so we're gonna add on the bling 
+as much as we can with getting some good deals on my own i'm doing what i'm doing i don't got a lot to 
+prove and if i'm moving then i'm proving cause the whole room naked facing windows so   is oh and so after finishing playing call of duty 
+warzone the first title we were getting over a   hundred fps at pretty much all the time at high 
+settings at 1080p now the point one percent one   percent loads were very smooth that has to do with 
+the ram mainly on ryzen cpus you definitely want   dual channel two sticks of memory and we've tuned 
+it up to 3200 megahertz and that's really making   a difference and i've noticed no stuttering in 
+this title just as apex legends which is now free   to play on steam i mean it's been free to play on 
+steam for a while i think but i haven't played it   in a long time so i was playing the dude who drops 
+the um the like the traps and stuff like that and   i was running around and i was uh getting a few 
+frags however what i noticed with warzone and also   apex is that the players who play these games are 
+pretty good like the average level of competition   is definitely going to be good at least on the 
+servers that i'm playing on so you'll definitely   want a pc that doesn't stutter especially when 
+it comes to those clutch team fights and that's   exactly what this pc was bringing it was bringing 
+a smooth experience that anyone can get onto and   play games really well even though it only has 
+the first generation ryzen i found this to be very   good value for money you couple that with the a320 
+motherboard and you're going to get phenomenal   price performance and if you want to play a lot 
+of these popular multiplayer titles then you've   also still got all those latest instruction sets 
+on the ryzen 5 1600 avx2 and you can still upgrade   something like a 3600 later on down the line 
+without having to change your motherboard if   you want a bit more performance on the cpu though 
+in terms of power consumption we were using up   about 280 watts though most this power consumption 
+will come from the graphics card and in this case   you're probably wondering well this has got the 
+blower style cooler and they usually run pretty   hot and loud and this is how loud it's running at 
+the moment we did set a custom fan profile with   msi afterburner and what this does is essentially 
+raises the fan speeds above default where   at the default levels it was going into the 80 
+degree region but after a custom fan profile   it does increase the noise a little bit but we 
+still keep the temperatures in the mid 70s and   the race stealth was doing a fine job of keeping 
+the cpu at around 70 degrees too and this cheap   case here even though it's budget we put that 12 
+centimeter fan in we added that into the budget   and that we put that on the rear just to exhaust 
+the hot air since it originally didn't have that   and surprisingly the whole build was quiet and 
+still doing a decent job of keeping temperatures   quite low anyhow as it stands moving forward the 
+prices of graphics cards is the hardest component   anyone i talk to right now getting gravis cards 
+is still the most difficult part when it comes   to building a pc and in this case this might be 
+another avenue you wish to explore where say for   instance you find a higher end gpu at a better 
+price there's definitely someone out there that   may want to trade up and then you can get a really 
+good deal like we did on this 1070 ti so that's   just some food for thought but when it comes to 
+the other parts in the build everything else in   this build just like the gpu even though the gpu 
+was bit of a luckier find was a really good price   so hope you guys enjoyed this one if you have any 
+questions or comments be sure to ask below but as   it stands i really enjoyed putting this thing 
+together and some of the best price performance   definitely 2021 that i've put together so far 
+so with that aside we've got the question of the   day here which comes from tristan gray and they 
+ask how did we get to the point where a budget   graphics card is 500 plus crazy to me honestly at 
+this point after 20 years i may become a console   gamer so they're referring to the rx 6600 xt where 
+we pretty much said what the pricing would be on   the streets and it is around 500 for this card 
+and unfortunately when you look at the card itself   it's pretty much similar in terms of an rx 580 
+or a gtx 1060 in the actual components not in the   performance the performance is a lot better than 
+those two graphics cards in question but in terms   of the actual components and everything in terms 
+of where it should cost it should be around a 250   card but the demand right now for gpus especially 
+the newer ones that are much more efficient   they the crypto miners are still buying these 
+things up and putting them on mining benches so   when you've got that element at play then it's 
+always going to raise the prices artificially   higher and so you're going to see this continue 
+on in the gpus as long as minings are relatively   profitable versus the price of power and 
+electricity that people are paying you're going to   see this trend continue but there's also the other 
+factor i've spoken about inflation as well this is   a big one that's definitely a more of a reactive 
+thing that's coming into play with the 389 msrp   which we spoke about in our review but in terms of 
+going forward graphics cards are definitely i feel   going to be higher priced than what they have 
+been in the past due to that inflation element   it's just in terms of crypto miners stacking onto 
+the demand and raising the prices what's the real   prices of these cards going to be we're only going 
+to find out once the miners go away so until that   happens we won't actually know the true price 
+that the market's going to set these cards at   though what you said about the console they're 
+actually extremely good value for the money   right now in terms of what you're getting in 
+those things not just in terms of the actual   specs but the gpu power going into all the new 
+gen consoles is really impressive for the money   so i mean i don't blame people if they're pc 
+gamers and they're switching over to console   it's perfectly valid right now it's actually 
+extremely difficult especially for someone   buying parts off the internet to beat the value 
+that the new consoles bring anyhow i hope that   answers that question and if you stayed this 
+far and you're enjoying that content be sure   to hit that sub button ring that bell and i'll 
+catch you in the next one peace out for now bye you 

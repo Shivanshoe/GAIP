@@ -1,0 +1,137 @@
+Let's assume you've
+had COVID-19. You might believe 
+you're immune, in the clear to go about
+your normal life without safety precautions. But with scattered
+reports of recovered cases testing positive again, a lot of people are
+wondering if it's possible to develop immunity at all. So, can you catch
+COVID-19 twice? The thing is, scientists
+just aren't sure, because figuring that out is a lot more complicated
+than you might think. When a pathogen
+like a virus manages to get
+into a human, their body will 
+signal an alarm. This will start 
+what's referred to as the innate
+immune response and consists of
+physical, chemical, and cellular defenses
+against pathogens. Often enough, this works,
+and the invader is killed, but sometimes you 
+need a second attack. The adaptive immune 
+response marshals the special forces: B cells and T cells. B cells produce antibodies that smother the
+specific pathogen so it can't affect
+your body's cells. Shane Crotty: So, 
+basically, antibodies kill virus outside of cells; killer T cells kill 
+virus inside of cells. Narrator: So, once your
+body fights the pathogen, what stops you from
+having to fight off the same attack
+over and over? Well, your body 
+has a secret weapon to protect you against
+any future attacks from the same pathogen:
+memory cells. Memory cells are basically the specialized T cells and B cells that
+stick around as guards. That way, if you
+encounter the virus again, the army will
+be readily waiting to kill that
+invader instantly. This is immunity. A vaccine works on this
+basis by adding dead, weakened, or fragmented parts of a pathogen to your body. Not enough to cause illness, but enough to cause your body to
+produce memory cells. Crotty: Normally, when
+you have an infection, it's a race between 
+your immune system and the infection. But if you're vaccinated, you've already
+done the race part. Your immune system
+has already had time to scale up and
+develop immunity. Narrator: Typically, 
+you would know if you have immunity, either from a vaccine or knowing you 
+previously had the illness. For example, it's relatively
+straightforward to know whether you've had
+chickenpox or not because the symptoms
+are highly unique and very easy to spot. But let's presume you
+know you've had COVID-19. You now have immunity 
+and are safe, right? To test this theory,
+one early study infected monkeys with
+the COVID-19 virus. They then waited till
+they tested negative after the infection passed
+and tried to reinfect them. When the monkeys didn't
+become reinfected, researchers concluded that
+after one viral attack, you would be
+protected from another. But this isn't a golden ticket
+to thinking you're immune, because the
+length and strength of that potential
+immunity are unknown. And where a disease 
+lies on the spectrum is influenced
+by two things, memory cell death rate
+and virus mutation rate. Memory cell death rate
+tells you at what rate those memory cells
+may be lost over time. The virus mutation rate
+can tell you if the virus will mutate too quickly
+for your memory cells. The more a virus mutates,
+the more unrecognizable it becomes to your
+memory cells. Determining where
+COVID-19 falls on this timescale is a vital step in
+managing its spread. One indication of how long
+its immunity might last is to look at 
+other coronaviruses. Those who have 
+contracted SARS-1 have been found
+to have immunity for about two 
+to three years, and the same time
+frame has been seen in other coronaviruses that
+can cause the common cold. Yet early signs have shown that this virus tends
+to mutate slowly. But there's another indicator into immunity
+strength and length: the serology test. Crotty: The serology
+testing is a blood test for the presence of
+antibodies against that specific virus or
+that specific disease. Narrator: Importantly, these
+are tests that can be done after you've recovered
+from symptoms. Crotty: And you don't
+have to know exactly when that person
+was infected. And so that's a very
+powerful way to count how many people have
+actually been infected, whether they recognize
+the symptoms or not. Narrator: These tests
+can measure how many antibodies
+are in the sample by looking at how they block
+or respond to the virus. These measurements 
+can help to understand immunity levels and how
+long immunity could last. For example, studies for
+many other viral infections have found that the more severe the case, the longer the immunity. Basically, the bigger
+the infection, the bigger the 
+immune response and more 
+antibodies in a sample, which in turn gives
+longer immunity. But this may not hold
+true for COVID-19. Crotty: It certainly
+may not be as simple as if you're positive
+for the antibody, you're protected against
+the disease, you're immune. That's true for
+many infections; it's not proven for
+COVID-19 disease. Narrator: And the 
+effectiveness of certain serology tests for
+COVID-19 has been mixed. Some tests are
+being misused, and others were brought
+into the United States before the FDA could
+approve them. The result has been
+poor detection rates, some as low as 20%. Crotty: You know, these
+are the same types of tests as a pregnancy test. And so there's no way people
+would take pregnancy tests if they were only
+accurate 60% of the time. Narrator: And there 
+have been instances of false positives, which
+can be extremely dangerous, because they 
+arm people with a false sense of
+potential immunity. But these problems
+aren't universal, and the FDA has begun
+approving a select few that show much
+higher accuracy. So, with an accurate
+serology test, would you be immune? Well, one early
+Chinese study found 30% of those who
+tested positive for the virus had little to no 
+detectable antibodies, which would suggest that
+immunity isn't guaranteed, though this has been
+challenged by another study that found all
+patients tested had significant 
+antibody levels. But other issues 
+such as age or health could play into
+these responses. Crotty: Is it gonna
+be 0.1% of people who can get reinfected
+three months later? Or is it going to be a
+higher number in the elderly? Narrator: Once more 
+accurate and universal testing is underway, more studies can begin
+to more precisely examine how long this immunity
+may last and who has it. So our best bet right now
+is to keep our distance and assume we're
+not immune at all. 

@@ -1,0 +1,191 @@
+when you put competition and budget in
+the same sentence you get tech yes city and today we've
+been invited to participate in the xbox game pass for pc challenge
+where we have been given a budget of two and a half thousand
+usd to build the smallest and most powerful gaming pc possible now today's
+video is sponsored by xbox game pass for pc and they have
+this game that you're seeing in the gameplay right here called grounded
+available now it's the smallest game we've seen yet
+and they challenged us naturally to build the smallest
+pc to play it and now we just got back from our local pc hardware store where
+we've got five components here but we still had to get another three
+components at the best prices possible and so what we're going to end up with
+today is an i7-10700 k an rtx 2080 ti gravis card in a small mini itx
+build let's go check out all these components
+how much we paid for them and the price point tally but also if
+you guys want to learn more about grounded
+and the xbox game pass for pc then i'll put all the relevant links
+in the description below let's get into it
+[Music] welcome back to tech yes city and these
+five components that we just pulled out of the boot here
+tallied up to 2 305 aussie dollars now the budget i'm allocated here is two
+and a half thousand usd and when i converted that to
+australian dollars it was 3578.
+so the australian dollar is currently weaker than the united states dollar and
+that's the budget i have to go by another thing too is that we have to pay
+10 tax in australia which is calculated into all these prices here
+that i'm showing you guys but that aside it doesn't matter i'm
+still going to do the best i can where we've got a 2080 ti which was on
+sale for 1700 aussie dollars it's now gone up
+200 since i bought it so that is a really
+good deal and i need to get these deals in order to
+have the best chance of winning this competition we've also got a h60 to cool
+down the cpu a small form factor 650 watt power
+supply ld03 mini itx case here from silverstone and
+a one terabyte nvme from kingston now the three parts that we've got here
+on the desk separated from these five parts
+we got on an ebay sale and i managed to find this sale off
+aussiebargain.com.iu where if you're paying with a after pay service
+you got 10 percent off and so we managed to score a 10-700 k
+for 665 aussie dollars making it cheaper than any retailer had it on sale for
+now we also don't get a cooler included with the cpu hence why we got the water
+cooler for it a 120 mil solution then we've got
+the 3600 megahertz ddr4 32 gigabyte kit of g skill cl 16.
+this stuff we got it for 319 with 30 off with that coupon and since this
+memory is aggressively overclocked to 3 600 megahertz it enables us to
+squeeze out more fps especially if we're going to couple that
+with the 10700k which we can also overclock then the
+last piece of the puzzle is the z490 asrock mini itx we got this for 289
+aussie dollars with that sale coupon code delivered to
+our door so these three components off ebay all had
+free shipping which really made it lucky for me
+because when i tallied up the total here we came in to 3578 aussie dollars
+making me not have a single dollar to spare so what are we waiting for
+let's shrink down that big atx size case into a small
+pc that can play grounded [Music] so
+[Music] know
+i keep [Music]
+is i know
+you know my body never knows [Music]
+so we've now completed the build here and in the back we are benchmarking and
+overclocking and we'll talk about that soon
+but this build right here the mini grounded pc
+was super easy to complete i was actually surprised
+how easy this case is to work with the only problem i came into was the cooler
+mounted the traditional way was reading the texts sort of like
+the wrong way so taking that cooler and rotating at 90 degrees to the left
+makes it so we can read the logo properly on it and i got to say there's
+a bit of room inside for this build so we can still
+see all our components without cables
+covering them and another thing is too we've got a push
+pull airflow setup here with dual fans on the 120mm
+radiator for overclocking the cpu then we've got the exhaust
+fan though the graphics card is getting a little bit toasty it is a full sized
+rtx 2080 ti and it i would like it to have some airflow from the side here
+as this glass is getting quite warm with that aside let's take a look
+at what we've done coming into this game to get the best
+fps possible so right here we've overclocked our cpu
+to 5.1 gigahertz and you may notice only eight threads and that's because we've
+disabled eight threads so we've disabled hyper
+threading so we've only got eight cause eight threads
+and because i've already tested grounded with cpu performance i find it runs
+slightly better with hyper threading disabled and that
+also enables us to overclock our cpu a little bit higher which i'm impressed
+here with the temperatures on a 120mm rad we're only going up to around 66
+degrees in the heaven benchmark which is still
+pushing out over 500 fps as for the gravis car we have
+overclocked that as well but it is starting to throttle because it is
+getting pretty hot so hopefully this overclock and this
+performance right here is going to win us this competition but
+another thing we have done as well we've disabled the spectre and meltdown
+updates we've tuned up windows and we're going
+to give this the best possible chance we can to win
+so let's boot it up at both 1080p and 4k resolutions
+and see what fps we can get [Music] so we're in the game we've just started
+out but what i want to check out is how much of a difference our overclock on
+our graphics card is going to make in this game
+so what we've done here is we've hot keyed our two profiles on our graphics
+card overclock one which is f8 to default and then the
+other f7 to our overclock and we can just lock that in real time
+and we can see here that we actually didn't gain
+any fps here this is quite surprising we gained about 2 fps i think
+so at 1080p high settings this game is currently cpu bound and so
+even though our cpu is one of the threads is only going to 70 percent
+it looks like we are currently cpu bound which is actually surprising so we're
+going to run a big benchmark now even with the overclock gpu and we're
+just going to see what fps we can pull so this game right here called grounded
+is a new first person either single player or co-op game where you can play
+with your friends online and it's basically a survival game where
+you're shrunk down to the size of an ant and it's coming to console and pc
+with the xbox game pass platform and even though i got early access to this
+game anyone can play this now on pc this year
+of 2020 now you can play this for free if you've
+got the xbox game pass for pc so what we can see through this gameplay
+here is that it's such a vibrant huge world
+and what we've got to do within here is build craft things and also
+fight our way through to get through the objectives and explore more things
+to eventually unshrink ourselves back to the size
+of a normal human however in order to get to this final objective it is
+actually quite difficult and i got to the stage where i found
+this oak tree and then a big spider ended up getting me
+though before i do eventually get eaten up by that spider
+i did play at 1080p and both 4k and benchmark
+at high settings at both these resolutions
+and this pc managed to do an absolutely fine job i mean
+it would definitely want to seeing is it's pretty much one of the best spec
+pcs you can get out there for gaming and not only that we've tuned it on top
+of that on both the cpu memory and the gpu they're looking a
+little bit deeper into this game i'm personally
+really enjoying the survivability aspect where you've got to keep eating food
+otherwise you'll then lose health and you've got to keep drinking fresh
+water otherwise again you'll lose health and there's other elements to the game
+like crafting your own weapons i managed to craft a pebble axe i
+actually like this with not just uh crafting and
+getting more materials you can just block quickly with it and the pace of
+the weapon is also pretty good now besides that
+there is unique factors to this game where
+there's say for instance a stinkbug will be attacking a spider and if you
+wish to get the spider then you can creep in and get a sneaky
+on that spider so there is really different elements to the game that i'm
+personally not used to especially when it comes to
+um survivability games they bring in this element of
+hey you can take an opportunity to survive
+and that's a really cool thing i mean obsidian do this with some of their
+original titles i mean if you guys remember the knights of the old republic
+two and pillars of eternity obsidian are the
+masterminds behind that so i'm definitely really enjoying this game
+but with that aside let's get to a conclusion now
+because we've finished up testing the fps
+with over half an hour of benchmarking here in total
+so let's take a look at what we've got but anyway here we are now with the
+benchmark numbers all finished up for you guys
+and i had to do one thing to this pc and that is
+take off the side glass panel that was covering our graphics card
+and with this panel off we then got our gpu temperatures
+going under 70 degrees which was very good considering
+this was with an overclock and this is the noise that you're going to be
+hearing whilst you're playing and once we did
+this i decided to not only re-test the 4k numbers
+but re-test the 1080p numbers and we got around 140 average fps
+on 1080p high settings and then at 4k high settings
+we got over 70 average fps so i was extremely impressed
+by what this pc could do and as opposed to grounded the game
+the best thing about this pc is that i don't have to unshrink it
+i can keep it small the way it is and with all that out of the way
+i hope you guys enjoyed today's shrunk down
+mini itx gaming pc hopefully we have beat the competition
+i actually won't know until this video is launched
+though speaking of launched as you're watching this gameplay grounded is now
+officially launched you can get it with the xbox game pass pc
+it's 4.95 cents a month during the beta access and this includes
+access to all these other games that microsoft has in its large pc game
+library you can get access to games like flight
+sim and halo infinite these are titles that will be available
+on xbox game pass for pc on release and there's also over a
+hundred games that you can play today if you decide to sign up and it's
+also showing that it's got the sign up for the first month for a
+dollar and you can also get access to perks where i'm going to be
+signing up and getting access to that spotify offer too that's pretty cool
+six months free spotify anyhow i'll put some links in the description below
+and fingers crossed that we win this competition i think
+that i scored a heap of good deals in order to make this happen and i mean
+hitting that budget exactly to the dollar
+is something that i've never done in the history of the channel
+so hopefully the competition will bring something to the table
+to match what tech yes has got and with that aside i'll catch you guys
+in another tech video very soon peace out for now
+bye but also if you've stayed this far and you want to see the content the
+moment it drops sub button ring that bell and i'll see
+you next time peace out for now again bye i'm just
+gonna go shrink myself and get back to this game
+[Music] yes 

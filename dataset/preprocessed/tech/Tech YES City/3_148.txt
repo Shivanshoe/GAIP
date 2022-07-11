@@ -1,0 +1,149 @@
+before we get into today's video first of 
+all thank each and every one of you guys   for the 500k sub mark here at tech yes city it's a 
+big milestone for me personally and thank each and   every one of you guys for hitting that sub button 
+and supporting us over the years though that said   that's the positive news let's get into what is 
+going to be the most awkward product review i   have done up until this date because in my opinion 
+there's now external forces outside of the tech   scene that's really messing up the prices and that 
+is of course i've spoken about this in the last   few months a thing known as inflation and to break 
+that down for you guys in a very simple manner   that is is when there's so much money being 
+created especially out of thin air that then   devalues the currency that we use which is dollars 
+in australia be aussie dollars in america it's   american dollars and then in the uk it'd be our 
+great british pounds so when there's a massive   creation of money especially when it's backed by 
+nothing and it starts circulating into the economy   suddenly everyone has more money to buy products 
+and the price of those products in nominal terms   goes up and i believe we're now starting to see 
+this effect come out in front of our very eyes   and that is with the 1199 usd msrp of the 3080ti 
+especially when we compare that to the 699 msrp   that we got with the 3080 last year and in fact 
+these cards in terms of their size and also   their weight and the cooler being used are almost 
+identical in that they share the same footprint   i'll put the dimensions and also the weight of the 
+30 ti up on the screen for you guys but now back   to the pricing which we're going to be talking 
+about this before we get into the numbers so if   you guys want to skip ahead to the gaming numbers 
+i'll put the chapter in the description below but   i feel like pricing and supply is a huge factor 
+here considering the little sibling the rtx 3080   is actually coming back into stock here locally 
+where i am but it's pretty much double the msrp   of what it was when it's first released now nvidia 
+are directly trying to address the pricing issue   themselves and they're putting on the 3080 ti 
+what's known as a low hash rate limiter and this   is affecting the dagger hashimoto mining algorithm 
+if you want to mine on a ethereum miner or if   you want a mine with nice hash then the rates of 
+ethereum on this card have dropped significantly   versus that of even a 30 80. however the other 
+algorithms are still available and they will mine   at quite profitable levels but as i've said in the 
+past i'll put a link to a video up here the mining   profitability of these other cards if they were 
+to get flooded by the sheer hashing power from the   ethereum market it would drop the profitability 
+down significantly so i think that's why nvidia   have really only bothered to target ethereum 
+mining with the release of their low hash rate   limiter which i'm also told is a hardware level 
+solution so the low hash rate limiter imposed by   nvidia will help curb the problem but the problem 
+will still exist regardless because miners will   pretty much target anything as long as mining 
+profitability is profitable now there's another   group added in there of course that's the scalpers 
+as long as supply is low scalpers will be doing   everything they can to secure a card especially 
+close to that msrp price if they can get them   from retailers who are trying their best to keep 
+prices low then they'll just go on ebay and resell   them too so now we know on these graphics 
+cards there's three different types of buyers   that is the gamer the crypto miner and the scalper 
+we can easily see that at current msrp levels   there is not enough supply to meet that demand 
+so what this traditionally means would be either   two things and that is the buyer either gives up 
+trying to buy one of these cards or there's supply   to alleviate the problem but then if we throw 
+in the third problem that we spoke about before   and that is inflation we can see that we're 
+met with a third external force that no one   seems to be talking about are these two and a 
+half thousand dollar prices going to become a   new norm and that is really only something that 
+the central bank themselves would know but in the   meantime i am holding on to my little friend 
+who will protect me against that third factor though let's get on to the 3080 ti finally and 
+talk about the performance where this card will   come very close to that of an rtx 3090 looking 
+at the 1080p gaming numbers we can see here this   card is nearly chart topping only slightly 
+bested by that at the 30 90. moving through 1080p   the nvidia and amd cards do trade blows but that 
+3080 ti is coming out near the top and then over   to call of duty cold war this was more of a title 
+for amd at 1080p in terms of its relative price   point versus the other price point of the cards at 
+least at msrp and then on to f1 2020 i decided to   test this game at dx11 for nvidia because they get 
+more fps and then dx12 for amd where they get more   fps over dx11 a bit of a weird dilemma with this 
+game but the 3080ti yet again performs very close   to that of the 3090. and then the last title will 
+go up here is shadow the tomb raider and i'm sure   at 1080p there are some cpu limitations starting 
+to come into play especially at the highest   graphical settings though under 1440p we are at an 
+in between here of course in between 1080p and 4k   and you can start to see that the memory 
+bandwidth on especially the 380ti and 3090   does start to stretch its legs a little bit 
+versus the amd counterparts as well as even   something like the 3080 which is where this 
+car does have the same bandwidth available   as its big brother the 3090 also f1 2020 the 
+performance is really solid especially if you're   playing at 144 hertz or 165 hertz and you want 
+to leave the detail absolutely maxed though 4k   is easily where the party is happening on the 
+3080 ti now at the back of the card you've got   that hdmi 2.1 it's going to support full rgb 444 
+120 hertz 4k with that extra bandwidth and this is   where this card really does shine as well as the 
+amd counterparts the 6800 xt and the 6900 xt they   do a great job of 4k 120 hertz too they're going 
+through these four titles this is where the gddr6x   and the bandwidth on the 3080ti and the 3090 do 
+start to pull ahead of the amd counterparts and   even that of the 3080 and what i'm going to show 
+you guys here with the shadow of the tomb raider   was i'm going to include the overclocked numbers 
+and the underclocked figures where the overclocked   numbers on this card were really impressive if 
+you're into dabbling into overclocking a little   bit especially if you get a water cooled 3080 
+ti then you can really extract some really high   fps and in fact it was comfortably beating the 
+30 90 by a lot and if we contrast that to the   power consumption that you're going to use we can 
+see here that the under volt is one to consider   two if you like to save power but you still want 
+to get really high fps of 4k and of course that   overclock uses up a little bit more power but it's 
+definitely going to give you some of the best fps   you can get period on pc gaming though we'll pull 
+up some dlss numbers here as well as ray trace   numbers where in fortnite if we look at the ray 
+tracing the 3080 ti does struggle a little bit if   it was one test i could pull up that does start 
+to show that perhaps the 12 gigabytes of vram   is a limitation on the 38 ti versus the 3090 this 
+would be the test where i did start to notice a   little bit more choppiness versus the 3090 but 
+if we then turn on dlss both at the 4k native   and the 4k with ray tracing on we can see here 
+the performance boost especially with the ray   tracing on is significant and it does push it into 
+the realm of a smooth experience even with epic   settings and then moving on to call of duty 
+this is with ray tracing on you can get a   smooth experience as well if you're happy playing 
+at 4k 60 but if we're looking at 4k uh 120 hertz   or 144 hertz having the dlss on balance gave us 
+a really nice picture but gave us fluid fps at 4k   so at the moment with ray tracing and dlss 
+it does depend on the title for me personally   i really liked dlss and ray tracing in cyberpunk 
+2077 i thought that was when the two came together   but most the time i will leave ray tracing off and 
+i use dlss on the balanced order quality profile   at 4k to get that extra detail but still get 
+smooth fps now amd have recently announced their   fsr technology we'll have to wait and see how 
+that performs in relation to dlss but hopefully   amd can get that out soon because at the moment 
+when you turn the dlss on it does give nvidia a   massive advantage at 4k so now that we are done 
+with the performance figures it's time for a   few critiquing points on the graphics card itself 
+now the weight of the card is coming over 1300   grams but i feel like a card of a flagship of 
+this nature you would want a bigger cooler where   i thought the 3080 was just cutting it but since 
+this does use up a bit more power the noise and   i'll pull up the noise and temps the temperatures 
+were getting a little bit high here going into 74   degrees and the noise was quite noticeable at 43 
+decibels so if you're paying a premium for a card   like the 3080ti i would like to see something in 
+between the 3080 and the 3090 in terms of cooling   and the size of that cooler that's adopted because 
+the 3090s cooling performance as well as the sheer   size that thing worked extremely well it was one 
+of the best coolers i've seen on a graphics card   period and then the 3080 was okay but however 
+this does use up a little bit more power and the   two 90mm fans even though the design does work as 
+proof with the 3090 versus some other really big   3090 cards the 3080 does i feel need a bit more 
+metal as witnessed with the 100 fan speed versus   80 fan speed as we can see a big drop there and 
+basically if that drop from 80 percent versus 100   fan speeds isn't as big as it is here then that 
+means the cooler doesn't need the faster fan   speeds which basically means there's enough metal 
+on board to do the job also included in the 3080ti   founders is the 12 pin to 2 8 pin connectors 
+and that's located in the middle of the card   and it goes on as such but it does 
+block out your side profile a little bit   if you were to try and mount the 3080 ti i would 
+suggest vertically mounting it and that would look   the best where the inside of cart has some slight 
+led glow as well as the geforce logo lighting up   with a glow of its own ultimately the founder's 
+card it does provide the fps and now it is time   to give you guys a conclusion and my thoughts on 
+this card right here and if we're looking at the   1199 msrp you're going to see that versus the 
+3080 the 3080 at 699 msrp was a much better buy   and so the 3080ti it leaves it in that field of 
+well we've just now got to look at street pricing   because i feel like nvidia have just said okay 
+1199 is what you can expect it to come in from   but we've got no idea when it will come in from 
+that and i believe the 1199 usd price point we   all know the card is going to come in much higher 
+than that and the market is going to pretty much   price this thing at possibly around 2 000 usd and 
+in australia i'm predicting it to come in stock   around two and a half thousand aussie dollars 
+and that's just being realistic based on what   i'm seeing especially in relation to the pricing 
+of the rtx 3080. now industry insiders say   with the amount of current demand that basically 
+you can expect this to go on even another year   if the supply isn't increased to match the massive 
+amount of demand but i'm predicting prices could   go even higher if the money printing continues 
+and as long as these massive six trillion dollar   stimulus bills are announced and interest rates 
+stay near zero we're all going to be feeling   the pain of higher prices and i'm starting to 
+witness this from anything from my local bakery   to things like bananas and gasoline prices 
+here locally everything is going up and the   graphics card going up as well is just another 
+side effect of that so what can one then do   in this environment and the answer to that would 
+probably what i'm doing anyway if you want to save   that is save in something other than dollars and 
+that's what i've been doing recently and actually   in the last four months i've been educating myself 
+heavily on the topic because as a person who likes   to save rather than borrow i have been called 
+out in a weird predicament during this whole   inflationary cycle that i feel is coming and is 
+being especially under-reported by news outlets   anyway before i get on out of here i'm not going 
+to sugarcoat anything this card right here the   pricing is just going to be completely messed up 
+but if you can get one and i'd say if you can get   one closer to that msrp and you can afford it and 
+that's what you really want then i would go for it   because who knows when all this madness will end i 
+have no idea i don't have a crystal ball and again   i think the only people that can give you that 
+answer are the central banks hope you've enjoyed   today's review if you did then be sure to hit that 
+like button for us and if you've got any questions   or comments about today's review be sure to drop 
+them in the comments section below but with that   said we do have here the question of the day which 
+comes from jordan stride and they ask hey mate   how do you find these pcs so cheap i'm in brisbane 
+and can't find any deals and answer this one   directly if you see a good deal especially in 
+the current climate we're in in 2021 then you   have to be quicker than you've ever been before so 
+when i see a good deal i pretty much sweep it up   as quick as i can and speaking of sweeping up a 
+deal do you guys think if this card was priced   at say 1500 aussie dollars or 1200 usd would you 
+sweep it up at that price point versus what it   realistically is going to go on to the market for 
+love reading your thoughts and opinions as always   if you stayed this far and you're enjoying that 
+tech guest content then be sure to hit that sub   button ring that bell once again thank you guys 
+so much for half a million subscribers it means a   lot to me and i'll catch you guys in another 
+tech video very soon peace out for now bye 

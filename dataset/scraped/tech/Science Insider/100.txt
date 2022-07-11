@@ -1,0 +1,63 @@
+There are an estimated... this many individual viruses on Earth. Luckily, there are only a little over 1,000 virus strains
+known to infect humans, the majority of which
+come from other animals. They're part of a group
+called zoonotic diseases, caused by bacteria, viruses,
+parasites, or fungi. And the one we're all focusing on now is the virus that causes COVID-19. And new ones can emerge at any time. Here's what needs to happen for a virus to jump
+from animals to humans. As a pathogen, the virus' goal is to infect its host and replicate, because it can't do that on its own. Let's say this pig is the
+original host of a virus. He and his buddies form a reservoir, a specific population of
+animals of the same species that naturally host a pathogen. Colin Parrish: So, there are
+millions of viruses out there infecting animals. Literally millions. I mean, the more we
+look, the more we find. And most of those viruses don't infect, you know, other animals. They have a restricted host range. Narrator: Most of the time, the virus doesn't affect its original host or only mildly affects it. So, what's it doing in there? Suppose that this pig hosts a virus that primarily infects the gut. Viruses tend to attack
+different parts of the body, depending on whether they
+can bind to these guys. Receptors are proteins found
+along the outside of a cell, used to communicate with
+the rest of the body. But viruses can latch on, too. Cells in a respiratory system
+may have different receptors than cells in a digestive tract. A virus does its thing by
+latching onto a host cell, entering it or injecting
+bits of itself into it, and then hijacking it. It forces the cell to
+make copies of the virus, all of which will go on to
+hijack other host cells. This will usually kill the host cell. And if enough of the
+host cells are infected and make more of the virus, the host will contract an infection, which, if the body can't fight
+it off or fights too hard, could lead to severe disease or death. In reservoirs, however, the
+species has likely evolved a resistance to the virus
+over many generations. This allows a sort of equilibrium; the immune system controls the infection without killing the virus off completely. If the virus jumps, though, a new host won't have that
+same, or any, immunity. That might sound scary, because truthfully you are constantly being
+exposed to viruses. But only a very small number succeed at infecting a new host species. It's called spillover, and there are a series of barriers that a virus must navigate
+for that to happen. If it's held up by even one of these, it can be stopped in its tracks. Simplified, they represent two things: Can the virus get to the new host's cells, and can it bind and enter them? The more infected pigs
+there are in one space and the closer they are to people, generally the more chance of spillover. But the likelihood also has to do with how the humans are interacting with them. Animal viruses are usually
+transmitted to people in a few ways: contact with excretions, slaughter, bites, contact with tissues, or through an intermediate species like mosquitoes or ticks. So places like farms and slaughterhouses and even petting zoos, where people come in close
+contact with animals, have an increased risk of spillover. Proximity alone isn't enough, though. Some of it can be genetic for humans. There's a huge list of genes
+that have been associated with different risks of infections, some genes offering resistance
+to certain infections and others increasing risk. Beyond genes, the virus has to get through the body's innate immune responses. Parrish: So, there's two
+types of immune responses. One is the simple
+adaptive immune responses, so those are antibodies and T cells, and they generally get stimulated after the infection has already occurred. The innate responses are the
+ones that are already present inside the cell that
+make a cell or a host, you know, resistant to the virus. Narrator: Unlike an adaptive response, an innate one can attempt
+to fight off any pathogen rather than a specific one. Mucus membranes, stomach
+acids, skin, sentinel cells, and even just a lack
+of the right receptors can stop a virus from infecting a person. So, this is when mutations
+are really important. A successful spillover
+usually doesn't happen with the original virus. Parrish: They have to gain some mutations that allow them to
+replicate most efficiently, allow them to overcome
+those host barriers. Narrator: A virus that infects the digestive system of the pig might attack respiratory cells in humans. It depends on what receptor
+the virus is suited for or mutates to be suited for. Once inside the new host cell, an infection will only be successful if the virus can replicate. Typically, infected cells
+will release interferons, proteins that stop the
+virus from replicating within the cell and in nearby cells, which contain the infection and stop it from spreading to new cells. If that doesn't work, the adaptive immune system kicks in. Your T cells suss out and
+kill already infected cells to stop them from making more new virus, while your white blood
+cells pump out antibodies specifically tailored to
+fight this new pathogen. But because the body has
+never seen this virus before, it can take weeks to
+produce the right ones. And immunodeficiencies in
+either type of response can make it even easier
+for a virus to take hold. So, if a virus gets through all that, contact, infection, replication, then it has successfully spilled over. But... Parrish: The virus has
+to be able to transmit. It has to be able to be shipped
+from that original person, and it has to be able to infect, you know, at least one or two more additional people so that you can start a
+chain of transmission. Narrator: A virus infecting two people has double the odds of going
+on to infect additional people, compared to a virus infecting just one. And this can continue until it reaches epidemic and pandemic proportions. COVID-19 was certainly not
+the first zoonotic disease, and it won't be the last. Viruses don't want to kill their hosts; no host means no virus. But new diseases are so dangerous because humans don't
+have the same immunity as the virus' reservoir host. And because there are so many, it's currently not possible to predict when or what specific
+viruses will spill over, but we do know the conditions
+in which spillover can occur. Parrish: You know, how
+and where they might occur and how we can put in place sort of better monitoring so that
+we can catch them early and, as they say, stamp them out before they get to the
+point where they become sort of an out-of-control epidemic. 

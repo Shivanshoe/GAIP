@@ -1,0 +1,124 @@
+what is crack-a-lackin everybody out there in 
+the used pc parts universe today we've got a new   series that has come about because i love turning 
+trash into treasure and what we've got here is   a pc that came back to me four and a half years 
+later where the original owners that i sold it to   they just said look i want to upgrade my pc this 
+one is old now it's pretty much full of dust and   dirt and when i get to windows it doesn't 
+work properly things have slowed down a lot   and my initial reaction was well we can probably 
+just reinstall windows for you and give it a quick   clean and it'll be good to go and they said no 
+they were adamant that they wanted an upgrade   they wanted to get rid of the old pc and to 
+my delight i was actually happy that this pc   was still booting four and a half years later 
+but before we get on to the transformation we   are going to be using an ultrasonic cleaner here 
+today and i got this off aliexpress for what i   consider a really good price because when i looked 
+at ultrasonic cleaners in the past they were   very expensive especially for a big one that you 
+would need to clean pc parts rather than jewelry   so we're going to be using this where i got it 
+from aliexpress and it came within a week which   was shocking because usually i'll express parts 
+they take over a month to get into the studio but   this one said it was shipped from australia and 
+to my surprise it actually was ship from australia   anyhow that aside let's start pulling apart this 
+dirty pc and then making it brand new and possibly   even refreshing it and giving it a new life 
+with even more performance let's get this party   started do you feel like this when you 
+see this well if so you can get rid of   that windows activation message with today's 
+video sponsored lcd keys for as little as 12   usd after you use that coupon bftyc 
+you can get activated today links below so here's the first fan right here and this thing 
+is absolutely filthy and then more so the graphics   card has seen a lot of usage you can look in there 
+and that thing has got some nasty amount of dust   do you want to know what it is but uh there's 
+a power supply and that's still running pretty   good like whatever this power supply was a hec 
+it's not half bad it did a pretty good job of   holding up all this time so what we're going to 
+do right now is we're first of all going to put   this power supply on the power supply tester 
+to see if it still is good and then after that   we're going to give these just a quick clean down 
+before we chuck them in the ultrasonic cleaner   and we're also going to clean down this case here 
+unfortunately the case won't fit in the ultrasonic   cleaner but it's pretty simple there's not a 
+whole lot to it i've still got to also remove   a fan out of the front of the case too and clean 
+that down and here's the motherboard too with the   the passive cooler i was lucky to see that the 
+passive cooler actually didn't collect any dust wow it still works and the reason we can tell is 
+that all the lights here on the left are lighting   up but also this pg up in the top right hand 
+corner that's not flashing and it's still good and pulling the cpu cooler off i couldn't help 
+but notice there was a i5 750 now there's a four   core four threaded cpu but since i7 860s are very 
+cheap we can also add another four threads onto   this cpu with a simple upgrade now of course you 
+can also use my favorite as well as xeon if you've   got one of them on hand or if you just want to 
+go on aliexpress and get one for dirt cheap and   for the ram we've got 8 gigabytes of ram but we 
+might always change it to 16 later on who knows wow you so did ding   the most important question with the ultrasonic 
+cleaner is does a motherboard fit oh i think it   does a motherboard fits what an absolute bargain 
+this thing is this is the ultrasonic cleaner baby   but it's still good of course the most important 
+part is it's still got to actually clean the products hello hello mamma mia look what the weather pop do oh look how clean that's coming out wow oh yeah if you look in you can see 
+this it's dirty it's just coming out   they've given it a good coat i'm gonna do this one oh so and now we're finished up with the pc 
+parts and what we've got right here   is the parts have been cleaned but they've still 
+got a little bit of water in them so what i'm   going to do now is get my trusty data vac which 
+just blows a heap of air on these parts i'm going   to get rid of all the moisture and then what i'm 
+gonna do is spray some multi-purpose spray on the   parts and i'm gonna leave it overnight and 
+then we'll come back to it and we'll finish   off the build in the morning but overall my 
+first impressions of this ultrasonic cleaner   i'm blown away this thing is very quick very 
+efficient and we just used some tap water and put   a bit of detergent in there but i know some people 
+will say well tap water you probably shouldn't use   it it can rust out the parts but this is one thing 
+where i have had experience with even though it's   my first time using the ultrasonic cleaner 
+i know with tap water on pc parts it's fine   as long as you get all the water out of the parts 
+quickly and then you put in something like this   water dispersant but another thing to be wary 
+of too is if you're using tap water make sure   that you don't put any live electronics even 
+if it's like a mouse or something with low   capacitance make sure you don't put any live 
+electronics in water that's from the tap   in that case you'd want to use the deionized 
+water which isn't uh conductive or capacitive   for a certain period of time but then after that 
+you it will become conductive and capacitive as   it gets those elements mixed into that water but 
+the bottom line with tap water is if you're using   especially on things like a power supply make sure 
+that power supply is completely drained which we   use the power supply tester to not only test the 
+power supply out but also drain the power supply   completely of any power when we turn off the power 
+supply at the unit itself and then that the power   supply tester will drain the rest of the power 
+out of that unit and then for the motherboard   we take out the battery and that makes sure 
+there's no electronics going through that either so so   so we're at the next morning and i just got back 
+from the dentist so half my mouth is like numb and   it's not moving properly but what we're gonna do 
+from here on is we're going to put these pc parts   together and make the pc build as it originally 
+once was and then after that we'll change over   two of the parts and make it a more updated pc 
+so we'll give you guys the best of both worlds   and hopefully by the time i do that my my i'll 
+be able to speak normally again for you guys so and now we've finished the pc it is up and 
+running absolutely fine with no problems so   really sometimes all your pc needs is just a 
+refresh with the install of windows and we've   also run a fire strike benchmark and i'll pull up 
+the scores for you guys the graphics is a little   over two and a half thousand the physics is just 
+under five thousand but what we're going to do now   is we're going to add in 16 gigabytes 
+of ram switch that from eight gigabytes   and then put in an i7 add four more threads 
+and then change the gpu over to an rx 570   and we'll come back to this score and we'll see 
+how we do oh and who can forget some led bling and after all that cleaning and bringing 
+this thing up and changing the parts now   we are left with a finished build that 
+will play games absolutely fine at 1080p   and with those fire strike scores we're seeing 
+that we're getting an uplift in performance of   roughly five times on the graphic score and then 
+on the cpu score we're getting 40 percent more   which gave us roughly overall a three times more 
+performance when it came to playing pc games in   general and that was all done on a very strict 
+budget where we kept the price of all the upgrades   under 200 aussie dollars with the rx 570 i got 
+that for a hundred and twenty dollars locally here   the i7 870 i got that for 20 dollars and then the 
+16 gigabytes of ram we picked that up on a deal   as well for thirty dollars and then three green 
+led fans for five dollars each for a total of   fifteen aussie dollars which brings the total just 
+under two hundred dollars or if you're in the us   that brings it just under 150 usd which means 
+that we grabbed a pc there was otherwise trash   the person didn't want it anymore they 
+couldn't be bothered with it they just wanted   to dump it off and get another system that worked 
+but when i saw it came in i just saw the potential   and then cleaning this thing up and now upgrading 
+it with some cheap upgrades has turned something   that otherwise someone would just chuck in the 
+rubbish and we've now brought it up to a pc that   is so fresh so clean and it'll play games pretty 
+well though the star of the show in today's video   was that ultrasonic cleaner for the price that 
+we paid for this thing i was blown away by how   quick and efficient this thing really was it was 
+really just enlightening to see that something   can be so good at cleaning and so quick and 
+efficient where we used hot tap water and we put   a bit of detergent in and the good thing about 
+that is it's going to save us money instead of   filling up a 10 liter plus tub full of expensive 
+chemicals we just go with that tap water now   as i said before if we do use tap water we're 
+going to make sure that we get every spec off   of water as quickly as possible too so things 
+don't rust out then after that i like to use the   multi-purpose spray which i pick up for around 
+three dollars a can so it's dirt cheap to use   it's not going to send you broke and it's just 
+going to do a great job of bringing everything up   to brand new and then some and protecting your 
+pc parts in the long run but that said i've now   got a pc that looks amazing is really quiet and 
+more importantly i'm going to flip this thing   and earn a bit of profit for my work done so i 
+hope you guys enjoyed the first episode of pc   ultra clean if you did then be sure to hit that 
+like button for us and also let us know in the   comment section below what do you think of the 
+finished product bringing it up from trash to   treasure it's one thing that i personally love 
+doing and it's one thing that i'm going to keep   doing i heard you guys over the last few months 
+you want me to get back to used price performance   and that's one thing i'm going to do and i'm going 
+to try and do it as best as i can and one more   thing before i get on out of here and that is i've 
+been talking with greg salazar he does his own pc   deep clean and with his series i think viewers 
+send in the pcs and he does his whole thing but   for me personally i'm going to be doing things 
+differently i'm going to be finding the deal   where the parts are in there and it has a lot 
+of potential and even in its current trash state   i feel like it's pretty good value 
+for money and then i'm going to be   bringing it up and then flipping it because that's 
+one thing i really enjoy doing even before i was   making youtube videos i was doing that with car 
+parts and it's just one thing that i really love   doing so if you want to send your pcs in i would 
+rather you just watch the video and try and learn   how to do this yourself and hopefully you can 
+start cleaning up pcs and restoring that trash   rather than it getting permanently trashed and 
+disposed of and making a new home for a gaming pc   so if you enjoyed this one then make sure 
+actually i'm going to go back to the past brian   whose jaw was still numb and we'll let him 
+do the outro for you guys and if you liked   today's video guys be sure to hit the subscribe 
+button and ring the bell because around tech sc   where it's meta f baby i'll catch you 
+in the next one peace out for now bye you 

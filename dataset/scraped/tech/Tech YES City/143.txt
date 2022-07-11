@@ -1,0 +1,128 @@
+so recently i got asked this question hiya brian 
+i need your advice i got money to burn at the   moment and i'm wondering if it's a good time to 
+move on from my vegas 64 and jump on the 3080   ti damn thing is about 2 000 plus you think 
+my 64 still has life in it by the way grass   on 500k subs and this is coming from a long-term 
+subscriber he's actually one of the original 300   subscribers here at tech year city that was back 
+when my channel was called a different name and   basically with the vega 64. in today's video we're 
+going to be answering this question directly and   we're going to be talking about why you shouldn't 
+even fathom the idea of paying over double msrp   for a card that is already a very high margin 
+product on nvidia's stack especially the 3080 ti   let's discuss hey there you apex legend mate get 
+it right i'm a steel legend if you're after a   motherboard to support those 11th gen cpus in the 
+azeroth legend h570 has you covered with an eight   phase power design 2.5 gigabits per second nick 
+pcie 4.0 and base frequency boost to support those   max turbo states on any of the 11th gen cpus then 
+this motherboard is certainly going to be for you   links in description below to find out more so at 
+1199 usd suggested price from nvidia this card was   already considered by most and myself included 
+a money grab from nvidia the expected price of   this card was considered to be coming in around 
+a thousand dollars this is where i thought this   card would come in at my review and considering 
+the 3090 was released earlier last year with   better performance and double the expensive gddr 
+6x vram for 300 more it puts the 3080 ti in a very   weird spot now also coupled with the fact that 
+miners aren't going to be targeting this card   anywhere near the likes that they would target 
+say a 30 60 ti or a 30 70 and you have a card   that is simply overpriced for gamers and wait 
+i think overpriced would be an understatement   massively overpriced is the correct term now 
+who's doing all this over pricing well i've   noticed it's not just the scalpers that are to 
+blame here i've started to notice that miners are   starting to become a little nervous which we'll 
+talk about in a separate upcoming video though   the advice is going to tie in with this video and 
+that is retailers are definitely starting to want   to put their hands in the proverbial cookie jar 
+so to speak and not just the distributors now   they're basically hanging onto their cards for 
+their dear life at high prices in hopes that the   unsuspecting gamer like manny for example with 
+some of their hard-earned cash will eagerly want   to get ripped off and it is actually starting to 
+show graphics cards are coming back into stock   the supply shortage is starting to become dictated 
+by the price and hence we were at a month ago   at a crucial leveling for profitability with 
+ethereum mining and now we're at a crucial point   for prices to start coming down to more realistic 
+levels you think of my brass is coming down   brian this is unheard of let me explain this 
+all boils down ultimately to one big factor   and that is cheap money we're starting to see the 
+governments are starting to not hand out as much   free money as they were before at least not in 
+australia and so when cheap money starts to become   less available well high prices start to abate and 
+that is exactly what we're starting to see now so   where do we go from here well in manny's case he 
+has already got a vega 64. and this is a graphics   card that is more than capable of playing games 
+especially the latest games with good frame rates   so waiting in order to upgrade to the latest 3080 
+ti would be highly recommended as prices have   reached a peak now especially for these higher 
+end cards and the 3080ti is being sold for nearly   double the already overpriced msrp in australia 
+these cards are going for 3 000 aussie dollars   when for example the 3080 was first released here 
+they would go on for around 1300 and even then   that was considered over asking price back then 
+though at least in the defense of the 3080 ti it   is still coming under that of a double msrp when 
+i checked ebay completed listings the two thousand   one hundred dollar mark that these cards are being 
+sold for represents about a seventy five percent   markup they have a little look at this when we 
+look at the sales prices of the 30 60 tis for   example they are going for around eleven hundred 
+dollars well over the 399 dollar price point   that they were suggested to come in at in fact 
+that's roughly a 175 percent markup versus the   75 markup on the 3080 ti so this right here is the 
+massive difference that miners add to the price of   cards chasing pure hash rate per watt that is 
+profitability though as the profitability drops   so will the prices of even the mighty 3060 ti but 
+what i'm going to recommend to manny going forward   might seem a little bit outlandish but it's going 
+to be the tech yes take and i've been doing this   for years i've been getting the deals buying and 
+selling doing my flips and it's something that   i'm going to be changing to personally i'm going 
+to be switching gears into and that is i would   suggest to manny to sell his vega 64 for 700 to a 
+miner and this is what i call the tech yes shuffle   knowing the market get yourself a 200 rx 474 
+gig so you're not having any downtime gaming and   you'll now have 500 in your pocket and then once 
+the gpu prices come back to more normal levels   you will now have yourself a much much cheaper rtx 
+3080 ti in fact you could be even saving as much   as 1300 doing this when you think about it since 
+the card should come back down to around twelve   hundred dollars in coming months and coupled with 
+your five hundred dollars profit you can make now   this drop from around the two thousand one 
+hundred dollar asking prices people are   asking for now could leave you in a much better 
+position so this is simply how you juggle in the   tough market where people especially the miners 
+they want graphics cards with six gigabytes vram   or more which means that if you're a gamer 
+purely a gamer you're going to be getting   better value on cards that are four gigabytes and 
+under and i think the rx 470 right now even though   it's overpriced it's still not as overpriced as 
+some of these higher vram cars especially the ones   that can be used for mining like the vega 64. so 
+since you've got a card that is being targeted by   ethereum miners i would honestly sell that get a 
+card that's not being targeted by ethereum miners   and then once the price of ethereum goes down 
+even more and the profitability sync even more   then you can come back in and buy that higher vram 
+card that was previously once targeted by ethereum   miners so it might be weird you came here for a 
+recommendation to upscale i'm recommending for   the time being to run lean and down scale 
+and so it might seem counterintuitive it   might seem like you're part of the problem but 
+you're actually becoming part of the solution   and that is driving out the dumb money from the 
+miners that are willing to pay these higher prices   and now we're going to go on to the counter 
+argument here because people are going to come   in and go well brian mining money's going to 
+stay profitable forever prices of ethereum are   just going to keep going up and if that was the 
+case then i don't think nvidia themselves or even   amd would even bother selling these cards to the 
+public they'd just start producing them themselves   and putting them on mining benches and going hey 
+what's the point of even selling these graphs   cards to the public we can just make so much 
+money crypto mining and selling off the crypto   that we don't even have to bother selling these 
+cards to the public but that's not the case   they're still selling the picks and the shovels 
+just like in the gold rush the only people that   were making money were the people selling the 
+picks and the shovels so if you've got the pick   and the shovel in this case the graphics card 
+i would suggest selling it right now and then   just waiting until the gold rush is over and then 
+you can buy your pick and shovel back for pennies   on the dollar but the next example i'm going to 
+pull up for you guys is a scary reality about   how even some of these miners are coming into the 
+market and they're losing money and we're seeing   the prices level out for these cards from last 
+month we had the peak in cryptocurrency prices   we also had the peak in cryptocurrency mining 
+profitability and that was at an all-time high so   here's where we saw the prices of the 6700 xt for 
+example that went from a thousand and ninety nine   dollars already massively overpriced from its msrp 
+up to twelve hundred and ninety nine dollars so   there was a few people who bought these cards at 
+12.99 but we're going to pay particular attention   to someone here that bought five cards in this 
+listing last month for 12.99 now if he had waited   a little bit longer he could have saved himself 
+roughly 600 already just by waiting to buy the   cards now so they've gone up to 1299 now they've 
+gone back down now to 1099 and he would have only   made 390 dollars profit from mining from those 
+five cards in that time at least according to what   to mine so this leaves this particular late comer 
+to mining in at a loss of 610 dollars currently   however if the prices of crypto start collapsing 
+then we could see this effect start to accelerate   much quicker much sooner so in a nutshell i know 
+you guys probably heard this before but this is   the time where i'm making content around it i'm 
+just telling people just to hold out all the signs   are pointing towards pricing coming down and the 
+sheer search interest in crypto is showing this as   well so actually a couple of months ago the first 
+time in history the term crypto outpaced that of   gaming but now that's dropping down the trend of 
+gaming is actually starting to go back up again   and crypto's starting to weigh off the general 
+interest in crypto in other words is dropping   off and so with all this hysteria and fomo and 
+elon musk pump tweets and the news just focused   on an elon musk tweet sending the crypto price up 
+and down and doggy coins 420 tweets all that stuff   along with the price is starting to drop off and 
+the most important thing to see with all this and   all the hype and hysteria is that the dumb money 
+has already been all soaked up and once this money   is out it only leaves one type of money left 
+in circulation and that is the smart money and   the smart money i'm going to tell you something 
+about that it sure doesn't want to hand it over to   someone else smart money usually doesn't hand over 
+smart money to someone at a grossly overpriced   level which is why i'm predicting prices will come 
+down sooner even within the next couple of weeks   anyway guys i hope you enjoyed today's video if 
+you did and be sure to hit that like button and   also let us know in the comments section below 
+do you think the advice that i'm giving out here   for manny as a fellow pc gamer is good advice 
+or not love reading those thoughts and opinions   as always and if you stayed this far and you're 
+enjoying that tech yes content be sure to smash   that sub button ring that bell to get the videos 
+as soon as they drop but with that aside we've   got the question of the day here and this comes 
+from blob and they ask best buy in the usa sold   a 30-70 pre-build by cyberpower for 1599 plus tax 
+is that a good price how does it compare to the   market in australia and if i'm comparing this to 
+australia it depends on what else is in that pc   for instance if it's a 9400 f and it's got 
+eight giga ram it might not be a good buy   but if for instance it's got a ryzen 7 3700 x or 
+it's got an i7 10 700 f 16 gig or 32 gig of ram   good power supply ssd hard drive the whole works 
+then it's actually a pretty solid price that's a   decent price for a 30 70 gaming build considering 
+everything else matches up with that card in terms   of balance so if you were to get a 30 70 build for 
+around 2 000 aussie dollars plus tax which would   be around 200 that would leave the build around 
+2.2 000 for a 30 70 build which i haven't seen   for a very long time here in australia which 
+means to me that that is a good price hope that   answers that question and i'll catch you guys in 
+another tech video very soon peace out for now bye you 

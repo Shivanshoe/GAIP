@@ -1,0 +1,215 @@
+[Music] [Music] foreign
+[Music] [Music]
+tonight tech yes citizens we're going to be building
+a pc to play microsoft's new flight simulator now i've heard
+that people are struggling to get the fps in this game they are
+having problems and this has been going on for forever in flight simulators flight
+simulators have always had problems getting really high fps so
+don't be surprised that microsoft's 2020 flight simulator
+isn't getting you the fps that you want like other potato games like
+say for instance valeran or fortnite they're very easy because
+there's not a whole lot going on in that game with the engine
+as opposed to a flight sim with so many different variables
+going on at the same time though if you've got fps
+problems the first thing you can try and this is a big important part of
+tonight's build is that we've got seven rgb fans in
+total three at the front we're going to be putting one at the back
+and then three on this 360 mil radiator which can be mounting at the top
+so we all know if you're enthusiast tech we all know
+rgb gives you more fps and it's going to be giving us more fps in this case
+because we're using the i5 10 600 k and that's because flight simulators at
+least the ones from microsoft have typically been
+very single thread heavy and dependent though we will check that out once we
+installed the game but i have a feeling the 10600k coupled
+with the z490 aorus pro ax motherboard and 4 400
+megahertz ddr4 memory is going to give us the best
+shot at getting the best fps on this game but for the graphics card
+with the rtx 2080 super here for morris and i'm hoping in this game at least the
+this graphics card won't be the bottleneck
+at least at 1080p but from what i'm hearing the cpu is the bottleneck in
+this game so we're going to give it the best shot
+it can and another thing as well aura sent over because they knew i was doing
+a microsoft flight simulator gaming pc they sent over two nvme drives to put in
+raid 0 because they've heard that these levels they've
+got massive levels and they take a long time
+to load so if you've got raid 0 that's going to speed up your load times
+for all the levels within flight simulator now with that aside today's
+video is sponsored by gigabyte and nvidia let's get on with this build
+and then install flight sim [Music] and here is the finished product with
+seven rgb fans ready to go now we've overclocked
+the cpu to 5.1 gigahertz and then we've left it on overnight stress testing
+as well as downloading all the games so i decided to download a couple more
+games because your first month on the xbox
+game pass pc is a dollar so that means you can play microsoft
+flight simulator 2020 for one buck like it's actually a really
+good deal right now anyhow it's finally time now to start
+benchmarking this game okay we've got to download web
+[Music] um okay so we've got to now download
+another 91 gigabytes of storage after we downloaded the initial 150
+gigabytes this is really weird uh yes uh hello
+i've just come to australia and i've experienced your
+for aussie internet so now this game is installed
+we can go from a comparison here from all the way on the low preset to the
+medium to the high end and then lastly to the ultra preset
+what we can see here is that straight away low settings
+is so taxing on this game it's incredible how taxing this game is on
+not just your cpu but your gpu too this is a 2080 super it's being taxed at
+60 percent and the graphics kind of look like on low settings at the very least
+they look like something from back in 2010 so
+if you can try to keep the settings on medium or above that's my
+recommendation but still you will want to have high-end hardware
+to get the most out of this game though if you've got the hardware and
+you've got the ability to turn the graphics up and get a decent playable
+experience then this game really does come to life
+even just flying around in this plane on my beautiful home city of the gold
+coast things like reflections off the windows
+and then outside just the lights coming on really are reminiscent of
+flying at night in a plane like it's scary
+how sort of realistic this game can get however this is for me personally where
+this game sort of does have that initial wow factor but
+it's really is geared up towards someone who
+is so enthusiastic about flying me personally i
+sort of just benchmarked it for you guys i've built a pc up
+but my passion doesn't lie in flying so i'm probably just gonna maybe jump into
+this game for a couple more days and then i'm
+pretty much done with it unless there's some really
+cool sort of like jet fighter stuff that i can kind of get
+into and maybe try and do some top gun stuff
+and uh pretend like i'm back in the 1980s in that tom cruise film but if
+someone's got like a top gun wingman package
+i would love to check it out please link it in the description below
+because i think that would be the most fun thing for me in this game or if
+you've got some kind of dog fights that you can
+have going on that would be really cool or if it's just
+strictly flight simulators only because yeah i kind of just i get bored and then
+i start trying to do tricks and i end up just
+doing some really bad crashes like you're seeing on the screen
+here the next up here is a game that took me by surprise if you guys
+remember way back in the day there was the original mech warrior and i actually
+played this on pc and then i went into a lot of different
+other games as time went on and now i'm coming back to this all these
+years later and there's mech warrior 5 aka mechwarrior 3015. now this game
+has rtx and when i was asked by nvidia and gigabyte to do a pc build that
+featured rtx i was kind of like well i want to play something that i actually
+enjoy like the actual game before we even look
+at rtx and this game really wasn't so enjoyable
+and then if you want you've got the option to
+turn on the rtx features which of course will drop the fps
+at 1080p here when we go from high settings without rtx on to high settings
+with rtx on we do drop a lot of fps roughly 30 but
+of course we do gain visual fidelity from that
+and it just makes the game just more immersive especially when there's a lot
+going on and believe me in this game there is a lot going on it's extremely
+difficult to play where you've constantly got to be moving
+strafing left and right watching to make sure you don't overheat
+and then making sure that you don't get
+overheated by the enemies just laying into you too so even on like a
+difficulty of one quarter this game is extremely difficult
+so i really impressed with this i definitely want to play it more
+after i'm finished up with this video because it's it's just that exciting
+and there we have it with the flight simulator gaming pc
+that has rgb it actually ran the game well from what i'm comparing it with
+other videos out there and the 10600k at 5.1 gigahertz
+this is overclocked and the memory speeds are clocked quite high
+so if you guys are serious about playing flight simulator then you're probably
+gonna have to be serious about the amount of money that
+gets extracted from your wallet because this game is very taxing on the
+cpu side of things and also on the gpu side too where even on low settings at
+1080p it's still utilizing a lot of resources
+from 2080 super but one thing i've straight away
+realized from this game is you'll either want to keep the settings between medium
+or ultra i find those two presets are the best in terms of visual experience
+but then if you're in a really heavy city with lots of
+cars moving and lots of stuff going on in big buildings
+then it will tax the fps even on one of these setups
+we had today which is kind of like the best hardware you can throw at it
+and we were still going into like 30 fps where if we dropped it into medium
+settings we then gained a lot more fps and then depending on the map so
+when i was flying on the gold coast the fps was a lot better
+so depending on the country and the flight route you take
+you will get a lot more fps going down and dropping the settings
+but then dropping down the settings to low showed us that the graphics between
+low and medium the presets was absolutely huge so my
+advice would be if you can stick to medium preset over low
+and if you can also take it up to ultra then you're going to gain a bit more
+visual fidelity over medium and then high end i found that was very
+close to ultra but ultra didn't tax it a whole lot more
+than the high settings though another thing i've learned from microsoft flight
+simulator is that you should never ask me to be your pilot
+because i'm hopeless at flying both in the pilot seat at least in this game
+and when it comes to being a passenger irl i'm not a big avid
+enthusiast of flying and it's funny because neither is dead man he's always
+sort of just never really wanted to fly too much so
+that said if you are getting into flying or you're a pilot then you can lose
+yourself in this game for most likely days months or even
+years because it is just massive where you can make your own
+custom flight routes fly over different areas of the world
+so it's definitely impressive what microsoft have done here with this game
+in terms of the gameplay itself though the optimization of the game itself does
+leave a little bit to be desired i see a lot of people comparing this
+game to crisis on the internet and it definitely is similar in terms of
+needing high-end hardware to run it properly
+just like crysis did but if i look back at crisis 3 specifically
+that game was very well optimized on the cpu side
+at least from my memory where it would max out the gpu
+at 100 a lot of the times even on ultra settings on this game i
+couldn't see most the time my gpu sitting at 99
+percent near 100 percent and so that means that there is a little
+bit more to be desired in terms of optimization on the cpu side
+and we've got a 10 600 k here overclocked to 5.1 gigahertz with some
+high speed memory too so one thing about this game is if you do
+want to get the most fps possible then you definitely want to get an
+overclockable cpu combo with a good cooler and start getting
+into the world of overclocking especially if you're going to sink
+hours and hours of time into this thing then it will give you a nice sizable
+boost so after that i jumped into the mech
+3015 and that was a lot of fun especially the difficulty i found this
+game very difficult to play like it had a lot going on
+where if you're looking for a i guess a hard to play
+mech game that's got the ray tracing involved
+and it's got all the graphics and it looks really good and plays really well
+then i can recommend this game it's definitely a lot of fun
+and then because i'm on my first month of game pass i saw the new battle toads
+there and i started to jump into that and
+start playing that for a bit so the game's definitely on this
+platform at least if you're going to join
+for just say a three month stint you're going to get a lot
+of value worth out of that game pass in the first three months at least anyway
+so there's some really good games on the
+platform they're not just cheap crappy games that no one's playing anymore
+these are games that are really like in demand and have a high price tag so
+it's good to see microsoft doing some good with not just flight simulator
+but also the game pass itself anyhow if you guys enjoyed today's video then be
+sure to hit that like button also if you want to build a pc similar to this
+then i will leave some links in the description below for you and let us
+know in the comment section below have you played
+microsoft's flight simulator 2020 yet if so what did you think of it
+are you into flying yourself unlike me love reading your thoughts and opinions
+as always just like this question of the day here which comes from mario stabik
+and they ask hi i have a question is it worth
+to upgrade from the 750 ti to the gtx 1050 ti
+i have a feeling that is not much of a difference and at first i was going to
+say no but then i thought about it a bit
+more and the temper ti is actually a sizeable upgrade over the
+750 ti though i wouldn't go out and pay market
+rates for a 1050 ti because they're currently in my opinion
+quite overpriced where a lot of people at least where i live
+are just going out and buying 1650 supers
+brand new off the shelf because a lot of people are trying to ask too much for a
+1050 ti so if you can get one for a really good
+deal locally whether it's off a friend or off someone
+in the marketplace locally where you are then you can snap it up and you will get
+a sizeable boost but if you're looking for market rate prices i'd either stick
+to say an rx 470 which can be really cheap on the used
+market or go with the 1650 super because i'm guessing you're going with a
+750 ti or a 1080 ti you've probably got a rig that doesn't
+have a high powered sue in there or a leaser in there and you um are
+looking to looking just to get a quick and easy
+upgrade so hopefully that answers that question
+and if you guys have stayed this far and you're enjoying that content you want to
+see at the moment it drops monitors just run out again that's a
+weird one that's two videos in a row now if you want to see the content the
+moment it drops be sure to hit that sub button and ring that bell
+and i'll catch you in another tech video very soon peace out for now
+bye [Music]
+oh 

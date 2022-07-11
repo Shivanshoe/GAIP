@@ -1,0 +1,100 @@
+welcome to pc ultra clean episode 3, where today 
+we're going to be taking this absolutely filthy pc   and we're going to be turning it into what i 
+would consider a brand new looking pc where if   along the way we come into any problems we're 
+going to detail them and also fix them up. Now   this pc came in from a friend they actually 
+said Bryan we saw the pc ultra clean series   and we want you to just give this pc some real 
+tech yes ultra clean loving and i was like okay   well uh they said look we want to help you out 
+for your services so my friend is a naturopath   so he actually is going to be giving me five tubs 
+of cinnamon and honey so i can put that in my tea   so i'm very happy and also some other goodies and 
+in return i'm going to be turning this thing in   and making it work again however i'm probably 
+making this sound like it's easier said than done   this is the filthiest come through yet in 
+the series there is gunk in the front of   the pc there's like this mixture of oil and 
+dirt on the cpu fan it's almost like someone   was i i don't know my experience when someone 
+smokes and they game in the same room and   there's a lot of dust in there it makes this real 
+thick residue of dust it's nothing fun to clean   but we're going to be doing a three-phase step 
+on this where we're going to be dusting it all   down first taking all the components out and 
+then cleaning all the components individually   and also the case itself and then putting it all 
+back together and then seeing what problems are   wrong now the person who did bring it in they 
+said look brian the ssd we believe is faulty   so they've given us another ssd to change 
+over but as you know with computer problems   what what seems like one problem may turn into 
+a plethora of other problems and you also may   be wondering too you're like brian why are you 
+sounding like you're excited to clean this pc   and that's because tech yes loving is one thing 
+that i do so sit back wherever you are in the   world and enjoy the show hey bro are you tired 
+of seeing this annoying activate windows message   then if so today's video sponsor scd keys has you 
+covered for as little as 14 using the coupon code   bftyc you can get activated today works for 
+windows 11 pro 2. links in description below and we've pulled everything apart and what i've 
+done is i've separated this into two piles this   one over here is going to be the alcohol 
+wipes and wd-40 pile basically we're not   putting that in the ultrasonic cleaner then this 
+pile over here we're going to be putting all this   through the ultrasonic cleaner and seeing 
+just how it brings all this stuff up i mean   look at this gunk look at that fan i mean 
+that's absolutely filthy so let's get on with it   i haven't even booted this thing up and checked 
+the specs yet but it's got a gtx 1063 gigabyte   and for the cpu we are looking at oh man my 
+finger ain't going to be able to get that off oh a nice 760 6700 finish him and now we're here with the first phase of all 
+this cleaning done and that is the motherboard   the gpu the power supply and the big fans and 
+also the front panel so we're going to go out   there now and do the second phase and that's 
+where we're going to clean that case down and   all the other big components however you may have 
+noticed this msi gpu is sporting a different fan   now and that's because when we're cleaning it the 
+fins just broke off they were very brittle so i   i mean that can happen but it also has to 
+do with the fact that my thumb did collide   with the fan while it was spinning but not to 
+worry we do have another fan here that we've   sort of uh retro fitted on and hopefully it even 
+does a better job than the original fan but we'll   find out if that's true or not when we do the 
+temperature test let's go finish this rig off so so we're finally finished now cleaning that 
+case and we're going to leave this here   out overnight because this case was just so much 
+more dirtier than what i thought it would be like   here's all the uh cleaning cloths that we used to 
+get all the dirt off just that inside of the case   so this thing was absolutely filthy and so what 
+i did after i cleaned it all down was i gave it a   final coat just a massive coat of multi-purpose 
+spray which i'm going to leave there overnight   to really just let it all sink in and then in the 
+morning i'll give it a blow job with the with the   data vac and um then also we'll start putting this 
+pc together finally and seeing how it turns out tonight so finally we've completed the build after all   that cleaning and tech yes 
+loving its time to fire it up hey   and here we are now the next morning finish this 
+pc i've booted it up into a game of apex legends   just to test the fps out and the fps is smooth on 
+high settings we're getting around 70 fps at 1080p   then at low settings around about 100 fps so this 
+pc is more than capable of playing games at 1080p   and the temperatures was the most surprising 
+thing because i changed that fan over on the gpu   and i kind of got a feeling it's running better 
+than stock now because the fan is really quiet   but the gpu won't go over 70 degrees so the 
+most i saw in a stress test was 68 degrees   and to be honest that fan just crumbled to 
+pieces and so perhaps over the years the   plastic just got really weak and then we washed 
+it and that just pretty much was the straw that   broke the camel's back sort of thing but in terms 
+of adding parts into the build there was nothing   we had to really change out except just a lot 
+of cleaning and as we saw in yesterday's uh   finishing off of this case there was just so 
+much dirt and grime that came off this thing   i'm guessing the person who had it originally 
+never gave it a clean at all since when they built   it and since in this point in time so i'm grateful 
+that we could bring this pc up to what it should   be when it was originally built and even then i 
+think we've added some finishing touches like the   extra fan on the graphics card so i'm really happy 
+with this piece of work if you guys enjoyed this   one then be sure to hit that like button for us 
+also let us know in the comments section below   what you're thinking about this uh whole build 
+right here would there be things that you'd do   differently or change i just think that we've just 
+gone with the og let's clean it up and replace as   little as possible and get it working really well 
+and that's exactly what we did here now a lot of   people are asking about the ultrasonic cleaner 
+basically it's one that i get off aliexpress i   every time i guess i do this ultra clean series 
+the ultra clean comes from the ultrasonic cleaner   that's why i call it that and so that thing just 
+really really just goes to work on all the parts   that you chuck in that thing and i just use hot 
+tap water and then i use the 70 degree setting and   i give it 15 minutes and i was really surprised 
+because this time i decided really not to clean   anything before i put it in the ultrasonic cleaner 
+i just wanted to see how it would go and what it   would do and it came out really like better than i 
+expected it just basically cleaned the parts from   tip to toe without me even touching them so i put 
+the uh especially those big 20 centimeter fence   i decided okay well we can wear we can weigh 
+some alcohol wipes trying to clean them   or we can just see if the ultrasonic cleaner 
+can go a step further and clean that stuff off   without even any intervention and that's exactly 
+what it did if you guys are going to be doing a   lot of cleaning especially when it comes to pc 
+parts then i can definitely swear by this thing   it's really just the way it brings up the stuff 
+and then after we do that clean we get all the   water off and then we add in the multi-purpose 
+and i definitely feel like this combo   cannot be beat in terms of the finished product 
+that it brings up but also on top of that   i feel like it's really efficient in start to 
+finish so here it is a pc that looked like it came   out of the dumpster to now looking like it's brand 
+new and so when i present this pc back to rick   i'm pretty sure that's the person who's dropped 
+it off they're going to be over the moon with   it i just know they are because yeah when they 
+dropped it off i'm pretty sure they thought that   this was a bit too much of a task for 
+good old tech yes but when i saw it i just   my eyes lit up there was a smile a certain aspect 
+that i knew what it could be you could see that   potential anyway guys if you see potential in 
+tech yeah city videos then you know what to do   hit that like button hit the sub and ring the bell 
+and i've also got the question of the day here   which comes from sanjay chappelle and they ask 
+looks like that motherboard was missing the   original metal cpu cooler backplate how did you 
+deal with that so when i'm missing a backplate   on my motherboard my first instinct is to go 
+through my i o shield bin which over the years   all the dead motherboards i've always kept the 
+back plates from those motherboards and sometimes   they they're close enough to fit and you just 
+jiggle around with them a little bit and you'll   get something that's similar or you might have 
+a direct replacement so if you guys ever have a   faulty motherboard and it's just completely toast 
+just keep some of the parts off that motherboard   including the i o shield because it might come 
+in handy in the future anyhow hope that answers   that question and i'll catch you guys in the 
+next tech video very soon peace out for now bye is 
