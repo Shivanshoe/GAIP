@@ -1,0 +1,153 @@
+today here at Tech yes City I'm going to
+be reviewing the 3900 XT and also the 3800 XT for you guys and straight away
+out of the bat AMD even in their own official notes are
+saying that these CPUs haven't optimized seven nanometers versus the previous X
+counterparts but another important factor here is at the 3800 and the 3900
+xt chips don't include a race prism cooler which you usually get on the X
+counterparts another thing too is that the 3600 XT does carry the Wraiths fire
+cooler and so they're coming in at these same MSRP pricing as the original X
+chips but what is different with these chips inherently what I've seen here is
+the AMD and their notes they're saying around 200 megahertz higher and I found
+this very true for the 3800 XT but not so much for the 3900 XT and now for
+advertised speeds we've got here 3.8 gigahertz all core on the 3900 XT and
+4.7 gigahertz single called boost and then on the 3800 XT we get 3.9 all core
+4.7 single core then on these 3600 XT you get three point eight and four point
+five now in terms of the architecture itself nothing has inherently changed
+with the CC X clusters in CCD module basically with rising 3000 you've got
+four cores per CC X cluster and then eight cores per CCD module maximum and
+then 16 cores for a maximum on the m4 platform with the 39 50x and with that
+we see nothing changes on the 3,800 XT having 2 CC x modules on a single CCD
+giving you 8 core 16 threads and then move over to the 3900 XT we've got that
+split across 4 CC x clusters over to C CDs for a total of 3 + 3 + 3 + 3 which
+gives you 12 cores 24 threads now the CC x latency is pretty consistent across
+the CPUs here with these 3300 X being the outlier on Rison 3000 chips since
+that is a single CC X design there is no inter CC x latency on this particular
+CPU which does make it the king of some situations in games on the AMD am 4
+platform if you want to check out my overclocking video on that I'll put the
+link up here though going back to the 38 and 39 hundred x t chips I'm going to be
+comparing it against the current popular three thousands and
+chips out there and telling you guys why I think the 3,800 XT may be worth a
+purchase but perhaps not so much for the 3900 XT let's roll that intro and then
+talk about the benchmarks [Music]
+so getting straight into the benchmarks I'm only going to show the overclocked
+numbers for the X versus the XT counterparts just to reduce the clutter
+and basically this is going to pertain directly to the recommendation here and
+so we're saying with 7-zip that we do squeeze out a bit more performance on
+both these XT ships and when we overclock the 3800 XT it went up to a
+whopping 4.6 gigahertz which to say the least is the highest overclock I have
+seen here for a risin 3,000 chip at the studio even compared to that of the
+3,300 X which went up to four point five seven five gigahertz this was 4.6
+gigahertz stable I couldn't get any more out of it but it was still good to hit
+that all core score the memory at a centre bench we can see here that the
+3,800 xt follows in tandem with its overclocked differential versus the x
+counterpart that the 3900 xt does get an extra hundred and twenty-five megahertz
+so not as much as the 3800 xt gained over the X there and even though that I
+could boot in at four point five five gigahertz it just presented the problem
+of it would only max out four point four seven five gigahertz and this was the
+most I could get out of it so the overclocks
+basically when we look at it on the twelve core versus the eight core the a
+core that we've got in here is overclocking very well and it's
+overclocking better than the twelve core in comparison even though the out of the
+box scores show a bigger difference on the 12 core the movie through Geekbench
+5.1 we can see here that the 3900 xt and also the 3800 xt has some very
+impressive single core boosts out of the box I was actually very impressed with
+the 3,800 XT going up to around four point seven five gigahertz single core
+and I did indeed validate this with Cinebench are twenty run around a single
+core boost in that it seemed to fluctuate between four point six and
+four point seven five on both the 3900 XT and 3,800 XT so they're pretty much
+programmed with that same boost that you see but it's good to see that you're at
+least getting that advertised four point seven gigahertz on the box coming out in
+real effect where as opposed to the 3900 X when I initially reviewed that it
+wasn't really going near that box score but
+like a lot of updates later it is getting a bit more performance but it's
+still not performing as good as the XT counterparts but I may be out of v-ray
+we've got the multi-core scores here moving in sync with the previous three
+benchmarks we showed here and then continued out of w prime two point one
+we can see here that the multi thread overclock is winning out both on the 32
+m and 102 for M scores which means that when we moving on with the gaming
+benchmarks I will say that I do prefer manually overclocking these XT chips as
+opposed to originally with a 3900 X and the 3700 X that I had for review and
+then later I got a 3,800 X I just prefer putting them on out of the box settings
+where they ran really well but I feel like there's a bit more to be gained out
+of manually overclocking and we'll start with warzone here because this is
+important to see that when you've got the precision boost out of the box or
+just default settings when I put it into my motherboard boot it up and lock in 30
+600 megahertz XMP profiles which is what we used here today CL 16 we can see that
+the multi-core boost sort of doesn't know which level it wants to sit at on
+the 3900 XT it's going between four point two five four point three
+gigahertz and then on the 3,800 XT it's sort of bouncing between four point four
+and four point five gigahertz needless to say it did score some impressive
+numbers in warzone on both the 3,800 XT and 3900 X C there's virtually no
+difference between overclocking and leaving it out of the box on this
+particular game though it is important to note that 3,800 XT did beat that of
+the 3900 XT mainly due to it having a higher or Core boost to begin with the
+movement of fortnight we saw these CPUs trade blows but it's something that I'm
+noticing is when you manually overclock the CPUs they do fare quite a bit better
+than they would with a out-of-the-box precision boost
+so perhaps precision boost can't read the game too well in this particular
+manner and so manually over clogging and leaving a cause at a consistent speed
+gives you consistently better fps and then the last title we've got up here
+shadow of the Tomb Raider with SMA a turned on and the overclock on the 3,800
+XT did score a big victory out of the 3100 XTS precision boost
+the box the 3900 XT virtually scored the same with the overclock getting a slight
+one FPS advantage but nothing to write home about
+so summarizing those results and now giving you guys a recommendation I think
+that the 3,800 XT is definitely worth consideration with it's very aggressive
+precision boost overdrive which I will point out quickly the TDP figures where
+we went up to a hundred and forty watts out of the box
+AMD did stay in the reviewers guide they would prefer us to turn off the
+precision boost but one thing I know is is that if motherboard manufacturers a
+Zeus MSI gigabyte asrock if they're all selling these boards with that stuff
+turned on by default and it works really well and I think it does work really
+well then I'm gonna test it as such and so I saw the 3800 XT boosting system
+really healthy levels out of the box healthier than that of a 3,800 X and
+then beating that of the 3700 X so it was a really nice CPU for someone who
+wants to go with AMD and get the best FPS possible in games keep in mind the
+3300 X in certain situations may be slightly better but for what it's worth
+I think this with its eight cores 16 threads we don't mind spending an extra
+$100 or so over the 3700 X but also are bringing their own cooler to the table
+and they don't mind losing out on the wraith prism so overall the value really
+isn't there but you are getting that top-notch performance in games with the
+3800 xt so I think if you want to go with enthusiasts overclocks for games
+and even stream where you're using the GPU encoder then this CPU is going to
+deliver just keep in mind it's not gonna be the best value for money that AMD is
+offering the last up here we got the 3900 XT and I feel like this is not as
+appealing as the 3800 XT and in fact I would recommend going buying a 3900 X
+over a 3900 x10 the reason being was I didn't see as big as a performance
+differential as I did on the 3800 XT but another big factor is the current
+pricing of the 3900 X in Australia you can get this thing for 750 Aussie
+dollars with the Wraith prism included and you can get it in a mirror
+for around 420 USD which makes it hard to beat I'd imagine the 3900 xt is gonna
+come out close to MSRP and not include that race prism and of course you're
+only getting a bit more performance as opposed to 3,800 XT you'll be saving a
+hundred bucks and getting better fps in most games so I feel like if you're
+going with the twelve core 24 threat option you're doing so with value and
+productivity in mind as opposed to the eight core where you're doing it with
+more so the gaming focus in mind so the 3900 xt really wins out with that value
+proposition and I mean lastly with that said the 3700 X is coming in at
+currently 270 u.s. in a straight you can pick it up for low $500 e dollars making
+that an exceptional value for money proposition so ultimately if you care
+about value for money these two are not going to be it but I do feel like the
+3,800 XT warrants itself as a good placeholder for someone who wants the
+best overclocks on the AMD side and with that of course the best FPS from what
+AMD has to offer though with all that out of the way do let us know in the
+comments section below what you think of the results of these
+two CPUs in today's review would you be interested in getting one or the other
+or none of them love reading your thoughts and opinions as always just
+like this question of the day here which comes from AD Nast and they asked take a
+city you say prices are going to come down what sort of timeframe do you
+foresee as I want to build a system that prices still seem very high question
+mark where is the best place to buy new parts from online or if you know
+anywhere in Adelaide to go to so to answer that question this is coming from
+someone who's in Australia in Australia the best place to buy PC parts is
+usually online there's a few good retailers like computer Alliance you
+might pc k's gear m sy and em wav and they really give out some really good
+deals there's also ebay with the 20% off sales in australia they offer some
+phenomenal value for money so basically when i make these
+predictions they're usually around three to six months that's when I feel the
+prices will really come down and with that aside if you guys enjoyed this one
+be sure to hit that like button also if you want to see more of the con
+the moment it drops here be sure to hit that sub button ring that bell and share
+the video around if you liked it share it to your friends if they're thinking
+about getting on AMD and they're getting the best FPS for their money and I'll
+catch you guys in a nother tech video very soon peace out for now bye [Music] 

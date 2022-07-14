@@ -1,0 +1,208 @@
+here is asrock's latest addition to the
+b550 family the phantom gaming itx/ax where that stands
+for ax wi-fi wifi 6 it's also got
+bluetooth 5.1 on board and this does differ a little bit to the
+x570 phantom gaming itx we'll go through those differences today
+but let's go uh first of all through the price range where we've got this coming
+in at 199 usd and then for the x570 we're looking
+at 240 usd so it's a 40 us dollar difference between the b550
+version and the x570 version in australia we're looking at 399
+currently at the prices recommended retail prices
+versus 449. so i would like to see the australian
+pricing be corrected a little bit i mean when we convert that 200 usd into aussie
+dollars that's 280 aussie dollars roughly i mean
+of course we've got taxes there's not a big of a market but really
+there's a lot of sort of difference in those two prices
+there between australia and the us so basically
+in the us this board is pretty well priced and we're going to get on to
+why it's pretty well priced right now with the vrm details where they're
+putting in eight phase six plus two phases
+and that's true phases there's no doublers there's no
+moss drivers in here and we've got 90 amp
+chokes as well as 90 amp intercell mosfets so these are the
+isl99390s and then for the socs they're using the isl
+99227s they're 60s but of course those six phases dedicated towards the cpu
+does a phenomenal job uh for an itx board right we've got a 3950x and we've
+loaded this thing up both at stock and at 4.3 gigahertz for finishing off
+the vrm details we've got tantalum caps here on board this is what
+makes this vrm very special too so the vrm even though you're not getting as
+many phases as you used to with other motherboards that are bigger
+and around this price point you are getting a better quality vrm
+which does make up the difference and it does make up
+the difference quite well we're out of the box it's going to boost the 3950x to
+4.025 gigahertz on all 16 calls 32 threads this enables us to get over 9
+000 points in cinebench single core we're getting 516 so the
+single core could go a little bit higher than what i'm used to seeing
+but then again the all core speeds are beautiful on this board going higher
+than that of any of the b550s i did in the other
+comparison and it also runs 4 400 megahertz memory
+absolutely fine on the xmp stuff this is the aorus memory modules
+that we've used for all our testing just to test if there's any problems with
+compatibility and booting up with this memory now
+overclocking 4.3 gigahertz all cores this managed to do this
+and it did it whilst getting around 89 degrees maximum on the ir readout as
+well as getting to 91 degrees on the software readout and then 86 on
+the heatsink now the heatsink weighs in at about 80 grams so it is a
+little bit anemic compared to other heatsinks but again it
+is itx and the vrm is quite efficient
+especially out of the box we'll get onto the temperatures quickly there
+where we're scoring roughly 80 degrees in software and in hardware 79 degrees
+and then 73 degrees for the heatsink so the vrm is not
+getting a whole lot hotter for uh pushing out the 4.3 gigahertz all core
+overclock where it is using an extra 50 watts from the wall so it's
+using about 260 watts from the wall out of the box and then
+when we overclock it's using about 315 watts so
+it does lose a little bit of efficiency when you start to overclock it i guess
+the vrm is getting a little bit hot that's making it inefficient in itself
+but still b550 boards around this price range
+even versus the bigger brothers it is doing a really good job on efficiency
+and the 90 degrees that's sort of like my maximum that i would like to keep a
+vrm at for all day every day operation and
+this does uh pass that test and so it is a
+pretty solid border and so the good thing is
+the vrm efficiency is there and if you want to put a fan
+over the vrm you'll get cooler temperatures and possibly even
+better power efficiency since it will be then running cooler but what it's worth
+vrm very solid implementation you are losing two phases versus the x570
+version of this board but you are gaining 90 amp
+chokes and mosfets versus 60 amps on the x570 solution another difference is the
+mounting bracket this is am4 mounting the x570 version
+actually has the intel lga 1150 mounting bracket now moving
+through the m.2 configuration we've got two m.2 slots on this board one on the
+front one on the rear the front one carries a heat sink this
+is a hyper slot so it'll only support mvme pcie
+the one on the back is ultra sort of but support both sata
+and pcie nvme solutions however it will only support it that gen 3
+x4 speeds is the front one will do x4 gen
+4. and i tested out the speeds that are working absolutely fine the temperatures
+were getting up to around 72 degrees with this pci4 device
+however without the heat sink on it was just simply overheating and it would
+shut the whole system off so that's something to be aware of
+this heatsink if you want to use a very fast drive you will need cooling
+and this cooling does do a decent job it's certainly not the best cooling i've
+seen come through the studio here but it does get the job done so moving
+through the onboard audio numbers of course
+if you're buying a mini itx solution you probably want good audio
+because you don't have any extra pcie slots to add
+an extra device and also since you're going small maybe a usb interface is out
+of the question and so here's where the realtek 12 20
+adc and dax solution does deliver some decent numbers not the
+best i've seen minus 5.2 decibels 0 to 10 hertz of roll off there and then
+after that relatively flat with a 0.1 decibel roll-off after 10 to 20k
+kilohertz and then the crosstalk is actually very low
+up until a volume level of 90 then after that we start to get spikes on the left
+channel so basically if you're using this
+on-board audio keep it at a volume level of 90 or below
+then for the mic input this is actually very good
+if you're looking at it in one way and that is the volume level overall i found
+was a lot lower than i'm used to hearing so even though
+it goes up to 100 plus 30 db it's doing so with no noise but even
+then that input level is very uh i guess low compared to other
+mic input solutions so there is no noise but you will have to have a sensitive
+mic to get the most out of this input port
+they're going through the rest of the features here bios absolutely fine
+got all the options if you want to overclock save 10 profiles you can
+control the three different pwm fan headers individually if you want to
+you've got 12 volt and 5 volt rgb one of those being addressable that's the 5
+volt of course but you can't control this within the
+bias something i've critiqued azeroth 4 since on the intel side of things
+they tend to offer this option with the rgb control within the bios itself
+and there's also no bass flashing via the internet which i'd like to see them
+bring both these things on the amd side but besides that the bios
+is really well built very simple to use it's also got all the advanced features
+if you want to go that far in then going over the rear of
+this board this is where it starts to differ a bit
+to the x570 version 2. we've got usb 3.2 instead of thunderbolt support on the
+x570 so if you do need that thunderbolt support on amd's side
+then the x570 solution is going to be for you for sure
+though we are losing the uh also optical out for the audio here as well as the
+manual 5.1 versus the line in mic in and audio out
+only then we're also getting an extra usb
+type a port for five in total plus the type c so six in total versus five
+on the x570 and the x570 does have a ps2 port
+which this is missing so in the box you also get your sider cables included
+antenna which is the same on both the x570 and
+b550 versions then the last difference is the nik
+2.5 gigabit solution versus one gigabit on the x570
+and so that leaves us now to conclusion time
+with this motherboard right here is it worth the money
+and i'm going to definitely say yes i like where this board's coming in in
+fact i'm going to be using this in a build where i'm going to be
+changing over to amd for my main rig with mini itx theory i think mini itx
+has i guess you know technically it's got
+the shortest traces which technically would mean the best
+latency this is coming from a real weird route that i'm going to go down in
+the future but of course it's going to be almost
+impossible to prove the differences but that being said
+if the science sort of states that the difference is there
+so if it's there to be had why not have it
+with all these gigahertz and instructions per cycle
+going on and so itx is becoming more popular for me personally
+and i feel like when you're going in the realm of itx you want a really good
+board to match that experience and this board really hits the mark
+especially with its vrm and that's what you want to get the most out of
+supporting the 16 core 32 threaded beast the 3950x with no problems out of
+the box giving really good performance numbers out of the box
+and then when you overload the 4.3 gigahertz handling that absolutely fine
+i am left with nothing but impressed with the 199 dollar price point
+now the usb speeds they checked out absolutely fine
+the m.2 speeds are fine the temperatures are fine you've also got everything else
+on board 2.5 g and the onboard audio works okay so
+now it leads to the question of would you want to buy this or the x570 variant
+and that depends on what you want to do of course you've got that money
+to be saved here the 40 bucks the vrm itself both these itx
+solutions have really good implementations though where the big
+differences come down to in my opinion is if you need
+that optical out on the x570 as well as the thunderbolt 3
+where you're going to get both those on the x570 variant as opposed to this
+right here you're going to lose those but you
+are going to gain an extra m.2 slot which could be very handy in terms of
+those extra chipset lanes of b550 versus x570
+this is the one area on mini itx where it's almost useless and so because you
+don't have all those extra pcie brackets on your motherboard
+you're not really missing out on much with going b550
+versus x570 on the mini itx solutions so really when it comes down to it if
+you need those features on x570 versus the b550 version go with
+that if you don't and you want to save some
+money and gain an extra m.2 slot then this is going to be a phenomenal
+solution so asrock have really been doing a good job
+especially on the amd side of the fence with mini itx i haven't really taken a
+look at their z490 itx solutions yet even though i had to use one for a
+competition recently and it does the job absolutely fine
+but i haven't gotten around to reviewing it properly yet but i have been
+using it as my main workhorse for now and it's been doing absolutely fine job
+this is the cheaper variant not even the phantom
+gaming version so basically summing everything up for you guys
+if you're in the us of a very solid buy for 199 us
+if you're in australia i would sort of take a look around and see if you can
+get it on sale because i think the pricing differential
+is quite big as we pointed out in the intro there
+so i'll ask asrock what's up with that they're definitely for 199 us
+very solid board even if you want to put a 3950x in it and with all that out of
+the way if you guys enjoyed today's review of the b550 phantom gaming itx
+from azeroth then be sure to hit that like button for
+us also let us know in the comment section below
+what's your opinions and thoughts on b550 rtx vs x570 versus
+z490 are you an itx fan love reading your thoughts and opinions as always
+just like this question of the day here which comes from rumple and they ask
+was the previous tech yes mobile in eight six
+stinger looks mint by the way so the previous uh yes mobile was
+a one two four bath spider and then before that it was a whole nash draw and
+i'm going to do a card vlog for you guys i know i haven't forgot about that that
+will be coming uh the 86 you guys have seen on the
+channel sometimes that's one of my best friends uh
+shannon he's a really cool dude and he just likes coming along with the parts
+hunt sometimes and we use his 86 because believe it or
+not it's actually got a lot more had a lot more room than the uh one two
+four bass spider i could literally fit one computer in the boot if i was lucky
+on the one two four surprisingly on the eight six you could
+actually fit quite a bit of used hardware in that thing
+hence the reason why it popped up a lot more than the abarth did
+previously in the parts hands but the stinger that
+has a lot more room than both those cars combined
+so that's why it's the new yes mobile anyway hope that answers that question
+and i'll catch you guys in another tech video very soon
+if you stayed this far and you're enjoying that tech yes content you want
+to see the moment it drops be sure to hit that sub button ring that
+bell and i'll catch you another tech video very soon
+peace out for now bye you 

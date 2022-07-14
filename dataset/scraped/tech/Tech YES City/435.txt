@@ -1,0 +1,139 @@
+- When AMD released their
+Navi 5500 XT about a month ago my initial impressions were, meh. This was a card that was coming in with really not a whole lot extra for the three years in the
+making over the predecessors, the RX 570 and RX 580 editions, which weren't that impressive over the 470 and 480, to be honest. But fast forward a month,
+drivers and also prices, which is a big subject of today's video, have had a bit of time to mature and we've also got some extra
+models in today's comparison. We've got the Sapphire Pulse four gigabyte and also the ASUS eight gigabyte ROG Strix and the Gigabyte 5500 XT eight
+gigabyte OC edition which, when we look at it, looks
+like they've used the exact same cooler as the 1660 SUPER. But let's roll those gaming
+benchmarks for you guys, and we're going to also
+include the RX 590, finally, where in the last comparison
+I actually didn't have the RX 590 on hand due to a lot
+of miscommunication, mishap. (gentle electronic music) So what you can see from those
+1080p and 1440p benchmarks was some really surprising
+numbers, and that is, basically, if you're in the market
+for one of these cards, you'll definitely wanna get
+the eight gigabyte edition, at least the games that are
+coming out with higher textures and they demand more VRAM. "Shadows of the Tomb Raider"
+really showed the difference of what can happen when
+you don't have enough VRAM, to the point where the
+RX 580 four gigabyte was actually beating out
+the 5500 XT four gigabyte. Some other games also
+showed this trend happening. Though, overall, the four gigabyte model was very close to the eight gigabyte model when you didn't come into
+any VRAM bottlenecks. Though what was more surprising and a little bit disheartening for me was that the RX 590 was
+basically neck and neck with the 5500 XT and
+sometimes beating it out in different benchmarks. Even though the power consumption was substantially lower on the 5500 XT, a lot of gamers do wanna
+get value for money at the face value of those cards. So an RX 590 coming in at
+pretty much the same price and being out for quite a while doesn't really give the 5500
+XT the value proposition that a lot of gamers were hoping for. And I wholeheartedly agree
+with all the upstanding Tech YES citizens out there, where in the previous video you guys said that the MSRPs is on these
+5500 XT four gigabyte and eight gigabyte models
+really need to come down about $20 to make this card
+more of a compelling option. And after speaking with a few retailers there is actually another
+scary curveball to throw in in relation to the pricing, but we will talk about that later. Let's go over the three models
+that we have here on the desk that were introduced into the
+benchmarking this time around. And what we can see is
+that the ASUS ROG Strix and the Gigabyte OC, for what it's worth these
+cards are performing pretty much identical in the numbers. And the good thing is about all three of these cards here on the bench is that their power consumption is inline, it's looking really good,
+where I've actually redone all the power consumption figures now where I'm pretty much focusing
+on just stressing out the GPU as opposed to doing other
+benchmarks in games. Sometimes when those numbers
+are higher on that GPU, for instance if it's a more powerful GPU, that will then stress the CPU more essentially inflating the
+power consumption numbers. So this test with the
+max MSAA does tend to put a lot more of a strain on the
+GPU, as opposed to the CPU. But what we can see in those
+power consumption numbers is that the seven nanometer
+and also the Navi architecture is giving us a big power efficiency boost. Another good thing on top of that is that all these three
+cards, out of the box, have exceptionally low noise as well as really good temperatures. The ROG Strix did excel in
+having the lowest GPU core temp, but the memory and VRM
+temperatures really averaged out to be very similar across all three cards. There's also on the ROG
+Strix the option to have RGB, which also has an LED button
+which you can press to turn off the very small amount of RGB, where it's just essentially
+a small ROG logo. There's also right
+beside that a BIOS switch where you can change it with
+dual BIOS into quiet mode. Now I didn't test the quiet mode because the performance mode, I thought, was already ridiculously quiet and the performance
+numbers were quite good, as well as the temperatures. Looking at these cards, the ROG has a massive one kilogram cooler, the Gigabyte has about 700 grams and the Sapphire Pulse is just
+a little bit lighter than. That the Sapphire Pulse,
+however, has two 100 mil fans just like the ROG Strix,
+however it is a shorter card and they've done an exceptional job of making the most out of this design. The Gigabyte OC did have 80 mil fans but it does have three of those versus the two on the other models, but that did give it essentially
+a little bit more noise over the other two. On the back of all three cards you've also got three DisplayPort outs as well as an HDMI 2.0 out. Though the ROG Strix and
+also the Sapphire Pulse incorporate metal back plates, as opposed to the Gigabyte
+which has a plastic backplate which pretty much just
+for aesthetic purposes. On top of that, all three models require an eight pin PCIe power connector. Though basically breaking
+these cards down for you guys, if you were to go out and
+buy any one of these models you wouldn't be making a bad decision over picking one over the other, in that they all had good performance and they did so with relatively low noise. However, there is a focus
+out there at the moment, with the 5700 XT ROG cards,
+as well as the TUF series, where a colleague of mine,
+Steve from Hardware Unboxed, has reviewed both the
+5700 XT ROG Strix model and the 5700 TUFF and he thought
+they were very lackluster where they had some inherent
+problems of their own. With the 5500 XT I haven't
+incurred any problems whatsoever, it's a really solid card so
+if you were to buy this model you wouldn't be suffering the same issues as those other two cards have. But now comes that question ultimately of are these cards are good buy? And as I said in the intro my
+initial impressions were meh, with the 5500 XT and coming
+out of this review today my impressions are still really meh, to the point where they're even more meh because of the street
+pricing of these cards, which we're going to go a
+little bit more in depth. Where the ROG Strix, for example, is coming in at 230 USD on Amazon and also the gigabyte OC coming in at 210. That's a substantial amount
+higher than the MSRP prices that AMD promised which I feel
+were already pretty expensive for this class of GPU, and especially since they're
+now on seven nanometer and they've also got access
+to a small silicon die area then the RX 590 and RX 580. And so I guess a lot of
+gamers are disappointed in the price performance of the 5500 XT. And the board partners
+have done an excellent job in implementing these cards
+that you see on the desk, but unfortunately when the base that they've got to work
+with isn't that good and you've already got something like the 1660 SUPER out there,
+then that's a really hard sell for AMD with these cards. And now here's where things
+get even more complicated for the 5500 XT, and that is
+when I spoke to retailers. They're pretty much scared to order these cards in mass quantities because the demand really isn't there, and when they're not
+ordering in mass quantities then they're not getting access to cheaper prices inherently. So take, for instance, the 1660 SUPER, I recently picked these up in Australia for 290 Aussie a pop. The Sapphire here comes in at $300 Aussie for the four gigabyte model. So in Australia I'm saving
+$10 to go with a 1660 SUPER which has more VRAM and has
+much better performance figures, not to mention it's also
+got a better onboard encoder than the 5500 XT does. And the power efficiency of the 1660 SUPER is also really good. Now the 1650 SUPER,
+actually had one of those but I sold them in a build so
+it's not in today's comparison but that is falling into a
+similar category as the 5500 XT. It's just not offering
+really any compelling value, where in my previous video
+I had the recommendation of if you were getting into gaming
+around this price segment I would honestly just save your money, go out and buy an RX 570 or
+step it up to a 1660 SUPER. And that's pretty much exactly where my recommendation is still standing after testing these cards out here. Sure, they do a decent
+job of playing games but they're not offering
+anything to be wowed about especially in this price segment. With that being said we got the 5600 XT right around the corner,
+so stay tuned for that, though that is in a higher price segment with the MSRP coming in at $279. Though what will that bring to the table? Will that be the card to step
+things up from the 1660 SUPER? Make sure you stay tuned for that review coming in the next few days. But, as it stands, 5500 XT, I can't help but be meh by this card. And definitely a lot of people out there would say that they're
+disappointed with the 5500 XT, I'm just somewhere in the middle. And the reason being is 'cause if you went out and
+bought one of these cards, like I said before, you're
+still gonna be playing games absolutely fine. Essentially you didn't get hosed. There was only really one
+card that struck out to me as a really bad buy in the last few years and that was the GT 1030 DDR4 edition, where they got nerfed and
+that was an extremely bad buy. That being said, none of these cards here are an extremely bad buy and so that's where my
+recommendation just stands at. And with all that aside, I hope you guys enjoyed today's review. If you did then be sure to
+hit that like button for us, and also let us know in
+the comment section below which of these three models is your favorite out of the bunch. And also we've talked about
+that compounded problem with the demand from actual retailers, in that if they're demanding more cards then they're gonna be able
+to pass those prices on and that compounded that problem that exists for the 5500 XT, as opposed to the 5700
+and also the 5700 XT where those cards are much more in demand because I feel like them more competitive in their price point. So do let us know also what you think about that compounded of problem, love reading your thoughts
+and opinions as always. And speaking of thoughts and opinions, we have the question of the
+day, which comes from Chris H, and they asked, "What
+about your office PCs? "How do you market those
+and sell those today? "Is it harder to sell
+those than gaming PCs? "And who's your customer base and age, "mostly for office PCs?" I love this question, and
+basically the office PC, I've done a video on that
+I'll put the link up here, where the whole purpose of
+this is to basically flip your components that
+aren't intended for gaming. For instance, if we got
+a third gen HP system that wouldn't support
+any decent graphics card, we could then take the i7 out of that, if it had an i7 take all
+the 16 gigabytes of RAM out and then use that on another motherboard, and then essentially
+we've got a motherboard which we can slap i3 in, cheap hard drive and then bang it out as an office PC, and we would still be getting
+some return on our money rather than just chucking that out. Which I know some people
+just do chuck that stuff out. And as you guys have pointed out, I am a big advocate on
+recycling old hardware. But as for the last part of that question, the age group who buys office PCs is generally like around
+30 to 40 years old. People who have businesses and they just need a really cheap PC to open up Excel spreadsheets and just do something essentially what an office PC would do. And they get it a really cheap price and that's all they're getting it for, so they're getting good value for money because I only essentially
+price the parts out at what I paid for them, in relation to a prorated
+rate out of those builds. So I'm essentially getting my money back instead of chucking it out, and usually the age group
+is both men and women who are just looking
+for a cheap office PC. You usually never get young people coming in and buying them, it's usually older
+people who run a business and have no interest in gaming whatsoever. And I hope that answers that question, and I'll catch you guys in
+another tech video very soon. If you've enjoyed this one
+and you've stayed this far and you're not yet subbed and
+you're enjoying the content, be sure to hit that sub
+button and ring the bell to get the content as soon as it drops here at Tech YES City. And I'll see you in the
+next Tech video very soon. Peace out for now. Bye. (gentle upbeat music) 

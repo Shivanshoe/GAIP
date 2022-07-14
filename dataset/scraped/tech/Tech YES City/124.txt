@@ -1,0 +1,125 @@
+this motherboard right here is the asrock x570s 
+phantom gaming riptide now this board is coming in   at around 180 msrp and it's a refresh essentially 
+what's asrock doing releasing a motherboard   all this time after zen 2 boards were launched 
+and the original x570 motherboards were launched   back in 2019 and you may be wondering is 
+there any difference between an x570s for   example or maybe you see another mod called 
+an x570p or an x570x and you'll be wondering   is there any differences between these 
+boards and the ones that were released   nearly two years ago and to answer that question 
+directly i actually went and asked amd and i said   amd is there any real functional differences 
+at the chipset level that would make someone   want to say if they had an x570 motherboard go 
+out and buy an x570s and their reply was well   you're getting the same x570 chipset it's just 
+that the motherboard partners like asrock msi   zeus and gigabyte they've all decided to 
+go and refresh these boards and add these   affixiations on which in different cases may mean 
+different things now in the case of the x570s   from asrock the s essentially means silent so the 
+only difference between this and say original x570   that was released back in 2019 would be that 
+this has no chipset heatsink fan so it's going   to be silent and the s stands for silent and then 
+you may be thinking well if you take the fan away   is that going to cause heating issues and 
+here's where we're going to do the full review   of this motherboard right after that tech 
+yes city intro so let's get it on and go   through all the paces of this board to see 
+if it does represent value at 180 us dollars so taking away that chipset heatsink fan is 
+that going to make a difference the temperatures   and here's where out of the box we got 60 degrees 
+idling and then when we decided to run a stress   test with the graphics card ramped up to full 
+and then also run the m.2 slot at the same time   this is where we again saw really no negligible 
+difference in temperatures increasing and now this   probably has to do with the fact that the pci 4.0 
+lanes are running from the cpu and of course you   can get an extract performance out of the chipsets 
+own pci 4.0 lanes if you want to but loading up   a graphics card in the bottom x4 slot is really 
+pointless it's just going to add in a little bit   of extra latency and you're going to get worse 
+performance so i don't know anyone who would   ideally want to do this but that said 60 degrees 
+is a fine number in a 25c environment considering   these chipset hubs are rated to go up to 90 
+degrees and they sometimes they were even sitting   around 80 degrees when i was first testing out 
+the x570 itself back when i was doing the reviews   in 2019 so it seems like asrock have tuned this 
+thing up absolutely fine but going over another   very important part with the motherboard is of 
+course the vrm now here's where we've got a 5950x   we overclocked this to 4.4 gigahertz all cores on 
+16 course 32 threads so this 10 phase vrm azrox   implemented could handle the 5950x overclocked 
+absolutely fine with temperatures going around 73   degrees max in a 25c ambient environment as well 
+as the heatsink going into the mid 40s now i do   like to run this test for roughly 20 minutes and 
+that will weed out any inefficiencies in the vrm   especially when it's overclocked so if it does 
+fail this or the vrm temperatures get too high   then that's a motherboard that you would want 
+to avoid at least if you're going with higher   end cpus and especially if you are overclocking 
+them now the x570s riptide here has a 10 phase vrm   with 60 amp chokes and also 50 amp mosfets and 
+this did the job absolutely fine where we saw   a maximum temperature of 73 degrees and then 46 
+degrees on the heatsink and then also out of the   box it took the 5950x to 3.85 gigahertz and here's 
+where you're going to draw roughly 130 watts   direct draw and then from the wall 230 watts and 
+also show you the idle power consumption numbers   two for those people who want to go afk in between 
+working or in between gaming sessions and also one   thing that i like to do is to test the overclock 
+numbers versus the stock numbers because that will   also see how well the vrm scales which is one 
+thing that i have noticed that some mid-range and   low-end boards do very poorly in the past however 
+in case of the riptide it's coming in with a   very good performance figure here on top of the 
+fact that it's got an eight layer pcb in the case   when we looked at the ram where i locked in a 3600 
+megahertz xmp profile with one t1 t1t this locked   it in first go there's absolutely no problems and 
+this is great if you want to play games with some   of the best fps especially out of the box without 
+having to waste too much time tuning things in the   bios however moving on to the bios this is where 
+this motherboard employs that simple formula   from asrock where they haven't really changed the 
+bios in a couple of years but they don't need to   because it's got everything that you would need 
+from a bios it's lightweight you can maneuver   in it very quickly you can lock in overclocks on 
+ram and cpu very quickly save up to 10 different   profiles and then do other things like tune 
+each of the individual fan headers to custom   profiles and then on top of that you can and this 
+is one of my favorite things about azeroth boards   control rgb from the bios itself meaning you 
+don't have to install any bloatware in windows and   potentially losing some performance whether it's 
+in games or productivity now you do have two rgb   headers at the top one of those being a three pin 
+five volt the other being a four pin 12 volt then   down the bottom you also share that same formula 
+so you've got two of each one at the top one   down the bottom and so far so good for the x570s 
+riptide but here's where things surprisingly get   better especially at this price point where you've 
+got six pwm fan headers you also got two usb   3 outs as well as a 3.2 type c to make 5 usb 
+three outs in total as well as an additional   two usb 2.0 connectors so you potentially have an 
+additional nine usb front out headers if you wish   to then you've got eight usb ports at the back 
+four of those being 3.2 with one of those being   a type c and the rest type a then you've got two 
+3.1 as well as two usb 2's and a 2.5 gigabit lan   solution from realtek as well as a ps2 port 
+and a hdmi out and the option to add an m.2   wi-fi if you wish to as well as a bios flashback 
+button and then 7.1 audio with the optical out now   speaking of the usb 3 speeds as well as the nik 
+speeds they'll both find in my testing and then   on to the audio testing actually showed one thing 
+that i haven't seen in a long time and that's the   real tech audio on board that works flawlessly at 
+least in windows 11 because usually in the past i   was testing with volume levels of 91 and over i 
+used to see the crosstalk leak but it seems like   asrock have fixed this on the x570s riptide where 
+you can turn the volume all the way up to 100   and the crosstalk is going to be absolutely fine 
+as well as the crosstalk numbers themselves being   minus 88 decibels and this of course is being some 
+pretty impressive numbers when we look at that in   contrast to the frequency response numbers which 
+were also really impressive too we had a minus   1.3 decibel drop off from 20 hertz and under so 
+you're not really going to lose any of those sub   bass frequencies but then from 20 hertz to 2k 
+was pretty much perfectly flat and zooming into   the frequency response curves it had extremely low 
+jitter which essentially means very low distortion   but after 2k here's where things actually got 
+interesting for the audio response where 2k to   10k had a drop off of roughly one decibel and this 
+is basically essentially going to make the sound   warmer so in other words this frequency response 
+is going to be a little bit colored and that's   going to be a little bit warmer and personally 
+i like this but some people might want a pure   flat response curve so that's one thing i will 
+point out but then going on to the audio the mic   in port that worked absolutely fine although it 
+did have heavy noise suppression so it won't be   good for professional recordings but it will be 
+good if you want to play games with your mates and   they be able to hear you clearly on pretty much 
+any cheap microphone and there it all is with the   numbers and basically it's time to give you guys 
+a conclusion especially based around the price   point of 180 and also i have to say is if you're 
+looking for a board that pretty much is solid   in all different areas then this board is going 
+to be it of course i would like to see things   like power buttons added on as well as included 
+wi-fi however especially when we contrast that   to the 8-layer pcb the impressive vrm performance 
+and the impressive onboard audio performance as   well as the feature set especially with all those 
+additional usb ports i have to say that this board   is simply a winner in that regard it's got 
+everything that i would want from a motherboard   personally especially the price point i think it's 
+a very solid board if you're looking to get on the   x570 line and not have a chipset heatsink fan 
+as well where traditionally when they released   the x570 motherboards it was only like the 
+thousand dollar motherboards that had no   chipset heatsink fans but they also had pretty 
+much a motherboard heatsink that would encompass   the whole motherboard itself both front and 
+back so this coming into this price point   with the performance i thought was actually a 
+very pleasant surprise but more importantly i'm   looking to see asrock continue the riptide formula 
+for other upcoming potential future releases with   motherboards i think what they've got here is 
+an absolute winning formula not just in looks   but also performance and it's a breath of fresh 
+air to see asrock releasing a very solid board   to the market however that being said i will say 
+x570 has already been out for quite some time so   how much life it does have left i don't really 
+know just yet and with that aside i hope you   guys enjoyed today's video if you did be sure 
+to hit that like button also let us know in   the comment section below what you think of these 
+x570 refresh motherboards do you think they were   a needed breath of fresh air or do you want to see 
+something different in the tech space love reading   thoughts and opinions as always just like this 
+question of the day here which comes from owen   mitchell and they ask is it safe to buy x mining 
+cards i've always been told to stay away from them   because they're generally thrashed to hell and 
+here's where it depends and that's pretty pretty   much the simple answer is if you're going to buy 
+a mining card go look at the condition that it's   in firstly all the x mining cards that i've bought 
+i've always been able to inspect them physically   and if they're too far gone especially when it 
+comes to having rust on the heatsink and perhaps   even on things like resistors and transistors 
+then i generally tend to stay away from those   cards as opposed to say a recent deal that i got 
+on rx 570s i could visibly inspect those cards   and i was like wow these haven't been mined on 
+a whole lot so you can pick up really good deals   from x mining cards but the simplest piece of 
+advice would be to inspect the card and if you   can especially see it working as well and see how 
+much headroom it has in the overclocks then that   can be another great indicator too but if you're 
+buying them online and you haven't inspected them   then i would try to definitely get some kind of 
+guarantee that'll work for at least three months   or something like that so if it does fail you can 
+get your money back anyhow guys i'll catch you   another tech video very soon if you stayed this 
+far and you're enjoying that tech yes content be   sure to hit that sub button ring that bell and 
+i'll see you in the next one peace out for now bye you 

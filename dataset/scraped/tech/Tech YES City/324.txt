@@ -1,0 +1,222 @@
+on this desk we've got an amd system
+and an intel system and if you're playing games
+there may be this question that pops through your head well
+it probably doesn't pop through your head but for some odd reason
+this question has been circulating through my head to the likes where
+today we're going to get an rtx 2080 ti we're going to get a camera that shoots
+at 1000 fps on a 240 hertz monitor and then we're going
+to compare intel versus amd for input lag
+and see if one has an advantage over the other and we're also going to throw in a
+twist and that is we're going to include a
+1680v2 xeon which is a seven year old cpu and this
+cpu performed phenomenally well when i tested it against the 10900k
+and also the 3950x though those introductory details out of the way
+let's quickly take a look at what these test system configs have in them
+and then roll those numbers for you guys today's video is sponsored by
+dashlane dashlane is a password manager that is quick to download and powerful
+in its abilities so i like to browse local forums trial
+new video services like apple tv and i don't want to give out my most
+important tier 1 passwords especially if i'm disconnecting from
+this service later and this is where i let dashlane simply do its thing
+with dashlane it can autofill and remember these passwords
+for these websites that you don't visit often shipping details and also
+other boring details can be auto filled too
+on top of all that it can auto generate complicated passwords and store them too
+so if you have become accustomed to using one word dictionary entered base
+passwords and you might want to stop doing that
+then all you have to do is download dashlane
+login and remember the one master password you set for your dashlane
+account and the rest is history now if you use
+the link dashlane.com tech yes city then you can get dashlane completely free
+on your first device and if you decide you want to upgrade to a more premium
+option then you can get a further 50 percent
+off using the link and the coupon code in the description
+below easy let's get back to the video so here's
+the first system here zed or a z490 depending on how you're
+looking at it and it's got the 10 900k 32 gigabytes
+of ddr4 dominator memory with 3600 megahertz
+cl 16. now moving over to this system here
+we've got the same h115i rgb platinum cooler
+cooling the cpu but this time around we're using an x570
+phantom gaming x motherboard and a 3950x it's going to be using the same memory
+that we're testing in this system we're just going to hop that memory across
+and then the last system right here we've got the x79
+with the 1680 v2 xeon with ddr3 cl9 2133 megahertz memory
+then lastly we've got the aorus kd25f 240hz monitor
+this thing has extremely low input lag which i've tested before
+and it's also got very good response times in that they're very fast
+when you smash the overdrive to the maximum setting [Music]
+so we just finished up testing and i've decided to go in and throw in a heap
+more tests within this video and that is first of
+all we'll do hyper threading versus no hyper threading
+and then second of all we're going to do an amd graphics card versus an nvidia
+graphics card and within that we're going to test
+because we're testing two different games
+we're going to test freesync versus g-sync so i've shot all the results
+i'm going to go edit them out but essentially i've found with
+fortnite is that if we play on a local server
+we don't get any ping so we've eliminated the ping
+variants that could make the results just silly
+and so we're eliminating as many factors as possible to give you guys
+an apples to apples comparison using the same ram using the same motherboard
+manufacturer using the same monitor and for this contraption right here
+which is on an amd box this is a mouse a logitech g3 that's
+been hacked up with an actuation point so as soon as
+the left mouse click is actuated there's a light that comes on and in
+conjunction with a high refresh rate monitor
+as well as recording 1000 fps we can see and eliminate as much variance as
+possible to give you guys accurate numbers now
+another thing as well within fortnite since it does run
+better on i found on g-sync even on a freesync monitor in dx12
+i've decided to now test that on the freesync variant
+so we will get an idea of if g-single freesync run better
+in terms of input latency but another thing as well we're throwing in csgo
+just to test the amd versus the nvidia graphs card with absolutely
+no sync on at all anyhow i'm now going to spend a few hours
+analyzing all these results for you guys and we'll come back
+and see what the verdict is [Music]
+babylon [Music] and now here we are at the conclusion
+with a hot cup of tea and here we are finally now with the
+results that you may or may not have been
+waiting for because going through the numbers here they were
+pretty uneventful that's what i'm going to say there
+wasn't any major differences that were worth writing home about
+basically if you had an older xeon or you had a new 10 900k or a 3950x and you
+were gaming with a 2080ti or a 5700 xt
+you've got real no differences there that are going to determine how well you
+can play a game and believe me i'm a big advocate on input lag and also playing
+competitively but when we're seeing differences of
+only a couple of milliseconds at best on average then it's nothing to
+worry about and we'll get onto these numbers anyway and then we'll talk about
+things that you should be worrying about if you're a pc gamer and the first
+things here uh fortnite was the game that i guess had the biggest
+difference if we were to call it that between
+the xeon the 3950x and the 10900k where it scored on
+average 15.5 milliseconds on the 10900k going over the 3950x that came second
+place 18.3 and then moving over to the xeon that
+scored 19.8 and as we said before with uh fortnite
+we did put it in dx12 we did put the monitor to g-sync enabled and on
+the case of the amd freesync enabled and we
+did cap the fps at 240 fps in-game not only to give us a different
+look compared to cs go but because this game i found in the
+past in general runs and gives out the best input lag
+with these settings enabled and onto cs go showed us a similar trend
+to fortnite in some ways and the first thing was
+we got 12.2 milliseconds average on highest threading no hyper threading it
+was virtually the same on the 10 900k so
+it's really not going to make a difference for your games as we did a
+recent video on this as well and it really
+wasn't worth turning off unless one particular game you could
+gain some fps move over to the xeon that's called 14.6
+milliseconds average and then on to the ryzen 3950x that
+scored 16.3 milliseconds though i will quickly point out the best
+frame we scored in this game it was seven milliseconds on both the xeon and
+the intel eight milliseconds on the 3950x so
+really the best case scenario that you're going to get out of your hardware
+isn't a whole lot if we're looking at averages it might be a few milliseconds
+if we're looking at the best frame that we scored in cs go it's one millisecond
+and so it's really not going to make a difference between
+determining whether you're going to be good
+or bad at a game but what about graphics cards we've got here the 2080 ti
+and also the 5700 xt now i decided to rerun the test on the
+3950x because that's got pcie 4.0 i didn't want any complaints arising
+from the fact that hey you should have tested on the amd system so
+we saw here when we look at fortnite we re-ran these tests
+and we got an average time of 18.3 versus 18.2 so
+there was virtually no difference between these two gpus
+in terms of input latency and this was uh turning on freesync
+versus g-sync though the best frame was uh two milliseconds lower at 14 versus
+16 so the nvidia did score out the lowest frame in fortnite on the
+3950x versus the 5700 xt though moving over to
+cs go this is where we saw an average of 16.3
+milliseconds versus 16.5 and again we had that best frame of 10
+milliseconds versus 8 and we had the worst frame so
+it did throw out the averages if we're looking at the averages in cs go it was
+thrown out by this one anomaly frame that went up to 29 milliseconds but
+again i'm not going to throw that out because
+that's part of testing you've got to average
+all the results whether they're good or whether they're bad and so coming out of
+these results at least looking at it from a pure
+input latency perspective there was no real difference in input lag between an
+amd gpu and a nvidia gpu both with freesync technology and g-sync
+technology turned on versus off in the case of cs go they're
+looking past the graphics cards and looking at the cpu the memory the
+motherboard the power supply the ssd and potentially a hard drive
+this stuff here the biggest thing and the biggest takeout for me
+personally was you want to make sure that you're not getting any stuttering
+in your games out of this hardware so if your frame rates are very smooth your
+one percent point one percent lows are pretty high
+in that game that means you're going to be playing well in clutch situations
+if you're one percent one percent lows are dropping that's where you're getting
+massive stuttering and that's happening during clutch
+playing that's going to cost you games so make sure that your hardware isn't
+stuttering i think that's the biggest thing to take out of the hardware itself
+though if we look at it from a pure number perspective the 10900k did come
+out a little bit ahead of these other two cpus both the xeon and the 3950x
+and of course that thing's clocked at 5.2 gigahertz it is
+an expensive cpu and it's pretty much the best you can get for gaming
+so when it scores a couple of milliseconds better
+i guess you would expect it to do so but another thing on top of that is
+a couple of milliseconds this is where we're going to go into the next point of
+the video which is way more important for me personally and
+that is a couple of milliseconds really just pales in comparison to a
+monitor with good input lag i've seen some monitors
+carry upwards of 50 milliseconds input lag so if you're playing with that
+you're automatically at a massive disadvantage versus a xeon versus a
+10900k versus a 3950x another thing too is the mouse if you're
+using a bad mouse with input lag i've seen mice with like
+10 20 milliseconds input lag if you've got a crap mouse that's going
+to be adding input lag to the chain so if you've got a bad monitor bad mouse
+you could be adding anywhere upwards of 70 milliseconds
+just on these two devices alone then of course the last factor
+we've got your internet connection so if you're playing games online and you've
+got a poor internet connection or you live very far from the servers
+you're gonna be adding another 50 100 even 200 milliseconds
+to your total system delay and so that will cost you games
+so when it comes down to a hardware perspective yes there are some very
+minimal advantages to be gained but i would make sure that everything
+else in your pipeline is working to the best of its abilities
+going into this i was hoping for a bigger discrepancy that would have made
+it more exciting but sometimes the news just isn't that
+exciting though one thing that we can look at
+finally is if you're using your computer for competitive gaming one
+thing that i've always done in the past and one thing i do recommend going
+forward is always use the usb ports at the top
+of your motherboard and the reason you should be using these usb ports
+is that they're generally connected directly to the cpu
+giving you technically the best input latency but with all that out of the way
+if you guys enjoyed today's video then be sure to
+give us a like also let us know in the comment section
+below what you think of input latency and how do you get the best
+results yourself is there some tips and tricks
+that you've noticed with particular games or with particular hardware that
+has netted you some better results love reading your thoughts and opinions
+as always but going forward from here i will say
+when it comes to testing cpu and memory and some of these
+individual components i'm probably gonna stop it at this video
+because two to four milliseconds really isn't a whole lot
+and it's nothing as we said before compared to your monitor and mouse
+another thing is too is that the games i'm more focused on them i've found some
+games can carry a pretty big input delay
+themselves for instance i've tested ashes of the
+singularity in the past and that's had some pretty bad input
+delay as opposed to cs go and fortnite they've got
+really low input delay meaning that the engines that they've designed for these
+games have been very well designed for pc to
+the point where you have very little input delay
+and that's what you want ultimately for competitive play and now we've got the
+question of the day which comes from unfortunate sun and they ask where can i
+buy used parts that are not broken and basically i've talked about used
+parts for years here on the channel quick and easy answer is buy local make
+sure it works before you buy it that's the best thing you can do if you're
+buying online buy off a reputable seller someone that
+has really good feedback so if you're going online and you're buying off
+someone that says this thing works so well but i tested it
+one year ago and they got zero feedback there's a
+pretty good chance that that part might be broken so with that in mind
+local check out the parts make sure and verify they're working
+online reputable seller you're good to go you shouldn't be getting hosed
+well you should rarely be getting hosed if you do those two things hope that
+answers that question and i'll catch you in another tech video very soon
+peace out for now and if you stay this far
+ring the ring the sub and the bell bye [Music] 

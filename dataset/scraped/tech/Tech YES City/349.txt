@@ -1,0 +1,231 @@
+x58, this is the motherboard that is my
+personal favorite and I'm gonna be honest with you guys I came into a
+bastion of x58 boards recently when I did a parts hunt and I found three pcs
+that were just pretty much untested they were really just ready to go in the bin
+and I got them for a really good deal and then I pulled the motherboards out
+two of which I'm gonna be honest with you guys
+I'm reselling because they are really good x58 boards one of them now which is
+a mediocre x58 board we're gonna be using in today's build now this bill is
+going to be what I would call a bit of a compensator build where we've got the
+i-7 6 core (12 Thread) we've got the gtx 1070 eight gigabyte (VRAM) so on the spec sheet it's
+looking pretty good and it's gonna be one of those builds that compensates for
+say for instance you got a small USB dongle so basically with x58 was the
+first generation of i7 that's when you first got hyper threading but even to
+this date you can still get a lot more performance out of this architecture
+especially if you overclock it and that's what we're gonna be doing today
+with this i7 970 you can expect an extra thirty to forty percent performance and
+also if you tune and tweak it you can even get more performance after that
+which we'll all be doing later in this video
+but speaking of x58 motherboard there is a tiered list I like to say that the
+more desirable boards which two of them were we had an EVGA for the win SLI
+three and also a x58 Zeus deluxe so what you're looking at here is you really
+want to use saved motherboards like this that a mediocre they can still do the
+job they can still overclock well but they're not that desirable on their own
+and so this is the motherboard we're gonna putting in today's build yes it
+does need a bit of cleaning but when it comes to x58 motherboards basically the
+best thing you can do is look at the capacitors straight up quite simple to
+see how good that motherboard is the integrity of it have a look around the
+board and the first thing you'll see with the caps is if they have flat tops
+on them then it still means that they've got a
+good life left in them but also on that note you can see if the board has
+generally been overclocked hard or it hasn't so a lot of the times with x58
+the reason why the board still lasts for so long is that they were designed so
+well but also on top of that a lot of people got these boards and because they
+are over engineered and they're engineered for real high-end
+overclocking a lot of people simply didn't overclock them so the life that's
+left in these boards is still a lot though of course another reason why I
+like x58 is triple channel memory even though we're using older ddr3 it's not
+as fast as ddr4 that triple channel does make up some of the lost speeds compared
+with ddr3 vs. 4 so triple channel we've got 12 gigabytes of RAM being thrown
+into this build we're also using a 1 terabyte hard drive for backup and now
+the SSDs have come back down in price we can use a 128 gigabyte SSD for the main
+OS drive now speaking of the coolers if you manage to find these old NOx your
+coolers I find that they've just they last so long and they work so well the
+fans as well I've only ever come into one faulty fan in the history of using
+NOx your parts but that was on a really really old and filthy build and I'd say
+the fan really didn't fail on its own it probably had some external force like
+darth sidious or someone dropping coffee on the fan and then it probably caused
+it to fail because I just don't believe that the NOx your fans gonna go out on
+its own and for the last components we got a V s550 we've put that on a power
+supply tester it's given out some great signals which means it's still good to
+go and then for the case which is one of the most important parts of a bill
+believe it or not we're using one of these tempered glass RGB bangers with
+four fans installed and a controller and the control is important on older builds
+especially like x58 where you don't have any RGB headers so that in total I'll
+put the price of this whole build up on the screen for you guys without aside
+let's build this thing up quickly and then we'll go through a little tour of
+what x58 can do for you and of course me as well I love x58
+check yes citizens I have negotiated a new 18 percent off coupon code on a
+Windows 10 Pro single and user license with today's video sponsor s CD keys for
+as little as 13 bucks using the coupon and the link in the description below
+[Music] so we've taken off the South and North
+Bridge heat sinks on the x58 boards and when you come into an x58 board you
+always have to in my opinion clean off this heatsink paste or the dried-up
+paste on this one especially here the Northbridge heatsink so we've done that
+we've taken it off it was actually very difficult to get off because it's over
+the years has become so hard and now we're going to apply some new thermal
+paste after we clean this up and then put all the heat sinks back on and
+surprisingly with these pads here the thermal pads back in the day they use
+some really good ones so they still are fine we don't have to replace these
+though if they are all real crumbled up then you may wish to replace them with a
+cheap $1.00 pad off eBay or something like that
+[Music] [Music]
+so now changed the thermal paste on the graphics card the Northbridge heatsink
+Southbridge heatsink and the CPU cooler and honestly this is going to now run in
+my opinion better than brand-new because the thermal paste that we're using has I
+guess thermal paste over the last 10 years has improved a lot since the stuff
+they used back in the day so I'm pretty excited let's get this thing built
+[Music] so we now got this build torn apart so
+we just finished building it and then I realized that the RAM
+it wasn't booting up properly so I then took it out and the BIOS is updated to
+the latest version I actually did that when I was testing it but one thing I
+didn't test was the other Ram slots so what we've got here is a problem where
+the slots on the right only these two slots here are working and these other
+four slots aren't recognizing memory and this does happen from time to time with
+certain faulty boards so essentially this board in this current state is semi
+faulty but what I'm gonna try and do now is take the CPU out try and just I guess
+clean the pins and then clean the back of the CPU see if that can make a
+difference as well as cleaning the RAM slots out and see if we can at least get
+dual channel to work as at this stage we're only got single channel and that
+unfortunately will affect our fps in games quite a bit
+[Music] and that is what it's all about around
+tacky-ass City we now have three sticks across those three DIMM slots in
+triple-channel and it is being recognized in the bios so that was a new
+method I just quickly did now on the channel and people always wonder like
+dude how do you know all this stuff how do you come up with these things
+I just trial and error I did not know if me putting a very sort of like stiff
+soft brush across the pins with multi-purpose spray was going to work I
+didn't know that and I just tried something new and it ended up bringing
+these two channels back to life here so that's just the power of doing this kind
+of stuff and my guess was it's either a very slight micro Bend on the pins that
+happens so we were stroking against the pins and that helped I guess very softly
+alleviate a problem if they may have had that or the tips of the pins themselves
+got a slight bit of corrosion over time so either way we've now got it all back
+up and working absolutely fine this board is ready to finally be put back in
+the system and it's good to go let's get it underway so the builds up and running
+finished we've downloaded our games except for cod which every time I try to
+install a battlenet game you've got to like delete the folders in the main
+folder and then scan the game and it rig downloads more I wished platforms were
+honestly more like Steam and you play games just install when you copy and
+paste them so easily but anyway rant aside this PC we're
+gonna run a preliminary benchmark without it overclocked and then we're
+gonna see the numbers and then we're gonna come back and start overclocking
+it and then re benchmark it [Music]
+and here we are back with overclocking our i7 972 4.2 gigahertz now 4.2
+gigahertz on X 58 is pretty much a standard overclock especially for these
+chips right here which is the 32 nanometer but one thing about the i7 970
+is that it's pretty much considered on these 13 and 6 cores pretty much the
+garbage bin and that it's the worst bin you can get compared to the X 56 50 cos
+for example and also the i7 990 X's so getting these two 4.2 gigahertz is
+relatively easy you can do it in around 10 minutes and also considering since
+we've got like real bottom-of-the-barrel memory we're just sticking with 1600
+megahertz now going past this if you want to go to 4.4 gigahertz you'd
+probably want some better cooling but also some better memory to but for what
+it's worth this is a solid overclock especially for some quick gains and
+games I could probably spend some more time tuning the core voltage on the CPU
+dropping that a little bit before what it's worth
+let's get these benchmarks done [Music]
+and here we are now finishing up with the benchmark it's actually bright and
+early in the morning where I crashed out just yeah you just get really tired
+sometimes you like no I'm going to bed not spending any more time with these
+computers and that's exactly what I did I just crashed down then woke up was
+thunder charged got into it did the overclocking and stuff like that so what
+we've got here before and after is really interesting because we can see
+with warzone we gained like literally like 50% FPS going from 128 average FPS
+to 171 and the 1% in point % loads responded accordingly and then f1 2019
+saw a pretty similar boost in that the average frames went from 115 to 154 now
+comparing that to the 10 900k that scored a little bit more in f1 2019 and
+also in warzone it got a bit higher as well but there wasn't like a massive
+difference you could still play absolutely fine 144 Hertz monitor on
+both these titles now one thing about warzone - we did have to play it in safe
+mode for some reason and it's just this game I don't know what it is like it
+depends on the config and the way you set it up sometimes you just come into
+problems with it when you're installing it on new machines I always seem to come
+into problems with it I wish like battlenet would fix the copy-paste of
+games as we just said earlier in the video but anyway enough of that
+fortnight was a weird sort of mix here where we didn't actually gain much FPS
+at all we went from 240 to 218 but then move over to the 10 900k we gained a
+substantial amount of FPS going up to 384 so this is the game that did expose
+a big difference between the latest and greatest
+and also the x58 system though the s-58 system for what it's worth
+let's go over this because we were using 12 gigabytes of mediocre memory versus
+32 gigabytes of seal 16 3600 so I think I'm looking forward now ever more so to
+an x58 comparison and perhaps we'll just do an ultimate showdown in 2020 x58
+versus X 79 versus save for 2,700 X 1600 AF and then we'll throw the 10 900k in
+there just for the the limit on what's going to be imposed because now that
+I've got some really good ddr3 memory for this stuff I want to see how high we
+can go and of course I want to get that Z on the X 50 675 now that is pretty
+much the best CPU for x58 motherboard so if you're gonna get one of these
+motherboards and you pick especially if you pick one up in a deal like we did on
+the channel here you can get some really good value for money out of this system
+now for me personally like I said earlier in the video I do resell x58
+boards if I know they're really good quality because people even after 10
+years we can see the FPS here even after 10 years X 58 is literally like one of
+the best investments you could have made in tech in your life ten years later is
+still going strong is still playing games absolutely fine and a lot of those
+people out there that have owned this system for say 10 years they're probably
+just like they're multiple might go faulty over that time and they're like
+well I'll just replace the motherboard so you re selling a motherboard
+especially a good x58 board there is a good market out there for people who
+want to buy them not just people putting gaming two pieces together price
+performance pieces like we do here on the channel is actually people we just
+want to replace that board and so those x58 boards are still very attractive as
+we saw the results here but also another thing is I've mentioned in the past
+overclocking this particular platform is a lot of fun and there are a lot of
+other variables as opposed to the new stuff especially with Mike risin
+precision boost overdrive them and precision boost it just works so well
+that there's really not a whole lot of point in overclocking manually and then
+we move over to the Intel site on Z 490 and if you want to get a bit more out of
+that you're gonna see massive power consumption increases and it's still
+just a matter of locking in CPU voltage and single cause so overclocking I feel
+like the older stuff like X 58 is a lot more fun it's a lot more challenging but
+once you get your head over it it's actually big gains as well as we saw
+here you can get around 40% 50% FPS extra FPS if you tuned both the CPU of
+memory and even the Ankur a lot more so a lot of fun with today's Rick and in
+terms of the i7 970 worst case scenario for X 58 you go grab that X 56 75 if
+you're serious about X 58 and you want the best day on with the best overclock
+and surprisingly the temps were okay to temps power consumption we were getting
+around 330 watts while we're playing war zone and the temperatures were around 70
+degrees on both the GPU and the CPU so that Knox were that little NOx will cool
+with the duel fans pretty quiet and also doing a great job of handling this
+overclock at 4.2 key codes but as we said before
+overclocks yeah you can get a little bit more but you're gonna spend a lot more
+time and another thing is - if I do sell this system I'm not gonna be locking in
+a 4.2 even I'd sell it maybe at 4 gigahertz because I know that's gonna
+work 24/7 I'm not gonna have any problems with the person saying hey my
+system is crashing even if it's in summer
+once in a blue moon or whatever so 4 gigahertz is definitely gonna be 24/7
+stable but 4.2 is what most people can expect
+and then 4.4 4.5 it's pretty much an enthusiast overclock on x58 now of
+course the memory if you want to really get the most out of this get some decent
+memory but even the 12 gigabytes we had it today a triple channel did do an
+amazing job look with all that aside if you guys enjoyed today's video then you
+know what to do hit that like button for us and also let us know in the comments
+section below what's your experiences with x58 2020
+have you come into one have you seen any deals on it or are you just all about
+going with that new Rison or even the new Z 490 stuff Lovering your thoughts
+and opinions as always and get under the question of the day and
+this comes from toad or tank off and they asked I want to buy a Zeus p68 x58
+da socket 1366 shield I saw it in eBay but do you know any other way and I'm
+guessing they're talking about the IO shields that sometimes when you buy a
+board you're gonna lose them and the problem here is is that if someone's
+very selling an IO shield they're generally gonna want a bit of money for
+it like at least 20 bucks because they know someone needs that and they know
+they're prepared to pay that and also at the same time the person selling that
+has to make it worth their time so IO shield is one of those things there's no
+real other way around it unfortunately because they're all made unique to that
+motherboard there's no real generic Bioshield that you can get I mean there
+might be but even then it's still gonna cost 10 bucks and it's gonna look a lot
+Messier so in terms of if you lose the IO shield and you want to replace it
+unfortunately you're pretty much gonna have to cough up the piper on eBay
+that's pretty much the only method I know of personally in terms of IO
+shields that I've got lying around here I could take a look for you personally
+as I've got so many of them over the years with all the motherboards that
+have been faulty and I've thrown out I've managed to keep the IO shields
+around so eventually I wanted to make like a tech yeah city wall with IO
+shields so that was the plan but yet in terms of getting around that there's no
+other way anyhow I hope that answers that question
+and if you guys have stayed this far and you're enjoying that content then you
+know what to do make sure you hit that sub button I ring that bell to get this
+content as soon as it drops here take a city and I'll catch you in the next tech
+video very soon peace out for now bye [Music] 
