@@ -1,0 +1,587 @@
+Hey, it's me,
+Destin. Welcome back to Smarter Every Day. I love analog film photography. There's something to me about being able
+to capture a memory in a physical object
+with light and physics and chemistry. It's just beautiful. In a previous episode of Smarter
+Every Day, we went down to Montgomery, Alabama,
+to visit Indie film lab. These are the people that develop my film, and we get to learn
+all about the chemistry and the process. It's really, really cool,
+and I really enjoyed it. But today we're going to do something
+completely different. I don't know if you were aware of this, but analog photography is making a huge
+comeback. It's not just weirdos like this
+and that, like this stuff. Everybody is trying this, and if you don't
+believe me, go look up the second hand prices for old analog cameras
+like this, they are through the roof. Which brings up a question. If analog film photography is popular
+and analog film is a consumable, what does that mean
+for the supply of film? Or are they
+just selling some big stockpile? Or are they actually manufacturing
+this stuff today in a way that we can bank on
+for the foreseeable future? So I'm happy to report that the people at Indie Film Lab
+introduced me to someone at Kodak, and I asked if I could come see
+the manufacturing process, and they said Yes, yes. That means we are going to get
+to go to the place for all things film. The Kodak plant in Rochester, New York,
+and I am so incredibly excited. Just to be clear, there's
+no Kodak sponsorship going on here. I just asked if I could go see the stuff
+and they said yes. And I kept asking more questions
+and they kept opening more doors. We got to go to the basement
+to see like the big cauldron, I guess you call it, where they mixed
+the chemicals. This is an incredible few videos
+because it is going to take three videos because of how complicated
+this process is. There are three primary manufacturing
+things that have to happen in order to make this 35 millimeter. Can a film happen? Number one is the support. That's
+what I think of when I think of film. That that floppy part there, that right
+there is called the support. And there's a whole manufacturing process
+that we're going to learn about that goes into that. The second thing we're to learn about
+is the light sensitivity part, and that's putting an emulsion over the top of that support
+and making the film light sensitive. That's its own thing. And spoiler alert, that has laminar flow in the process
+so, you know, I'm going to love that. Number three is the packaging of the film. Now, here's the thing to think about
+once you've made the film Light-Sensitive. How do you get it into a package? Because you can't expose it
+to light after that. So everything from the moment
+you coat it to the moment it's in
+the can has to be done in the dark. We're going to learn all about that.
+So there's going to be three videos here. Number one,
+we're going to learn about the sport. Number two, going to learn
+about the light sensitivity. Number three,
+we'll learn about the packaging. And I love it. So I hope you're ready to go on this ride. Because I'm excited. Let's go to Rochester, New York and learn how Kodak makes film for film photography. Let's go get smarter every day. All right. We're going into the lot at Kodak. See if Matts here,
+here we are at the gate at Lot. Says call received when lit,
+but it's not lit yet. This is my buddy Trent. When I found out I was going to go
+to the Kodak plant in New York, I asked him to come along
+because he introduced me to film and I knew it was something
+he would really enjoy. At Wal-Mart but didn't see it. The magic's made it hit the button again. You, Matt? It's Matt. Yeah. Nice to meet you, man. Pleasure.
+How are you? So we walked into the iconic Kodak Center
+in downtown Rochester, New York, and this place is amazing. Our point of contact
+at Kodak is Matt Stauffer. We geared up, and, you know,
+the tour is starting off right when you brush by the world's first digital camera
+on your way to see the awesome stuff. We will. Matt: We'll definitely come back through here,
+Destin: sounds great. Destin: What's your title here? Matt: So I'm actually a manager. MATT: Manager
+in our worldwide information system, so IT Destin: Oh, awesome. Destin: Yeah. Are you a photographer as well? Matt: I am a photographer. Matt: I'm a third generation Kodak here as well. It's really what we call ourselves here. My father, my grandfather,
+plenty of aunts and uncles. My grandmother. So, yeah, it's it's not an uncommon story. Here in Rochester.
+Destin: Yeah. Wait for the click and then push Destin: That was kind of a moment. Destin: Trent Are you excited? Trent : Oh, yeah. If I can fit through this thing Matt: This is building one next to us. Kodak Park. Originated in 1891. The first building that was built here. You know, if you're going to. Build a major manufacturing facility,
+you need some power. So this is a steam generation. Plant. Destin: It's a really pretty park. Destin: This place was absolutely massive,
+and I was surprised to find out that photographic film is only
+a small percentage of their business. There's a ton of history here as well. The old brickwork makes it really photogenic, like
+tons of pipes and textures and windows. It's really cool to take pictures here
+and just explore the place we moved along in. Matt picked up our ride for the tour
+and we made our way across campus to where they make
+the mechanical support for the film. It was here that we met the experts,
+Sharon and Mark Okay, so we are in ESTAR film
+based manufacturing in. Sharon, Mark. What is ESTAR? Well, ESTAR is a Kodak's trade
+name for P.E.T. based polyester polyethylene
+terephthalate. And that's polyester. All right. Simply. And it's the film based that we use
+to make a lot of our photographic products these days. There's another base called Acetate,
+but a lot of it's done on and on ESTAR. And we have a continuous by axial orienting process
+that we stretch it in two dimensions, and that gives the polyester
+basis toughness. That's why it's real strong.
+Destin: Oh, so it's a polymer? It's a polymer, yes. Destin: What's the advantages? Do you get more stability
+with the star?
+ Yes. Do you get more stability
+with the star?
+ Yes. And do you get more longevity? Mark: Recyclable. Mark: It's very tough,
+tough, strong, strong strength. Destin: Got it. Mark: But for that reason, some people have problems with using it in a camera because it might break the camera
+before it is too strong. Destin: Oh, the tensile strength is higher. Mark: Yeah, much, much, much higher. So I say it is very it is very easy. And therefore, motion picture film
+still at least origination film is still on acetate. Destin: Because you want. You want the film. To fail
+before the camera fails. So it's. A mechanical strain. Relief
+in the system, right? Sharon: Correct. Mark: Correct. Destin: Got it. Okay. Matt: However, if. You're in a projector, that thing's
+going through and you've shown. That movie you know, however many hundreds of times,
+a lot sitting there in the theater going nowhere, it that strength, they're
+so that it doesn't wear out. Destin: Got it. Understood. Destin: Sharon and Mark gave us a detailed rundown
+of how all the stuff works. And after only a few minutes, it
+became clear to me that they are geniuses. But it's that fun, humble wizard
+like genius that's earned through many decades
+of solving complex problems. They need the speeds, the mass flow
+rates, the temperatures for everything. There's a lot to learn here,
+but I hope that at the end of this tour, you have a fundamental understanding
+of every major part of the ESTAR film support manufacturing process
+while Trent and I are suiting up here. There's one more thing I want you to be
+on the lookout for on our tour There's this theme that I saw everywhere
+I went at Kodak. It's clear to me that there's this group
+of wiser, more experienced employees, and they're taking the time to gradually
+bring the younger folks up to speed. Not only that,
+but you can feel the excitement of the younger generation
+as they actually own it. Like, they're watching what's going on. They're taking that knowledge
+and that understanding, but they're also getting the work ethic
+from the older generation because they're seeing it being modeled. Keep an eye out for this in these videos. Because it is impressive
+to see this young, tech savvy generation absolutely kicking,
+butt because of their work ethic. And you've got the older generation
+cheering them on saying, hey, I know I designed this machine,
+but it's yours now. This is your legacy. And they're putting them out there. They're like, Hey,
+you should be the one on camera. It's it's really cool to see this
+partnership between these two generations because it absolutely encourages me about
+the future of American manufacturing. And it gets me really excited. Charles, you've been here
+two and a half years. Charles: Yes, sir. Destin: So he's an old timer? Sharon: Oh, yeah. Charles: Seasoned veteran, one of our veterans. Destin: Alright. Destin: Yeah. You might tell me about Palmer. Charles: Yeah, So this is just polyethylene terephthalate pellets,
+so we get it in from our current supplier. Destin: Okay
+Charles:  so we get it in this pellets form,
+and we end up converting it into a powder. Our whole process
+is built on using a powder because we used the larger surface area
+during the solid stating. So since everything was already set up
+for that, we like to keep it that way. It also helps when we add in our stabilizer
+later down the line so that we can Destin: Im going to put this in your hand. Charles: Okay, that's fine. So that'll help us out,
+get the stabilizer mixed in as well, because you really can't
+add it to the pellets. Again, surface area is really important,
+and that keeps the inclusions down and the machine
+keeps our film really clean up there. Destin: What was that word? Charles: Inclusions Destin: for air inside, Charles: not air,
+but just for defects. The stabilizer is actually for taking out
+catalyst residue. If you leave it in, you get some nasty
+looking freckles in the background. Destin: Got it. Charles: And it's you just can't
+have it on the high quality optical film. Destin: So if I understand correctly. This is where film starts. Charles: Yes. Destin: Got it. So we're going to grind it,
+make the surface area where. We can melt that easily. We're going to melted down
+and we're. Going to extrude it. Charles: And then, yeah, then it'll get extruded
+out through the day into the wheel. Destin: That's awesome. Yeah. Let's check it out. So Charles explained that they
+bring these pellets in on railway cars. They have their own tracks on campus,
+and they pull the railcar up to the building, and one car of pellets
+will last for two days. The first step of the process
+is to mechanically grind up these relatively large pellets
+into a fine powder. Charles took us down to see the grinders
+in action. Charles: There are two 50 horsepower motors. Right now at about 10,000. Pounds an hour max Let's take a peek inside. Yeah. Charles: That's our powder. That's the powder. Yep. Destin: That's the powder. That's going to start the whole process
+to make the backing for the film. Destin: So that's a polymer powder, polyethylene,
+Charles: thats a polyethylene terephthalate powder. So coming in from the top,
+we have a pneumatic conveyor, dilutes
+picks up all the powder from the bottom of the grinders,
+and it transplanted upstairs to our roof. So it's going about 100 feet up to 300,000lbs storage tank Destin: Thats amazing. Destin: That's a really cool elevator. Chrales: Yeah. Very old elevators. Destin: It's awesome. The next step we're going to learn about
+is what Kodak calls the reactors. Charles: So we're just going to walk
+through the control room. Destin: Okay. Charles: Hey AL! How are you doing? Destin: What's up, man? Charles: This is AL our best
+operator. And this is Chris. Destin: How's it going, man? I'm Destin. AL: All right. Destin: Doing all right? AL: Yeah. Destin: You guys making it happen? AL: Trying to! You trying to take a picture. Yeah. Yeah. Destin: So this is where you control everything? Charles: Yeah. Everything's controlled from here. We have pneumatic panels on the wall,
+so we still have some of the very old, original pneumatic stuff. These are five of our reactors, basically. And the older ones are all controlled
+from this panel. Pneumatically And you basically can
+see just about everything that's going on. Keep track of it. This is a fluid polymer reactor. So this is where we would do
+a solid state. So you're driving at this point right
+now, we're drying it. Yes. Down to five parts per million of moisture
+and water by weight. So it's pretty dry. Destin: Where can you read the moisture here? So we actually do that using an I.V. in our lab. Will every batch will take a sample and then we'll run it through
+one of our Tinius Olsens. Look at the intrinsic viscosity
+and then we correlate that with the moisture, Destin: intrinsic viscosity,
+meaning when it's when it's melted. Charles: Yeah.
+So we put it through like continuous. Also in this little machine,
+you put your sample in and it's basically a tiny extruder and then it just measures the forces
+and gives you that viscosity. Destin: Oh, that's awesome. Yeah,
+that's cool. Yeah. Destin: And you can correlate that to moisture. Charles: yes based on the water content itll have a different IV Charles: IV being intrensic viscosity So it's basically the amount of water
+or solvent in the polymer. So these are some of the older FPRs
+we have. I'm only bringing in here
+because I want you to take a look. Destin: IPRs What do you mean by that? FPRs
+(Fluidized Polymer Reactor) Uh huh. The only reason I brought in here
+is this one's out of service, but it gives you
+a really good shot at the inside. So this is how it fills
+gravity field from the top. What it will do is it will feed from up above all the way until it plugs that line
+and that line is plugged. You can't fill it anymore. So that's when our batches ready
+to be put into react mode. Destin So basically you have a pipe coming down. Yes. So that that goes way up. High. Yes. You have the pipe coming down. And when it's full all the way
+to the pipe, that's when a batch is ready. Charles: Now, these are about 10,000lbs worth. Destin: And this will be dry powder at this point. Charles: Going in. It's wet. It's going to be dry and ready
+when we're done with it. Ready for stabilizer edition. That is at the bottom, those coils. Those are the internal heating coils. We also have some external heating coils
+wrapped around on the jacked vessel. Those bring us up to temperature. Destin: Gotcha. Charles: Yep. Destin: So it's a basically wet powder comes in,
+meaning like it has too much moisture. Correct. Goes in here. Destin: These coils down here,
+Charles: they provide the heat source. So what's going on
+is it's a fluidized bed reactor. Destin: So air is pumping in it? Charles: so nitrogen. So everything has to be nitrogen. Destin: Dry
+nitrogen. Yep. So dry nitrogen flows into the bottom is a distribution plate
+with tiny holes in it. And that keeps the powder moving. It's
+kind of like an ocean. You see waves and ripples and bursts
+as it's right and it's pretty cool. Destin: That is cool. So do you guys monitor
+it with cameras or something? No, I wish. Yeah. We usually just have sight classes
+with lights. Destin: So is this under pressure? Charles: The whole vessel
+will usually be under pressure yet. Destin: Really? Charles: Yes, around seven PSI or so. Oh, that's legit. Yeah. So these are all 10,000lbs reactors. And then over here we have two 20,000lbs
+reactors that we run all the time. Destin: So these are running? Charles: Yes, they're currently running. So they each have a compressor
+that just circulates the gas. They have a glycol scrubber associated with it to help ship
+the nitrogen through our absorbers. And you want to keep your nitrogen clean. Organics will come off during the process. Let's see the aldehyde and some other compounds
+Destin: So do you just vent the nitrogen? Charles: No. It's clean and it's recirculated . We try to conserve as much as possible. Just about every conveyer we have
+here is closed loop. Cause nitrogen is expensive. Destin: Yeah, that makes sense. Destin: Is all this stainless? Charles: Yeah, everything's stainless steel. Anything that touches
+the resin has to be stainless.  no aluminum allowed,
+no silicone because it can oxidized the. Well, the aluminum is bad for the product inclusions, and it gets in there
+that any aluminum dust, it's a big issue. How's he doing, Sharon? He's great. He's doing is doing great. Yeah. So coming out of the hex. So coming out of these appears,
+it is conveyed up to the right above us. There's another Bin, and now
+we've put everything to this screener. It's just a big corn sifter. Yeah, And its entire
+purpose is to get anything large that might be in the process. out we make sure we only have a good, good polyester
+coming out about a uniform size yeah. This controls your grain size. Well,
+somewhat. I mean, there's just about everything
+helps control the size, but this will get anything large out
+if there's a wall scale like we saw in the last reactor,
+there still is large on the outside edge where you get the amorphous material,
+all that'll come out of here. Now, of course, the whole powder is
+has a distribution associated with it. We check that in our lab checks
+because we like to keep the particle size
+like a standard deviation. Yeah. For the most part,
+we have an acceptable range. So that's the end of your vision
+into the process. Charles: Well, there's a little bit more upstairs,
+but yeah, basically. Basically the first stage. Yes, correct. So we have
+we have we give them the finished powder. So that way they can go straight into the extrusion
+and then the filmmaking process. Oh, that's awesome. Charles, nice to meet you.
+Nice to meet you. So the next step of the process
+is the initial melt screw. And I didn't understand this at first,
+but it's very interesting. Mark took me to the feed
+hopper on the floor above the screw and showed me where they could add color
+to the material by feeding in colored pellets
+if they wanted to. We then went down to the basement
+and suddenly everything got very warm and very loud. Destin: That's a big motor yeah. Destin: Is that a gear box? Mark: Yeah! 200 horsepower,
+lots of heat, lots of noise. Destin: Okay. So this is the feed hopper. Gravity feeding the powder and the ground
+re-use into the feed thrown area. The screw and then the screws turning,
+accepts the powder, and that gets pushed along through
+generate so much frictional heat that it melts I will take you to we have a screw
+this out out of the machine Destin: Lets do it! So you got a cart so. Destin: So it's rotating very fast? Mark: No it's not actually about 30 rpm. Destin : Oh okay. Mark: Something Like that. Yeah, it's going run pretty slow
+and we've got all the piping is jacketed because the melt temperature is around
+548 degrees Fahrenheit. So we're trying to control everything to uniform temperature screws
+a little ways down here. So we keep going. Destin: Mark, you
+just barely make it under these things. Yeah. Yeah. Destin: Are these calibrated for Mark height here. Close Destin: That's a gearbox. Gearbox. Couple of spare spare parts. Destin: These are huge. Destin: Oh, wow. Well, this is amazing. This is a screw. Destin: So this is an auger. This is incredible. I cannot. The key
+stock required to make this thing work. This is this is a big project
+to make one of these. There's a barrel, and then this gets installed in the barrel. And it floats in the barrel. Yeah. It has to be very uniform and temperature
+because you don't want any warping. Destin: How tall are you, Mark, for scale? Mark: Six foot five.  Destin: Six foot five. Wow. So that's like that's like six marks. It's like 40 feet. Mark: Yeah. Sharon: Its Like, 10 Sharons lol Destin: Like ten Sharons! So these are the different stages
+of the screw. You can see where the flight. Destin: It's called a flight. Mark: It's deep here. Yeah. The flights of the screw there,
+it's deep here, and then it gets shallow. So you build up a lot of pressure in here. Oh, you know, as this material is being
+is flowing through here, a lot of pressure, and all of a sudden,
+it goes down and pressure we actually pull a vacuum
+through this little hole right here. Destin: So this doesn't rotate? Mark:  It rotates. This is rotating all the way around. But it's
+the material is only up to about here. It's being pushed along by these flights. So this is open area
+and this screw is actually hollow. There's a pipe that goes through. We pull a vacuum on it. Oh, I see. What you saw. It gets rid of volatile gases. Oh, I see. Icky stuff. So the face of that
+gets sealed on the outside. It's hard for me to understand. Well, not that the base of this doesn't get sealed,
+but the flights are pretty well sealed. Okay. In the barrel of the screw.
+Okay, so. So you and that just seals on the other
+end, right? Yes. And seals on the other end. Okay, so let me understand the process. So we put the powder in here, right? There's a pipe that's a set diameter. Yep. All around this. And so that seals right here on the edge. All right. So this powder starts here. Does it come in here? It comes in there. Right here.
+Right there. So once it comes in here,
+it pushes the powder that way. This is like an Archimedes
+screw on steroids, kind of. But it's not using gravity for liquid. So as mass comes in here, it starts moving
+that way. You've got a gap here, right? And as you go down, the gap gets smaller. And smaller. So you're way over here. And there's a really big step right here. You're building pressure here, in here. And then and then it gets very thin. So the gap gets very small here. And then why do you relieve the pressure
+right here? So that we can have this vacuum area where we pull a vacuum on and extract
+to call the extraction section. So we pull a vacuum and extract volatile gases from the little bubbles
+and things like that. And then it keeps going. Then it keeps going
+and then it pressurizes again. And our pressure is coming
+out of the screw or like 1200 pounds, 1200 psi. Wow. You know, it's
+and it's 400 or 540 degrees. And so when it comes out on this side,
+right here, oh, look at that. What am I looking at? Is this, does this ride in something? Yeah, I think there's a, there's a place
+that it kind of floats in on the end. Kind of like a needle bearing. But the material actually takes a turn. See, we're downstairs. We go up upstairs through a filter and then through another screw. So there's two screws, actually. This one does
+the heavy lifting, melting, pumping. Pressurizing So so this I
+you can see it really good here. So comes down off gases. Re compresses. Compresses. Right. So it's converging diverging. Converging. Yeah. Yeah. Okay. Got it. Is this an extra 15? Probably a box. We got several. An extra one there. Yeah. This is an extra one. Look at that. Didn't even know you had that mark. Looks like it needs to be cleaned up. All kind of got a sign
+that says save the screw Does it really Lou Harasta Sharon: Lou is our extrusion engineer Destin: So can we go back to the motor? We can. But this is crazy. Just to just to show you what this is. This is a scrap chop or two. So we don't have these upstairs,
+but through different as we go through different parts of the machine,
+there are little gates on the floor. We send a scrap down,
+and this is where it ends up. So they get chopped up into little pieces
+and then we sell it. Gotcha. So now that we understand the screw,
+this is our motor and our gearbox,
+and the screw is in here, right? And the hopper the materials coming
+in, their. Materials coming in, and it's. Compressing all the way down. Where's the vacuum? It's in the middle, right? Yeah. It's actually home. The vacuum is in the middle. There's. There's a pipe. Yeah. That that they put in and you see, there's the end of the screw. This is the end of the screw. As the resin is blowing up. This is the resin. Coming out close up. Okay. You may already have this figured out,
+but I'm clearly still confused, so I need a visual
+aid to help me figure this out. Here's the rotating screw. And up top, you can see a cross-section
+view of that same screw the shape. Here's exaggerated, by the way. That'll make everything
+a little bit easier for us to understand. The material comes in the top here
+as a solid powder and friction alone
+heats it up and melts it. As the molten material gets pushed down
+the length of the screw, it gets compressed
+between the shaft in the sidewall the shaft and reduces in diameter,
+which relieves that pressure a bit, and a void opens up
+allowing the material to out gas. A vacuum is then pulled that
+this little vacuum port and unwanted gases can bubble out and be removed. This crew then continues to push the uniformly molten polymer
+to the end where it exits out the top. This is the screw running at 42 rpm Mark: 42 rpm yeah 4400 lbs an hour That's the rate of the material leaving
+without reuse. But with reuse is 35. So if we didn't have
+that recycle loop in there, it would be higher. When Mark told me they filter the output of that screw,
+I found that to be hard to believe. They do and it's impressive. So you the filters can't see too much. There's a canister is a canister. So the resin gets pumped through
+sort of filter sticks. So we've got usually ten micron or five micron filters
+depending on which. You're filtering the plastic. Yeah, yeah. We're pumping that resin
+through instead of. Pumping the resin through a filter. What? Yeah. We don't have any reason
+to take any good pictures of filter. Right. Filter sticks
+but it's a fine it's a fine mesh stick. So how. So
+these are one time filters then. No we break down and clean them. Stainless steel mesh
+we pump through. That's amazing. This is one of the most interesting. Parts
+of the process to me because I've. Never thought about. Filtering. A molten polymer. But of course, that's a thing. But I've never thought about that. That looks like a mess. You clean. This thing. Yeah. They break it down here, and then it goes up to our filter cleaning room. So you guys are the kids
+that mess things up and you get somebody else that cleans up
+after you. Yeah, that's pretty much it. It's amazing. Fun. This is the other screw that I talk about. Oh, there's two screws. A little smaller. Yeah, it goes. So we were downstairs, comes upstairs, there's a filter
+on the other side of the wall. And high pressure goes through the filter
+filtration step comes over to this screw. This is called the metering screw. So this one is a lot smaller
+and it doesn't have all those flights where we go
+high and low. So it's just pumping material. So like the name says metering. If we want to increase the thickness
+a little bit, we speed this up. We want to, you know. thin it out and slow it down. Destin: This is the fine adjustment.
+Mark: Fine adjustment. And again, the one downstairs is doing
+all the heavy lifting, all the work. So all that surge if there's any surge
+pressure fluctuations, this one's keeping all of that stuff away from the process,
+the casting process. Got it. This episode of Smarter
+Every Day is sponsored by Brilliant. Brilliant is a really cool app and website
+that you can use to learn really cool science
+concepts at your own pace. Brilliant, it offers a ton, of course, is focusing on mathematics, science,
+computer science, and more so that you can learn all these really interesting concepts
+and move from knowledge to understanding This episode,
+for example, is about photography. Let's say you want to get a more
+scientific understanding of photography. So where would you start? You just whip out the app here,
+go to brilliant, start looking around. I just found one called Waves and Light. You can just start the course
+and it goes through all different kinds of interactive tutorials about
+what is a wave? How does it work? And then they have interactive questions
+that you can respond and get feedback on whether you're
+actually understanding the concepts. If you want to check this out
+for yourself, go to Brilliant.org/smartereveryday That gives you a free membership
+and 20% off a premium membership, you begin to master a subject
+when you have the tools you need to figure the answers out on your own. And that's what brilliant does. It helps you master a subject. Brilliant offers
+a wide range of courses for mathematical fundamentals to quantitative
+finance, scientific thinking, even special relativity
+If you want it, it's there. Go to brilliant.org/smartereveryday to sign up for free. And that also gets you 20% off
+an annual premium membership. Big thanks to Brilliant
+for supporting smarter every day and thank you for considering
+supporting the sponsor. This looks like you guys are walking
+till like your rocket or something. Up until this point we've been processing the material
+to get it into the perfect molten form. Now it's time to go upstairs
+and watch it take shape. All right. So the molten stuff comes up, right? Comes up after
+it goes through two sets of filters. And although there's a final filter
+and it comes through the the wall filters on the other side and right here, the 12:00 position of this of this will is a, is a die. So we've got the melted ptt the plastic. We're going   turn into film. So we've got this big wheel here. Right, right. And is this where the molten
+plastic comes on top of the wheel? Yeah. Right at 12:00. Coming out of. All right. It's being extruded you can picture it's
+very vicious, very thick. And as
+the wheel turns it's picking that up. And in order
+to get it to stick to the wheel, we pull a vacuum behind that. So it makes it stick to the wheel
+and makes it even all the way across. So. Destin: So this wheel that's rotating is very,
+very well. How do you say this? The surface finish is almost like a mirror
+palace polished. It's a polished surface,
+polished surface, and it's cool. Okay, so you're maintaining
+the temperature of it too, right? So you've got the molten stuff
+coming in the top. It goes all the way around,
+and you keep a vacuum on it. So are there holes
+in the surface of the wheel? No, no, no. So there's there's only a vacuum
+right here. Okay. Once, once we get it attached
+to the wheel, it goes around, say so. So liquid goes there
+and it goes around this position. All the way around. All the way
+around. Sharon: Down the. Basement. Destin: Down the basement
+where we saw earlier up here. Mark: It cools to a certain point. 540 degrees coming out of the die liquid. And by the time it gets to this point
+right here, it's about 135 degrees Fahrenheit. Destin: Gotcha. Sharon:  Cause the wheels cooled Got it. And and as quickly it's important
+to how quickly we cool everything. If you're cool too slow,
+you got a hazy, crystalline structure. So you have to kind of
+have control cooling to do that. So it's nice. It's kind of like when you take your ice cream
+out of the freezer and put it back in. If it cools slowly over time,
+you'll get big crystals but if you cool it quickly,
+you don't get crystals. That's kind of the way it is. Yeah. Yeah.
+You do that for optical clarity. Okay. I want this to be clear. As possible. Okay. Destin: And so we create the film
+and then we pull it off of the wheel. Yeah, right.
+And it's pretty thick at this point. Yeah, it's very thick. It's like a board. Sharon: Yeah, what, we showed you in the copy. moving pretty slow at this point,
+but it's very thick. It's like an eighth of an inch. All right. Yeah, And then what are we about right there? So it goes through. These are drive rollers, pinch rollers. We're just conveying it. And so it's coming down going up, down. And then back. Here. And we got a cooling section. There's a temperature control area in here. These are our coating stations. Kodak was very proud of the fact that
+they can apply coatings to the material as it travels along the production line. They introduce me to another young engineer named Patrick,
+who explained how they prepare these coatings for application
+at various steps along the process. They have an entire system
+set up to precisely measure and get the right temperatures. It's
+very complicated. I asked Mark and Sharon
+why you would coat the product, and there were a ton of different
+applications for this process. They said you might want to put a primer on the star
+so that the photosensitive layer would bind better. You might have an anti-static layer,
+you might have a conductive layer. They said you might even put gelatin
+over the top and it varies depending on what the final use of the product is. One room I thought was really cool
+is where they store all the combustible solvents. This room is literally fortified
+for explosions in the solvents are stored in containers that are electrically grounded to prevent
+a static discharge from starting a fire. It felt like a really serious room
+perfectly. Preparing these chemical coatings
+is very important. In the way they're applied
+is a very precise operation. So I'm looking through a film base
+right now and one to three layers, correct? But it's very thick. It's a very thick material
+and you get thick, very thick edges. We call those ribs. And those are going to be important for us to grab
+hold of so we can stretch. Gotcha. So you're grabbing the ribs. Grabbing the ribs. And so it's going up there. Goes up If we were coating,
+we'd be drying the sheet upstairs. All right. And once we've dried it, both applications,
+we're ready to start stretch. So it's gone from the wheel there. It's going over,
+and then it's going down and up. Up there. Back down. All right. So it's kind of zigzagging back and forth. And then we get here. This is where we would coat Well, we coat there as well out there. Gotcha. And then what? Well, once once we're done drying this
+last coating, we're ready to stretch. The next part of the process
+is called drafting and tentering. Drafting is actually stretching
+the material in the direction of travel, and tinkering
+is stretching it out to the sides. A lot of people ask the question,
+why do you have to stretch it? Why can't you just extrude it? And so the process
+of putting in some other polymers, the molecules are very long and they're not oriented
+when you cast. So this process gives them orientation,
+and that's what makes it very tough. Destin: So so up to this point, right here, right here, it's going that way. Up to this point, it's the same diameter. It's the same width
+and the thickness. Right. So our mass flow is always the same
+throughout the entire process. Right. So when you start stretching it,
+you're going to squish. It and of squish it's going to it's
+going to slim down. And then this will speed up and. Speed
+up. Yeah. Destin: So how do you know how much to speed up
+your rollers? Oh, there's no drive rollers in here. So this whole section of the sheet
+doesn't touch any rollers. So between here. Sharron: it pinches the edges the. Ribs. Mark: Yeah, it holds on to the ribs. Mark: That's where we get our our structure. And where all the key got to be down there and stretching. Destin: Is that the bulk of what we're going to Chip back up for
+the regenerative part is from the ribs. Yeah. Yeah, not yet. So we we need those ribs. We we need them to stretch
+in both dimensions. Gotcha. So this is
+this is like pulling a bubble and. Okay, I've got. Like,
+taffy, you're going to stretch taffy. It's heating it up. And all this is just heat transfer. Gotcha. And we're going to heat it up,
+and I'm pulling on it on that. And a lot of tension. And as soon as it gets up to a certain
+temperature, uniform temperature will wear across. It's going to stretch
+just like Taffy will. And we have to hold on to those edges because just like Taffy, it's
+going to want to neck in to that can extend out. So we're grabbing
+those edges with a roller. And that's what. Yeah, that's what these are edge rollers. We can't. Is it possible to see one of those? Well, not while we're.
+Not while you're running. No, we're running. Cool. But but you can see the the gap starts thick. And right here, there is a big gap
+stretching in here. Starting here, going down tighter and tighter. So the. Stretch point is right in. Here. Destin: What are you telling me to look at? We say, see the. Gap,
+these gaps, these numbers. Oh, I see. Going down through .107. That's the thickness of the material. Thickness. The material in inches. Thousands, thousands. Hundreds and thousands. I see. It's getting thinner. 0.097 Oh, wow. Big steps. .050 There's a lot happening right in here. And we're we're gapped on the end
+to keep it from necking Up back again. Gotcha. So it's speeding up right here. It's speeding
+up. Really? Fast. Really fast. So from .100 to .050
+we've doubled our speed right here. More than double this. Our ratio is usually around
+three and a half. What is this? Those are those rollers.
+They grab the edges. That's how you're grabbing that. Can I touch it? Sure. So that's what you're grabbing on. Wow. And this is a draft about. It's got just a little bit of a taper
+on it, doesn't it? Yeah. Yeah, because of those ribs. But it's just trying to form contact with the rim so it doesn't dig in. Destin: Gotcha. That's cool. This is a cooling section
+we call the sheet There's no stretching going on in here because then we're going to hit
+some of these full. Face rollers. To transport it
+from here into the next stop. So there's a roller in here
+that we have under high tension. This is the tension of all things. We're pulling very hard, and that's
+what causes the stress to happen. Got it. When it gets up to temperature. Gotcha. Destin: Yeah, because you can't push it. You've got to pull
+it, Mark: right Right. Destin: Got it. Mark: so Destin: that's interesting. So the tension is pulling
+through the stretch, That's weird. And the stretch point by pull harder. I can move that stretch point around. So it's pretty important
+to keep that tension where it is and keep that amount of heat
+that's going in there be relatively constant
+because the heat source, those rollers, it's obviously
+okay stretches to that place. That's straight up
+crazy. You're pulling taffy and you're controlling
+where it stretches pretty much. But that's. It. So so the speed is past
+that. There are no rollers.
+I got it. I'm with you. What are we doing here? So we're getting ready to stretch
+in the other dimension. So transferring. Transferring. Okay. Might call it the same direction as back
+there. This is correct. Lateral lateral correction or crossword. Mark: You can't see it, but there are two very long chains that one's on this side
+and one's on the other side. All right. And the chain is just rotating,
+going round and round. And you can see there's things
+that we call. We call clips,
+and there's almost a thousand of them. That's a clip counter. The numbers would go up to, like, 980. And then I'll turn over. But the clips are attached to the chain. And as the sheet comes into the clips. It grabs it and the moves. We have a cam that knocks the clips closed and locks out to the edges. And as we're going to do the same thing
+in the tentor here, we're going to heat up to see and it's going to stretch it
+diverge out. These cuts are going to diverge out. And Widen out and stretch the sheet. How do you keep the the film from stretching
+in the middle more than the outside. You have to heat it up uniformly
+so that heat transfer in there is important
+and how we do that. So you guys are wizards? Yeah. Yeah, sure. You're a wizard. Yeah, you're right. It needs a mark. Okay. So you can see here, we're about 16 and
+a half inches wide this number right here. And we're just through this section. We're just adding heat tentor So we're adding. Heat at this point here. Still 16 and a half. 16 and a half inches wide. We're going to walk down here. Okay. We have a bit wider. An eighth of an inch. Yeah, not much We're just basically trying
+to keep touch on our wall. All of a sudden we're 38 inches. Wow. So we've had a lot of stretch
+happen in here. What's happening. Here? It's 60 inches. So we're full width. That's. That's our full width. So from there to there, you stretched it with wise
+all it's going to stretch, right? Once it stretched,
+we take it up to a higher temperature. It's called a heat set. And we have to lock that structure,
+that molecular structure, and stretch
+the two ways that you got molecules. Now, it's going to be a and intertwine like spaghetti. You know, it's all mixed up and we take it up to a higher temperature
+and we lock that crystal structure in. And you have molecules that are lined up
+length wise and width wise, and that's that that's that tough PET property that you get
+And then we're going to cool it down once we get up. Destin: And so it's shrinking in dimension. Mark: Because actually, yeah. Destin: Contracting because of thermal properties Because of that,
+because the thermal properties that we also when we release over here,
+we don't want it to be too tight. We don't want a lot of tension on there. Otherwise
+we'll throw chips and stuff like that. So we let it relax just a little bit. Destin: Oh, it's a lot bigger here. You could see it's a lot wider. And we still have that thick rib on each edge Okay. But we're releasing these clips
+and there's this chain with the clips on it. It just heads on back to the other
+end and just continuously rotating around, opening. And closing clips. Destin: That's amazing. Oh, no way. This is there. Goodbye ribs. Goodbye, ribs. Sharon: That's right. Material
+we recycle. Everything. Destin: So this is where we cut the ribs off.
+All right. And so that's awesome. Sharon: And then we. Remove that material
+that goes right back into. Destin: The I feel I felt emotionally attached
+to the ribs at this point. That's pretty neat. Mark: They serve us well. Destin: Yeah, they did. So is this an x ray. Yeah, it's a nuclear device. So what you just said a radioactive. You just hand waved a nuclear device. It's said, trust me. Destin: It's amazing. Okay, so. Mark: So you might be able to see it
+better here. So this is measuring the thickness? Yes, it's
+measuring the surface. Non-Contact and it's feeding back to the dye. We've got some heaters back at the dye that we'll tell from the information
+that gets here. Tell us to we'll. Well, a little more material here
+or any little less material over here. Destin: Okay. So this is feedback
+all the way to the beginning of. Mark: The feedback, all the way back
+to the beginning of the day. To that dye. Really? Yeah. Sharon: That's a very sophisticated piece of equipment. That's very. Yeah. Okay. So this deserves a pause. So here we are. We're after stretching. We're after Tentering, we're after cooling. We're after cutting. The ribs. So this part of the process way down here
+minutes later, this is feeding back
+all the way to the beginning and telling that dye
+how to roll molten material on the wheel. I get getting that right. We're getting that right. Really? And there's a bunch of bank computers in. That, right. And they adjust the heat to let you know
+and feedback from the second oval enough to get the right thickness So that's that's a major,
+major part of this process. Yeah. Yes, it is. Laughing, to be. Sure it's here. It's very cute Destin: This is awesome. So at this point,
+the material is this wide and they have the ability to send it off
+to do several different operations the material is sent upstairs
+where Mark showed me a coating station where they can apply a coating
+to the full width of the product. You understand this concept
+better than the next video. There's a huge fryer. They can then send it through
+and then it comes back downstairs where a bunch
+more operations are available. They can knurl or emboss the edges,
+which apparently Sharon owned several patents for. They can also slit the film up
+to different widths if they need to. There's a scanner in here, too,
+where we have where we look for defects. So that's that's part of this
+and then we finally wind up the wall. Destin: Can you show me
+where it winds up at the end? So this is our scanner. So a lot of this is small spots,
+little defects, there's the scanner sees things,
+there's a laser and some CCTV cameras
+that are expecting to see. That's amazing. So these are defects. Those are little things
+that the scanner saw. Those are very small. And we have limits on how many of those. These are feet. That's feet. Okay, so this is huge. It's a map,
+and that's with widthwise location. So is it is it rolling? Is this. Rolling? So it's scrolling to the right. Right. It should be updated. Got it. The final step in the production
+process is to roll up the product. But in order to do that, you must first
+use something called an accumulator. When the roll gets full
+and you cut the product to change it out for a new roll
+because the process never stops, you end up making a huge mess. And the time
+it takes to connect a new roll to solve this problem engineers came up
+with a clever arrangement of rollers that can be spread apart to magically
+by workers a few precious seconds. This accumulator concept is amazing. So it's hands on learning time.
+Check this out. So this is the setup, and it looks pretty
+simple, but it's very, very complicated. This is a motor controller
+and we're going to feed the material into the product line right here with
+this can at a constant velocity. Over here, you can see we have what's called the accumulator it's
+a series of pulleys, cleverly arranged. And on this far side here
+we have a take up spool. And the thing about the take up spool is I can vary
+the velocity that it is operating at. Okay, so this is how we're going to do it. And I'm going to show you
+all the different things that come into play
+because it is fascinating. So we're going to cut on the,
+the motor controller over here. We're going to start playing. Okay.
+It must fall going in the right direction. Okay, ready? So I'm going to turn on the
+thing and when I turn this on we are going. To feed the line. Through the entire setup
+at a constant velocity. Everything is working, right? So console velocity here,
+I have good tension here. Good tension all through the system. Every time I want to stop. Stop spinning there, I have to take up
+that extra distance in the line by pulling on the accumulate air
+and spreading it apart. Now, see, I still have good tension here,
+but I'm no longer moving, so I could change my spool out here
+or whatever it is I want to do. And let's say we change the spool. We have a new one on there. And at this point I want to keep my tension over there
+so I can start taking it up again and then I could let the accumulator
+go back down. It's doing it on its own. Is this awesome? Is it's going back down. And we are maintaining a constant velocity here, but at the same time
+we're still spooling it faster over here. One thing I want to point out
+is one of the accumulator is moving. You can see
+because it's stationary over there, you can see that string on the right is not moving,
+but on the left it's moving fast because it's still the constant velocity
+of the production line. That's fascinating. And I got to. Move my hand over here and start
+taking it back. Up Isn't that amazing? Yeah. So this is cool. I had no idea how this worked at first,
+but it's impressive and amazing. And maybe we should go back
+to an animation. Okay. Think of it
+like a constantly balancing equation. The velocity of the production
+at the beginning of the line must equal the velocity of the accumulator
+plus the velocity of the spool at the end of the line. Having an accumulator in the system
+gives you the ability to slow down and stop the product whenever you need
+to make a cut and start a new spool The accumulator was
+a very difficult thing to film because it was so huge and spanned
+several floors of the building, but there was a smaller version up
+towards the front of the line. That gives you
+an idea of what the setup is like. All right,
+it's time to roll up the product. I'm Destin.
+Steve: Destin. Destin? Yeah. Nice to meet you Im Destin! Bill What's up? Nice to meet you, Bill. Destin: So this is this is the final product. This is the final product. So they'll be cutting a roll here
+pretty soon. This is our current speed right now. Coming right off. You have 260 feet per minute. Yeah. So are 5500 feet.
+So we're going to back up. Let's do your thing. That's okay. We've got time. So what we watch here is we watch our take up, and that's. That's very important. So when it when it comes to a stop
+that's the accumulator. You take it up,
+and that tells us how much time we have. So I cut the roll by ten. I walk out
+and there will probably be about 41%. Okay. Destin: And you take pride in keeping
+that number as small as possible. Steve: Oh yeah. Oh yeah. Oh, yes. Destin: Because that's your margin
+for safety on the process. So you're 5680. What's about to happen? Well, it's going to start slowing down probably about 57 by about 5720. Your red light is going to go on around. Okay. Yeah. Destin: And so you had that label ready. So this is the product. Now we're coming to a stop. So the red light went. On and you keep an eye on. This year right now. That you are slowing down right now. So you cut it with a knife? Yes, sir. Cut that section out. You're starting a new one At first, cut returns our sample. So what's your accumulator percentage
+now? 31%. That's because you're so good
+at what you do, right? Do our best. Is that a good number? Yeah. I feel like going about 45 Sorry. No accumulator is coming down now because
+the accumulator is closing back up. So you watch our speed here, too,
+and you see how our speed actually increased so now that speed will start
+working its way back down to the 365. 368. Destin: Really?  Steve: Yes. Destin: That's exit line on the accumulator. Steve: Yes. So the accumulator is just coming in fast well, the accumulator is opening up again,
+slowing us slowing it down for us. To be able to make our cut
+and then it has to catch back up to speed. So it's going to keep going, it's
+going to stay fast and then come down as it's coming,
+as it's coming back down your speed is going to start
+lowering back to the line speed. So ultimately,
+the line never changes its speed. No, but you have to be at zero speed
+when you make that cut. Yes. And so the accumulator buys
+you a few seconds to do that. And then he has spin back up fast and then the accumulator backs
+it all for you. Yep. All right. Back to speed. All right. So now what do you do now?
+You got a full thing there. Now, all those We have already taken our one quality sample to find out what our dimensions are. Dimensions
+sheet cover are on our schedule. Test schedule three calls for we will take our appropriate samples
+that we need. Are you the quality man for the bench? These are quality guys. Okay. So far, to require a third sample,
+which is called a keeping sample. This is a sample that is kept upstairs in stock in case the engineers need to review the sample. Or if or if so, what was found by the customer
+that has a complaint or something. They can say, Hey, can you look at this
+product for, say, this role? And they'll go back and see maybe they
+maybe for instance, they hit a scratch and we didn't see it, but they had a scratch and they recorded,
+hey, we saw a suppression order in one of our rules
+we that we bought from you. I'll go back
+and look what they do from there. I'm not I'm not sure because I'm not part of that Yeah, that. But this is your domain here. Yeah, but they use our, say,
+keeping samples as a as a reference. Tell me about your knife, Steve. It's see the famous knife that's always been used from the beginning
+or cut for knives. This is probably. Oh, it's probably my fifth or sixth blade
+because after a while, my time is sort of sharpening. They start to go out and then they start
+to wear down on 5th or sixth blade. How many years have you worked
+here, Steve? In this building? About 21 22. Are you telling me 20 something years? You've had five knives. Yeah. Yeah. Really? Yeah. Is there a light curtain here? Yes, there is. So don't go forward. Got it right here. Right. Curtain line guy. Right. Right now the latest green. So we're able to go in here,
+but you can still see how it works. Got it. When we play this red, it's like a no go. You will not go across there. If you end up going across there, it stops and stops the wind up Steve,
+it was awesome meeting you, man. Thank you. So how do you get that role? I will just pick it up and throw it on
+my shoulder. Yeah. Is that what this bad boy is? All right. Each cart
+is set for a certain size of the. core, too. So you want to make sure that. It fits under and you don't want
+to make sure that your core falls off. How do you release the spindle? What I'll do is right now, we're off. So you stay right there. You start there. There's a button back here. So this one back here, I will lower this. All right, I'll lower this or sits in the cradle. Oh, you rotate the whole thing.
+My other guy here, he'll. He'll help me. You know, we got it together,
+so we're working together. So I'm reaching back. He's he's pushing and pushing in. And then we have. We have over here to your right. Yeah, there's a chuck, so I'm on A.C.. No, you'll watch when I press the acorn
+button. Oh, it's a cone. Got it. Releases
+and it releases over here. Also, because these are taught these are
+these are a different kind of a talk show to the show. So let's go say on it. Yeah, yeah. Both sides have to be taken out. So I'm going to come. I'm
+going to swing out. So you guys don't want to get hit? Yes, sir. But then it gets taken out to what we call the roll room,
+and it gets packed You're like, working here? Engineer. Oh, man, I love working here. I love working period. I can tell you I'd be crazy,
+but yeah, I love working here So after this entire roll is manufactured
+and scanned for quality for quality, it can then be packaged
+in what's called a casket. These are large wooden devices
+that they use to ship this product around and protect it from their
+it can be used for many different things. It might be sent to a different
+building here at Kodak, where it's turned into photographic film,
+or it might be used to manufacture electronics. It might even be sold to an external customer
+and shipped out to a different location. Did you enjoy that? I really enjoyed the tour of the Kodak
+plant in Rochester, New York. Remember,
+this is the first of three videos. And so at the end of a video,
+there's typically like a call to action, you know, subscribe or whatever. We're not going to do that today.
+This is all I ask of you. Please consider going in
+finding an old film camera. It could be like a grandma drawer. It could be like it's a thrift store
+and a yard sale, or find an old camera and breathe new life into it
+and put a roll of film in that thing and go out and just be creative. It's it's cool
+because it's like it's for you. It's not for the Internet. You get to make a film photo
+and it's yours and it's really cool. So I hope you'll check that out. Also, there's two more videos here. So this was making the support. We've still got to put the light sensitive
+layer on there, the emulsion, and we've got to cut that up
+and we've got to put it in the little film canisters
+and it's really, really exciting. Thank you for watching Smarter Every Day. I'm grateful for your time. I know you have a billion other things
+you could watch on the Internet, but you're spending time here with me doing stuff that I find interesting,
+and I'm grateful for that. That's it. Thank you to everybody
+that supports on Patreon. I'm grateful for that as well. I'm Destin getting smarter every day. Have a good one. Bye. 

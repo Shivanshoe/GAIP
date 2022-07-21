@@ -1,0 +1,134 @@
+welcome back to the second episode of pc 
+ultra clean where in the first episode   we took a pc that was just so filthy and 
+of course in the process we fixed it up   and made it work like it was brand new as well but 
+right here on the desk we've got the next specimen   that has come through and this is where the 
+person that brought it in they just said look   brian this pc it has some issues where it boots it 
+won't boot up properly and i just want to get rid   of it i want some cash so i ended up trading 300 
+aussie dollars for this pc it features a gtx 970   an i7 on an x79 motherboard as well as 16 
+gigabytes of ram and a 750 watt power supply   as well as an ssd and hard drive though let's dig 
+right into it see what the problem is first and   then we'll get on to the massive clean you feel 
+like this when you see this well if so you can   get rid of that windows activation message with 
+today's video sponsor scd keys for as little as   12 usd after you use that coupon bftyc you can 
+get activated today so after trying to boot it up   a couple of times we got as far as a preparing 
+automatic repair screen in windows and then it   just froze completely and now we're trying to 
+boot it up again and it just doesn't boot at   all but regardless we are now going to take 
+it all apart and just give it a nice clean   now for this cleaning process we are going 
+to be using an ultrasonic cleaner with you   guessed it tap water and detergent however the 
+catches here is that we have to get the water   off the parts as soon as we are done cleaning it 
+because we don't want to add to any of the already   oxidization that is going on with the gravis 
+card and the cpu cooler and we want to avoid that   because we don't want any more metal filings 
+dropping on the gravis card from the cpu cooler so here's all the parts now they're all laid out 
+on the table ready for our cleaning session now   one of the criticisms i got especially in 
+the last video is that i make this stuff   look so easy and so this part here like 
+chucking the stuff in the ultra cleaner that is   super easy that's the straightforward process 
+are we actually going to detail the hardest   part and that's after we end up cleaning all 
+the stuff and that's getting all the water   out of every little component here as well as um 
+i guess just the whole final process of getting   all these parts to work perfectly because i i 
+know you've heard i know it's counter-intuitive   when you hear you know don't put your pc parts 
+near water especially just water out of the tap   and uh yeah i like to do things differently i just 
+like when i when i trial and error things things   that work and save me time especially money then 
+that is going to be the method that i'm going to   use going forward so yes there are some risks 
+especially if you want to like do things like   leave batteries in your motherboard but since 
+we're taking that battery out and we're just   going to be putting this thing in the ultrasonic 
+cleaner that's going to be doing all the work   cleaning all this stuff up to brand new but 
+another thing is too is that the hardest part   of the last video that we did i would easily 
+would have said would have been this right   here the power supply now we we put this in the 
+ultrasonic cleaner and it took me a long time   to get the water out of this because i had to make 
+sure you know especially with the power supply you   want to make sure there's not one drop of water 
+in there so i dumped the whole thing in there and   the cables were in there as well and that was the 
+hardest part so this time around i'm only going to   dunk the top head unit into the ultrasonic cleaner 
+and then let it do the cleaning because yeah it's   just something you probably want to be careful 
+of because you just don't want any water at all   in the power supply once you're going to turn 
+it on now of course you want to discharge the   unit as well before it goes into the ultrasonic 
+cleaner so what we're going to do right now is   hook it up to a power supply meter test it out 
+make sure it's okay before we even put it in there   and then we're also going to use that 
+power supply tester to drain the power supply this is is is   oh is easy oh hmm so this is not the end it's just is wow thank you i love you and now after hours of cleaning and then 
+drying out the water and then spraying on some   multi-purpose spray we are now at that phase where 
+we're ready to build this pc but you may have   noticed in some of the previous shots there we did 
+do the spray painting on the nocua cooler and fan   as well as a little bit on the side of the gpu 
+cooler and then on the cables that are going to   be visible because i want to go for that stealth 
+look and i want to do it as much as possible   with what we've got now we've only spent so 
+far about five dollars on a can of spray paint   but we have spent up until this point quite a few 
+hours just cleaning when it came to drying out   all the water i spent over a good 20 minutes 
+just making sure there wasn't a single drop   of water paying particular attention to the 
+motherboard and the power supply which has   a lot of very small and confined areas which are 
+very tough to get to so you do want to make sure   that you're going thoroughly over these parts 
+because as i stressed before in the previous   episode you do not want a single drop of water 
+still left on the build when you go to turn it   on so anyway with that aside let's get this thing 
+put together and then check out if it finally does   boot up but i'm pretty confident it will boot 
+up because we don't have any more metal shavings   and a lot of dirt and even some rust was coming 
+off some of these parts so i'm pretty confident   that that was the problem it was just erratic 
+behavior and that can be caused by of course   things like metal shavings and just 
+a bit of rust so let's check it out so   two foreign so after spending a heap of time building it up 
+and getting those shots of the bill completed   and what it should have been it's some real 
+unfortunate news and that is the motherboard just   isn't working it didn't get past that bios screen 
+and then upon pulling it out and just really   checking over it thoroughly i i just i've tried 
+everything on this board it just won't work and   unfortunately it's just really bad news because 
+this is one of the most expensive components   on this build the x79 motherboard so you know the 
+i7 3820 that's relatively cheap compared to what   it's going to cost to source an x79 motherboard 
+especially a rampage gene but i mean what do   i think happened with this board well there is 
+signs of rust especially in some of these screws   right here so perhaps some critical component 
+on the motherboard has just suffered a bit too   much rust and we've got it now a faulty board 
+that just really doesn't work properly and it   was a bit odd as well when the build first 
+came in that the ram was in the c1 and d1   slots they should have been an a1 and b1 so that's 
+sort of an indicator that there was problems   with the motherboard before it even came in but 
+what we're going to do now unfortunately is we're   going to change it over just for something budget 
+because i do flip these pcs and if if i'm putting   in two expensive components especially with the 
+gtx 970 then i'm not gonna be making any money at   all in fact this sort of has aid into the profit 
+margins big time on this pc to the point where   i just think it's gonna be hard getting our 
+money back but let's see what we can whip up anyhow   so and now we have finally finished this pc after 
+such a lot of hassle and messing around and   if you guys are into used pcs and you're 
+building them yourself and especially if   you're going to flip them from time to time you 
+are going to come into problems sooner or later   and if you're not coming into problems then you're 
+probably one of the luckiest people in the world   but in this episode right here i just wanted 
+to take you guys through one of those scenarios   that kind of turns out to be one of the worst case 
+scenarios in that the motherboard's faulty because   if a motherboard's faulty you just have to replace 
+it there's no getting around that i mean usually   you have to replace other things too but replacing 
+a cpu and a memory stick and things like that   that's actually a lot easier than taking out the 
+whole motherboard and especially when you get a   signal out of the motherboard both before and 
+after you wash it and i i think it's this time   around i i should have thoroughly checked the 
+build when it came in uh when the person came in   to trade it in i just saw it booted up and i was 
+like yeah this should be okay i'll be able to fix   it but it ended up being one of those really rare 
+problems where the motherboard's faulty something   on the motherboard's faulty but it just it this 
+is what happens and so i've got to take that hit   because when i give the person the said 300 aussie 
+dollars for the build i do so on the pretense that   they're never going to hear from me again and i 
+got to deal with that problem but at least we got   around that by using a z170 this was a gigabyte 
+board i picked this ball because it was relatively   cheap i got this on a really good deal with an 
+i5 6500 and we used one of these uh latest i5   black stealth coolers that they include in the 
+newer cpus where i put a water cooler on that   on another build and then taken that intel cooler 
+off that building it's worked perfectly in this   build to keep that stealth look up now i did want 
+to use these two black sticks of memory with no   rgb but they didn't work they weren't compatible 
+with this motherboard so there was another problem   that came up in between now and finishing off 
+this pc so we put in two rgb sticks of memory   and they were compatible with the board and 
+everything works fine and keep in mind this was   one of those first generation ddr4 motherboards 
+so some of these boards do have compatibility   issues with certain types of memory but all that 
+aside we have a build that is working it's quiet   it runs fire strike perfectly fine the 
+temperatures are really good as well   i'll put the score up on the screen for you guys 
+but it's funny that we've got a 6 gen i5 we've   got 16 gigabytes of ddr4 memory 3200 megahertz of 
+memory uh xmp profiles tuned in and we've got a   gtx 970 but the rx 570 build with the first gen i7 
+the previous episode where we fixed up that whole   pc that ended up scoring a very similar if not i 
+think it scored a higher score in fire strike than   this build did so you don't have to get the nvidia 
+card and the latest and greatest cpu to still get   really good price performance out of your rig and 
+in terms of this one here though uh moving this   on and trying to sell it trying to flip it i am 
+going to unfortunately because i had to put the   motherboard and change the ram and put a different 
+cpu in and stuff like that i am not going to make   anywhere near a healthy profit margin on this 
+one as opposed to the previous build i actually   sold that one today made a nice healthy profit on 
+that one and they were really happy with that pc   anyhow that's about it from me it's late at night 
+i'm gonna get on out of here do let us know though   in the comment section below what you think of 
+this stealth build right here is there something   you would do different and also do let us know 
+what you think of this pc compared to the one   we did in the previous episode do you like the 
+stealth look more or do you like the leds more   or do you want to see something more over the top 
+if we get another pc in and do the next episode   and i'll be looking for something maybe a little 
+bit different maybe i'll look for a budget case   and we'll change the case over with this series 
+going forward i actually don't want to change too   much with the pc i want to really just restore it 
+instead of changing parts around and adding extra   onto the budget unfortunately in both episodes i 
+kind of had to add extra on to the budget in order   to flip them and make them contemporary gaming 
+pcs especially with this one with faulty parts but   that's just how it is sometimes i'll always show 
+you guys the fails just as i'll show you all the   victories and i'm not afraid to do that because 
+that's what life's all about you have your ups and   your downs and even though this one ended up being 
+a bit of a downer i'm completely used to it by now   you guys know the drill [ __ ] happens and with 
+that aside if you enjoyed this one be sure to   hit that like button and i look forward to seeing 
+you guys in another tech video very soon if you   stay this far as always and you're enjoying 
+that tech yes content be sure to smash that   sub button ring that bell or just bookmark the 
+tech yet city page on your browser and you'll   get that content as soon as it drops anywhere 
+i'll catch you next time guys peace out for now bye you 

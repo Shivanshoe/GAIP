@@ -1,0 +1,223 @@
+so right here we've got a tech yes
+delivery that is on the back of another two pcs that got hokked earlier today
+now you guys want some behind-the-scenes stuff you want more content this is the
+only thing I can think of to bridge the two together because I am flat out and I
+made a flaw with prices recently I predict they will go down but again
+you've got to be accustomed to the market and certain special times here in
+Australia it's currently a tax return time because our financial year ticks
+over from July not the start of the year in January like most other countries so
+that means people have cashed up that's going to pretty much collide with
+another thing that's going on right now and that is the government's gonna hand
+out another round of stimulus is so this is all gearing up for a pretty good
+month in July at least until the 20th so the next 10 days is going to be full-on
+but damn this stuff is going out super quick I've gotta head to brisbane as
+well because there's some parts that I have to collect before 4 p.m. for a
+competition that I'm doing upcoming competition and I also just finished a
+tech s workout so I got to go freshen up and then we're going to hit the road [Music]
+[Applause] [Music] so we just got up to Brisbane in those
+heaps of traffic's so we missed out on getting our stuff so we're gonna see if
+we can drop these keyboards off now to someone that needs them up in this area
+so hopefully this trip wasn't all for nothing but it's always a way when
+you're in kind of in a rush things just go wrong we're now back at the tech yes
+studio with another bill that's complete and this one you can change the LEDs on
+the fly from the front panel which the front panel is also got RGB on it this
+is a Vegas 64 build I've got the Vegas 64 off a friend who was upgrading his PC
+and so now we've got a 3300 X 16 gigabytes of RAM into Vegas he's for now
+we're trading this for a PC for 500 bucks bought I mean sorry I'm getting
+$800 and they're giving me a PC with a risin five thirty six hundred thirty two
+gigabytes of RAM and a GTX heaven TTI so I would say overall I guess they just
+want a PC that's a ready G game that's why they're trading what they've got
+even though it'd be fairly easy for them to get some really good performance out
+of what they have already some people just like to have a brand new build and
+it looks bling-bling so yeah we'll see how this trade goes
+and we'll see what comes in this thing's place so we can see this PC that got
+traded in does need some check yes loving it's good just all these stickers
+that I want to remove and then the inside is very dirty so we're gonna get
+to a little bit of work here and see what we can do
+[Music] so now we've pulled out the raisin five
+thirty six hundred thirty two gigabytes of RAM x4 70 or a soldier I think this
+one is and AVS 450 power supply and we've finished off the build so that's
+all done now and the windows I've got to see what this is the screens flicking so
+I might have got hosed on the 1050 ti who knows but this deal right here is
+really good so far because we're gonna reef lip this box right here once we get
+it 100% working we'll flip that off and hopefully recoup all the cost back so
+that we get a free rise by 3600 X 470 32 ounce RAM and we've changed over the
+power supply for something just a basic power supply cuz the tempered ETI really
+doesn't need that much so you can pull out those old FSP power supplies and
+they work really well on low 200 what builds so that we can use for a
+mid-range build and we've got here I guess a lot of hustle value out of that
+trade in so we've now replaced the motherboard and this motherboard here
+ended up actually being faulty in a really rare way in that once you install
+Windows and boot up to Windows the PCIe port doesn't work properly and because
+it's only one 16x slot on this board we need that slot for our graphics cards so
+what we're gonna do here is take the cooler off take the CPU out and replace
+it to a different board and we should be still good to go should be able to make
+another budget combo out of these parts right here so unfortunate but that's the
+way things go I mean with with pcs and stuff like that when you test through
+things and you get your build ready and your stress tested if something's wrong
+you just quickly trial and error what's wrong and then yeah throw the part out
+like this part I mean I really I haven't seen this problem before I actually
+haven't seen this problem before where PCIe port is cutting out when you're
+installing Windows of all things and not when you're in the BIOS or anytime
+sooner because we tried a different power supply that wasn't it tried
+different memory even that wasn't it so could I mean there is a small chance
+it could be the CPU but I guess we'll find that out - we won't Chuck the board
+out until we've changed it over to this board right here and then we've only via
+a trial and error process of elimination made it sure that the board was the last
+factor at faults so yeah weird problem that's what happens I guess just another
+day in the life of tech yes and another thing too it could also be the
+motherboard BIOS but I read the bass notes for this board and there was
+nothing about PCIe compatibility so yeah we'll try it out on this and if this is
+all working absolutely fine then we can try BIOS update later but yeah I don't
+know let us know if you have seen or heard of a similar problem with this
+motherboard or or maybe an A and three plus motherboard for that matter and now
+after all that we have here an empty table well kind of we've got to build it
+I can kind of piece together but I still want to go get my order from yesterday
+which I missed out on and I ordered a 20 70s super for this build plus a 240
+gigabyte SSD so if we do all this right we can turn this hustle into a big flip
+so that's what I'm kind of thinking here depending on how good the memory is to
+sort of try and chew in the memory up but it's looking pretty good so far
+let's see if we can finally make it to this store without hitting traffic and
+getting missing out by the Buzzle but also since I needed a 20 70 super and
+they've got it for a really good price I guess it all works out in the end I'll
+uh I'll see you soon mate I just I'll be about I'll be about probably yeah
+probably about now I'm guessing so gotta stop into you man so yeah I'll see I'll
+see you soon less all right catch you mate right bye mate so we actually made
+it on time - you might today and we've got there 27 Suva 20 HCI for this
+competition and the i7 10700 so this competitions going to be pretty cool now
+that I'm seeing all the parts here and I think hopefully after doing the testing
+in the recent videos that we've done - with grounded I think I can win me this
+competition against these other youtubers but what we did right now is
+we called up Liz because we're in Brisbane we Wisel see what he's got
+cracking and he's got three one terabyte hard drives so we are going to hit the
+boot switch and we're get on the road and get crack-a-lackin'
+this is the tech yes stinger - a few guys are wondering there's a new slogan
+here and that is tech yes stinging [Music] [Applause]
+[Music] and so we just got back from Lazer's
+place now we just picked up two cosmetically blemished i 5:45 90s they
+were 90 a pop and they came with a gigabytes of RAM and I do like these for
+low powered GPUs like a 1650 Super goes in here perfectly fine then we've got
+six hard drives three of those worth 500 gigabyte three of those with one
+terabyte and so that was a good deal I mean I always need hard drives he also
+had two four gigabyte sticks of RAM this time around he's like ddr3 has gone up
+in price so I had to pay 30 Ozzie dollar story from 8 gigabytes of RAM that's how
+bad Ram prices are the mo but I mean if you need it sometimes if you need that
+one component and everything else is cheap you got to cuff up the piper for
+it unfortunately then les chucked in a few of these adapters always find these
+come in handy especially if you run out of ports or there's limited GPU ports or
+a port could be even rusted or something like that and then we've got 2 24 inch
+monitors here which we got for 55 a pop they're in really good condition so I
+was like you know what I kind of need some monitors so all up we got here 440
+total Ozzie dollar II dues for this combo but we got over here this upcoming
+project for this Honey I Shrunk the Kids build and so I'm really looking forward
+to this competition but of course we've got the 2017 super that managed to get
+thrown in there and I did get a couple of spares so that is going to be this L
+do three I've heard some really good things about it
+apparently it's a really nice case to work with which on mini ITX is always a
+hard thing to work with that but now we've got the 2017 super we've got a
+power supply hard drive and an SSD for this - because I ran out of - 40s so we
+now got that we can now build ourselves up something quickly and see how it
+turns out why not [Music]
+and now here's the build fully finished and it took us about 10 or 15 minutes to
+build this up it's a really easy case to build in and I gotta say I'm really
+shocked at gam dias at least in Australia that value for money is
+through the roof I mean I do like this RGB IO panel up the top and you've got
+the LED control and you don't have to worry about any LED headers on the
+motherboard which I really do like that you've got simple RGB control but thing
+is this thing cost 99 ozzie dollars and the airflow is actually pretty good in
+it the noise is pretty low and you get four fans so I think they've nailed it
+like this is my favorite case in terms of value out there easily by far at the
+moment but with that out of the way this build is ready to go let's sit down and
+talk about what has come out of this weekend's random tech yes vlog so there
+we have it basically a hustle vlog over the last two days where I'm basically
+cleaning out my whole studio of all this stuff because I want to start fresh in
+my head about what prices I've paid for stuff and sort of just clear out all
+this other stuff that I don't know where I intend to use it and so part of that
+of course is just putting gaming PC's together picking out the cream of the
+crop on that stuff putting it all together and then making a value there
+but another thing is to is you sort with that trade in right never turn down a
+trade in especially even if something may be even slightly faulty in this case
+we've got that trade in in and it just looked terrible at first there was all
+these stickers the case was very cheap but inside we had like a hidden treasure
+trove an X 470 ultra and then this rise about 3,600 30 gigabytes of RAM a decent
+power supply a 1050 Ti and so and one terabyte hard drive and so that to me
+was was easily worth the $500 dollars they want to trade in value for it plus
+that enabled me to sell my gaming PC for asking price which was awesome so that
+is I guess trade-ins can really work in
+your favor but another thing is sewers we then get that build and we're like
+okay what can we quickly do with this because it seems like an Australian this
+is what I said in my previous video when I said prices will go down you got to
+look for hiccups in the market and I think in the next month in Australia's
+gonna be great because there's a thing called tax return time here because I
+financially is different people are getting all their tax returns and
+they're buying PCs but also there's the very soon there's gonna be government
+money flowing through the economy so July is gonna be a very healthy month
+for PC sales if you're gonna stray of it after that you'll probably again see
+that those trends will come into effect that's how I feel but in the meantime
+take advantage of it when it rains it pours and that's you should have your
+buckets out in the in the outside and just collecting all the rain you can it
+so that's what tech yes doing behind the scenes and I recommend doing the same
+don't worry I preach what I do so yeah that's I forgot the saying it's
+like do as I say and do sort of thing I don't think that was important to me was
+that RT X 2070 super price in Australia that is easily the best price on an RT X
+2070 super I can find the gallic smaadahl is quite big it's quite healthy
+another good thing about the gallic smaadahl is that the power consumption
+is quite low compared to some of the overclocked r-tx 2070 supers out there
+on the market so that means you even if you use a cheaper case than we did today
+not that I recommend it you'll still not have to worry too much about thermals
+though the Gambia's case that we used here today is just that 99 Ossie dollar
+sweet spot case I still can't get over how good that value for money that case
+is like Gambia's came from making these mediocre keyboards and headsets now
+they're bringing out some quality cases so if you do get the chance to try one I
+do recommend giving them a whirl because anyway that's at least what I'm rocking
+here at the moment go back onto that RT x 2070 super price we go that's the 75
+Aussie dollars that's ready to go at the brand new you might shop you got
+warranty on that there's no haggling there's no hustling involved it's such a
+good price but at the same time you're seeing RT x 27 TS non supers used for
+like $700 plus and it's kind of like the use market is
+in ways it's just so up and down at the moment you can of course get really good
+deals but then you see all these items on there and it's just like people
+actually buying these and I scratch my head because yeah what's the point when
+the new market is offering even better value than the use market and that
+should not be happening so basically a nutshell find the best prices whether
+it's new or used and piece it together and create good value basically back in
+the day of eBay when I was doing that my nickname from family and friends was buy
+low that's the first four letters of my last name and people would call me up
+they say buy low not be my reply would be sell high and basically that is the
+name of the game and the biggest commodity you've got just like the guy
+who came around with that trade in he just said I hate computers like in terms
+of building him I just want something that's ready to go
+it's all new it's working fine and he just couldn't be bothered upgrading his
+system and so that's the kind of business that people pay for you have a
+talent and that is you can quickly whip up pcs install Windows tune them up get
+them all ready and if there are any problems or compatibility issues you can
+iron that out so people who get these pcs don't have any problems because a
+lot of people who don't know how to build a PC will get stuck on something
+they'll waste days and days trying to do it or they could potentially bend pins
+or something like that you're taking all that hassle of waste
+I mean basically at the end of the day that is the service you're offering and
+I do see a lot of comments especially locally where people sell PCs and people
+say aw you're charging more money than it costs to build and it's late of
+course because you are offering a service and in this world at least in
+Australia you get paid for a service that is I mean go ask a builder if he's
+gonna build you a house for free or just cost of the parts because at least from
+what I remember what building is there's a contract called cost plus and the
+pluses with the builders fee anyway with that aside keep on rockin and don't stop
+stalking just like this question of the day here which comes from dexters 56 I
+don't know why I'm trying to tie that in like a smooth transition it was a
+terrible segue that made no sense but we got here we'll the x58 ud5 work with an
+ex 5650 or an x 56 75 xeon i currently a i7 930 I need to know if it
+can handle the six core because of the support list that only shows four cores
+in six core i7s basically just go look on some forums and see or if there's
+some results out there with this ud5 working with the xeon then it'll
+definitely work but I do recommend before taking that i7 out update to the
+latest bios and then put the xeon in and it should be all good to go at least
+what i quickly checked when i did a google search the ud5 does indeed work
+with the xeon x50 650 so you should be good to go x 56 75 is gonna give you a
+bit more Headroom a bit more overclocking it's a better bin and
+that's about it and if you guys enjoyed today's video
+then you don't do hit that like button for us also if you got any questions or
+comments then drop a comment in the comment section below and if you stayed
+this far and you're enjoying that content let me sure to hit that sub
+button ring that bell and I'll catch you guys in another tech video very soon
+peace out for now but that's probably someone like [Music] 

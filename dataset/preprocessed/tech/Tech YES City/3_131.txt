@@ -1,0 +1,104 @@
+there is some good news finally coming 
+towards gamers but don't be fooled by some of   the headlines out there as today we're going to 
+talk about why we as gamers should collectively   wait even longer until those prices come down to 
+levels that reflect what nvidia and amd promised   us during their fancy presentations nearly a 
+year ago do you feel like this when you see   this well if so you can get rid of that windows 
+activation message with today's video sponsor scd   keys for as little as 12 usd after you use that 
+coupon bftyc you can get activated today so the   first piece of big news that we're going to talk 
+about here is that supply shortage which is being   run around a lot of headlines that i'm reading in 
+tech websites and upon digging into nvidia's own   quarterly financial report we can see that their 
+margins have roughly stayed the same at around   65 percent this means that they have made roughly 
+the same amount of profit on items sold that they   did this time last year however the revenue was 
+up a staggering 84 from a year earlier in fact   the gaming revenue was up 106 that is nvidia made 
+over double the money selling graphics cards from   the start of january through to the end of march 
+in 2021 first the same period in 2020 where if   we take that same level of margin and subtract it 
+from the revenue growth it means the graphics card   sales and more importantly the supply of those 
+graphics cards would have been up roughly double   all else considered there's more to it than that 
+but overall the supply was up quite a lot so there   is the proof that we all knew all along and that 
+is the crypto miners took a lot of these cards   out of the market now the irony of this is that 
+china is starting to just completely ban mining   altogether they've even taken it a step further 
+by starting to ban cryptocurrency transactions   and crack down hard on any financial 
+institutions dealing with such tokens   and according to the university of cambridge china 
+before this crackdown accounted for roughly a   whopping 65 percent of all bitcoin hashing power 
+or in other words china was responsible for 65   of all bitcoin mining so if we take that number 
+of 65 and apply it to the gpu mining then we   can easily see that china is a massive player 
+in the purchasing of gpus for cryptocurrency   mining and in fact according to some reports 
+the gpu flood in china has already started   with one user reporting seeing rtx 3060s for as 
+little as 270 dollars though upon checking taobao   personally i can still see that the prices of 
+gpus are significantly higher than msrp a 360 ti   for example is fetching about 650 usd that's still 
+over 60 percent higher than its promise 399 msrp   however here is where we can see the crossroads 
+that is the point of inflection as we have record   supply of gpus being produced as well as in china 
+miners not being able to purchase them leaves the   gamers as the only option left to purchase more so 
+a lot of the cards coming out into the market now   have what's known as a low hash rate limiter 
+embedded into the card and this has already caught   out some clueless miners purchasing rtx 3060s on 
+the pretense that they could get the developer   driver and they'd be milking that cow harder than 
+ever only nvidia quietly released a v2 of the rtx   3060 which is if you use the developer driver for 
+that particular card then it wouldn't matter the   card would still only mine ethereum at half the 
+rate so this simply tells me that a lot of people   getting into cryptocurrency to this date are 
+still not doing enough research or paying their   due diligence and it's quite ironic when it comes 
+to purchasing a tv a camera a smartphone or even   something like an internet plan people will spend 
+countless hours researching these things to get   the best deal yet when it comes to crypto they'll 
+just throw their money in hoping that it'll go up   just like it has gone up in the previous year but 
+in my opinion as we watch crypto and going forward   i feel like in the coming months those avenues 
+will get exhausted and the profitability will yet   again sink the next part of the equation is going 
+to be a preemptive to the people that would say   well crypto is going to have a massive uptick 
+in growth again well my response to that is who   is going to buy the crypto at its current price 
+to make that explosive growth if we look back in   april and may people were selling cryptocurrencies 
+at all-time highs those same people are only   looking to buy in when the price collapses 
+not when the price is already relatively high   remember when it comes to dollars nothing is ever 
+free despite what some people will tell you i   have never personally seen someone at my local 
+shopping centre just handing out free dollars   it doesn't happen unless of course you were mr 
+beast i wish you could hand out everyone some   free gravis cards but then again if he did that 
+he'd become mr broke not mr beast however what   is going to happen from here in well you may have 
+noticed i've been tracking one card in particular   that is the rx 6700 xt in my opinion it fits the 
+bill of the value mid high range gamer perfectly   that is at its msrp it also isn't targeted by the 
+mainstream gamer as say an rtx 3060 or an rtx 3060   ti due to nvidia having massive market share and 
+more brand recognition than amd and the gpu gamer   space and most importantly its hash rates are not 
+anywhere near as good as the rx 6800 which means   it's not targeted by miners as much as say the 
+rx 6800 though expanding on that if we were to   look at the cards if they were msrp versus the 
+price they are at market right now the 6800 is   much higher than the 6700 xt which does mean that 
+miners are still buying up these graphics cards   for mining make no mistake about it just they are 
+no longer buying them up in china which means more   supply for the rest of the world now back to the 
+6700 xt it has been an ample supply for nearly   a month now just that it has been in supply at 
+higher than msrp prices though the interesting   thing is i've seen this card go down from 1300 
+usd to now 750 usd that is quite the drop in price   though it is still well above that msrp of 469 
+that amd told us to expect and in australia that   is about 620 aussie dollars if you add 10 tax we 
+should expect to see this card come in at around   700 aussie dollars and while the card is still 
+sitting at over a thousand dollars so the solution   just let the cards sit there we have already 
+ascertained the production and hence supply is   at an all-time high for these gpus crypto although 
+still highly profitable at least for those not in   china does carry much more risk than at the start 
+of the year i mean what if they were to ban mining   in the usa australia you may think that is simply 
+just too outlandish but never forget in 1934   they banned gold as money i mean how do you 
+ban money as money well if that can happen   anything is possible another risk for miners is 
+that there is a massive change coming in august   for ethereum miners that is only three weeks away 
+this could spell a massive drop in profitability   and more gravis cards could come onto the market 
+in the meantime the only video game you need to   play right now is the game of patience though the 
+most important thing is what's going to happen   between now and that time that we get in between 
+getting to those msrp prices well in my opinion   it's just a matter of what we're seeing right 
+now and that is the ripoff swarm coming through   see gpu allocation is going to go to countries 
+that are netting the gpu board partners and   distributors the most profit however this effect 
+is losing momentum vary and i mean very fast rtx   3080tis 3090s 3070 tis every lineup of card is 
+now an ample supply in australia and of course   it is in ample supply at ridiculously high prices 
+nearly double that of msrp the amount of customers   willing to get ripped off as time goes on becomes 
+less and less and since that supply all-time   record high supply might have is a constant it is 
+only a matter of time before gpus become much more   reasonably priced of course i'm predicting right 
+around this time as well the price floor from all   crypto will just come out straight underneath it 
+just as quickly as price has inflated they can   deflate as well though lastly in a video i made 
+nearly two months ago i predicted prices would   come down and i got laughed at heavily in the 
+comments section initially though now it seems   like those that were laughing at me were probably 
+crypto miners and i mean if you bought an rx 6700   xt for 1300 usd in may and at that time you were 
+laughing at me then i have to raise the question   are you still laughing though regardless of 
+whether you are laughing or not i'm simply here to   report on the news and then interpret it and make 
+predictions based on what my research indicates   whether that is good or bad if someone held out on 
+buying a gpu in may due to my advice and they were   a gamer then i'm personally very happy as they 
+would have saved a lot of money by buying it now   even versus them though going forward it 
+also seems the governments are winding down   the stimulus measures and credit companies are 
+tightening aka a credit squeeze which makes me   much more confident going forward that gpu prices 
+can only go one way and that is down anyway guys   hope you enjoyed today's video if you did then 
+be sure to hit that like button for us and also   let us know in the comments section below what 
+do you think about current gpu prices are you   looking forward to finally buying one as a gamer 
+and playing some games at higher refresh rates or   are you still not going to buy one even if there 
+is a massive flood and prices do come down a lot   love reading your thoughts and opinions as always 
+and if you stayed this far and you're enjoying   that tech yes content then be sure to hit that sub 
+button ring that bell and you'll get the content   as soon as it drops anyhow i will catch you in 
+another tech video very soon peace out for now bye 

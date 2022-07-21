@@ -1,0 +1,163 @@
+what's up guys I'm randomfrankp and
+today we're gonna be reviewing the brand new Samsung Odyssey G9, the 49 inch 240hz ultrawide monitor with a one millisecond response time. So if you're
+interested in the g9 and maybe you want to pick one up I got you covered in this
+review. First off I just want to say getting this thing unbox and setup made
+me super giddy I literally felt like I was thrown in the Aperture Science and
+I was building Atlas, this is the real deal. Now as you'd expect with the 5120
+by 1440p dual quad HD 49 inch display this is gonna take up a good amount of
+desk space as you can see with this sitting on my 60-inch desktop. in fact
+the stand sticks out around eleven and a half inches from the back of my desk and
+the curved ends of the monitor reach out at around 16 inches outward so just make
+sure you have the desk space for this one. but man when you sit down in front of it
+with that 32 by 9 aspect ratio and the 1000r curvature which matches the
+curve of the human eye your setup is just elevated to the next level, even if
+you barely have the room... and it is the world's first 1000R curved DQ HD
+gaming monitor touting some pretty solid improvements over their previous 49 inch
+models from years past and honestly well it seems extreme at first the curve
+really isn't as dramatic and you get used to it pretty quickly. so at this
+size it's the exact equivalent of having two 27-inch monitors side-by-side except
+now without that bezel in the middle and for a visual comparison for current
+ultra wide owners at 34 inches you can see you still get a pretty good amount of
+extra screen real estate on both sides. before we move on on the back side for
+your cables and connections they have this cable cover that kind of hides
+everything on the back so the entire backside looks flush and just super
+clean in this glossy white finish your cables actually get routed into the
+stand and down out the back so if properly managed you won't see any
+cables but on the back behind the cover we have a headphone jack to DisplayPort
+1.4 ports an HDMI 2.0 2 USB 3.0 ports in a Titan b4 can take it to your PC
+unfortunately no USB type-c also on the back we have a built-in headphone hanger
+which folds out of the stand if you want to just place them there but it is kind
+of you know out of place to reach around the whole thing when you want to use
+them and yes you probably saw it glowing in
+all its glory the back also houses this really futuristic looking Infinity core
+lighting system that looks really nice and contrast to that black and white
+exterior there are five lighting effects built into the monitor you can toggle
+inside the settings plus 52 colors if you want a static look to it it
+definitely looks cool I just wish it wasn't hidden on the back side and at
+nighttime it does add a bit of you know subtle back low fits near the wall but
+obviously not gonna be the easiest thing to see with this 49 inch panel right in
+front of your face at all times okay Gaming use cases my experience let's
+talk the goods because let's face it at the end of the day like 90% of you
+watching this and buying it are gonna be buying this for gaming and no lie when I
+got this in two weeks ago playing games at this new resolution with the curve
+really almost felt like I was playing the games for the first time again so I
+definitely got sidetracked more than a few times and my I should have been
+filming but I just couldn't stop playing the monitor supports Nvidia g-sync and
+adapt the sink over DisplayPort 1.4 as well as free sync premium Pro so I know
+for me with my 20 EBT I being able to tune this to that rapid 240 Hertz
+refresh rate felt awesome and I know some people will say that it's not worth
+it or you can't really tell but a hundred percent I can immediately notice
+a new refresh rate compared to my 144 Hertz monitors that I've used it just
+feels a lot more buttery smooth now in addition to gaming I'll touch on it real
+quick with all this you know new screen you can have numerous windows open so
+it's going to be great for productivity in that sense you can do picture in
+picture mode things like you know photo and video editing this is gonna be a
+dream for that spread out my timeline you could have your bins open with all
+your video files there I like to separate and monitor my vector scopes or
+when I'm color correcting but I mean in addition to just gaming you know
+streaming on this would be great to have your game window + chat OBS alright
+they're using this in a racing rig for day trading the massive 49 inch size is
+gonna give all users that extra freedom and flexibility now I will say at first
+it was jarring I didn't get a headache but my eyes were slightly fatigued with
+so much going on right in front of you and your peripheral view but I think it
+used to it pretty quickly we as humans adapt and while it seems like a mammoth
+on day one I definitely gotten used to it it's kind of like a phone screen
+years ago we all had what the three and a half inch screens now those phones are
+like six inches and up it also probably helps that I've been using a 34 inch
+ultra wide since like 2015 see Justin really wasn't too tough
+now obviously 32 by 9 ratio isn't the norm right pushing games to 50 120 by
+1440p won't be an easy task for most computers especially at 240 Hertz I can
+say for the majority of my time playing battlefield I'm racing around in dirt
+rally scaling wise everything looked fine
+and yes the resolution was supported but you'll need to be running a pretty beefy
+rig if you want to touch at 240 Hertz and play still at Ultra settings
+obviously games like csgo fortnight less graphically intensive titles will
+benefit from the higher refresh rate but do keep in mind that not every game may
+support that resolution or even scale properly to this new aspect ratio I
+didn't have much of a problem on my end the one thing I want to say is yes on
+the edges of the screen when gaming in your peripheral view the scaling isn't
+perfect and it will look slightly warped in some titles personally I don't see an
+issue with it because I'm focused on the action you know right in front of me
+everything happening to those extreme left and right of my screen it's just an
+added bonus now and will only add to my game awareness however one thing I found
+is pretty interesting so I tried to capture as best as I could in
+battlefield but if an enemy is far away in the distance but still happens to be
+on the edges of the display like these guys running on the mountain they do get
+sealed up pretty significantly to where they're easy to spot but if I look
+they're normally in game on the center of the screen they're barely visible at
+all like they're a pixel if that so that will sometimes happen with things off in
+the distance maybe giving you a competitive edge even now obviously most
+games and especially FPS titles you can also usually change or field of view so
+that would be one of the first things I recommend doing here since the screen
+ratio now is so wide you're gonna want to find a good balance to where it's not
+a complete fisheye but still gives you like I said a good balance while
+complimenting the new screen ratio that's the key and another thing to
+mention the ambition do everything else so far is HDR with a peak brightness of
+1000 nits this marks the first gaming monitor i've tested worthy of using HDR
+with the cue LED panel which is quantum technology we have HDR 1000 which is
+Samsung's standard to ensure peak brightness
+of 1000 nits and HDR 10 plus enabling HDR and your windows display settings
+then again of your game looks really fantastic here in battlefield you can
+see a best in the sky in the water it holds all the detail on the clouds
+versus playing its stock with a majority of the sky just gets blown out now you
+may have seen a bit of flicker on-screen with HDR on at 240 Hertz but to get rid
+of it I'd turn the death of sync off and the response time to either faster or
+fastest and that flicker will disappear and yes at a thousand nits heads up this
+monitor is super bright when I'm gaming I only keep it at around 60% brightness
+in the settings because otherwise it's just too much but I mean I'd rather have
+the option to always increase brightness versus a dual monitor in comparison the
+only caps out at like 300 nits quickly touching back to the VA panel I did want
+to measure the amount of backlight bleed levels sitting straight on with a screen
+this size and as you can see the only three barely noticeable zones are on the
+bottom left bottom right and top right but honestly it's barely noticeable in
+pitch dark and wasn't apparent at all in gaming the last thing I mentioned is the
+menu for we wrap up and thankfully they have an integrated joystick underneath
+on the right side for navigating the menus it's very easy to find what you're
+looking for here you can toggle the refresh rate from the 60 120 to 240
+Hertz turning adaptive sync on and off response time from standard faster to
+fastest and what's nice is on top of that menu there as you can see we have
+this bold chart pretty much like showing you what your current settings are low
+input like options and even a virtual aim pointer which is pretty much you
+know common nowadays for most gaming monitors this gives you the option to
+have an on-screen reticle you can customize and so I guess you know give
+you better aim in games that guy doesn't have a reticle already on the screen and
+then we have the built-in picture modes from high brightness modes for fps RTS
+RPG cinema mode srgb and thankfully all the color modes here are actually like
+usable usually on gaming monitors some of them will be completely oversaturated
+or the picture will be you know crazy sharp but I can honestly say out of all
+the built-in profiles we have here they are completely
+visible this panel is factory calibrated at 125 percent srgb coverage as well as
+95 percent of DCI coverage so the picture right out of the box is really
+nice okay so wrapping this up do keep in mind
+this video was filmed at 29.97 FPS so gameplay might not look as smooth as it
+does in real life at 240 Hertz just throwing that out there and I want to
+bring up two things first up I love everything about this monitor okay I
+think hands down it's my favorite piece of tech that I've gotten this year and
+in recent memory the display is gorgeous the specs are crazy gaming felt
+brand-new again the light ring on the back looks sick and second if I'm being
+honest 49 inches isn't too wide okay I said it yes at first it seems massive
+but after a day or so you get used to it you adapt now on the other side of the
+spectrum there are some things I want to bring up not cons necessarily but just
+things to be aware of before you take the plunge to buy this first it's 2020 I
+wish there was a USB C port on the back come on
+Samsung get with it second obviously make sure you have a pretty powerful PC
+you know you need a powerful rake to take advantage of this monitor and the
+specs 5 2014 40 P 240 Hertz make sure you can properly run that and also make
+sure the games that you frequently play could be properly scaled to that
+resolution and you know just do your research on that make sure the games you
+play could also take advantage of the monitor you're also gonna need enough
+desk space as I showed you it takes up a large portion of your desk although you
+can wall mount it which I may do and also make sure you have enough wallet
+space because moment you've all been waiting for this comes in at 1699 yes
+$1,700 and that is a lot of money no doubt about that the most expensive
+monitor I've ever tried but it's also the most premium monitor I've ever tried
+it's the craziest monitor I've ever tried and I think hands down if you
+can't afford that and you want to upgrade you want to upgrade your setup
+and you know your gaming experience it is hands-down worth it in every regard I
+love this monitor it is the craziest thing I've ever seen
+ok so guys that'll wrap it up for my review of the Samsung Odyssey g9 hope
+you all enjoyed do you want to check it out I'll put a link for you in the
+description down below like this video give it a big thumbs up show your
+support feel free to follow me on Twitter at
+random Frank P and last if you haven't already hit that subscribe button
+hope you all enjoyed hope you're staying safe have a good day 

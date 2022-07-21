@@ -1,0 +1,88 @@
+Today we're going to be building a rugged gaming 
+pc. Now Ii decided to do this after the postman   already decided to test out the build before it 
+was even built by uh leaving a massive dent in   the side of the case and i thought to myself well 
+with all this tough gaming going on with the zeus   i decided to put together a tough rugged pc but 
+the purpose of this build was azus contacted me   and said brian do you want to build an all the 
+zeus gaming pc and i said well at the moment   there's only a few pcs that i can see people if 
+you're a gamer wanting to purchase and that would   be one involving either an rtx 3080 ti which i 
+think is way too overpriced at the moment or an   rtx 3060 and these have the low hash rate limiters 
+in them so crypto miners aren't exactly targeting   these uh gpus as much as they target other parts 
+but then the rest of the components in the build   the power supply we're going with a 750 watt a 
+zeus tough gaming power supply 32 gigabytes of   rgb ddr4 memory tough gaming z590 motherboard 
+and an i5 11400f and a zeus tough gaming   atx case and it's also got these straps on it so 
+you can carry it around brian the straps don't   actually do anything asus fooled you it's only for 
+show mate but the best part about today's video is   building this pc a zeus are going to be doing a 
+bundle with all the tough gaming parts and the   11400f before we get into today's build 
+guide i want to say a couple of things   i was told the australian viewers of today's 
+video we're going to get a competitive price   for this bundle we're going to build but at 
+the moment they've just price matched the price   of all these parts on their own and the gpu 
+especially is coming far above msrp still   so basically the bundle i'm building in today's 
+video i'm actually not going to be recommending it   at its current price point but with my prediction 
+that gpu prices are going to continue to come down   i would personally hold off and i'd like to 
+see this bundle at least with a maximum price   tag of 2 000 aussie dollars or lower until 
+then i cannot recommend it but of course   if you're building a new rtx 3000 series gaming pc 
+you may find this guide quite helpful so let's get   into it and build a tough gaming pc which features 
+the gt301 case 750 watt tough gaming power supply   z590 tough gaming plus motherboard 240 water 
+cooler 11400f one terabyte ssd from crucial   32 gigabytes of ddr4 kingston hyperx rgb 
+memory and the rtx 3060 v2 tough gaming   low hash rate gaming graphics card so let's 
+get this build started and see how it turns out do   and there we have it for the azus tough gaming 
+pc it's finished but there was a little bit of   trouble in paradise well actually kind of big 
+since it took us a lot longer to build this pc   that i would have otherwise expected this was 
+due mainly to the gt301 case and the 240 mil   cooler where technically although compatible in 
+that we have ended up mounting the 240mm water   cooler at the front we did so at the expense of 
+wasting a lot of time in the relocation with the   front rgb fence which used 12 volt versus the 5 
+volt on the radiator fence and also did so with   very little clearance where we actually had to 
+bend the case slightly to fit the rtx 3060 in   after we did this this was quite tedious and 
+could have been easily avoided if there was more   clearance at the top of the case or instead which 
+i think is more reasonable approach especially for   the 11400 f6 core would be to include a 120mm 
+cooler in this bundle instead of a 240mm cooler   if this was the situation we could simply then 
+mount the cooler the 120mm at the back of the   case and save a lot of time and hassle as well as 
+money that once completed this pc is running very   quiet and since you guys have requested some tech 
+yes storm spirit dota 2 plays it's time to test   that out with the fps numbers with a little bit of 
+zip zap shock attack on the main map and on top of   that you guys only wanted me to benchmark in heavy 
+team fights where i do agree with you that's the   most important time to have high fps so at 1080p 
+we got an average during these team flights of   160 fps and at 4k it would get around 120 average 
+fps where at 4k in particular the gpu was starting   to get maxed out and this was on max graphics 
+settings by the way which i do prefer over lower   settings as this game is already quite old and 
+on low settings it does look quite bad especially   versus higher settings though anything over 100 
+fps is absolutely fine as long as they're a good   one and point one percent lows to match and since 
+dota 2 works off a server tick rate aka an update   rate of 30 frames per second it's fine to have 
+all these fps numbers that we've showed in today's   video go on to a more demanding title cyberpunk 
+2077. here they have greatly reshuffled the   settings and details those settings give compared 
+to launch when i originally played this game i'll   say medium preset used to be the meta that is the 
+best graphical detail versus the fps experienced   now however it is about that high settings preset 
+where the difference between medium and high is   now quite noticeable though the fbs drop isn't 
+here at 1080p we benchmarked low settings where we   got over 120 average fps medium at 90 high at 79 
+and ultra 67. though what about dlss at 1080p i'd   prefer the native image over dlss at low settings 
+for example versus dlss quality at high settings   the 4k dlss especially on the balanced and quality 
+profiles does an amazing job of reproducing a high   quality image and giving more fps versus native 
+though with ray tracing it does work quite well   with cyberpunk so if you'd want to use this i'd 
+recommend using the medium preset with an rtx 3060   and you can still get 60 fps at 1080p though 1440p 
+and especially 4k with ray tracing on fps will   start the tank so i'd recommend turning it off at 
+higher resolutions and perhaps just using dlss at   both 1440p and 4k so ultimately cyberpunk itself 
+seems to have been better optimized to work with   lower end hardware though a lot of graphical 
+settings have been shifted around to account   for this giving out a worser image for the same 
+settings that were previously implemented in the   game at launch though the final thing with today's 
+build that i wanted to talk about is of course the   temperatures and noise with that tempered glass 
+side panel on both the cpu and gpu were staying   under 60 degrees celsius in a 23 degree ambient 
+environment during cyberpunk which is quite   intensive on both the cpu and gpu and as for noise 
+i'm talking right beside this build right here and   this is as loud as it gets so basically a very 
+quiet build though one final thing i will say is   the straps on the front of the gt301 they don't do 
+anything other than just for decoration i'd like   to see these straps be used for carrying the case 
+like the helios where they serve a function other   than just looks which would make it a great tough 
+gaming pc for land since it is quite compact while   fitting full-sized hardware and also a bonus the 
+postman did this one for us he already dropped the   build on its side testing the durability and it 
+still survived that of course he dropped it on the   metal side if he dropped it on the tempered glass 
+side it would have been a nightmare so never drop   a pc on the tempered glass also before i get on 
+out of here i'm sorry about the bundles pricing i   tried my best and when initially agreeing to this 
+video i thought naively there would be quite a big   discount because it is a full bundle deal though 
+that wasn't to be the case but hopefully you guys   enjoyed the build guide and the testing regardless 
+and that price should be coming down anyway but at   its current price i am simply not recommending it 
+though with that aside we got the question of the   day here which comes from a centauro and they 
+ask or you know just play on native resolution   and they're referring to our dota 2 fsr versus 
+default resolution video i'll put the link up   here and i completely agree if you can play at 
+native resolution and lower the settings versus   higher settings with fsr on i would choose the 
+former especially on dota 2. i feel at lower   resolutions in particular fsr still has some 
+ways to go hope that answers that question and   if you've stayed this far then be sure to 
+hit that like button hit that sub and ring   the bell and i'll catch you guys in another 
+tech video very soon peace out for now bye you 
