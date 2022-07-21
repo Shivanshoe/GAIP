@@ -1,0 +1,102 @@
+- A portion of this video
+is sponsored by Google. More on that later. Here on Smarter Every Day, I like to explore things and I like to figure them out for myself. And there's one thing that
+you can do with the internet that's really cool, you can just go find knowledge
+wherever you want it. But what I like to do is
+figure things out for myself. That's like the sweet
+spot between the unknown and knowledge, right? That discovery exploration phase. That's what this video is. A couple of weeks ago, my buddy sent me this video of him moving his hand over
+some grass in his backyard, and these little seeds were
+exploding all over the place. Now, I've heard of grass that does this but I had no idea how it works. And I resisted the temptation
+to go search for it, I just wanna figure it out for myself. Now, what I want you to do is I want you to resist the temptation to just fast forward to the slowmo, I want you to go along
+on the trek with me and explore how this is working and realize that along the way I'm going to say things that are WRONG. So, let's go explore, backyard grass seeds exploding
+with a high-speed camera and let's see if we can
+learn something together. Well, first of all, I want to show you 
+this guy's azaleas. Look at these. They're awesome. They smell like a really pretty grandma, if that makes any sense. If your hand goes over it, I don't even know if you
+can see this on video because it's happening so fast, but if this grass is
+mechanically disturbed in any way it explodes and it throws grass seeds up. And I think it's too fast for this camera which means we're gonna
+have to look at this with the slowmo camera. So, I think what we're gonna do is we're gonna start
+with a wide angle lens, and we're gonna try to find out at what point on the grass
+stem the seed is shooting from. And then after that, we'll
+go to some macro lenses and we'll try to hone in
+on exactly what's happening and eventually find out the
+mechanism for ejecting the seed. But let's try this. (whooshing) Okay. I don't know if seeds flew off or not, but we're gonna look at that. (Snappiing seed sounds) (Soundscape of distant popping popcorn) (Pop) Oh, okay. Oh, it's coming up from the tassels. We at least know the region of the grass that is happening in. We have figured out that the seeds are blasting out the top of the grass. We've figured out that
+my hand is in the way. We're also gonna transition
+from the 35 millimeter lens to the 85 millimeter lens, which should give us a tighter shot and we should be able to
+walk in on this thing better. Okay. I'm gonna try to trigger
+the grass from the back and trigger the camera from here. So here we go. (curious sounding music) Okay. Let's see what we have. It's so silly but my heart is
+beating fast over grass seeds. (curious piano music) It's at the base of where the
+tassel meets the main stalk. I think I'm running the camera too fast, I can slow it down, I can let more light in and I can get a deeper depth of field because I'm struggling with
+stuff in and out of focus. (camera fans whooshing) Okay. (pop!) I'm not framing it well, and the problem is they're
+flying into the field of view and out of the field of view, so they're in focus for a
+very short amount of time. It is literally easier to
+film missiles and rockets than these grass seeds. Okay. This just got serious. I had to go get a light. (camera whooshing) All right, we'll see. (POP!) AAAWWWW (Excitement Intensifies) (POP!) Oh, it's out of focus it
+all comes from one shot. Okay. If I can find that, I
+can figure out how to do this. We are getting close and I'm EXCITED. This is a fast event. That was 10,000 frames per second! This is a really, really fast thing. Okay. We are homing in on this thing. All right. So obviously I don't know what I'm doing. I don't know what triggered,
+I'm looking at that, and I'm looking at this and
+I don't know what happened. We gotta get this. I'm gonna touch that. OH, MAN! It's a reverse banana peel slap bracelet. (Destin laughing) (wheezing) Okay. This is how I think it's working. You got a slap bracelet, right? These are awesome. You had 'em when you
+were kids, really fun. And these slap bracelets are kind of on the side of the banana. I know this is ridiculous but this is what I think is happening. So if you were to connect up
+at the top of the banana here and you were to activate
+that slap bracelet somehow on both sides. See if I can do this, check that out. It's pretty cool. The slap bracelets roll up, and then they fling the
+seeds off when they go. That seems to be what's happening here. It turns out this plant is well described in the scientific literature:
+Arabidopsis thaliana. I think is what we're dealing with. In fact, I found this
+really cool document, "Morphomechanical Innovation 
+Drives Explosive Seed Dispersal" and it's really, really fun. So anyway, slap bracelet banana. Once I understood the geometry
+of what was going on here, I could really focus in on it and make some really serious observations. I started by trying to vibrate the grass, and then eventually I
+settled on using my knife to trigger it in various ways. Sometimes I would cut the stem, and other times I would try to tap it. But eventually I settled
+on using the pretty azaleas as a backdrop to make the shot
+as pretty as I could make it. (Acoustic Guitar Music) Shut up!? The seeds are sticking
+to it as it's rotating. And then as it curls
+in tighter and tighter the rotational velocity... Oh, my goodness! It does the figure skater thing. It starts wide as it curls
+up tighter and tighter, the radius gets smaller and smaller, angular acceleration goes through the roof which disconnects it from the pea pod. We understand! (Fist Pump) (guitar music) There's all kinds of crazy
+stuff going on in this footage when you look closer. When I looked at this one
+particular macro shot again, I realized that there were a
+few small red bugs on the pod when it exploded, and one of
+those little ones were flying. (guitar music) I decided to measure the
+length of one of the pods with some calipers and
+use it as a fiducial or a reference measurement
+to calculate the velocity of each seed as they're being thrown off. There is so much to see in this data. For example, the location
+of the seed within the pod that seems to determine how fast it is. It looks like the first seeds
+to launch go the fastest. Furthermore, the direction
+that each seed goes seems to be a function of
+the stickiness of the seed to the pod curl. If you look as the radius
+of the pod tightens, it seems like that helps
+it peel the seed away from the inner surface. And because each seed
+detaches at a different time the spatial distribution
+is all over the place which is a function of the
+stickiness and the curl, but all that is good if you're a plant, you want your seeds to go in
+many different directions. All of this feels like
+chaos, but it's not. There's just a few
+simple principles at play that almost randomize
+the seed distribution. The design of these little seed pods reveals tremendous mechanical mysteries IF you're willing to look close enough. All right, I've got one more
+slowmo shot to show you. But before that, this portion of the video was sponsored by Google. One thing I'm really serious
+about here on Smarter Every Day is combating misinformation. In fact, I did the
+entire video series here on social media misinformation
+and how that affects you. I wanna talk about being
+smart and thinking critically when you search for information online. When you use Google to
+search for something it's important that you
+do it in a smart way. The Google search function is a tool. And just like any tool,
+there's a smart way to use it. As a part of their civic
+online reasoning program, The Stanford History Education Group has identified three
+questions to ask yourself when looking for information online. The first question is, who is behind the information? I don't know if you knew this, but every time you
+conduct a search on Google there's these three
+little dots that pop up at every single result. Then if you click those, it'll expand and give you more information about the website that's
+serving you the information. The second thing to think about when you're figuring out
+who's behind the information is kind of in YOUR head. Let's say you wanna learn
+about these islands right here in South America. If you were to search
+for the term Falklands, you're gonna get one set of perspectives, but if you use the term Malvinas, which is the Argentinian
+term for those islands you're gonna get a completely
+different perspective, because those islands were the subject of a major conflict between
+two different groups of people. Think critically about
+what you're searching for in how you conduct the search. And when you get the information think critically about
+the results you get. You have to search for
+information in a smart way. If Google search is a tool, you'd have to use the tool
+well and be smart about it. So, yeah, that's a really big deal and I'm super passionate about it. So thank you, Google for sponsoring this portion of the video. - Okay. At this point,  I have been doing this in the backyard for maybe seven hours. So I want to just for a grand finale step in a big patch of this stuff
+and watch it all fly up now that we understand the
+minute mechanism at work. So here we go, we're gonna waste all these at one time... Should be pretty cool. (guitar music) I thought this mechanism
+was incredibly clever and I really enjoyed exploring this. So I hope you enjoyed
+the path of exploration trying to figure out how
+this little thing worked. I'll leave a link down to that
+scientific research paper. It's fascinating how
+this little guy works. I just love it. So please consider subscribing
+to Smarter Every Day if you're into that sort of thing, but if not, I don't care. I just want you to go outside and look at the world a little bit closer and see all the beauty and
+wonder that's around you. Thank you so much. I'm Destin, you get Smarter
+Every Day, have a good one. Bye.  

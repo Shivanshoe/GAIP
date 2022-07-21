@@ -1,0 +1,154 @@
+- [Destin] Oh dear me. - [Jeremy] I'll let you know! (machine whirring) - Ready? Oh my goodness. (bat snaps)
+(laughs) (Smarter Every Day Intro music) The major league baseball
+home run distance record is around 575 to 580 something feet, depending on where you get your data. Today on "Smarter Every Day", we're gonna try to beat
+that with engineering. We know that major leaguers swing the bat at about 90 miles an hour, and so you get this exit
+velocity that's really high. I don't know what it is, 100
+something miles per hour. We have devised an apparatus, my buddy Jeremy Fielding's been working on it for months now. We got a three phase generator
+hooked up to a huge motor and a pulley system that gives
+us the right gear reduction so that we can spin this
+bat at crazy velocities. We're on this little league baseball field that I played on when I was a kid. We're gonna try to crank
+some homers at over 600 feet and see if we can beat the
+home run distance record, hopefully even put one back in those cows. Alright, I'm Destin. Let's go get smarter every day. First thing was to get
+everything off the truck and to get it over to the batter's box and begin to line it up and take into account where the sun is so that we can get the
+right slow motion footage and what angle we wanted
+to set the bat to. Oh yeah, it's about to get crazy. I'd like to stop and acknowledge the ongoing launch angle discussion. This is an entire field of study having to do with the
+exact angle of attack that you need to swing the bat at in order to impact the ball
+at just the right position and get the right exit velocity in order to put these
+balls over the fence. This is an entire thing. Unfortunately, the reality
+for us at this moment is that we're just trying
+to point at the fence and swing a bat as fast as we can. Where are we gonna be, dude? (Jeremy) - I don't know, but I want to be outside
+the fence, wherever else. - If the ball comes off
+the bat like we expect, then death will be imminent
+for the pitcher, which is me. Hopefully this will
+stop any splintered bat and or 200 mile an hour baseball. We'll see. Alright, here we go. 80 miles an hour, let's
+see if we can hit the bat. (baseball whizzing by and hitting the backstop) So the problem with this whole set up is we have no active feedback because the batter can move
+the bat as he swings, we can't so we're just gonna
+throw it a ton of times and hope that we get one that
+just lines up just perfect because then it's sailing. That's it, money shot, let's do it. What just happened? Okay, low speed swing test. Good. - Yes, that's about
+as high as I want to go if we're standing here. - That, but 200 miles
+an hour, that's next. The problem is, Jeremy realized we weren't getting full power from the industrial generator
+we rented to run this thing. Now is probably a really good time to explain to you who Jeremy Fielding is. Jeremy Fielding and I
+became friends at ThinkerCon where we realized we were both dads who loved to build things. Jeremy has his own YouTube
+channel about mechanical design and he's really good with electric motors, so it's super fun to learn
+about this stuff from him, especially when he's trouble
+shooting the equipment. - We've only got 30 volts
+between lines one and three. - So one of your legs is out?
+- [Jeremy] Yep. - The power that comes out
+of the wall in your house is called single phase power. It's a sign wave that goes up and down, and everywhere there's a dip in the power, that represents a little spot in time where there's no torque on a motor. Nikola Tesla was a genius, and he came up with a very
+clever way to get around this. It's called three phase power. As one of the sign waves dropped down, another sign wave which is offset 120 degrees out of phase will be rising, so you always have sign waves rising to cover those gaps in torque. So, instead of three wires,
+if you use four wires, you can use the Tesla method,
+you can use three wave power and get way more torque on your motor. - See I was right, I was
+only getting single phase and that's because it's
+set to single phase. So that's what we want. - So that's the faster button? - (laughs) That's the faster button, yeah. - 50%, go!
+- Okay, E-Stop is OFF. (machine whirring) [It sounds like a helicopter] - Holy cow. It's just like a helicopter. You ready? Oh my goodness. All right, grounder to shortstop. [Rattling, and breaking] Holy cow! (laughs) We broke a bat. - You broke a bat on the first try! - Well we didn't get the high
+speed of the bat breaking, however it did break where we expected. The stress concentration right here, that's where we expected the bat to break. So if it went that way, then as the bat was bending
+that would be in tension and that's exactly what
+we have, a tension break. Yeah, okay. 50% power? - I think so, it might have
+been a little over 50%. I was trying to look at the
+number and I went past it and was trying to back up, so not quite sure where I ended up. - Okay, I didn't tell
+Trent when to trigger, I messed that up. Okay, so we'll set up aluminum bats? - [Jeremy] Yeah. - Okay, aluminum bats, here we go. So while Jeremy fixed the machine and attached the metal bats, I decided to work on
+upgrading my battle station. So after seeing the wooden bat fly off, we're gonna repurpose this
+for a little extra shielding. I'm not gonna lie, this feels like the best idea we've had
+out of this whole thing. Okay, here we go aluminum. Let's do it! - All the way? - Go 75%.
+- 75? - No, just do it man, go all the way! - [Jeremy] Okay!
+- All the way! - All the way, 100%. - 100%, scary as junk, here we go. Oh dear me. - [Jeremy] I'll let you know! - Holy cow, ready? Oh my goodness. (bat snaps) (laughs) - Did we throw a bat?
+- It's over the fence! - What?
+- That was so scary dude. Okay, what failed, the bolts? - I think it did. - No, I think the end of the
+bat failed and it slipped out. - There's no way the
+end of the bat failed. - [Jeremy] Yeah.
+- No! - Wasn't looking at the bat,
+but that's what it looks like. You look at the grip over
+there, it's still intact. It slid out of the handle. - It's 70% done.
+- No, no. - I can't believe. - Dude, it went over the fence man. - I know!
+(laughter) - It was so graceful too. - It was so fast and I didn't even, I was in shock for a
+few seconds like wait, what happened? - [Destin] I didn't
+even get to pitch at it. - [Trent] Okay, so look, ooh! - [Destin] What happened? - [Jeremy] Yeah, the end of the bat! - [Destin] Wow, it's still there. What?
+- [Jeremy] Yeah! - [Destin] What? Okay, so this one's full aluminum, right? - [Jeremy] Yes. - [Destin] Oh, that one's plastic! - [Jeremy] No!
+- [Destin] Yeah! - Oh man, okay.
+- Okay. - Well now we know. - Oh dude, are we done? We're done.
+- I think we're done. I gotta check that bearing
+before I spin it up again. - Oh dude, we're done. We have a home run bat though, let's go see the home run bat. Before we find the bat, let's
+look at a couple camera angles and see how it got there. (machine whirs)
+(bat snaps) In this particular angle, you can see that the bat and the shadow go flying by in just a couple of frames and it's clear in this shot
+that my attempt to duck comes well after the bat was gone. And as you can see here, the imbalance of only having
+one bat left on the shaft really mangled the machine. Holy moly, okay. Look at that. It's a home run bat. Like, I don't think we could, that's as far as I could throw it. I can't even make it back
+to the fence, that's crazy. How far did the bat go? - [Jeremy] 581 feet.
+- [Destin] Are you serious? - [Jeremy] Yes. - That's like, okay Babe Ruth hit, was it 575?
+- 575. Yes, that's all. - So we just threw the bat further than the major league ball record. - Yes.
+- Okay, nice. Okay, now let's get a ball there. Now truth be told, there's
+a tension break here. I should have learned this
+lesson with Mark Rober when we did the rocket powered
+golf club, but I didn't. (machine whirring) Where's the club?
+(laughter) - Like I'm laughing, but
+that could have been bad. - The next thing we're gonna attempt here, we have this other bat and it actually has an aluminum handle. You can tell by filing off here, you can see that that's actually metal. The question is, how is the attachment point
+between here and here? I assume it's welded, but we're gonna see if
+we can fix this thing and give it another shot,
+maybe ramp up 50%, 75%, and see if we can get a homer
+before we go crazy with it. So for day two, we made a bunch of repairs and added an important
+feature, a wobble switch. Spinning it up. So if you shake it? So any acceleration like
+that switches the relay off so that it kills it.
+- You got it. - This time we drilled
+the handles themselves and put a pin in there to try to keep the bat
+from flying off the shaft and once again, I feel like I need to upgrade
+the safety precautions. I feel protected now. Okay, everybody's behind
+steel, here we go. Pretty much right out of
+the gate, at 50% power, we hit a dinger that went
+right over the fence. Dinger! Okay, that definitely was
+not a home run record, but it was a home run. That's 50% speed. (machine whirs) Right off the end of the bat. So we didn't even hit
+it at the right angle. We're gonna be able to do it. - Oh yeah, when we connect perfectly-- - It's gone.
+- It's gonna go. - Okay, so we tried to do just that. We ended up pitching and
+hitting a ton of baseballs. (laughs) Homer! I've played ball my whole life and anyone who knows the game well, you can tell what's going on
+simply at the crack of the bat. (ball hits) Hit it off the bottom of the
+barrel and you get grounders. (ball hits) Hit it off the top of the barrel and you get a high fly ball.
+(ball hits) Hit it too late in the rotation, you get insane 400 foot foul balls. (machine whirs)
+(ball hits) The bat and the ball were doing things I have never seen at
+any level of the game. If you've ever played center field, listen to how hard this thing is hit. (ball hits) (laughter)
+(yelling) Did you see how fast it got to the field? We started ramping up the power and things started getting insane. From the mound, it was
+absolutely terrifying. (machine whirs)
+(ball hits) Where'd it go? And on top of that, we
+started breaking bats. Time for another bat. In the majors, the fastest
+exit velocity ever recorded was around 120 miles per hour. Most players average
+in the mid to low 90s. Let's take a look at the exit velocities we're dealing with here. On this one, the incoming ball speed is only about 50 miles per hour, but the bat tip velocity
+is 240 miles per hour, which is nuts. After impact, the bat is still
+going 183 miles per hour. The exit velocity of this
+baseball is 190 miles per hour. That is double the average
+for major league baseball. The data is pretty hard to find, but the existing home run records seem to lay down like this. Mickey Mantle's so called
+"tape measure home run" in 1953 went 565 feet. Babe Ruth's shot in
+Detroit's Tiger Stadium was measured at 575 feet and Joey Meyer, who played Triple-A ball for the Denver Zephyrs hit the
+longest verifiable home run in professional baseball
+history at 582 feet in Denver's Mile High Stadium. Because we had damaged all of our bats, we made the decision to just go for it. Full power, 100%, everything we've got. I would now like to submit
+for your consideration what I believe to be the
+longest home run in history. - [Jeremy] Okay, everybody ready? - Yep!   - Yup! - [Jeremy] Okay, firing it up. (machine whirring) [Helicopter noises intensify] [At about this speed it gets scary] (ball hits, sounds like poor contact) [bat speeds up between hits] (ball hits) (bat clatters) - [Destin] That has got to be it! - [Jeremy] What?
+- That has to be it! - [Jeremy] Where'd it go? - It has to be it, it almost
+went past the second fence. That's got to be it, dude. Did we break the bat?
+- [Jeremy] Yes! - We broke the bat. (machine whirs)
+(ball hits) (bat clatters) - [Destin] That has got to be it! - [Jeremy] What?
+- That has to be it! - [Jeremy] Where'd it go? - It has to be it, it almost
+went past the second fence. It's time to measure how
+far we hit this ball, only now we don't use a tape
+measure, we use drones and GPS. How far is it? - [Jeremy] It is 696 feet. - Bull, there's no way. - [Jeremy] I can say it again, but that's what it says. - 696 feet?
+(Jeremy laughs) Yes sir, that's awesome! So there you go. We hit what I believe to be
+the longest home run in history and yes, I realize it
+totally doesn't count because Jeremy Fielding was on the juice and by juice, of course
+I mean three phase power. I know, that's kind of
+corny but I get to edit this and Jeremy won't like
+that so I'm leaving it in. Okay, so several months ago I explained that "Smarter Every Day"
+is sponsored by Audible but we went further than that. I explained that required
+audio book listening is "Skunk Works". This is about the development
+of the SR71 Blackbird and the F117 Stealth Fighter,
+which are amazing airplanes. Everyone knows the SR71 is better. However, I have some sad news. So I have data of everyone who went and downloaded "Skunk Works". I have to publicly call out some people who did not go get "Skunk
+Works" and listen to it, we're gonna have to do that now. So, if I call your name, you need to go to audible.com/smarter or text the word Smarter to 500-500 and download "Skunk Works". Okay, you ready? Andrew, you did not
+download "Skunk Works". I'm gonna need you to do that. Sarah, Jeremy... Jeremy? Jeremy, did you download "Skunk Works"? - [Jeremy in the distance] Yes..? - You're good, I'll take you off the list. Noah, Megan, Benjamin. If you did not download "Skunk Works" by going to audible.com/smarter or texting Smarter to 500-500, I'm just gonna need you to do that. Obviously, this is a joke,
+however this is an amazing book. I don't know if you know
+about the development of the SR71 and the F117,
+but it's an amazing story. Overcoming aerospace
+engineering challenges, you will love this book, I promise you. So, please consider going to download that at audible.com/smarter or texting the word Smarter to 500-500. You could also get two
+free audible originals or just get any audiobook of your choice. I mean, there's all kinds of stuff. You can use Audible to reclaim
+your time and your commute, and get smarter, you're gonna dig it. So, big thanks to Audible
+for supporting this. Thank you to you for watching this video. I mean, it was really fun but I'm really excited to have you here. Please consider subscribing. We have a big thing coming up. We're gonna do a, well
+do you want a teaser? Here's a teaser. Yeah, look at that, it's amazing. Okay, that's all you get to see. This is gonna be awesome. I would love it if you would subscribe. If you feel like the
+video you just watched earned that subscription, I would love it if you would
+do that and ring the bell. If not, that's cool, no big deal, maybe I will earn it next time, but I think you're gonna
+dig what I have coming up and I would love it if
+you don't miss that. Anyway, I'm Destin, thanks for being here, I appreciate you, you're
+getting smarter every day. Have a good one, bye. 

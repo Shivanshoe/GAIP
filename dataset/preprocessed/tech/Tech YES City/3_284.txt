@@ -1,0 +1,166 @@
+Is the price of your soul 1499 USD. Of course, that is what the price of
+this RTX 30 90 will cost you. And if you're down under two and
+a half thousand Aussie dollars, that's factoring in the stock
+problems are alleviated, which I'm told that will be
+towards the end of October though, that aside we're going to be
+comparing this absolute behemoth, which is called the BF GPU, which weighs in at over 2.1
+kilograms as a triple slot cooler and is longer and
+thicker than this right here, the RTX 30 80. Now this is coming in at 699
+USD. And when I reviewed it, I thought it added price point, given, if you can get one of these or when
+you can get one of these for the MSRP, it was a really good car, not
+just in its absolute performance, but in its value for
+money proposition two, this right here is going to have one of
+those two traits that is it's going to have the absolute performance, but the value for money is seriously
+going to be lacking compared to the [inaudible]. But of course, that doesn't mean the RTX
+30 90 is without its merits. Let's pull up some of the key
+differences here between these two cards. The first being the acoustical count, it has over 20% more critical is bringing
+it into the realm of 10,000 versus that of the RTX 30 80. Then
+we move over to the V Ram. This is easily the biggest difference
+here. We've got 24 gigabytes of GDS, six X memory clocked at a
+highest speed of 9,750 megahertz, which is then doubled to give
+you the 19.5 gigabits per second, versus the 19 gigabits per second, 10 gigabytes of GDR six on the 30, 80 now straightaway running those
+4k gaming benchmarks for you. This translates into around a
+15% performance boost on average, at least that's what I'm saying. When I tested out shadow of the tomb
+Raider call of duty, modern warfare, Tom Clancy's the division two
+mech warrior five out of worlds, fortnight horizon zero Dawn,
+and also Duma terminal. Now pulling up the average FPS across
+these eight games and the cost per frame analysis will show that, yes, you're getting more absolute
+performance versus a 30 80, but you are indeed paying for it though
+in video told me this thing can do eight K gaming. And so I decided to run two separate
+games here just to really highlight the overall picture of AK gaming.
+And that is at the RTX 30, 80, and also the 20 ADTI. They struggled when it came to the gaming
+benchmark numbers though, even then, you're going to want to get a 3000
+card just because of the HTML 2.1, those surprisingly looking the 30, 90,
+depending on the game, for instance, in Fortnite, we got a playable experience
+at eight K versus say, shadow of the tomb Raider, where
+we got an undesirable 30 FPS. And so this was at high settings as well. So I did turn down the
+settings a little bit, but basically in a nutshell with
+eight K gaming, depending on the game, you will actually be able to get
+a playable 60 FPS experience. Those seriously do factor in
+the price of an eight K TV. Before you wish to go down this
+path. Also a quick disclaimer, AK is actually quadruple the amount
+of pixels of 4k. So in other words, you need four times the
+horsepower on your gravis, God, to run eight K versus 4k, where it's
+not just a doubling of four to eight, they're switching things
+to 10 80, pay his way. A different kind of picture
+is going to get painted out, especially if you're in the market for
+a three 60 Hertz monitor and you want to smash those settings on ultra. Well, the news here is that the 30 90
+is pretty much the same as the 30 80 in that we are pretty
+much CPU bottlenecked at 10 80 pace. So if you want to get
+a 70 90 and play 10 80 P games, you're basically just
+purely wasting your money. And the value for money proposition
+shot at 10 ADP is going to reflect this heavily though. What about 1440 P gamers? You're going to be somewhere
+in the middle of 10 80, pay in full K ultimately
+way, depending on the title. You can extract some differences, but overall for 1440 P gamers is going
+to be a similar recommendation to that of 10 80 P I'd
+ultimately go with the 30, 80 over the 30 90 at both
+these resolutions. However, in relation to gaming, the last thing to go over is
+the right tracing performance, as well as that coupled with DLSS.
+And I tested two different games here, both fortnight and Mac warrior five
+scoring pretty much the same differential as 30, 80, as we saw in those four
+K gaming benchmark numbers though, gaming numbers aside. The last thing we're going to go through
+here is the productivity numbers where both the 30, 80 and the 30, 90 KM, depending on the benchmark in a different
+league to that of the predecessor, the RTX 20 ATI running a quick
+V-Ray score reflects this as well as an octane render,
+which includes RTX. And we see here that these cards are
+flying in the case of the 30, 90, pretty much doubled out
+of the 20 ADTI. Then 30, 80 is coming in the same
+league as the 30 90, but you are getting that extra
+productivity out of your 30 90. So if you are pretty much time strapped
+and the money differential between these two cards, isn't a factor. And you're going to utilize that extra
+value that the 30 90 will create in a productivity workspace. Then it can
+be a justified purchase for you, especially if we look at what you can
+do with AK rendering and video editing, if that suits you and you do
+need that extra frame buffer, then this Cod will deliver. The
+one other thing for me personally, is the RTX studio drivers.
+When I'm working in print, we have pro all the RTX cards have that. And I do utilize that cards
+will be no different. However, there is one benefit that I did
+miss out in my RTX 30, 80 review. And that is you do get a V one
+Dakota's built on these new RTX 3000 cards. And basically [inaudible] one
+is a new open source MP4 container that essentially gives much better efficiency
+compared to that of H two six, four, and even H two six five. And of course,
+HD six, five carries a lot of royalties. So I do see this coming
+much more mainstream in the
+future to the point where YouTube is already using
+the AVS zero one codec, and the fact that this
+can decode it is nice, but I would like to see an AAV one and
+encoder built on the cards as well. So there's all those numbers aside RTX 30, 90 absolute performance
+differential. It holds that, but it comes at a very hefty price tag. And it's pretty much one of
+those exotic car arguments. Do most of us want to go out
+and get an exotic car? Yes. Can most of us afford an exotic car? No, there are critiquing in video for having
+an exotic car in the land of PC gaming is not something that I'm going
+to do so much in the price point, but I will take the car in that I
+would like to see an additional HTMI 2.1 connector at the back. We've got
+three display ports and one, yeah, HD my 2.1. I feel that the new RTX 3000 cards having
+those extra agency in my 2.1 port is going to be very beneficial. However,
+the cooling performance itself, this is actually quite a lot
+better than the RTX, 30, 80, where you've got bigger fans and you've
+got two of those and they actually spend a bit quieter than the smaller
+fans on the RTX, 30, 80, as well as giving better attempts to the
+point where if you want to overclock on the 30 90, you can definitely do it and
+still keep the temperatures quite low. And I was actually kind of happy
+with 80% fan speeds personally, but out of the box, I feel like
+they've nailed it. Fan curve profile, where it's very quiet and the
+temps still remain low though. Speaking of power consumption, this
+is where the 30, 90 and the 30, 80, at least from my recent tests that
+I've done here, benefit tremendously. And I mean, tremendously under vaulting the cards
+and the sweet spot is around 800 millivolt at eight 1800 megahertz. This seems to be where both these Cod's
+really dropped their power consumption a lot, but you don't lose a whole lot
+of performance. In fact, the RTX 30, 90 are only lost one FPS, but the power consumption
+dropped around 90 Watts. And this is a huge difference to the
+point where anyone who wants to keep their graphics cards for quite a long time
+will appreciate having a lot less hate dumped inside the case, as well as just juicing a lot less
+power in general and saving money on the power bill there. The final thing to go over with the
+30 90 is that it just like the 30, 80 founders requires a 12 pin power
+connector, which is included in the box, at least the adapter, which then splits
+off two to eight pink connectors. And also in the case of the RTX 30
+90, just this model in particular, you get the option to take out
+this little bracket on the side, which does reveal an SLI bridge for
+connecting two of these cons together, which look we're not even going to
+go there and sweeping over all those numbers. It's time for a recommendation
+with the RTX 30 90, and you guys have seen it
+with the numbers. The RTX 30, 80 is going to be for pretty much
+99% of people who want even high end performance because the value
+is also there too. I mean, considering when they get back into
+stock and the gods come around MSRP, the OTX 30, 80 coming into
+this launch was my best pick. And coming out of today's review,
+it's still my favorite pick. And I feel even going into
+the RTX 30, 70 launch, this is still going to be the Cod to
+get because of what it offers for four K gaming. And personally, I've tried 4k
+gaming on this thing and also on this. And I absolutely love it. You got
+that one 20 Hertz HDR, 10 bit look, and it's absolutely phenomenal. And I'm not going to sit here and beat
+around the Bush and try and downplay it because it's just that gorgeous.
+But this is where the RTX 30, 90 is going to differentiate
+a bit. It is a massive Cod, not just in the actual physical
+state of the card itself, but also in the numbers. It's for those people that
+seriously don't care about money. They want the best performance and they
+don't care about how much extra they've got to pay to get it. And ultimately that's what
+this offering is from Nvidia. It's that exotic sports car option
+that a lot of us even don't have the desire to get, but it's still there for people who
+have that cash and want to get the best experience possible. Cause that's
+what this is going to provide, but I will disclaimer that it's
+really only at four K and even 1440 P you're still gonna have to have some
+of the best gear in relation to not just the GPU, but also the CPU,
+the memory power supply, the list goes on. Everything
+in your system will have
+to be good to accommodate, not just the 30, 90, even the 30 80. So there's basically one of those graphics
+cards that you don't want to go out and generally buy and then skimp
+on everything else in the system. There's the last question that remains, and this is one that I've asked myself
+as well. And that is why didn't Nvidia. Just simply call this a
+Titan gaming gravis. God, it's certainly in the
+price range of the Titan. It's definitely got the V Ram over that
+of the gaming line where you've got 24 gigabytes versus 10 gigabytes. This
+time around what Nvidia does is say, it's a Titan and call it a day. And the first difference is that the
+Titans traditionally offered a double precision point calculations
+as opposed to the RTX 30 90, which actually doesn't offer that. The
+second thing is of course, as a company, they're probably gonna want to, uh, market it towards gamers because in 2020, there's more PC gamers than there ever
+has been historically. So as a company, it's smart for them to market
+this thing towards gamers, as opposed to the Titan, which sat a lot more
+towards the calculations and
+server farm side of things. Then this card I feel will
+anyhow with all that aside. I hope you guys enjoyed today's
+review of the RTX 30 90, basically the 38 is going to be the
+one to get for most people though, if you find yourself with a lot more
+money than you need in your wallet, then this one is certainly going
+to deliver that extra performance. And that's pretty much all there is to it. I'll see you guys in another tech
+video very soon, peace out for now, but. 

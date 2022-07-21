@@ -1,0 +1,209 @@
+so at least in a few places around the
+world it looks like prices of pc parts are returning
+back to normal, however you're probably thinking...
+NEW ddr4 memory? YES please. New 240 gigabyte ssd? YES please.
+new ryzen 5 3600 yes please New 2070 super? YES please,
+and a used hard drive? No thank you? Well i'm here to change your mind with a
+bit of a different type of build that is we're going to be mixing used and new
+parts together so you can get pretty much a brand new
+build but you can save around 100 on this
+build and still get something with a good
+power supply good case and of course a good cpu and gpu
+to give you excellent gaming performance but the use components we're using in
+today's build we've got here a one terabyte hard drive
+now i picked this up for 26 aussie dollars
+in a deals hunt and that's coming in under half the price now the good thing
+about this hard drive is when i purchased it it had a two year warranty
+so i'm really only poised to save money which of course is a good thing and then
+this power supply here this came in and i got this on a deal for 20 aussie
+dollars and power supplies especially one of this caliber
+would easily cost around four times the price here in australia
+and when i put it through a power supply tester it checked out absolutely fine
+showing some really good signals then the last used component we're using in
+today's build is this case right here it's a used
+silver stone case with three rgb fans at the front and
+it's pretty much in like new condition but
+i got it for 70 aussie dollars which is around half the price that it goes for
+brand new so those three components combined here
+in australia i'm saving around 150 aussie dollars
+just like that and with that aside i'll give you guys a quick tally
+of today's build we'll quickly put it together start tuning it
+and then we'll compare the 2070 super on this pc
+versus say something with a z490 and 10 900k
+to see how much value you are getting out of the ryzen 5 3600 build
+that we're doing here today though of course you guys want to see the finished
+product let's get you the finished product
+[Music] yeah that's right you tell me in the
+comments that their soldering skills haven't improved
+since the last time we met [Music] no more pain no more worries
+got no more time for loving you [Music] and now we're here with the finished
+product the tech yes soldering skills you guys have been uh
+critiquing me previously but then skills are getting better and
+better by the day i mean if i didn't fall asleep at school
+when they had soldering classes i might have not had to learn in my older
+days but hey that aside this case right here we
+had the problem of the person who sold it to me didn't include
+the connector going into the led controller so
+yeah that's where the soldering came into place where i had to make my own
+wire and then connect it directly from the
+power supply but that aside everything now is working
+absolutely fine we've got this pc booting up we can change the colors
+of the build by just clicking the led button and
+besides that i mean the build looks like it's got good airflow it's
+a huge case bigger than i expected and all for 70 aussie dollars i think
+this thing retailed at 200 aussie dollars so
+silverstone where have you been my whole life
+well actually since 2016 because that's when this case was released
+i don't know if it's for sale anymore but again when you're dealing with used
+parts that's one of the beauties of dealing with the used market is you
+come into some of these things like this that are really cool and
+they're cool because they're not just really
+good price performance but they're also just an absolute
+looker in terms of putting your build together anyway enough rambling aside
+we're gonna finally tune this pc up and then run some games wow oh so we now got the games all set up and
+ready to go but just before we get into our games we want to go into
+the bios right here and we do that by hitting
+delete and f2 when we start up our computer
+but when we're in this bus right here we just go down to advanced memory settings
+and on different pcs it might be a different menu up the top but
+you just search around until you find extreme memory
+profile and we just uh click enter on our keyboard
+and then we hit enter on our profile right here
+and that'll lock in the x and p profiles which is super important
+for ryzen cpus to get that extra performance well
+it's kind of it's really important nowadays on any cpu
+when you're playing games so after that we just go
+save and exit setup and we're now good to boot those games up
+and start getting some fps [Music] it's a root interruption so we're just finishing up the final
+benchmark on this pc right here what i'm doing is i'm testing the gpu
+temperatures with the side panel on versus off
+that's going to tell us how good the airflow is
+on this silverstone second hand case that we picked up right here but
+so far the fps is looking incredible i mean this is why we're playing a game
+the noise is extremely low and we're getting over 140 fps
+it's about 150 in 1080p warzone at high settings we got that
+also similar numbers in tom clancy's division
+two we're getting 144 fps at high settings and we also got 118
+average fps in shadow of the tomb raider high so this thing is geared up towards
+high settings high refresh rate gaming and i've actually got to quickly move
+now to get in the gas zone so i don't
+lose the round because i want to do a full round so i can test the
+gpu temperatures and it's like oh hey how you doing there i'm untouchable
+but yeah continuing on uh but what we can see here is the
+oh that's a rude interruption so what we can see here with this case
+is that it's keeping the temperatures on the gpu below 70 degrees which when
+the gpu is at 100 under 100 degrees that is really nice so
+the case is doing its good job but also the cooler on this rtx
+2070 super is also pretty good as well i don't get a chance so what we're seeing here with this case
+is that it's keeping the temperatures of the gpu
+under 70 degrees which also how you're doing there it's a good thing
+so the first round is finished with the tempered glass side panel on it's scored
+70 degrees celsius and we're going to take this side panel
+off now and basically if the temperatures are lower on the gpu
+that means the case could use some improvements but if the temperatures are
+a little bit higher or the same it means silverstone have designed an
+absolute winner here and i probably got more than i bargained
+for at 70 aussie dollars i mean three 140 mil fans at the
+front and one 140 mil fan at the back i just wish i knew about
+this case sooner this is the first time i've ever seen one
+i'm going to be low key with you guys here i kind of want to
+sell my main rig and make this my main rig but then
+i won't have 64 gigabytes of ram anymore so i won't be able to edit videos
+anymore and you just won't see me that'll be the
+end of tech yes city as we know it all because of this
+silverstone prime mirror case right here i think it's called a
+primera you ready let's go
+[Music] and after whacking this system on our 10
+900k there was some really good news and that
+was first off we'll start off with the best news
+tom clancy's a division two scored the same average fps at 144.
+then we moved over to tomb raider that was getting an extra 15 fps
+and then we moved over to warzone and that was scoring an extra
+20 or so odd fps and here's the thing the ryzen 5 3600
+can be had for under 200 comes with a cooler
+and then we use this on a budget entry level b450 motherboard
+with some budget 3000 megahertz memory now keep in mind i did use the same
+memory on the 10900k and the power consumption was the same
+at around 330 watts so what we're ultimately seeing with
+this build here today is the power of used and new synergy
+and so what i'm predicting and this is probably the start of a trend here at
+tech yes city for what i'm going to be doing going
+forward that is i'm going to be mixing a lot of
+used and new parts together because i feel like the prices of new components
+especially cpus for example are coming down to really good price
+points and with gpus you may not want to go out and build
+something like this where you've got the rtx 3000 series
+coming up very soon but that being said if you can pick up a
+2070 super 2060 super at a really good price on sale which in
+australia these cards are going on sale with ebay is 20 off so
+if you can get really good deals on the new stuff don't be afraid to look around
+in the used market where there's just going to be awesome
+deals to be had because i found recently there's a lot of used pcs
+coming up for sale and of course some people just want to
+upgrade their cases they want to upgrade to a thousand watt power supply
+and you can pick up some really good deals like we did here with this case
+now i actually researched this case out and
+it appears that it was around 200 aussie dollars and i got it for 70 aussie
+dollars and it's pretty much in like new
+condition the person took really good care of it all i had to do
+was give it a data vac and alcohol wipe it down
+and it pretty much looks like brand new again so i'm getting under
+half price for a case that has one of the coolest aesthetics
+i've seen in a long time and honestly i am surprised that i have not seen this
+case earlier because i was blown away by not
+just the build quality but also the paint job
+that they've done on this they've used some real high quality paint
+and it really shows when you're building it and then of course you probably even
+see it on the b-roll but then those 140 mil fans they're
+super quiet like i'm right next to this case right now and it's on and
+it's just whisper quiet and the temperatures are pretty good too we've
+got the tempered glass and whatnot but one thing
+about this case in particular i think it's called the primera pm01
+is it's a massive case like it's bigger than i thought it would be when i first
+saw this listing on good old gametree i was like okay this is going to be a
+normal standard atx size case and what it's worth it's getting closer
+to a full-sized atx tower than a mid tower and mid towers are
+pretty much going to be the majority of atx cases
+out there so very big case very good build quality
+very good performance i'm just surprised i haven't really heard or seen this case
+beforehand and of course the saddest thing being this thing is not for sale
+on the new market anymore but i'm glad i picked this up because
+again like we said in the intro it's just really cool
+to buy used parts and get an experience that i never thought was possible in the
+realm of pc building the ultimate when it comes down to it if
+you're in the market for a new pc don't be afraid to go with some used
+components especially if you just quickly check on your local listing
+site whether it's gumtree or craigslist or something like that
+and you see a bargain pop up especially for something like a case
+where you can go out check it out if it looks good then you can purchase it
+with a power supply though i will say do be pretty careful
+and definitely get proof of say a hard drive as well
+get proof of those parts working before you purchase them because
+if anything i don't want you guys out there in the audience
+to get hosed and i've been hosed in the past before
+actually quite a few times and it's one of the worst feelings ever
+and the sad thing is even nowadays you can get hosed on new parts
+so you've got to be careful with that too so i'll put a link to a video up
+here about what to be careful of when buying
+using new parts and with that aside i hope you guys
+enjoyed today's video if you did then be sure to hit that like button for us
+also if you want some links to some of the stuff we've used in today's video
+then i'll put some links in the description below
+and with that aside do let us know in the comment section below
+what you think of this big silverstone primaria case right here anyway we've
+got here the question of the day which comes from phone toys tv
+and they asked sir can i install the raised prism
+on my ryzen 3200 goc any suggestion and the answer that is certainly yes if
+you've got a wraith prism it's an am4 mount
+the 3200 g is an am4 socket cpu apu and you can mount that in the
+socket and put the am4 cooler on so basically any
+cpu or apu that fits am4 you can use an aim for cooler for it so compatibility
+is definitely there in terms of overclocking the 3200 g the
+wraith prism will do an absolutely fine job it's actually suited
+for even the likes of a 3900 x 12 core so getting the most out of
+your 3200g on a wraith prism should be no problems hope that answers
+that question and if you guys have stayed
+this far and you're enjoying that content and you want to see the moment
+it drops be sure to hit that sub button ring that
+bell and i'll catch you in another tech video very soon
+peace out for now bye [Music] 

@@ -1,0 +1,238 @@
+last night nvidia did their live stream
+and Jensen delivered the news that a lot of us tech enthusiasts have
+been waiting for and that is rtx 3000. now they've announced three
+different products and that is the rtx 3090 the
+rtx 3080 and the rtx 3070 but what we have seen
+already is that another youtube channel called digital foundry
+has uploaded gameplay footage with percentage differences
+between an rtx 3080 and an rtx 2080. so in today's video
+i'm going to be doing some educated guesswork with the numbers that we
+already see in that we're going to grab those
+percentage numbers convert them back to fps
+and then guess the performance of the rtx 3070
+and also the 3090 and even compare that to the rtx 2080 ti
+to see the value propositions of these new cards
+in a number that's easy to digest let's get on with it
+straight away looking at the numbers in the cuda core account from nvidia's own
+website we can see that this is essentially cuda
+core is nvidia's name for shader and amd call it stream processor what
+they're doing here is something that you can't really compare
+directly with the rtx 2000 series or turing
+versus the new generation ampere because in one of the illustrations
+and one of the videos that they showed they had the shader like literally
+splitting into two kind of doing some matrix agent smith
+duplication kind of thing here and so what they're doing with the cuda core
+performance and also the cuda core count is actually
+a lot different than the previous generation so
+basically if you got out your good old calculator and you said oh wow
+the 3070 has 5888 cuda cores and the 2080i only has 4 352
+and then you said okay it's going to be 35 faster you would actually be making a
+wrong guess at least in my opinion and reason being
+is because what we can do however is look at the fps that's already out
+there on that 3080 versus that 2080 comparison that we saw
+over digital foundries basically it wasn't an fps comparison
+but again we'll throw it back in let's say
+the 2080 is a 100 fps baseline and what they showed was the 3080
+was performing 80 faster so we can convert those numbers
+now into fps so we've got 180 fps versus 100 fps
+on the 2080 and so from here what we can do is actually
+then grab those cuda cores on the same generation and start to derive some
+numbers this is a fair practice for guesstimating numbers you just can't
+compare them from different generations because
+there's changes in the architecture so what we're going to see here i
+feel is that a 2080 ti is roughly 25 percent faster than the 2080
+and so we put that in 125 fps and then we see that the rtx 3090
+is going to be about 20 percent faster than the
+3080 so we put that in around 216 fps now the 3070 actually has a lot lower
+cuda core count than the 3080 as well as the 3090 those
+being 8704 and 10 496 cuda cores respectively
+there's also 28 billion transistors on both the higher core count gpus
+versus the 17 billion on the 30 70 and the 18.6 billion
+on the 2080 ti and so what this means is the rtx 3080 is actually going to be a
+cut down version of the rtx 3090 rather than the 3070 being cut down
+version of the 3080 that's actually going to be a different die
+and size altogether and then basically taking the rtx 3070 cuda core count
+comparing it to the 3080 we're going to have around 68 of that
+shading performance available on the 3070. however one big difference
+here is that they're using gddr6 memory on both the 38 and 3090 so that's
+going to have more throughput as well as a bigger memory bus compared
+to the 37 whereas the rtx 37 is gonna have gdr6 memory
+the same as the 2080 ti albeit it is going to be clocked
+at 16 gigabits per second versus 14 gigabits per second
+on that 2080 ti so significantly higher memory speeds and drastically higher
+cuda core counts is going to make the 30 80 and also the
+30 90 in a different league compared to that of the 30 70 and
+subsequently the 2080 ti which if i had to guesstimate on the 30 70 now
+you can maybe expect around 120 fps versus 125 on the 2080 ti so
+although nvidia is saying that you're going to get pretty much the same
+performance as the 2080 ti i believe it'll be a
+little bit lower on release and then of course with driver
+optimizations over time you will see the 3070 beat out the 2080 ti
+and so with those guesstimated numbers out there we can look at the value
+proposition of the cars themselves where the rtx
+3070 is going to come in with a 500 price point
+releasing in october and i'm going to guess that that is early october
+because they're going to want to get these cards out to market as soon as
+possible whereas opposed to the 3080 that's
+coming out on september 17th and then the rtx 3090 is about a week
+later so the 38 is actually going to hit the market first and i believe it's
+going to be one of the best value cards in this lineup coming in with
+performance of a value proposition at least versus the 2080 ti
+of what my numbers would guess here is 186 percent
+roughly 44 more fps and roughly 42 percent better valuable
+costing 70 of the original thousand dollar 2080 ti
+it's going to deliver much better fps it's also going to be much more power
+efficient and also deliver a better price point
+then look at the rtx 3070 that will be roughly just under 200 of
+the value of an rtx 2080 ti so that will edge out
+the 3080 but in the realm of getting the max fps
+possible that's why i'm leaning towards the rtx
+3080 actually being one of the best buyers for enthusiast tech heads out
+there with this current lineup though lastly the big fish in the room the rtx
+3090 coming in with roughly 20 more
+performance than the rtx 3080 they're costing over double the price is
+not going to be a value proposition it's also going to be designed for
+someone who wants to do say more 8k gaming with the 24 gigabyte vram buffer
+so it's going to have significantly more vram than the 3080 coming in with 10
+gigabytes of that stuff versus the 24 gigabytes and another
+thing about the 3092 is it's got the ability at least from nvidia's website
+to be able to be put into nvlink so if you want to do some serious 8k
+gaming with max ultra details and of course you've got an endless supply of
+money within that wallet of yours then nvidia
+is certainly going to be giving you that option so when we put it into a
+nutshell rtx 3090 is not really going to be a value play
+but it's going to be for someone who wants the best experience possible on pc
+and of course they have a lot of money then we've got the value
+plays they're going to be the rtx 3080 and 3070 and also the upcoming 3060 i'm
+guessing is going to be bringing really good
+value to the table too so those numbers aside that's only half
+this video where we're looking at the raw price performance figures and i'm
+just having a bit of fun guesstimating the value and the numbers
+that are going to come out of these cards
+what nvidia showed in their presentation was a lot of
+different things in terms of not just they're moving to eight nanometers so
+you're going to get better performance per watt or better
+efficiency out of these cards but they're also showing things like
+improved ray tracing performance more tensor cores
+and also the shaders which they're saying are going to be more efficient
+too but on top of that they were working on
+dlss 2.0 which is essentially their super
+sampling tech which is going to be giving
+a better image but also giving more fps because it's doing it while super
+sampling up from an inferior image previously
+to fill in and basically let the gpu do the prediction
+on the image quality so at least that's my interpretation of it the next thing
+they announced on top of the gpu launch was
+one that was really cool for me personally and this was the reflex
+technology and that is that they hope to reduce the
+input lag by essentially working with the game developers to offer a new mode
+that's going to offer overall better input latency so what we can see with
+this graph that they showed here was that they had the average system
+input latency and at the end of the graph we could see that that line had
+moved drastically to the left but at the start
+of the graph the line had only moved a little bit to the right so
+basically what they're saying is they're going to be looking uh
+working with the game developers is my guess again
+in that they're going to be making sure that the slowest frames
+or the stuttering or micro stuttering is eliminated from the game
+by drawing the gpu frames as fast as possible another good thing is you don't
+have to own an rtx 3000 card to get this technology they're going to
+be introducing it released from the graphs
+with gpus like the gtx 10 series and rtx 2000 series as well
+though another thing they did announce was with a new series of monitors
+they've got these 360 hertz monitors coming out but they're going to be
+adding an input latency or system latency
+module into the monitors themselves so you monitor things like your pc latency
+your mouse latency or your total system input latency
+including the monitors by using this module so
+that's going to bring for some really cool comparisons
+where i've been doing these in the past with 1000 fps camera
+i'm going to be definitely testing that against the 1000 fps camera
+and just seeing how cool this module really is where a lot of mouse reviewers
+out there especially my friend rocket jump ninja
+could really use a technology like this when they're
+doing their mice reviews just to get you guys
+exact mouse input latency figures but speaking of reducing
+input output they did talk about rtx io which essentially looks to get really
+fast gen 4 ssds and load up things like textures
+and map pop-ins just directly from the ssd
+to the gpu where as opposed to beforehand it would
+have to go all the way through the cpu pipeline
+and then out to the gpu so nvidia claims this will bring more fps
+as well as reduced input latency on top of
+reducing input latencies by working with the game developers
+and their apis so performance figures latency figures we're done talking about
+that but they also announced rtx broadcast
+in their software suite which is essentially going to help streamers
+without green screens so even like i'm using this backdrop here i
+won't need a green screen and i could put myself in the middle of new york
+bringing a live stream minus the ambient noise well actually even if you had the
+ambient noise i think they got the rtx voice thing
+that could cancel out the ambient noise so you could just say hey i'm actually
+in new york and maybe people would believe you or
+they wouldn't believe you but this is essentially using your gpu
+just like rtx voice did to process the background and eliminate
+it and just keep the subject in focus how well that's actually going to work
+just in say a setup like mine i will test for you guys when we get the
+gpus as well as testing everything like this input latency
+numbers the performance when i get these cards in and i start
+testing them when the review embargoes drop
+i'll just give you guys the numbers straight and of course if you've got
+special requests on the testing that you want to see then do drop a
+comment in the comment section below and also let us know in the comment section
+below is this the gpu launch you've been
+waiting for which are the cards are you looking at getting or are you going to
+wait for say the rtx 3060 and possibly an rtx
+3050 to come out before you get your next
+lineup of gpu in that rig of yours though before we
+get on out here there's one more thing to talk about and that is the coolers
+and the power connectors that they've announced now they've listed on their
+website the 3090 is going to have 350 watt power requirement and with that
+power supply recommendations of 750 watts just to be on the safe side
+and that continues for the 3080 with its power requirement of 320 watts
+then down to the 3070 which is 220 watts and
+recommended power supply is 650 watt though the 12 pin power connector this
+was seen in the video footage so that will be a thing though i'm
+guessing nvidia is just going to throw in an adapter
+so if you've got a currently good high powered power supply you're going to
+have to worry about this and i believe this is going to be the way
+for quite some time to come though we are seeing custom aib models being
+shown out there in the wild and a lot of them are just still going with the eight
+pin connectors and in the case of a zeus i can see a
+three eight pin requirement there so the 3090 is going to need a bit of power
+but at the same time it's going to be a very powerful gpu
+so naturally with that extra power consumption you're going to have to need
+four extra power connectors or in the case of nvidia
+introducing a new 12 pin power connector though the cooling design itself on the
+reference model is something to i guess look at and wait and see and see how it
+performs because the science and at least from what they
+show with the illustrations does make a lot of sense where
+you're going to have one part of the gpu venting out like a traditional reference
+card but then you're going to have the fresh
+air in a good airflow case by the way and i'm guessing in video saying well
+since you're buying these higher end cards you're most likely going to have a
+higher end case with good airflow so this is designed for a higher airflow
+case scenario where the back of the gpu is then going
+to flow air out over the cpu so would this make
+hotter cpu temps or is this designed with aio
+water coolers in mind i'll give you guys the numbers when that drops here at the
+channel in the meantime a lot of the aib
+partners are just going with the traditional
+just fans blowing air onto the gpu seems to work and it has worked for quite some
+time it's still going to work absolutely fine
+and of course back to that age-old saying if it ain't broke
+don't fix it so speaking of not fixing things this question of the day we don't
+really need to fix it it's from angelo king
+and they asked do you know the name of your wallpaper it looks nice in the
+background and the wallpaper that i'm currently
+rocking right now is a photo that we took
+locally here actually rocket jump ninja's eye he took that photo
+and it's just of the beautiful ray trace sunset on the gold coast here so
+if you guys want uh this photo i can just maybe google drive it for you
+and you can rock it as your background if you wish to as well and with that
+aside if you guys enjoyed today's video then you know what to do hit that like
+button for us and if you stayed this far and you want to see the content as soon
+as it drops here at tech yeah city then be sure to hit that sub button ring
+that bell and i'll catch you in another tech video very soon
+peace out for now bye [Music]
+yes 

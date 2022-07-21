@@ -1,0 +1,239 @@
+[Music] [Music] here on the table we've got seven Lenovo
+om motherboards that I've pulled from om systems now I got these four super cheap
+at 15 oz II dollars of pop because they were untested but most recently on the
+channel here I have come into a problem in relation to these older OEM systems
+and a thing known as bit rot where I reflashed the BIOS and everything was
+working fine again so what I'm gonna do here to down the channel is I'm gonna go
+through each of these boards individually see if they have problems
+before we sort of clean them up and reflash the boss and sort of grab a mini
+sample size of statistics from these boards right here but another thing I'm
+going to do too is since in the x58 video we had actually a semi faulty
+board that we brought back by cleaning the CPU motherboard pins and this was
+like a last resort for me I had nothing to lose only one channel of DIMM worked
+originally but after we cleaned the pins we got all those channels and DIMM slots
+back to working so that was really surprising but I'll show you guys what
+we do for that later but we've also got here lastly at age 61
+mkay motherboard that i'm going to attempt to bend back a lot of pins on
+and see if we can get this working - have you just won the lotto that if so
+does e 490 as Ron aqua is for you with its built in 10g Nick onboard Wi-Fi six
+ESS save a DAC and an audio solution he's a four ready OLED display and USB
+three-point two out at the front and Thunderbolt at the rear and most
+importantly an integrated water block to get that 10 nine hundred K to the max
+and I can go find out more the links in
+description below so we've got some good news here with our lenovo motherboard
+the first one this is the M 91 and unfortunately with this h61 motherboard
+it doesn't have an option in the BIOS to disable secure boot and we recently
+looked at this in a video where we put it build together where it wouldn't work
+with the GTX 645 before the update and after the update and this is the same
+story with this motherboard but what's weird about it is after we've updated
+the BIOS we can use a gtx 1060 so what that means is that ZOTAC are using a
+sort of a trick on their v bios to work with some of these older boards in that
+these motherboards were only programmed to support a heap of different graphics
+cards and if you are off that list for instance the GTX 645 then it just simply
+wouldn't boot up and now in the boss itself there is no option to disable
+secure boot so you're basically forced to put in a graphics card that will work
+or it doesn't work and unfortunately that's what you're limited to but the
+good news is and these are these ZOTAC cards right here I'm surprised that this
+1060 which was released years after this 2014 BIOS update is able to work so at
+least ZOTAC have done some good things on that in that their cards will work
+with this m91 lenovo now one thing about this
+ThinkCentre h61 is that it does differ from other things centers and that some
+of them do have the option to enable CSM disable secure boot but also this one
+has a 24 pin as opposed to some of them having that a standard lenovo 14 pin
+connector which you then have to get it converted at 24 pin so this one does
+have some good and bad news but at least with the bad news we were able to
+overcome that thanks the zotac having some good UEFI firmware onboard that's
+able to work with this particular motherboard though that's one for one
+now with our OEM boards we don't have to clean any pins because everything's
+working fine let's move on now to the next one so the next ThinkCentre m-19 story it's
+working absolutely fine the dual channel two sticks of memories working fine with
+the i5 2400 gtx 1060 is now booting up after a BIOS update so that is now two
+for two and in terms of cleaning CPU pins hopefully we come into a problem
+because then I'll show you guys that method because basically if you don't
+need to fix something I don't recommend fixing something so there's one really
+important saying in Australia and that is if it's not fine don't fix it
+so we're now three for three with our Lenovo boards here and this is some
+really good news already but you may notice there's this arrow of 0 135 fan
+failure and basically on these m91 s and also the LDH 61 Lenovo's there's usually
+two fan headers on the motherboard itself and so if you don't have both the
+fan headers plugged up it will give you our error messages so all you have to do
+is basically have two fans plugged in off the motherboard and you will no
+longer get this error and there's no really way to get past it because again
+the bias is so limited on this motherboard
+[Music] so next up here we've got an H 81 Lenovo
+this is from the ThinkCentre m73 now this is actually one of my personal
+favourites and there's a few reasons why the first thing that it does have those
+options in the bio so you can disable secure boot enable CSM so basically any
+graphics card is going to work with this motherboard but also the m73 is
+generally support the Haswell refresh CPUs so if you come into an i7 4790 and
+not just a forty seven seventy then unlike some other OEMs i've had problems
+with aces especially HP's where they just won't work and then the BIOS update
+isn't there to even get Haswell refresh working this works with has real refresh
+and but the only drawbacks is that you need this adapter right here at 14 pin
+to 24 pin if you want to use a different power supply and then use something like
+a gtx 1060 another hurdle to overcome is in the case of this board right here
+there was a password upon booting up the system and the only way to get around
+this and at least there is a workaround is to turn everything off put the clear
+CMOS jumper in the clear position and then turn the system back on and leave
+it on for more than 10 seconds and you will hear a beep coming off this
+motherboard once it's beeping two times then you can turn it all off and the
+password will disappear because then the boss has been completely reset also
+another good thing about these boards is that they're just newer in general the
+BIOS build dates almost 2015 so it's really going to be a lot less
+susceptible succumbing to that bit rot problem as we spoke about before but
+also we've got USB 3 on the back official VR support with those fourth
+generation and onwards though on this particular model the only downside is
+there's no USB 3 front out though you can get around that by getting a USB 3 2
+USB 2 converter [Music]
+[Applause] [Music]
+so there's some really good news and that is we've got seven out of seven
+untested motherboards all working absolutely fine though there are some
+things I'll run through with you guys about OAM boards in particular this m91
+p and that is even after updating the BIOS you have eight gigabytes of RAM
+that works in dual channel absolutely fine so these two sticks right here this
+is a king mac stick and a crucial stick and they work perfectly finds
+registering is eight gigabytes of RAM and there's no problems whatsoever but
+then these two sticks here they I know these work in say a loose motherboard or
+something like that but they won't work in this motherboard they just don't work
+at all they'll give out a beeping error I'll let you guys take a quick listen and so we can see already the actual
+type of RAM used can be the issue and now the last one is the most interesting
+because these two g.skill sticks work on their own in different slots so the
+memory itself is working absolutely fine there's no problems there but when we
+put both of them into dual channel at the same time it still only registers as
+four gigabytes of RAM so what we're gonna try and do here is maybe replicate
+the scenario that we had in the x58 build and that is we're just gonna for
+the sake of it start cleaning the pins and show you guys how you can do it now
+keep in mind this is a last resort I do not recommend
+usually going anywhere near pins unless you have to whether it be bending them
+back which we're gonna be doing pretty soon with that other motherboard or if
+it's just in the case of a last resort where you've done everything else you've
+tried different memory and you've got some generic are we am stuff that the
+green PCB matches the green PCB and you've tried everything else and just
+nothing's working so again you've got nothing to lose so what we're gonna do
+for this is we're gonna get a little stiffer brush that I got with my I think
+I got it with my data back or my vacuum cleaner and so you've got to be very
+careful on which brush you would use don't use one that's gonna catch on to
+the pins and then start making a mess and bending them because as soon as
+these pins are bent there's a big risk that you may not have
+your motherboard ever working again so be very careful with pens and I'm just
+putting that out there I only do this if it's a last resort so
+what we're gonna do is we're gonna now get some multi-purpose spray and we're
+gonna spray that on the pins and then start cleaning them very lightly very
+softly so we're making sure we're not bending any pins and we're just going to
+make sure we give that a little clean and we'll come back and hey maybe it
+might fix the problem maybe these since these are only single rank and there's a
+dual rank dims maybe that might fix our problem [Music] [Music]
+[Applause] [Music]
+[Applause] [Music]
+[Applause] [Music]
+[Applause] [Music]
+[Applause] [Music]
+[Applause] [Music]
+[Applause] so these pins are now completely cleaned
+up and you'll notice we just took things very slowly and we were stroking against
+the grain of the pen itself so from a big top to bottom from the bottom left
+hand L here and then the top right L would be going upwards and that way we
+can fix two things in one and that is if the pin heads themselves have developed
+a bit of corrosion over time or there's dust buildup then that will get off that
+dust and make the pin contact clean again but also another thing I was told
+years ago by the BIOS team I'm not gonna say which company but they said pins can
+suffer over time from what's called micro bends so doing what we just did
+here can alleviate both issues and it was something that worked in again
+yesterday's x58 video I was kind of surprised that it works so well but
+we'll give this a go now with the g.skill memory and see if that's any
+better but but also another thing you can do is clean your CPU which we did
+before and I noticed actually a layer of dirt came off all the pin contacts so
+that was good to see and in terms of the multi-purpose spray I get asked a lot
+all the time about this stuff and it's something that's sold in Australia and
+I'm grateful that it's sold in Australia cause it's like the best stuff I've
+worked with in terms of PC parts and something that's just a generic
+all-purpose spray overseas the wd-40 is a lot thicker the CRC 556 I believe it
+is is a good alternative but that's again sold in limited countries so I
+guess we're lucky to have this multi-purpose spray in Australia
+[Music] [Applause]
+[Music] [Applause]
+[Music] and here's the last thing that I'm glad
+we did this because it's witness to the power of what we just did so there's the
+two sticks of g.skill memory now working absolutely fine and showing up as a
+gigabytes of RAM so this just proves that cleaning pens can help in this
+situation where otherwise we're only getting four gigabytes of RAM showing up
+before but now we've got eight gigabytes so I'm actually really glad that in this
+video I had just like the x58 video a real-world example to show you of this
+working in practice [Music]
+[Applause] [Music] and now with the finale on this
+motherboard essentially I Bend all the pins back but the problem was it was all
+in wasted effort because the board would boot up it just wouldn't give out a
+signal at all I tried different RAM different CPUs but it looked like for
+what it's worth it was functioning okay so I'm guessing the board itself was
+faulty and whoever gave it to us essentially pulled the CPU out and then
+bent pins in the process so sometimes unfortunately all you can do is give it
+your best but that being said we can still utilize the battery which looked
+like it was fine and utilized these little clips here on the CMOS and we've
+also got a win bond BIOS that we can take out and in the future if we come
+into a faulty bias we can change it over with this one so not all is wasted and
+we have just finished up with that tech yes loving and seven of these eight
+motherboards are now working fine I mean that last board the azouz h61
+I don't think that was going to work regardless so I did my best to get those
+pins bent back but one thing I know from past experience is if there's too many
+bent pins it's usually not even worth the time and effort in this case I feel
+like that board was inherently faulty before the pins were even bent on it so
+that fact that I had to remove CPU the way it did was I'm pretty sure the board
+was faulty beforehand but the seven of seven Lenovo boards working that were
+untested was a big win for me personally I feel like usually I do come in to one
+or two faulty boards but on that note we have done this new method now of
+cleaning the pins and I I'm just really excited about this
+because it's something that I feel like if I applied this to a few of the boards
+in the past that I've tested here I could have got those working again so
+it's good to see that things like bit right if you reflash an old BIOS and now
+if you clean pins and maybe get some corrosion off or dust off that can help
+bring a board that at a hardware level isn't effective working 100% again and
+so that's one thing I love doing around tech I see is getting the most out of
+that older gear and I know there's going to be people out there that are like why
+do you share this stuff and basically fuel your competitors and it's not
+really about that at the end of the day I feel like at least the scene I'm
+making here on the Gold Coast is a really good one like there's all the
+other guys that I know that sell gaming PC's we're all pretty much friends and
+we all get along really well and I've found that they use price-performance
+community is one of the best to being in tech because there's never really any
+fanboy arguments that you get with new parts and basically I find myself when
+I'm doing the new stuff and testing all that out there's all these comments that
+I just get sick of reading and it sort of pulls me back to the used
+price-performance stuff where there's just none of those arguments everyone's
+in it for the same reason they want to get the best value for their money and
+so it's just a different sort of contrast between those two but with all
+that out of the way I hope you guys enjoyed today's video if you did then be
+sure to hit that like button I guess that's the most important thing you guys
+are enjoying the content what do you guys been requesting I do more used
+price-performance content so this was one of those things I just thought well
+I'll take you guys through me sort of pulling OEM systems apart going through
+all the trial and error stuff sort of like a preload to the upcoming can yes
+fix it we've got a big episode coming a lot of people have sent stuff in so stay
+tuned for that one but with that aside if you guys have tips and tricks of your
+own then be sure to share them in the comments if you don't mind I mean I know
+some people out there don't like to share their secret sauce as they don't
+want to feel the competition but over the years I'd really I just I mean I
+started my whole channel off sharing tips and tricks right back when we
+started going hard in use price-performance I was just like
+well I'll just show the world all this and you guys loved it and so that's the
+most important thing you guys are loving the content and we're making an awesome
+community around it hopefully we're sharing some answers to
+questions that people have had especially if they're on a strict budget
+and I'll never forget the person who is on a real strict budget and they just
+want to get the most for their money because where they are in the world they
+might not be as fortunate as you just remember that and don't forget about
+that and without aside we've got the question
+of the day here so we'll read that out which comes from Alexa Petrovic and they
+asked hey I have a question will you ever do a Windows 10 2004 optimization
+if so when will it come out I usually do the windows 10 optimizations every two
+updates because I find that's when the major upgrades happen I think 2004
+though is the second update where I haven't done the optimization guy for
+the one in between so hopefully we'll check that all out I this month is super
+busy so I want to get the can yes fix it done I got to get a heap of like B 550
+and Z 490 motherboard comparison review is done that's gonna be crazy like I
+don't know it must it must just be like motherboard season at the moment because
+I've never been sent this many motherboards in the entirety of tech yes
+sitting there with that aside I'll catch you guys in the next tech video very
+soon if you stayed this far and you're enjoying that content and you're not yet
+subbed and you want to see the content the moment it drops then the sub button
+hit that ring that bell and I'll catch it in the next one peace out for now
+babe [Music] 

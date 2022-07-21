@@ -1,0 +1,140 @@
+i was walking through kmart the other
+day and bang a keyboard full mechanical gaming
+keyboard came out to me with a price tag of 25 aussie dollars
+and when i went to the register they said this is actually 39 aussie dollars
+and then i said no you guys had this advertised with the price tag at 25.
+so they actually misplaced it on the shelves and i ended up getting
+this keyboard for 25 bucks so i got three of them and then i used my mates
+staff discount and we got it for 71 aussie dollars but
+apparently this keyboard usually costs 39 which is about 28 usd
+and upon clicking the buttons they do indeed have a mechanical style
+switch and it's known as a mechanical blue with tactile feedback in that
+you'll actually feel the feedback and you will hear it upon clicking the keys
+and this is a box style switch with led lighting that's set to one color but
+since they've changed the colors along the rows
+it does give off that rgb effect however in today's video we're gonna be testing
+this budget mechanical keyboard and comparing it against a corsair
+gaming keyboard with silver switches and a thousand hertz polling to see not
+only the input latency that could be incurred
+from the actuation distance on the keys but also the differences between the
+keyboard and the hardware that they use and see if that introduces input lag too
+especially the polling rates because i do suspect this keyboard right
+here is going to carry the default 125 hz and of course we'll be
+checking out the build quality on this keyboard and seeing if it holds
+up just with standard typing tests and what the consistencies of the keys
+are like let's roll that intro and get it on have you built a pc
+recently only to be met with a windows needs
+activation message in the bottom right hand corner
+even whilst you're playing games well if you want to get rid of this message and
+you don't want to spend 200 plus on a key then today's video sponsor
+scd keys has you covered for as little as 15
+bucks after using the coupon code tyc you can
+get yourself a single end user license quickly and
+easily then you get the key paste that key in there click next and
+you're good to go links in description below to get your
+key today so quickly analyzing the input latency for you guys we can see here
+that the keyboard the anco mechanical budget
+banger from kmart does have a little bit of input delay
+but i feel like most of this is due to the actual switch and the height that
+it actuates at as well as the cheaper hardware
+inside the keyboard itself so this keyboard is
+naturally going to pull at 125 hertz if we've got the k70 to compare it to
+here this polls at different ratios you can set it on the
+back of the keyboard from a thousand hertz
+to 125 but basically the difference between 125 hertz and a thousand hertz
+was that they can be similar or there's a little bit more
+variance on 125 hertz especially comparing this to the logitech
+g102 which i know has virtually zero input delay
+we can see that at 125 hertz we were getting slightly higher times
+on some of the numbers but then coming really close a lot of the other times
+and this is because when you're within that realm of 125
+hertz you're basically polling 125 times a
+second so that does leave you to the worst time
+that you can pull that at eight milliseconds versus a thousand
+times which is the worst time you can pull it at one millisecond so
+it is going to be beneficial for you to have your keyboard at a higher refresh
+rate or higher polling rate at least from the testing i've done here
+today anyway i'll throw up some quick input latency figures for you on this
+cheap budget banger let's get now on to a typing test and
+we'll talk about whether you should think about buying
+this keyboard or not when you get a keyboard like this you
+are going right into the deep end like that is where you're going with this
+thing right so let's go typing tests that's right boom yeah
+132 baby that's where i smoked the competition
+smoked him first place all right so six keys will make this
+keyboard spasm out so there's five key rollover really that is actually the worst i've seen
+on a keyboard to date so with those tests out of the way
+i'm going to look at the build quality now and then give you guys a
+recommendation on this keyboard and so with the build
+quality you've got an all plastic construction on this keyboard it does
+feel a little bit cheap but it is far from the cheapest feeling keyboard i've
+tried and trust me i've tried some real bangers that i would recommend
+staying far away from this build quality for me personally it
+it does just cut it like i'm gonna say it cuts it it does
+make the cut but i would recommend getting your own
+wrist rest and even on high-end keyboards i'd recommend going out and
+buying your own wrist rest because a latex
+wrist rest it does make a big world of a difference in my
+opinion however one thing i found with the typing test was this thing was
+pretty good the keys were consistent and the mechanical blues had good
+feedback so whatever switches they've used
+uh the unknown brands they did do a fairly good job and the keycaps
+themselves are double shot plastic and they
+actually feel quite decent so the area where they really needed to
+get it right on a keyboard they actually did get it right and that's the switches
+and the keycaps however there are some things that they
+have missed and that of course is that five key roll over where on the
+box i'm pretty sure it said something about like 26 key
+which is like completely false as we saw in those tests
+another thing as well as the rgb is really
+like basic it's extremely basic to the point where you just press this one
+key and you've just got these different effects that cycle through and i will
+say that the lights are actually extremely weak it's some of
+the weakest lighting or backlighting i've seen on a keyboard
+yet so i wouldn't be buying this for the rgb
+effect i'd be simply if i wanted to buy it i'd be buying it
+for the mechanical blues and also the decent typing experience you can get on
+it so for a quick recommendation with this keyboard i'm not blown away by it
+but at the same time i'm not gonna bash it especially at its price point
+it did the job i think it'd be great for someone who say
+wants to get someone a present for their birthday and maybe they forgot until the
+last minute they just need to pop down at kmart it'd
+be a good little starter keyboard in the world of mechanical keyboards and
+then if they really like the blue switch they can maybe
+get something with better polling rates and higher actuation points but
+that being said it doesn't take away from the fact that this little keyboard
+does the job however one thing i will critique about the
+unco brand in kmart is that its packaging is
+really bad i'd like to see them at least put some foam
+around the keyboard so it doesn't get damaged i mean if you get one of these
+keyboards and it's not working out of the box or
+one of the keys stuffed it's probably because the packaging was
+packed so poorly and that it's just got a piece of
+cardboard covering the outside world and the keyboard i mean they're really
+placing a lot of faith in the plastic though lastly there is no
+included software the cable is quite sturdy and decent
+and the bottom of the keyboard has one level of adjustment for height
+and then at the front it has two little sticky feet to make it stick to the desk
+which does stick quite well it's not going to
+stick the best i've seen of keyboards but it will hold its position if you're
+just typing and using it like a normal keyboard
+and with all that aside if you guys enjoyed today's video then be sure to
+hit that like button for us and also let us know in the comments
+section below what is your favorite budget mechanical keyboard
+or in general just your favorite mechanical keyboard
+love reading your thoughts and opinions as always just like this question of the
+day here which comes from lindelus lowry and they
+ask how long until zen 3 should i buy a 3600 now
+while i wait and what i've heard is is that zen 3 is coming out at the end
+of this year though i haven't heard anything concrete
+at this point in time so i mean honestly it could be two
+months it could be three months it could even be longer if they don't release it
+at the end of this year so i mean a 3600 is a good buy man you
+might not even need to upgrade to zen 3 if all you're doing is gaming on a
+mid-range gpu so i'd say getting a 3600 now you're not
+going to be disappointed hope that answers that question and if
+you guys have stayed this far and you're enjoying
+that tech yes content and you want to see it the moment it drops
+then be sure to hit that sub button ring that bell and i'll catch you in another
+tech video very soon peace out for now bye [Music]
+yes 

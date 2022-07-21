@@ -1,0 +1,95 @@
+If you have been looking for a gaming pc recently 
+you may have noticed that the prices to buy a   gaming pc are just ridiculously high right now, 
+especially if you want to build say an rtx 3000 pc   then you may even have to sell a body part in 
+order to obtain one of those gaming pcs but don't   worry in today's video we're not going to be doing 
+any of that we're going to be building a pc for   under 200. that's not only easy to put together 
+but also the parts are readily available on the   used market and even the new market in the case 
+of the gt 1030. now this gpu here is not going to   give you ultra gaming performance but what it is 
+going to do is still give you a decent experience   at 720p or 1080p and another good thing about this 
+card is that cryptocurrency miners are simply not   targeting this graphics card at all because it 
+won't make them the profits and it's not worth   the time for them to invest in something like this 
+which means that it's relatively well priced for   what it is on the market so let's take a look at 
+what other parts we're going to put inside this pc   and then of course we'll quickly put it together 
+and see how well it performs hey bro are you tired   of seeing this annoying activate windows message 
+then if so today's video sponsor scd keys has you   covered for as little as fourteen dollars using 
+the coupon code bftyc you can get activated today   works for windows 11 pro 2. links in description 
+below so before we get on to building this pc   there's three other components besides the gt 1030 
+that we're going to need the first is this right   here and i'd call this the star of the show this 
+is a small form factor hp 8300 third generation   system it has an i5 3470 eight gigabytes of ram 
+however we got this for 50 and it didn't include   any drives so we will have to add our own drives 
+which we're going to be using a 120 gigabyte ssd   you can get these for around 20 even brand new 
+if you're looking for one used you may be able to   get it cheaper then we've got a 500 gigabyte hard 
+drive i picked this up off the used market for 10   so the price tally that we paid for these parts 
+i'll put them up on the screen as well as put some   links in the description below but building this 
+thing is really easy so first of all we just take   off this side panel and then we have to install 
+the graphics card however you may notice that   out of the box we have a bracket that is longer 
+than what will fit in this pc and that's because   it's a small form factor pc so there's actually a 
+different bracket that we need to quickly install   on our graphics card now i've got the zeus 
+model here for the gt 1030 but if you're   buying these off the used market just make sure 
+they include the small form factor bracket or ak   the low profile bracket and so the one 
+that we got here from the store we got this   from a local store here for about 90 dollars 
+brand new and it did include this bracket from   the get-go we then took the normal bracket 
+off and installed the low profile bracket   and then it slotted into the pc absolutely 
+fine now it's time to install our drives and   i like to use for this since some of these pcs 
+can be a little bit complicated in installing   the drives i personally like to use double 
+sided tape it makes the job hassle free   and just very quick and easy to install then after 
+applying the double-sided tape on both the ssd   and the hard drive i like to in this particular hp 
+case right here i like to put the hard drive where   it originally was and then put it upside down 
+actually and then mount it to the metal bracket   with the double-sided tape and then for the ssd 
+i actually found just under the power supply   was a nice location and then i've reused 
+the solder power and the sata data cable   from the cd-rom drive and we've relocated 
+that to the ssd and so we don't have to add   any additional cables or power cables we don't 
+even need any thermal paste in case of this   build right here since it is an i5 iv bridge it 
+didn't use much power to begin with even back in   the day let's give this thing a quick clean down 
+install windows and then see how it performs in me and you games and me was a dream 
+at first i got lost in your world   in your universe i never thought i messed up made it worse pushed you away   all that fight and it paid till you left 
+one day wish i could take back all those and i things that you miss me too so let's get 
+over our issues and go back to me bless you i it know knows you let's go back i can't believe i'm a mess i'm a 
+wreck when i see your face and i know that you're   feeling exactly the same but stop pretending we 
+should stay apart tried to meet someone new but   they can't compare and i know that i'm feeling a 
+bit unfair but you're the only one that's in my heart i know perfect but i think 
+it's worth it nobody knows you and there it is with the under 200 pc some 
+people may be laughing at something like   this but i was enjoying playing games on this 
+thing and the fps was really good at 1080p   dota 2 i had it on medium settings with maximum 
+screen res the picture looked pretty good and   the fps was actually really good where i was 
+getting near close to a hundred and twenty and   i did benchmark this for the entire game that 
+i played on a turbo match five versus five with   one of my favorite heroes sam king and it was 
+actually quite an intense game and it ended up   being a victory for your boy but then we move over 
+to cs go and this was giving out pretty good fps   again around that 120 range seems to be a sweet 
+spot for this gt 1030 at 1080p and the i5 3470   was also delivering and able to match the frames 
+with this gpu even on the lower settings so   we had a blend of high and low settings and that 
+seemed to max the gpu and cs go then moving over   to fortnite same thing with 1080p but this time 
+we chose to play on what's called competitive   settings where they put all the settings to low 
+100 screen res but then the epic view distance   and we're getting over 60 fps most the times and 
+it was a smooth experience you'd definitely be   able to find out if you've got the skills on 
+something even as cheap as this pc right here   and then the final game we tested out was valorant 
+i'm finding valorant does give very similar fps to   that of cs go we had this on low settings at 1080p 
+and we're getting around 120 fps again but i did   find with valerian it was a bit more of a smoother 
+experience in terms of the 1 and 0.1 lows than cs   go was so if you're undecided on which of the two 
+games to play then i'd say that valoran is perhaps   even more slightly budget friendly in terms of 
+the hardware that you can use to play the game   though with those four games aside we had the 
+power consumption another good factor with   this pc where we didn't even break 100 watts we 
+were getting from the wall around about 75 watts   while we're playing games so very low on power 
+consumption if you need to save money and on your   power bill for instance and this thing's going to 
+do a great job of doing that so the budget costs   on the machine itself does match very closely with 
+the ongoing costs and i was just overall pretty   impressed with this machine especially since as we 
+said in the intro a lot of the other pcs out there   if you want to get the fancy rgb lights and then 
+an rtx 3000 series grabs guard you're just going   to be simply paying for it in this current market 
+though with all that out of the way i hope you   guys enjoyed today's budget gaming pc that we put 
+together here if you did then be sure to hit that   like button also if you have any questions about 
+today's build then be sure to drop a question   in the comment section below and i'll get back 
+to you as soon as i can just like this question   of the day here which comes from taimur and they 
+ask i am wondering what brian does with those hp   elites transplanting into gaming cases so this 
+case right here this pc you can transplant them   into a rgb case if you wish to it does require a 
+bit of extra work and in some cases it might not   fit in bigger cases so usually for the transplants 
+i picked the micro atx cases with the power supply   module or opening area up the top of the case 
+and then you can just change all the hardware   put it in a better case even use the same power 
+supply because some of the hp systems and also   some of these oem systems they use proprietary 
+connectors so if you're going to go out and do   this transplant make sure you do a little bit 
+of research before you do that but in case of   what i'm doing with them i'm mainly using these 
+ones here for budget gaming pcs and also office   pcs and also the other i7 pcs that i picked up in 
+the parts i'm going to put the link up here for   you guys i'm going to be using some of those i7s 
+for an rgb transplant into a gaming pc so i do a   lot of different things with the parts that i get 
+in here hope that answers that question and if you   guys have stayed this far and you're enjoying that 
+tech yes content then you know what to do hit that   sub button ring that bell and i'll catch you on 
+another tech video very soon peace out for now bye you 
