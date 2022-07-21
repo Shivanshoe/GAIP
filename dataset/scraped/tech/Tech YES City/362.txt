@@ -1,0 +1,143 @@
+- Today, we're gonna be reviewing the i5-10600K and also the
+i9-10900K for you guys and comparing it against the
+previous generation flagship, i9-9900KS and also the 3950X from AMD, which is their mainstream flagship CPU. Now some differences here is that we've got 4.4 gigahertz XMP memory. This is coming from AORUS with 1.5 volts and this stuff is aggressively clocked. Now the funny thing about this memory is I couldn't get this to
+run properly on the 9900KS but all the other CPUs in today's comparison are
+running fine with this memory which does mean that the IMCs, at least on this latest
+generation of Intel chips, are running a bit better than
+9900KS and also AMD's 3950X, does have a really good
+IMC onboard itself. Though straight away, getting into the differences
+for you guys with these CPUs. What we're seeing here is the temperatures are much lower this time
+around with the 10th gen chips as opposed to the ninth gen chips. This was with the H115i
+RGB PLATINUM cooler, which is a 280 mils solutions. It's got two 140-mil fans and this was on the Z490 ASRock the lawsuit of phantom gaming with the latest bars installed. Though that motherboard we'll be doing a separate
+review on that later. We've also done all the gaming
+benchmarks in today's video on the RTX 2080 Ti Strix Edition. So this thing is certainly a monster when it comes to those gaming numbers. Now more on the power consumption and especially the temperatures. What Intel have done this time around are two improvements in my opinion, at least from what I can see here, and that is the new 10th gen
+chips are slightly convexed. So that allows that
+IHS to connect straight with the die which is gonna better
+connect with your cooler. And the second thing is
+with the die size itself and how much cubic area is
+between the dies themselves and the IHS. So reducing this will
+mean that those cores can have more direct contact with that IHS helping spread
+the heat faster and easier. Though in terms of power consumption the 10900K did use a little bit more power than the 9900KS, but since
+it does have two more cores four more threads coming in
+with 10 cores 20 threads total, it is a better scaling chip in my opinion. Though keep in mind the 9900KS is running five gigahertz
+all cores and the 10900K is running 4.9 gigahertz all cores. So that extra 100 megahertz drop in the old core performance, will hit the power consumption
+a little bit in favor of the 10900K. So in terms of these chips being binned I'd say that they're of a
+similar bin, out of the stack. While we saw the 10600K, coming in with roughly over 100 watts six cores 12 threads, at 4.5
+gigahertz all core clock, this isn't that impressive
+in terms of the i5. Though what we're seeing with the single core performance itself, yes I did see in the
+benchmarks up to 5.3 gigahertz on the single core but it liked to hover around five to 5.1 and then on the 10600K that liked to go around 4.6 to 4.7 and the Cinebench results do reflect this. And we can see straight away here that we will get improved performance on these Cinebench R20
+numbers, but at the 3950X at least in mainstream desktop chips with its 16 cores 32 threads is coming out a long stretch ahead and so that will be indicative of if you need more cores more threads then the AMD solution is gonna
+win out in this category. Though in terms of the
+single core performance they're all in a similar ballpark and this ties in with the next benchmark we've got up here Geek Bench 5.1. Where we can see that the
+single core Intel speeds are quite aggressive
+here scoring a victory with the 10900K and also the 9900KS. But of course when it comes
+to multi-core performance, the 3950X is then topping
+the charts quite well. Though if you're serious
+about video editing and you want to get into
+Adobe Premiere Pro 2020 then what we've got here is
+the 3950X coming out on top. 10900K does pretty close
+to that beating the 9900KS and then throwing up the
+Warp Stabilizer results for you guys. This tends to use four threads
+and we saw a victory here for the 3950X, edging out both
+the 9900KS and the 10900K. Moving on to 7-Zip what we're seeing with Mac's multi-threaded benchmarks here, 3950X still coming out on top, then the 10900K beating
+that of the 9900KS. And then moving over to WPrime 2.1, I did see quite a sizable improvement here on the 3950X especially using
+the 4.4 gigahertz memory versus that of the last time. I tested it with a lower speed memory. So it was good to see
+that that was coming out with faster speeds,
+especially in that 32M score. But the 9900KS did win this benchmark, that being the more cores
+and more threads you add as we saw with the Threadripper chips and also the higher mesh core counts CPUs, it does start to add latency which is 32M, and benchmark is really sensitive to that. Then moving over to the 1024 figures, show that the 3950X was coming out on top and the 10900K was comfortably
+beating that of the 9900KS. Then moving on to were on a V-Ray if you do want a ring bus CPU, you want something that's
+better than 9900KS, the 10900K will provide
+that extra performance. Ryzen 950X is still beating
+these other CPUs here by a long shot. And then the last
+benchmark for productivity I'm not gonna pronounce the name 'cause I don't want to get demonetized. Again, what we saw here
+was pretty much correlated to all those multi-threaded benchmarks that utilized all those
+cores, all those threads. Of course what about the big thing that Intel's pitching
+here and they've got it they even written on the box right here, gaming happens with Intel. And what we're seeing here is we paired it up with a 2080 Ti and I decided to test both
+1440p and 1080p numbers. I think with a 2080 Ti most people are gonna be going with
+high refresh 1440p gaming or even 4K, I don't know one person who's gone with the
+2080Ti and plays at 1080p, so I tried to reduce those
+numbers in today's video as much as possible. But pulling up GTA 5 here,
+did show that our 9900KS and 10900K we're pretty much
+the same CPU for gaming. Which I've said in the
+past eight cores 16 threads is like the most you will want to get in terms of core counts thread count, if you're just a pure gamer. Though the 10600K did do very well here, 3950X of course with its
+productivity advantage does do very well in relationship
+to the gaming numbers. Moving on to Shadow of the Tomb Raider. Here we saw a pretty much similar trend to the previous results
+where the 10900K and 9900KS, pretty much coming in
+with identical numbers. And moving on Warzone I can saw pretty much the exact same thing. Really neck and neck
+between these two CPUs. 10600K is still doing
+really well of course. If you wanted to overclock
+that as high as possible, you may even get some
+chart-topping figures with that CPU. Though I will save that for a later date. And then next up we've got
+Assassin's Creed Syndicate. Here we saw again just like
+those previous gaming benchmarks the trend of the 10900K and
+9900KS coming out on top and then followed by the 10600K and 3950X. And then the last benchmark
+we're gonna pull up here is Fortnite 1080p. This is the only 1080p gaming
+benchmark I did here today. And we got the 10900K did come out with a pretty clear victory. Though as I've tested with the input lag in Fortnite in the past, you'll probably want to cap
+this game at 240 hertz anyway. And we've got the 1% lows
+even going over those numbers on pretty much three of the CPUs here. So these numbers are
+incredibly high to begin with but for what it's worth the 10900K did score a sizable victory
+here over the other three CPUs, but that's the only one
+I could really find. And now after all those benchmarks I'm gonna give you guys a conclusion and what I think of the
+10900K and also the 10600K. And, I mean they've
+improved the temperatures, they've done some good things there, but straight away we
+haven't seen any IPC gains, we haven't really seen any
+clock speed improvements over the 9900KS which was already the same thing as the 8700K
+in terms of its architecture. So we haven't seen IPC gains from Intel, and I think a lot of people
+really want to see that. And it frustrates me to be talking about the same CPU architecture for I think it's going on over
+five years now from Intel. So, really you guys have to do something and improve your product. Otherwise you're just gonna
+keep simply watching AMD not only make gains in their market share but also gains in their IPC and gains in how small they can
+shrink the nodes down. So I think with Intel
+I do want to see more, even though I am happy to see that they have improved the temperatures and they also have improved
+the core count and threads for similar money, with the 10900K, coming in at roughly 520 US. If you're in Australia you
+can get it for 999 AUD, though you will seriously want
+to consider the KF version which is coming in at 899 Aussie dollars. So at that price point if you
+want a flagship Intel CPU, at least both in mainstream and even comparing it to
+the higher core counts which don't clock as high, then
+the CPU is going to give you some solid performance
+both in productivity. And as we saw there it's gonna
+be pretty much a gaming king alongside the 9900KS. Though if you've already got an 8700K or you've got a 9900K or a 9900KS, then you certainly don't
+need to upgrade to this CPU if you are just gaming. Those extra cores and threads don't really make a difference as we could see in these
+own graphs with the 10600K. All you'd want to do is
+overclock this CPU right here, a little bit higher
+and you're going to get more performance out of it even then. And this is where the
+2080 Ti, you cannot get a better GPU out there
+for single high-end gaming on a high refresh rate monitor. So in a nutshell with the
+10900K, it's not that bad but it's certainly not that great either. The move out of the 10600K
+which I actually like a lot more than the 10900K
+coming out of this video. I've been saying for a while now four cores eight threads
+is still fine for gaming, six cores 12 threads is basically for the majority of people all the cores you're going to need. If you want have a bit
+ready for the future, go with eight cores 16 threads. But above that, you're
+really just paying money for your CPU to sit there with a lot of cores and threads idle. And so with the six core
+12 thread right here, it's coming in in the USD terms
+a little bit over 260 USD, and in Australia it's coming
+in roughly at 449 Aussie if you can get the KF version. And honestly it offers some
+really good gaming performance. It's gonna be a CPU that's
+relevant for most people whether you're streaming
+or hardcore gaming. And I do talk about streaming 'cause I've tested this in the past. If you want to get good
+streaming performance just load up your GPU encoder
+in your streaming program and you're gonna be having happy days. Don't try and load up your CPU 'cause you'll just get
+more stuttering introduced especially if that game
+is single thread dependent and those cores tend to bounce
+with the streaming program in between the game and the
+streaming program itself. So coming out of this review it seems like the i5 is
+certainly back for Intel. Though one thing I will add is that I didn't see any included coolers with this review kit right here. So if you have to go
+and buy your own cooler, especially the 10600K. Like for the 10900K I get it, that thing's using near 200 Watts and if you want to overclock it you're gonna need a pretty beefy cooler, you're gonna want to go out and spend our extra money on that. But because the 10600K is coming
+into that value price point I would have liked to have
+seen a nice included cooler say for instance something
+like what AMD is doing with the Wraith Prism. Though with all of that out of the way if you guys enjoyed today's video, then be sure to hit
+that like button for us. Also let us know in the
+comment section below what you think of the new 10th gen chips. I'm personally, I really
+want to get my hands on the i3-10100 and also the i5-10400F. And I think those two CPUs are looking like they're
+really good value for money on paper, but I won't know
+until I check them out. And speaking of checking it out we've got the question of the day here which comes from Drew Andrew and they ask just shows that
+happy customers come back, what did the guy upgrade to by the way? And this got quite a few upvotes. So I guess you guys want to
+know in the previous video I'll put the link up here what the particular person upgraded to. So they traded in, that 1060 rig and they upgraded to a 2070 super rig with a Ryzen 5 3600 and that CPU is a very
+popular CPU at the moment which is why I am curious
+to check out the i5-10400F with its six cores 12 threads to see which the new main stream CPU that's relevant for everyone and who the champion
+of that is going to be. Anyway that aside. If you guys have stayed this far and you're enjoying that content,
+then be sure to hit that, I was gonna ask you to
+hit the like button again but please don't do that
+you're gonna unlike the video. And if you stayed this far and
+you're enjoying that content and you want to see it the moment it drops hit the Sub button, ring the bell and it'll get to your email
+inboxes the moment it drops here at Tech Yes City. And I'll catch you in
+another tech video very soon. Peace out for now, bye. (melodious music) (upbeat music) 

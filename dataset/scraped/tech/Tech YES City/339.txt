@@ -1,0 +1,193 @@
+in 2020 Asus and I usually call it aZeus (because you can now buy the god of thunder on a motherboard) but you guys are telling me look Bryan you've got to get with the times
+it's Asus and they have sent in two motherboards here the top gaming Z490 plus Wi-Fi which is coming in at $200 USD and includes at this price point 14
+phases but we'll get onto that soon as OOOs like to call it 14 power stages but
+it's also coming in with an option to not have the Wi-Fi 6 and Bluetooth 5 on
+it for 20 dollars cheaper 180 then we've got the Maximus 7 formula which is
+pretty much a hybrid between people who want the latest and greatest highest end
+motherboard and also potentially want to put water cooling on not just their CPU
+but also their motherboards vrm where they're using what they call a cross
+chill design where EK have given the option to insert water cooling if you
+want to cool that VR em down and coming at a half a thousand dollars this thing
+definitely better perform for the money and if there's anything wrong with these
+boards I'm gonna let you know in today's review but without a side let's go
+through the vrm details the most important part of any motherboard with
+the tough gaming Wi-Fi where as a 12 plus two-stage design here using vishay
+si c63 9 50 amp solutions on the MOSFETs and then for the chokes we've got 45 amp
+chokes and then we've got 5 K capacitors and the PWM controller is the asp 1 9 0
+0 b and all that leads us to the testing now with this vr m and i use a 10 900k
+and out of the box this thing was boosting up to 4.9 gigahertz all cause
+the temperatures were absolutely fine here coming in with 36 degrees on the
+heatsink and 50 degrees on the vrm itself though keep in mind this was in
+19 degree ambience and I am used to testing in 22 degree a minutes so I will
+Delta adjust these for the graph and then once we started overclocking the
+10900 K it did fall a hundred megahertz shy of what I'm used to getting with
+this ten nine hundred K and that's 5.2 gigas this could only take it up to five
+point one gigahertz no matter how much extra voltage I gave it it just would
+not respond it and will crash out so the V R M is D
+and the temperatures are very good coming in with 48 degrees on the heating
+and 78 degrees on the vrm but we will a delta adjust them again just mainly
+because if you watch a heap of my other z4 90 motherboard reviews then that way
+you'll get an apples to apples comparison but for what it's worth the
+power consumption was absolutely fine testing out a hundred ninety five watts
+on the ten nine hundred k out of the box which is very high but that's normal for
+this ten core at four point nine key gets all core when we did take it a five
+point one gigahertz it did start to ramp up roughly around 250 watts and that is
+pretty high again but if you want to overclock this thing it will start using
+a lot more power though that being said out of the box there is one critiquing
+point with the tough gaming Wi-Fi and that is out of the box with the bios
+automatic settings even if you lock in XMP profiles i found even after a BIOS
+update that I had to change the auto optimizer Zeus setting down to the
+unrestricted limit setting and that then enabled us to get the results that we've
+got in these graphs here because if you leave it on the auto optimize setting it
+did drop the CPU down to 125 watts power usage and with that unfortunately it
+dropped the CPU down to 4.4 gigahertz all core so I'd like to see a sous
+optimize that with another BIOS update and fix that little problem I came in to
+of course it's easy to fix if you've got this board then you just go into the
+BIOS and change it to the third setting and you can lock in your XMP profiles
+and you get really good performance off this motherboard there continuing on
+with the tough gaming Wi-Fi and it's onboard audio they're using the realtek
+1200 DAC here and this has a -3 decibel roll-off on 0 to 10 Hertz and then from
+I found the higher frequencies and onwards there was a very slight bit of
+shake there but the crosstalk was also really good at - 89 decibels the mic
+input did show that this is best suited at a volume level of 50 plus 30 dB so
+the onboard audio is decent I've definitely seen better I've seen worse
+I mean the good points are about it that the crosstalk is really good however the
+frequency response curve could use a little bit of work having that slight
+shake in there not the best option when I have seen
+cheaper boards come in with better onboard audio here at the studio that
+the mic import it will do the job if you are a gamer and you want to get a budget
+set of headphones there testing out everything else on this motherboard the
+USB 3 speeds will find the one gigabit per second Nick was also fine too and
+the m2 shield did a really good job of cooling down the m2 and I was stress
+testing that an nvme drive and going through the tough gaming Wi-Fi bias it's
+got everything there you would want and then some especially if you're
+overclocking on air or water and you've also got your cue fan control where you
+can individually control the five different PWM fan headers on this board
+to the fan speeds you want you've also got two 12-volt RGB head as one at the
+top and one at the bottom and then in the middle of the board you have an
+addressable RGB controller which you can in the bias turn the RGB on and off but
+you will have to install software if you want to calibrate the RGB with different
+components on your system the moving over now to the ROG Maximus 7
+formula this here has an OLED display which you can use to readout CPU
+temperatures and also put your own logo on if you want that but it's also got
+RGB on the bottom which comes in a sort of subtle styling which I will say is a
+really cool design but you would expect this to be a design like this on a 500
+USD board and the surface of this motherboard has highly reflective bits
+coupled in with semi-gloss bits coupled in with matte bits especially on the
+heatsink you do get a power and reset button up at the top as well as a BIOS
+debug code readout as well to 12 volt and also to 5 volt addressable RGB
+headers you've also got 8 PWM fan headers which you can control just like
+the tough gaming in the bass itself now quickly speaking about the BIOS it is
+absolutely fine I didn't come into any problems when I was tuning the 10900 K
+on this board even leaving it on the auto zeus optimized or changing it to
+the no limits we got the same results here and also overclocking the memory
+240 400 megahertz on both the tough gaming and the Maximus formula presented
+no problems however moving over to the VR m 16 power stages and this one
+definitely has a high quality vrm the pedo and controller here is the asp one
+4:05 and then for those MOSFETs we've got the
+Infineon TD a 2 1 4 7 2 7 TM MOSFETs and then for the chokes they're using
+micro-fine 45 amp all alloy chokes and then for the cap so we've got 10k
+Japanese made solid caps derivative the temperatures here we had 49 degrees in
+software 52 degrees on the PCB and 34 degrees on the heatsink clocking that to
+5.2 gigahertz which presented absolutely no problems even on the auto settings
+and this is one good thing that I've seen with the Maximus formula verse all
+the other z4 90 boards I've tested I whacked in 5.2 gigahertz and this board
+did the rest on everything else and it did so very well scoring 58 degrees in
+software on the vrm 62 degrees on the PCB and 58 degrees on the heatsink so
+that heat sink is definitely starting to soak up a lot of that heat and speaking
+of the heatsink itself it weighs 380 grams and on the tough side of things
+it's got 132 grams on the heatsink that's mainly cooling the power stages
+that supply voltage to the CPU but in total you get two different heats things
+on the tough gaming totalling 226 grams so the vrm on the Maximus 7 formula is
+doing an extremely good job though I will critique this is the only critique
+I have for the Maximus 7 formula and that is the power consumption even
+though it's looking really good in hardware info from the wall it is
+starting to juice a bit more power both on the 4.9 and the 5.2 gigahertz and now
+what this gives me an indication of is everything else on the board is juicing
+a bit of power so that OLED screen we've got all that extra RGB lighting that is
+starting to add to your power consumption as opposed to a board with
+none of these features on board but a really good vrm that will give you the
+same effect but it will use less power at both out-of-the-box settings and
+overclock settings there moving through the audio on the Maximus 7 formula azuz
+call this the supreme FX solution and it did do a supreme job on the numbers with
+the roll-off being only 1.7 decibels from 0 to 10 Hertz and then the
+crosstalk was negative 91 decibels which is a really good number right there at
+the top of the chart and for that frequency response curve after that 10
+Hertz that was pretty much flat perfectly flat
+the whole way through and then for the mic import you'd want to keep this at a
+level of 80 volume and plus 30 DB max though keep in mind they're not using
+any noise suppression on this mic input as opposed to the tough gaming solution
+so that means if you've got a good mic that doesn't need a whole lot of power
+from a separate solution you could use this for professional recordings they're
+going through some of the other features here on the board the m2 heat shield
+does a very good job of cooling down your mo to drive though testing out USB
+3 speeds and also the NIC speeds they were absolutely fine as those include a
+10 G NIC and a 2.5 g NIC as well as Wi-Fi 6 and Bluetooth 5 now testing out
+the Wi-Fi 6 signal that was I have seen stronger here in the studio but it is
+doing a pretty good job I mean this is going through 20 centimeter thick
+concrete to my router upstairs and it's still giving out a three signal sign
+which is doing a good job but as for m2 temperatures they were also really good
+and one thing I will point out is I do like how they've got the readout here on
+this board to tell you what compatibility that m2 slot will support
+whether it's nvme or solder itself though that being said the last feature
+to go through here is the input and output and the tough gaming has only on
+the back 6 USB ports and one of those being a Type C and then you've got your
+display in HDMI outs then your Wi-Fi 6 connections that you get at the antenna
+included in the box then you've got 5.1 manual and optical out so if anything I
+would like to see two more USB ports you'll also need to install your own IO
+shield as opposed to the Maximus 7 formula here which has a phenomenal
+input/output design with your BIOS flashback in the nuclear CMOS buttons at
+the top followed by a healthy 10 USB ports one of those being a Type C and
+then you get 10 and 2.5 g NICs ps2 support combo if you want to hook up a
+ps2 mouse or keyboard your Wi-Fi six connections 5.1 manual out and your
+optical output as well and the i/o shield is integrated into the
+motherboard and with all that out of the way it's now time for a conclusion and
+of course the big question you will want answered is are these
+boards worth the money and the first one we're going to start off here with is
+the tough gaming plus and this has the Wi-Fi so if you need
+the Wi-Fi 6 in the Bluetooth 5 then that extra $20 over the tough gaming non
+Wi-Fi is a no-brainer in my opinion but at $180 for just the board without the
+Wi-Fi it is giving some really good value in the Z 490 realm especially
+since it could handle a 10 900k both out of the box absolutely fine but even
+overclocked and the vrm temperatures were really good of course they haven't
+used the best of the best components and you can't expect them to at this budget
+and so that only enables it to take a 10 900k to 5.1 gigahertz there that being
+said everything else checked out on this motherboard except that BIOS setting
+which if you get this board you will want to change that in my opinion the
+onboard audio was decent the m-dot to shield worked fine memory overclocks
+were fine on this board so overall they've done a really good job of
+offering a good value board for Z 490 mainstream and lastly what about the
+formula the 500 USD monster in Australia it is 999 ozzie so we would like to see
+the Aussie pricing come down but with that said if you're after the best of
+the best for a motherboard you want the best overclock so you want to add water
+and you want that vrm giving you the best results supplying voltage to that
+CPU you want really good onboard audio tangi nic Wi-Fi six all the bells and
+whistles and even an OLED screen on your motherboard then this is going to be one
+to get it passed all the tests here there was really nothing wrong with this
+board except for the extra power consumption for the RGB the OLED screen
+the debug light and also all the extra sensors on board but I'm sure you're
+going to want that if you want the best of the best of the best of the best of
+the best motherboard out there for z4 90s so
+overall these two boards here in today's review as zeus have done a really good
+job I couldn't find anything glaringly wrong with these motherboards and
+without a sight if you guys enjoyed today's double review then be sure to
+hit that like button for us and let us know in the comments section below what
+you think of in 2020 love reading your thoughts and
+opinions just like this question of the day here which comes from marshmallow
+wolf and they ask you never really explained why 18 amps in 12 volt was a
+bad thing but 37 emp'd and 12 volt is a good thing what is a good number to look
+for what's the relationship between them in terms of power supplies so basically
+the relationship between those two is the wattage the power supply can put out
+and a good number to look for would be around at least 37 MP and higher if you
+are building a gaming PC with a decent graphics card but the 18 amps and 12
+volt isn't always a bad thing it's not always a bad thing it's just most of the
+time especially on power supplies from brands you've never heard of before it
+is a bad thing because they don't put good components in and that's why the
+amp rating is very low however that being said if you've got a delta in a
+small business form-factor power supply that can actually be a decent power
+supply it's just not rated to go and power a gaming computer with higher
+wattage requirements anyway hope that answers that question and I'll catch you
+guys in another tech video very soon if you've stayed this far and you're
+enjoying that content and you want to see at the moment it drops be sure to
+hit that sub button and ring that Bell on the way out and I'll catch you in the
+next one very soon peace out for now bye [Music] 

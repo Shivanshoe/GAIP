@@ -1,0 +1,129 @@
+Around Tech YES City we have been known
+to delve into the wonderful and magical land of the Xeon and today we have our
+friend the 1680 v2 and this is a CPU that was made back in 2013
+eight cores 16 threads and it was overclockable and it's such a special
+CPU not just because it's a Xeon but also because there was no i7 equivalent
+out on the x79 lineup where the maximum core and thread count you can get with
+the i7 was 6 cores 12 threads though nowadays you can pick this Xeon up for
+around 200 US dollars and the best thing about today's video is I literally
+pulled the multiple that I'm using in today's comparison out of a dumpster and
+then I bent some pins back and we got it working and the best thing is we're
+overclocking quite well so we've got this CPU up to 4.6 gigahertz overclocked
+up from it's three gigahertz base clock and these numbers that you're going to
+see today still show that the old-school Zeon's are nothing to laugh at where
+we're coupling it with a 20 atti and we're also giving it quad channel ddr3
+21 33 megahertz XMP memory versus the 39 50x with its 3600 mega at CL 16 and also
+the 10 900k with its CL 1630 600 megahertz so enough talk it's time for
+the return of the Xeon hey dude I love paying $200 for a Windows 10 Pro Licence
+said no won today's video sponsor s cd-keys has you covered with the cheap
+Windows 10 Pro OAM single end-user license using the TYC coupon code you
+can get this for as little as 13 USD links in description below so moving
+into these results we've got over clocks on the 10900 k 5.2 gigahertz all core
+then we move over to the 39 50x we've got a overclock of 4.4 gigahertz all
+core and then we move at at 1680 v 2 as we said in the intro 4.6 gigahertz all
+cooked now we use the same CPU cooler across the board this is the H 115 i RGB
+platinum and without further ado let's look at these results pulling up shadow
+of the Tomb Raider 1080p high settings direct x12 we see here the 10
+100 K does pull ahead of the competition quite substantially here getting 170
+average FPS there's 138 and 133 now something interesting about shadow of
+the Tomb Raider I'm not used to seeing FPS this high so something must have
+happened recently with this game that allowed a guest the 10900 K in
+particular to do a lot better than I previously seen with it but another
+thing I have done with the Intel CPUs is I have disabled specter and meltdown and
+also on the AMD side that's automatically immune to meltdown and
+then for the specter protection I leave that enabled actually because I find it
+gives it better fps so for shadow of the Tomb Raider at the
+1680 v - dude lose out by a little bit however that being said we move on to
+the division - and here we saw a slight victory for the 1680 b2 versus the 3950
+X and then the 10900 K pulled out ahead but it wasn't by a whole lot and this is
+a 1080p setting with a 20 atti that the Xeon didn't want to just stop
+there I wanted to show the world that it's still capable of bugging and Tom
+Clancy's Ghost Recon we scored some impressive results here with 175 average
+FPS versus 171 on the 3950 x versus 203 on the 10900 k then we move over to war
+zone where we got 201 with 110 at 1% and point one percent losses with 88 on the
+10900 k4 this is a hundred and eighty-seven 93 and 75 on the 39 50 X
+this is 195 95 and 78 on the Z on now another thing about the war zone
+settings this time around I did change them to what I consider or at least what
+I researched was competitive settings we've got high textures and also an SEO
+tropic filtering on higher but a lot of the other stuff is on low but you also
+up the field of view to a hundred which is what most pro streamers use though
+the next game up here we've got a special for you guys grounded not yet
+released but I've got early access to this game so I'm able to test it for you
+guys and we've got here the 10900 case growing 102 at 1080p high settings with
+good 17.1% lows same for the 39 50 x that did well and also the zealand did
+very impressive here to scoring 97 81 and 58 the last game we're pulling up
+for you guys is 49 where the 10900 k decided it wanted to scream ahead with
+500 and forty average FPS with the one percent
+lows pretty much matching that and actually higher than that of the Xeon
+and matching that of the 39 50 X with 362 average FPS versus 339 so with those
+numbers out of the way a cpu from 2013 given the right circumstances given the
+right memory because if we're putting this high-powered memory on the newest
+and latest and greatest Intel and Rison systems we should do the same for the
+older Xeon and doing so showed that this quad channel 1680 v2 does do an
+impressive job even in 2020 and it goes to show if you can find someone just
+giving away or selling an X 79 motherboard for virtually nothing and
+say for instance you can find a good CPU cooler on sale then nothing stopping you
+from getting really good FPS out of the old-school stuff and honestly for the
+1680 v2 even though it doesn't have the latest avx2 instruction sets most of
+these games here it was showing that it was performing extremely well and I was
+actually blown away by the performance of this CPU granted the Zeon's do need a
+lot more tuning and manual overclocking than the 39 50 X and also the 10 900 K
+but I guess in ways that is the beauty of some of this older gear that out of
+the box it's sort of a bit dormant but once you start giving it throttle it
+really responds in a response in a big manner that one thing I will say is in
+the case of the 10900 K and the 1680 v2 is once you start moving up to these
+really high of clock speeds the power consumption does go up and we can see
+this in Tom Clancy's Ghost Recon where I've testing the power consumption here
+and it's going around 400 watts for the 10 900k going up to a maximum of 398
+watts and then on the rising system were scoring 351 watts and then on the Xeon
+we went up to 465 watts so the old-school x79 staff does juice a bit
+more power especially when you're gaming but of course if you pick it up cheap
+enough and power doesn't cost a whole lot where you live then something like
+this may be a good consideration if you're looking to build the best price
+performance high-end gaming rig into and 20 now of course it is used and
+there is the risk of anything used not working a hundred percent or having some
+weird problem but I find most the time with used deals as long as you scope it
+out and you see it tested and working before you get it or you get some kind
+of confirmation that the parts work properly then you're usually in good
+hands now one more thing with the 1680 v2 is that it doesn't support the latest
+avx2 instruction sets so what this means is that if some game or some program
+comes out in the future that it requires a B x2 or it works a lot better with a V
+x2 then the 1680 v2z on will fall behind against its new at counter parts and a
+perfect example of this is Cinebench r20 even though it's a synthetic benchmark
+it does highlight the differences between the maximum theoretical
+performance of the ten 900k versus the 39 50x versus the 1680 v suit with a 39
+50x with its 16 cores 32 threads is really geared up in a different league
+for productivity than these other two CPUs and then of course the 10 900k is
+also in a different league compared to the 1680 v2 if you need
+productivity with a VX - anyhow with all that out of the way if you guys enjoyed
+today's xeon showdown versus the latest and greatest then be sure to hit that
+like button also let us know in the comments section below what you think of
+the older Zeon's as I love reading your thoughts and opinions as always and
+don't worry when you guys keep messaging me in the comments spamming video after
+video that you want to see more Zeon's I hear loud and clearly and also we've got
+the question of the day which comes from Helios G gnosis and they asked did
+something happen to your channel mate I've been subscribed for a while and I
+look just now and I see the option to join what the your channel is in my home
+screen subscribed channel this also to add to that witness by the way maybe you
+should do a channel update I know sometimes YouTube does weird mass
+on subs on people join us in sub not join premium by the way to clear any
+confusion that may cause if any and this is one thing that I notice along my
+channel that happens I'd say like 2 or 3 times a year where it seems like we're
+doing really well everything's going great and then all the sudden it's like
+Oh and I don't know what's going on I have
+messaged YouTube in the past when people have come in and say hey look the videos
+aren't showing up on the sub feed and I really I have no idea what it is and
+I've tried to figure it out for years now and it just seems like whatever but
+that's like in life that's just how things go but ultimately I don't really
+know what's going on there I'll probably message YouTube and see if they know
+what's up with that in the meantime if you do get unsubscribed and you enjoying
+the content and make sure you hit that sub button and ring that bell and you'll
+get that content as soon as it drops in your sub box and also let us know in the
+comments - are you enjoying me shooting on panasonic again this was done on the
+G 8x which I picked up on a bargain I'm gonna end up getting this camera for
+like 50 ozzie dollars and if you guys want to hear how I'll talk about that in
+the used part son of the month and this is the sinner like V profile which I
+have sorely missed I changed over to Sony for cameras and
+filming and now I'm kind of thinking about changing back to Panasonic so do
+let us know in the comments if you enjoyed this picture and without aside
+I'll catch you guys in another tech video very soon peace out for now BAE [Music] 

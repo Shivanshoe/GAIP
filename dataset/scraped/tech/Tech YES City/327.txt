@@ -1,0 +1,185 @@
+what's new since 1909 well actually
+quite a lot we now have electric cars we've got the internet
+we've got tv commercial jetliners oh you mean windows 1909 to windows 2004
+well in today's video we're going to see what microsoft has added
+in its feature update and if the features are worth updating for
+but i will say the revamp of the mouse cursor settings
+especially if you're a gamer or have a mouse without minor dpi adjustments
+this can help out a lot so this new feature alone with 20 increments of
+sensitivity adjustment versus the original 11
+in itself is worth updating windows 2004 for though let's get into the rest of
+these changes hey dude i love paying 200 dollars for a windows
+10 pro license said no one today's video sponsor
+scd keys has you covered with a cheap windows 10 pro oem single and user
+license using the tyc coupon code you can get this for as little as 13 usd
+links in description below so first off if you want to check to see
+if you can update to windows 2004 then you will need to be on either
+update 1903 or 1909 first and if it's still not there and
+available after that then microsoft apparently isn't rolling
+it out to your computer yet as they don't feel comfortable doing so
+that is it could bug out or it is a known issue with your current cpu
+motherboard and or graphics card configuration for
+instance on my 7980xe main rig that i'm using at the moment it simply doesn't
+have the option to update to 2004. though besides the mouse cursor another
+feature that they've rolled out that is pretty good is the reset this pc now
+includes a cloud download option which if selected will reset windows from the
+current version you have updated to rather than the
+original build that the install was done on say for
+instance if you use the usb stick that's installed 1903 and you select the
+cloud option it'll now update to windows 2004 if you've
+previously updated this os to windows 2004 this can save you a lot
+of hassle and time and personally it's a welcome addition
+to the list of features you can also now enable passwordless
+sign-in from microsoft accounts on your windows 10 device
+by going to settings accounts sign in options and selecting
+on under make your devices passwordless enabling passwordless sign-in will
+switch all microsoft accounts on your windows 10 device to modern
+authentication with windows hello face fingerprint or
+pin but for me personally i do this on computers already that i sell
+and on benchmark rigs for example i just have the pc
+offline first when i install windows and then from there i just install windows
+with no password but this will definitely make
+things better for say computers that are in the household that multiple people
+use and they're sick of typing in passwords
+all the time there's also the pin sign in option for safe mode which
+previously was just your password and it's now supported on all major browsers
+including chrome and firefox but what about opera
+previously windows defender is now renamed to microsoft defender
+and has system management mode which it will scan
+and check your registry and io that's input output so basically it's becoming
+more intense in the way it checks and protects your system
+which is a good thing for some especially if you are very blase
+about how you use your computer application guard for microsoft office
+will also be rolled out in this update soon though it's not available as
+i currently am doing this video and as for your start menu you can now
+search using the start menu itself without having to open up a browser how
+well this feature works for you is well up to you i personally really like it if
+you want to search for some quick info for instance currency rates
+if i want to convert the aussie dollar to usd on the fly
+i can quickly do that now in the start search menu and it does a really good
+job there's also been a major update to the
+prediction of spelling and on top of that the algorithm used for indexing
+which if it detects high disk usage which is great if you can't afford an
+ssd for example it will minimize the system indexing and
+free up system resources this can of course in particular help
+laptops and low potato pcs so another welcome
+addition with 2004 windows update windows also allows you now to rename
+your virtual workspaces or virtual desktop and cortana has had
+an overhaul where apparently it has much better performance and has a new
+speech mode on top of that though you will have to sign into your microsoft
+account so if you're like me and you don't use a
+microsoft account on a lot of your computers
+then this won't even be there to begin with the home group option has now been
+removed from the give access and performance tabs
+and there's also provide feedback tab when you right click on services
+in task manager though speaking of task manager this has received an update in
+its own which it now monitors your gpu
+temperature and also displays the model number of
+your ssd for example though the temperature readout didn't work on my
+5600 xt and also the gpu scheduling update which
+we'll talk about soon didn't work on the amd gpu either though
+as for graphics we now have this hardware accelerated gpu scheduling
+option allowing your gpu to manage its own memory better according to microsoft
+which is supposed to drop latency even and improve graphics performance
+though the results are currently mixed from what i'm seeing most are showing no
+improvements at this point in time so if you guys want i can perhaps throw
+in some old potato gpus when i test this feature out
+and i've known microsoft for instance with game mode and stuff like that in
+the past to have their features more tailored
+towards helping out potato style computers rather than
+the high-end stuff so just like the gpu temperature readout
+this wasn't showing on my 5600 xt though apparently there is a registry hack
+that you can manually put in if you want to get this to work though i don't
+really recommend doing registry hacks especially
+if you want to reverse some things in the future can cause issues
+the directx 12 also now has an update for ray tracing with tier 1.1 from 1.0
+which improves the efficiency of pipeline state
+object additions includes the introduction of inline ray tracing and
+improvements to ray tracing execution which has an adaptive algorithm to sense
+the number of rays decided in proportion to the gpu execution timeline
+honestly this all sounds to me like directx 12 is getting ready
+for an upcoming launch of the xbox series x though some other interesting
+improvements here also include texture streaming in other words prioritizing
+what textures are loaded at what detail levels
+stated in mips and on top of that there is texture space shading
+which if a redundant space is deemed useless it simply won't draw at saving
+resources there's also the new directx mesh shader
+this has now been improved to reduce the steps to two instead of previously six
+where the input assembler vertex shader and whole shader
+now all compute from the amplification shader and tessellation domain shading
+and geometry shading are now compressed into the mesh shader
+this allows for more culling in these original six steps
+according to microsoft and it allows for more detail at the same frame rates
+so now going back to the optional features page here you can multi-select
+read out additional information and browse via the latest actions button
+everybody's favorite notepad and honestly i use notepad a lot so this
+is a good addition for me it's got an update as well you can now
+wrap around text find and replace things and you also have text
+zooming line numbers and column numbers are also visible down the bottom by
+default and there's also a star to show changes
+are not yet saved and you can send feedback to
+to microsoft within notepad itself there's also utf-8 encoding
+and the ability to control shift in a new notepad window ctrl shift save as
+dialog ctrl shift w to close the notepad window
+there's also some bug changes that have been fixed and if you didn't know they
+existed then that's good in the settings tab the
+network status display has now been revamped to show more information about
+your network connections showing how much data is being used
+easier and what connections are now being connected to what
+on the fly then windows has also improved wsl 2 linux networking
+applications using localhost and windows sandbox has made bug fixes and more
+control great for installing and testing
+unverified apps for example and microsoft edge has had some
+improvements as well bluetooth pairing has been sped up so
+you don't need to go to notifications to finish pairing
+microsoft have also introduced a thing called desktop analytics a cloud-based
+service that requires an e3 or e5 license which i don't
+personally own so i can't really tell you about this feature app volume and
+device preferences has received an update it's now a little more usable
+though i still much prefer the sound control panel personally
+and you can now take off suggestions too in notifications and actions and if
+you're into networking with cameras you've now got native support for that
+too the magnifier though this has received
+some updates with the keep mouse pointer settings option
+offered and there's also now a reading option to change the way magnifier
+behaves it also has support for dark themes and
+has play selected text and caps lock or insert options available
+disk cleanup can also apparently now backtrack
+changes though i couldn't see this option available and there's been
+improvements to foreign language ime namely korean japanese and chinese eye
+control has also been updated you can now drag and drop pause
+and it has more open source support and more support from things like joysticks
+etc delivery of updates now gives you the
+option to throttle based on absolute bandwidth
+very handy feature for gamers in my opinion especially if you have
+australian internet like i do you can throttle this setting so if
+you're playing games and there's a windows update
+that suddenly pops up in your face you won't have to worry about skipped frames
+or anything like that because it won't be using up all your
+bandwidth narrator itself has also received a plethora of improvements too
+too many to list in this video to be honest
+though you can now select from new options including donor now
+increase pitch and say cap and now for the last of the updates which is
+personally one of my favorite is now the narrator has the text cursor page
+and this gets a cool aesthetic update which can help show the cursor easier
+and you can now select from different colors and i'm really digging this one
+i'm going to leave it on legit and so there it all is with the changes to
+windows 2004 from 1909. if you guys enjoyed this
+video then be sure to hit that like button also let us know in the comment
+section below have you had any troubles with this
+update so far and are you enjoying these new
+changes do let us know but i will say one thing
+i mean it's still a little buggy i mean i'm trying to change my mouse settings
+in the original menu and then i go back to the other menu and
+it starts changing by itself so there will be some bugs
+if you want to update to this newest update when it first
+is released and this happened with 1909 and even 1903 before that
+but overall i think some of the changes here are definitely a welcome addition
+mainly for the mouse and the dx12 updates but with that out of the way if
+you guys have stayed this far and you're enjoying that content and you
+want to see the moment of drops then be sure to hit that sub button
+ring that bell because we've got the windows 10 2004
+optimization guide for gamers coming out very soon
+can't wait to bring that one for you and i'll catch you in another tech video
+very soon peace out for now bye
+[Music] yes 

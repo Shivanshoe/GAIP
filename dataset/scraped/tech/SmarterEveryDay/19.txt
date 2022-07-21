@@ -1,0 +1,138 @@
+- Hey it's me, Destin. Welcome back to "Smarter Every Day." We're at that magical moment where you build something in the garage, a culmination of week and a half of effort and then you kind of all have
+your hands in your pockets. This is Jeremy filming. This is Trent. This is George. We are about to have what we're calling (heavy metal music) - [Announcer] Weed eater Wars. - [Destin] In our first
+episode on weed eaters, we used a high-speed camera
+to explore the mechanics of weed eater lines, so
+we could understand things like aerodynamic drag or the
+dynamic mechanical interactions with semi stationary objects,
+like posts or fences. We learned that it's the weed
+eater line wrapping around the objects and then breaking off which makes you lose the
+line when you're trimming. On the next weed eater episode, we did a head-to-head
+grass cutting challenge by comparing the cross
+sections of different types of weed eater lines to learn which shapes
+seemed to cut the best. But today, we have to figure out which one of these lines is the strongest. And we're gonna do a single
+elimination tournament, much like gladiators in Rome. We're gonna pick out these shapes. We're gonna put 'em on
+the tournament grid here. We're gonna fight 'em to the death. And this is the device that
+we're gonna use to test them. So we have this Tektronix old school oscilloscope protomatic. We can set the angle of
+this thing if we want. It's amazing. - We've got cable connected to the end of the lever down there. - [Destin] All right. - And we've got it connected down here. - [Destin] Aha. - And when you pull on this,
+pull on the lever, Jeremy. - [Destin] (chuckles) It's beautiful. Got throttles right here that corresponds to throttles on the weed eater. So you should be able to throttle up and move everything at the same time. - And it has a ergonomically
+designed handle. - [Destin] We've got
+the high-speed camera directly over top. And I think at this point,
+we have to build the bracket. What do you think Jeremy? - Well, no question. This guy is gonna be in. - [Destin] Because that was the sharpest? - It was the best performing
+last time, as I understand. - [Destin] Somebody
+sent me this, they said it's this Echo Crossfire, like super. I want that. I wanna see what that does. - I'm gonna do the-
+- [Destin] Razor core? - Razor core with no
+cuts, biggest diameter. - I really like blue. (group laughing) - [Destin] Alright, so
+everybody gets another one. Oh. - [Trent] What are you doing Jeremy? - [George] Oh, I'll take the triangle. - [Destin] This is the sharp
+square that we had last time. It was really, it feels like it's bigger than
+the 0.095 inch diameter. It feels like it cheats almost. - I'm gonna do this one. - Okay, that's the sharp, sharp square that the professional weed
+eater guy gave us last time. All right. - What's the grey blob? - [Destin] It's titanium force. I don't know, what do you think? - Yeah. - [Announcer] Choose your fighter now. Comment below. (heavy metal music) - There's been a lot of discussion about what winning looks like. And I think what we've decided
+is whichever one breaks first is the loser. And that's down to the microsecond. - [Destin] So as they go in like that, pull the lever there
+- [Jeremy] Yeah, sorry. - [Destin] That's gonna be
+our plane of interaction, like right there. - [Trent] Right there.
+- [Jeremy] Yeah, right here. - [Destin] And I think
+what's gonna happen is we're gonna get some kind
+of, it's gonna be like that. We're gonna get some
+kind of wrapping effect. And I think it's the unwrapping that's actually gonna
+make everything go bad. So we'll see how this works. - [Announcer] Battle
+one: Star vs Crossfire. Fight! (weed eaters buzzing) (cables collide) - Okay, so- - I mean, the one on the right is definitely losing more
+energy with each hit. - [Destini] This is more
+like judging a boxing match, like you say. - [Jeremy] Yeah at some
+point you got to say yeah, he can't take anymore. (cable snaps)
+- [Destini] Ooh. - [Jeremy] Wait, wait, what? - [Announcer] Crossfire wins. - [Destini] The star
+is down for the count. We're gonna advance the Crossfire. Okay, so who do we have next? Jeremy, which one you wanna go for? - [Jeremy] Ah, let's go to
+the other side of the bracket. - [Destini] All right, here we go. Sharp square versus triangle. Got sharp square on the
+left, triangle on the right. - [Announcer] Battle 2:
+Triangle vs Sharp Square. Fight! (weed eaters grind together) (cable collisions echo) - [Destini] Dude, we
+got some delamination. That, that right there. This is the, this is
+the blow right here, so. Boom, right there. - [Jeremy] Oh! Yeah. - Not even a question, man. - [Jeremy] I mean, that's,
+that's the blood flying right out of the lip right there, man. That's the, he just, he got clobbered. - Yeah, look at that. - [Destini] Shmack.
+- [George] Oh. - [Destini] Okay. Yeah. - [Announcer] Sharp Square wins. - Cool, go ahead and advance your, advance your fighter there, Jeremy. - For sure. - [Destini] All right. - Let's not forget the x here. - Okay, so next one we're
+going Razor Core versus Blue. That's you, George. How you feel about that? - Oh my goodness. - [Destini] You just have
+to get in the ring, buddy. - [Announcer] Battle 3:
+Razor Core vs Blue Line. Fight! (weed eaters buzz) (cable collisions echo) - Ooh! It's clear. It is clear homies. - [Jeremy] Blue is all frayed and torn. - All right, look. Hey, just come look, man. Look at the high speed. - [Trent] Oh no!
+- [Jeremy] Oh no! - [Destini] What?
+- [George] Man. - [Destini] You out? - [Jeremy] It's an inch shorter. - I'm an inch shorter. (laughs) - [George] Oh man,
+- [Destini] Look right here - [George] I went in
+five, I came out four. - Here's the, right there. - [George] Oh! Yeah. - [Announcer] Finish him! (cables whipping) Razor Core wins! - X goes on the poor blue. - [Destini] Yeah. - You did good, you went
+out with, with style. This moves forward, and we need one more with the East division. - [Announcer] Battle 4: Sharp Sharp Square vs Grey Blobby thing. Fight! - [Destini] All right, crank 'em up. (weed eaters buzz) - [Destini] Whoa! - [Trent] Somebody lost.
+(laughs) - [Destini] All right, it came at my head. (cables slap each other) - [Trent] Whoa! - [Jeremy] Look how much that green is wrapping around the grey. - [Destini] You got some
+intimate contact this time. - [Jeremy] Yeah, the grey is out. - [All] Oh! - [Destini] This is maximum noodlage. - [Announcer] Maximum noodlage. - Right there. - [Jeremy] Oh. There it is. - [George] It pulled it out? - [Jeremy] It yanked the whole thing out. - Yeah, so. - Yeah.
+- Golly. - I mean, it broke out the root, man. (laughs) - [Jeremy] It just yanked
+it right out of there. - Okay, cool. Alright. (cables colliding) - [Announcer] Grey Blobby Thing wins! - We're going to the Grey
+rounds versus the Sharp Square on the East side here and on the West side we've got the Razor Core
+versus the Crossfire. - [Jeremy] Ooh, that's. - That's that's going to be a big a big one right there. - [Trent] These are the semis right? - Yeah, this is semifinals. - [Announcer] Semifinal, East Division: Sharp Square vs Grey Blobby Thing. Fight! (weed eaters roaring) - Man, that was a hard fight there. (cables slapping) - I don't think we had a clear winner. I think they need a second round. We need Jeremy to have
+a sign and walk around. - Yeah. I need a round two
+for my boxer, here man. Say, give my man a drink of water and let's get back in there. Do we start with fresh
+line or leave it as it is? - No man.
+- This is boxing, man. - [George] Keep going dude.
+- [Jeremy] No, keep going. - [George] What you talkin'
+about, fresh line, dude? (weed eaters buzz) - [Destini] Dude. - [Jeremy] Man, that's a lot of smacking. That is, this is the heavyweight, man. - [Jeremy] Wow. - That grey stuff just
+doesn't want to die, man. - [All] Oh, no. - Who lost it? - All right, that was pretty definitive. (cable severs) - [Announcer] Sharp Square for the win. - [Jeremy] Sharp moves
+on to the final round. - [Destini] Gotta kill that one. - [Jeremy] Going down, my friend. - [Destini] There you go. - [Announcer] Semifinal, West Division: Crossfire vs. Razor Core. Fight! - [George] Revin' them up! - Yeah. (blades whirring) - Cut! Ow. - [Trent] We have some serious noodlage. - [Jeremy] Spaghetti junction there. (group laughs) - [Man] Spaghetti junction. - [Destini] Jeremy just
+starts saying stuff. - [George] It's like he's been
+announcing this for years. - [Trent] Oh, spaghetti junction! - [George] It's like his catch phrase. - [Announcer] Spaghetti junction. - [All] Oh. - [Jeremy] Look at this.
+- [Destini] That was trapped. - [All] Oh!
+- Oh, there it is. (cable severs) - [Announcer] Winner, Razor Core. - [Destini] Oh wait, this is me. Oh, I'm out. All right, here we go. - [Trent] So the fi, so we got - [Jeremy] We're down to, ooh. Oh, look at this. We didn't even plan this. - [Trent] Look at that. - [Jeremy] The Solid Core.
+- [Destini] Look at that. - Dude, hey, look at this. You're missing it. Look at, look at what just happened. - Oh wow. - That's what's left. Yeah, what did we just learn? - [George] That Solid Core
+seems to be making a difference. - [Destini] This gives us rigidity, so that we can have more toughness. I love it when we're goofing
+around and we learn something. So I guess there's only
+one thing to do here. - [Jeremy] We've got to set up the final. - [Destini] We've got
+to set up the finals. - All right, here we go, this is the championship. We've got the Sharp
+Square and the Razor Core, both with the hard line in the middle. Here we go. - [Announcer] Final match:
+Razor Core vs Sharp Square. For the win! Fight! (weed eaters roaring) (cables slapping) - [Jeremy] They look pretty even there. That was a good wrap. They both seem to bend
+about the same amount. - I think that's the key, is it's not a small radius. So if nothing else, we
+have learned that it's the bend radius that
+affects its ability to rip itself apart. And it's only, it seems
+like it's on the unwind. - And what exactly do
+you mean by bend radius? - [Trent] When this thing
+wraps around my finger? - [George] Yup. - [Trent] See that bend right there? - [George] Yup. - [Trent] Look at this bend here. Look how much sharper the bend is around. - [Destini] So that's, that's like a a half inch bend radius, right there. - So the tighter, the bend radius, or the- - Yeah. - The more.
+- Smaller. - [Destini] See, look at that right there. See that one right there. See how tight that is? - Yep. - [Destini] And when it has
+to bounce back from that, you know you're getting
+on this other side, you're getting some
+kind of tensile stress. - Gotcha, so it's better that it doesn't, the thing that's stronger is the one that doesn't bend
+as tightly, I gotcha. - Well, that seems to be
+important for toughness which is kind of what we're
+measuring here, is toughness. - [Jeremy] Oh, wow. - [Trent] That was a good strike. - [Destini] Yeah, I like that we act like we're
+connoisseurs of this art now. (laughs) - [George] Oh.
+- [Jeremy] Oh. They kind of whipped around each other. And it's still, man, it's a tough fight. That makes sense, it's
+the, it's the finals. - [Trent] Oh, that was something. - [George] Ooh. - Okay. That is amazing. It, it literally, there's
+a total momentum transfer and goes to zero right there, but look at this. So it's in tension, right? But that wave's gonna be
+at the end of the orange, but there's still momentum
+moving down on the grey, so it should pull it away. Yes, it does, see that? Oh, we're starting to
+lose the end of orange. - [Jeremy] Yeah. There's
+some tiny little pieces coming out of orange.
+- [Jeremy] There's that whipping action we saw against the chain link fence. - [Destini] There is. - They are duking it out, man. It's a close match. - Toe to toe. Something flew off. - [Jeremy] Oh look.
+- [George] It's tearing. - [Destini] All right. Orange is tearin'. - [Jeremy] That was a good hit. - Oh but look so does the grey. - [Destini] Hang on. Grey is tearing and you can see the tear in orange. - [Trent] It's liquified. - [Destini] Oh, look at the end of grey. - [Jeremy] A piece of the grey came off. - [Destini] Oh, look at this. - [Jeremy] Oh, no. - [George] Nothing's had
+a clean, big break yet, - Oh!
+- [Destini] Oh, that was a lot on grey there. - [Jeremy] Hmm. Yeah. - But it's just the- - It's the tip. It's like the end of
+it is starting to fray. - [Trent] That is really fast. - [George] But it's just the momentum. - [Jeremy] Yeah. - [Destini] Okay, yeah that's a big chunk. - [George] That's a big chunk. You might be done, Jeremy. - Yeah, unless you come in with like just a huge decapitating blow and mash the whole thing. - I don't know man. It's not.
+- He hasn't fallen yet. Let's see what happens here. (cable severs) - Oh! - That was orange, look at that chunk. (cable severs) - That is undeniably a large piece. - That's undeniable. - That is the decapitation. - Okay, wait. So this is 10,000. This is 11,000 is the frame. Here we go. So the wave stops, grey still has a lot of mass moving down,
+and it starts to pull. - [Jeremy] Orange has bent
+all the way back on itself. - [Destini] Right there,
+there's stretching. - [Jeremy] Now they're
+wrestling, they're rolling over. - Boom! - [Announcer] And the
+champion, Sharp Square wins! - Go ahead Jeremy. Do the honors. - [George] Boom.
+- [Destini] Went down. - [Jeremy] That is it. - [Destini] Although this tournament seemed to be very cut and dry, it absolutely was not
+scientific in any way. We were just having fun. Every two seconds of battle
+we recorded was around 30 minutes of slow motion
+footage we had to review, and later we found mistakes in how we judged the outcome
+of some of these battles, which ultimately means our
+results are potentially flawed. There's a longer cut
+on the second channel, "Smarter Every Day 2" of other
+stuff we did in the garage, and I'll link to the full high-speed files for each individual battle
+below in the video description so you can judge the matches for yourself and determine which line
+you think is the toughest. This episode of "Smarter
+Everyday" is sponsored by Audible. (laughs) - I'm so sorry, but also kinda not. So here's the deal. Audible has been sponsoring
+"Smarter Every Day" for ages. And I am so happy that they do, because I use the fire out of Audible. I'm gonna suggest a book today that you totally should listen to, to reup on your nerd cred. I was assigned the book, "The
+Hobbit" by J.R.R. Tolkien in the sixth grade. Didn't remember anything about it. You probably know some of the characters. You got Bilbo Baggins, you got Gandalf. Maybe you remember Gollum,
+but do you remember Thorin? Do you remember Elrond? And do you remember
+these other characters? I didn't. So listening to this on a road trip with my family was a delight. I've been chewing through
+audio books this summer. You get an Audible book per month with an Audible subscription, but you also get unlimited
+access to the plus catalog. This is how I put awesome
+stuff in my brain. You totally should do it. I'm gonna tell you the promo code, but you're not ready for this. Sign up for an Audible
+subscription at Audible.com/smarter or text the word SMARTER to 500-500. Yeah! Put smart stuff in your brain. You should totally get Audible
+though, audible.com/smarter. Text the word SMARTER to 500-500. Here's the thing with "Smarter Every Day." You never know what you're gonna get. I think we can honestly say that one day you're on a nuclear submarine, the next day it might
+be Prince Rupert strops or a supersonic baseball cannon. Other days, we're fighting
+weed eaters in slow motion. Thank you so much. Thank you to all the patrons that support "Smarter Every Day." Also, please consider subscribing if this is the kind of stuff you like. If it's not, thank you
+for watching this video. It was really fun to have you here. Anyway, I'm Destini. I hope you're getting smarter every day. Have a good one. Bye. - Spaghetti junction! - [Destini] Wow! That was
+so good on video dude! (banjo music) 

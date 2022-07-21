@@ -1,0 +1,186 @@
+we humans need to stick together yes me lord more lumber is required
+righto you require my assistance job so today we're going to be building
+something i haven't done before personally and that is an
+open frame gaming pc and this frame here can be
+had off aliexpress and it doesn't come that cheap
+and when i got it i was kind of like well that's actually a pretty small box
+and it's not a whole lot of case you wouldn't think okay
+that is a pc case but apparently it is and we're going to build it
+with the instruction manuals that do not come in english
+so just two little pieces of paper and i have to figure out the rest
+but that aside we have a build here that's got a bit of a mix of components
+some that i've pulled out of a trade-in pc others that i have been someone
+donated this thinking it was faulty in terms of a surge protection on but it
+was actually their motherboard when i spoke to them about it and then
+we've got here a 120 gigabyte ssd and an i7 870 with a
+motherboard that was in a dumpster pull out that i
+got in a heap of cases with just rubbish
+some of these motherboards had heap of bent pins this one had a few
+bent pins but I bent them back and then we've got eight gigabytes of
+ddr3 memory now this build is going to be
+for a special game that i hold to my heart and that is warcraft 3
+and they've remastered this game and i've seen the reviews online people are
+saying it's terrible but i really need to get back into this game
+i used to love playing it and looking at the specs they're saying
+that this thing really doesn't need a whole lot at all
+you could run this thing on like a rotten potato that's
+how easy it is to run apparently but of course since i want the
+highest fps possible in this old school game and i'm hoping the graphics are
+remastered a bit i'm thinking this build should be
+perfect for the job but there's only one way to find out
+and that is to put it together and see if there's any problems
+and if there isn't any problems then we'll start installing warcraft 3. but
+before that we'll quickly put the build tally up here for you guys
+and then we'll get to buildings [Music] now one thing about graphics cards like
+these this is a gtx 780 and if you can find someone that's
+upgrading their pc a lot of the times you can get a free
+part off them especially if they think it is
+faulty and in the case of this gtx 780 someone sent it in
+thinking it was indeed faulty when it was actually their motherboard
+that was faulty and not the graphics cards so if your friends are upgrading
+their pcs and they've got parts that they just don't need anymore and they're
+going to give them away then definitely take advantage of that
+depending on where you live in the world [Music] so [Music] [Music] [Music] so [Music]
+and here it is here actually after a few hours of completing this build
+we finally got it finished and we've got to power it up now
+see if everything's smooth but one thing about this case is it's so tedious
+because you've got to get all the little spaces right
+between the motherboard spacing and the manual is
+i like i don't even know why they included the manual because
+there's parts in here that aren't there and then there's parts missing and
+even the sheets just like got these six steps that just
+say nothing in between so what i had to do was go look at the original picture
+online and then just reverse engineer it and
+then put it together that way and so we've now got the build it's all
+complete and i gotta say it is pretty firm it's all in together but we
+still got our i o shield here hey i'm an io shield i'm still attached
+not for long [Music] [Music]
+what is it now [Music] brilliant what is it now
+yes my friend you require my assistance our horses are under attack well well require my assistance our hero give me something to do what is it now wait till you see me in
+action brilliant well
+we're gone with it give me something to do
+throw them away throw them away not enough um um um and so we're just about to start testing
+out war zone here we can see right up in that top corner we're getting like 30
+fps this is so desirable for your frame rates i mean the human eye can't see
+more than 5 fps anyway so this is just totally perfect for our gaming
+experience let's give this a shot anyway and see
+how it performs in warzone i mean it's gone up to 60 already so that's a good
+sign hopefully if we can get 60 fps out of this thing
+and it doesn't start it too much then it should be okay
+storm earth and fire heed my car [Music] and now we've just finished testing up
+this pc with warcraft 3 reforged and also
+decided to test call of duty warzone mainly because that's the when
+you go to flip the pc people just want to know how it performs
+in warzone can it run warzone so first of all
+yes it can run warzone around 60 fps at 100 screen resolution 1080p low
+settings which was quite surprising it did quite well and it was very smooth
+in order to do that of course you could drop the render resolution
+play with a little bit higher fps but for what it's worth 60fps a smooth 60fps
+is always a good thing and this pc did provide that
+even without the ability to overclock the memory or the cpu
+but then we move on to warcraft 3 reforge and i was actually surprised
+here because i thought this thing would be able to do like 240 fps
+but it didn't it only went up to around 112 average i think after i did a
+massive benchmark on it and even then the 0.1 lows
+were like really low but i noticed that only happening when
+there was major event changes in the game so say for instance
+you go from your normal gold mining to your low up keep and that is when you
+build enough units your population goes over 50 you then drop down to mining
+seven gold and when that happened i noticed the 0.1
+lows dipped a little bit but in battles it was very smooth the
+graphics seemed to be a lot better than the og version
+but that being said i mean i can see where the negative reviews are coming
+from they're charging like 45 aussie dollars
+just for pretty much the same game that i paid for all those years ago
+uh just with a re uh slapped on texture pack and higher
+resolutions that's kind of what it feels like but
+i still really enjoyed this game and one thing that comes out of warcraft 3
+reforged is is that this is how like really good rts
+games were designed and i really miss it i absolutely love this game
+i love the original brood war and just playing it again
+brings back the feels so despite the blizz attacks on this game all these
+years later it did play quite nicely so maybe a lot
+of those negative reviews were when the game was first released
+and it was quite buggy and it was crashing because i didn't really
+experience any problems while i was playing this
+game except the 0.1 percent lows but again
+this hardware isn't the best to begin with but i was pretty surprised that the
+game was cpu demanding at least in terms of
+single thread performance so if you want to get the
+atmos best fps out of warcraft 3 your gpu you will need a decent gpu if you
+want to up the graphics but you're definitely going to need a
+high single thread performance to get the most out of that
+so this game i came in like thrown a few jabs thinking this system was going to
+own it but then warcraft 3 re-forged had that
+reforged hammer and did a counter attack and i was just uh taken away by
+i didn't even know i just quickly got stunned mid video
+though with all that out of the way do let us know
+in the comments section below are you digging this
+open air build that we did here with this budget aliexpress case
+i mean the end product is pretty cool i'm personally liking it
+definitely don't buy something like this if you've got animals or anything that
+runs around freely and it's prone to i guess dropping
+something or spilling some liquids on it but other
+than that if you've got a quiet area where you are
+this thing comes in a really cheap price point i think it was like 35
+usd when i got it i had to pay 10 gst australian tax and of course
+converting usd into aussie dollars does raise the price a bit
+but for what it's worth it ends up working out if you're on a budget and
+you just want a cheap case to get you by then this thing
+does everything you can pick it up all at one time and it holds together
+the one thing to keep in mind with this thing it will take you a while to get
+your head around okay how do i actually build this thing
+because the included instruction manual when i saw that and i started trying to
+work out what it was trying to say i just threw it in the bin i looked at
+the final product of the case itself on aliexpress and
+then i realized okay let's just build it this way
+and it ended up working out for me despite parts actually missing from the
+instruction manual and how to properly complete it now with
+all that out of the way we've got a gaming pc here that's ready to rock and
+roller and if you guys enjoyed today's warcraft 3 reforged
+gaming pc then be sure to hit that like button for
+us also let us know in the comments section below do you play rts
+if so what is your favorite rts game for me it's definitely a toss-up between
+brood war and warcraft 3. i love the both of them
+because there's that dynamic in those games where if you make one
+little mistake the game's not over i feel like in starcraft 2 you make one
+mistake the game is finished and that's sort of
+like that's why i didn't really get into starcraft 2 that much because
+focuses a lot more on the micro as opposed to warcraft 3 and especially
+brood war the micro and the macro balance each
+other out same with age of empires as well i'm really looking forward to age
+of empires four where you need that mix of micro and
+macro and you need to get it on point so bring me back to those glory days of
+rts just like this question of the day here with another terrible segue for you
+guys and this comes from herbeus here and they ask
+is this comparison correctly done out of a case
+wouldn't it be accurate to test inside one i don't have
+an idea i'm just wondering and they're referring to our video where we tested
+out the wraith prism i'll put the link up here and actually i really like this
+question i picked it out for one reason and that is depending on who you
+go to you're going to get a different opinion
+because accurate would be at least 100 accuracy would be testing every single
+different scenario out there which no reviewer has time for we can't
+test out every single case with that particular cooler
+because we just wouldn't have a life or we wouldn't even have a video because it
+would just never get made but when it comes to an open air test
+system i actually personally feel like it's a great middle ground
+where it's going to give you better temperatures generally than a really bad
+stuffy case with no airflow but at the same time it's not going to
+give you as good a result as a case with really good airflow
+in a push-pull configuration and so that's why i test on open-air test
+systems because i've always got a correct apples to apples comparison
+and i can actually relate that to previous data that i've tested in the
+past and another thing is too if something's bad on an open air test
+system it's generally going to be bad in general so
+that's the most important thing at least when we're testing tech is getting to
+the recommendation and making sure you guys are getting a good deal or
+getting at least a premium product if it's an overpriced
+product for what you're paying for and you're not getting hosed
+anyway hope that answers that question and i'll catch you guys in another tech
+video very soon if you stayed this far and you want to
+keep seeing that content around tech yeah city the good old
+tech yes bangers here then be sure to hit that sub button
+ring that bell and i'll catch you in another tech video very soon
+peace out for now bye [Music]
+yes 

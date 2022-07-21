@@ -1,0 +1,214 @@
+you'll notice there's a lot of cuts here
+and so i'll plow through that quickly at x2 x4 speeds stop start stop start
+and you'll notice also the cpu in this regard it's very
+up and down this is where you need latency
+on a cpu it's very important for snapping quickly between different
+actions when you're doing this kind of work over the last five years here at tech
+yes city i've gone from using my main rig
+which has had a 4 core 8 threaded cpu all the way up to 32
+cores 64 threads and i love just trying different rigs
+to see how they handle 4k video editing my previous rig
+was an x299 system and actually just recently i switched over to a 10900k
+however here today i'm now going to be switching over to a 3950x
+because i love experimenting what the latest and greatest can do
+for a workflow not just for me but also when i'm recommending pcs to other
+people i get an idea of the strengths and
+weaknesses because i'm going to say one thing straight up and that is that
+there's no magical cpu that can do everything the best it just
+doesn't exist there's different types of parts
+for different people with different needs
+hence i guess why there's so many different product skus out there more
+than there has ever been in the history of technology and i guess
+the reason for that is there's much more users with much more
+peculiar needs so over the last few years
+my personal needs out of a cpu i need something that's
+lightning snappy i need it to be quick when i'm doing a lot of actions per
+minute cutting footage editing and then throwing footage over
+the top of that i want something that's really responsive
+something that can quickly drop clips in and so in relation to this one need
+in particular it's not always about more cause more threads because the more
+cores and more threads you add to a cpu you are actually adding latency anyhow
+in today's video we're going with the 3950x 16 cores 32 threads
+i feel for me personally this is going to give me the best balance between
+calls and threads versus latency so we will talk a little
+bit about that later once we give this rig a trial run
+then for other parts we're going with the 280x from corsair great small case
+as well as having good airflow and good build quality then for the cooler we're
+going with the h115i pro xt series this is similar to the rgb
+platinum except you're getting a newer pump head
+and you minus the rgb on the fans themselves then for the
+drive gen 4 pcie x4 nvme one terabyte ssd i want to utilize
+what pci gen 4 has to offer since amd is currently offering this and intel's not
+i feel like it could help me for video editing for the motherboard we're going
+with the b550 phantom gaming itx from asrock i recently reviewed this
+motherboard i really liked the numbers it was
+putting out not only that it boosts all these 16 cores out of the box over 4
+gigahertz which is going to be great for me for video editing considering
+that is a stable 24 7 4 gigahertz that i can reliably use
+when i'm video editing though i know some of you guys out there will be
+scratching your heads like why are you using a mini itx board
+in a micro atx case and to answer that question straight up i'm going down a
+tangent of latency again i do go down these tangents here at
+techya city because i like to just gain my own knowledge and gain my
+own experience with things so i can make recommendations off that
+and i feel like mini itx all other things equal is going to give
+you the best latency first bigger motherboards i've actually
+seen this in tests in the past where i've tested a320 budget boards and
+because they've been so small they've actually given out slightly
+better numbers than their bigger atx counterparts and because we're using
+them in the itx motherboard we only get two slots of memory available so we're
+going with two 32 gigabyte dimms of corsair vengeance pro rgb memory and
+this is clocked at 3 000 megahertz xmp now when you're going with 64 gigabytes
+this much memory will start to put a strain
+on the imc so if we're going with a 16 gigabyte kit for example
+we could easily put 4 400 megahertz xmps on this thing
+and it'd be fine but because we're going with 32 gigabyte dimms we do have to be
+careful with those xmp profiles though the last components in this build
+rtx 2080 ti i need this for video editing
+because adobe now supports rtx studio driver set
+and that does give you a massive boost in the premiere pros especially in final
+render times but also gpu accelerated effects and everything else that's gpu
+accelerated within premiere pro itself you are going to be gaining a lot by
+using an nvidia rtx card where they have done
+a lot of work on the driver set and the last piece is the power supply we're
+going with the sf 750 small form factor power supply even though this fits a
+standard atx power supply i've just got this lying around the
+studio which i pulled apart my whole travel pc because
+let's face it with the world situation right now i don't know when
+uh traveling is going to be the restrictions on travel is going to be
+lifted so i wise we'll make use of parts instead
+of them collecting dust however with that aside let's get this
+thing built and show you guys all the tuning
+and also first impressions after i edit some videos
+on this thing to see how it goes [Music] so
+[Music] [Applause]
+[Music] [Music] so now cut the first bit of this video
+the voice work and you'll notice there is a lot of cuts
+here and that's because i don't script my videos like i
+very rarely do a scripted video here at tech yes city
+and so this is what it's going to look like because you're going to make a few
+mistakes when you've got absolutely no script to go off
+but at least that being said i like to give you guys the videos
+straight from the heart and so that's what you're getting here all the time
+but you'll notice with the cpu utilization
+here it's really taking the cpu through all
+these twists and turns it's not just all cores utilized all the
+time when you're editing videos and so for
+other youtubers they might have a different workflow that's great for them
+but what you'll notice here from the cpu utilization on performance manager
+is that i'm still using quite a few calls and threads
+but because i'm snapping and doing so many actions at once
+i need that initial latency there as well because i'm going from sometimes
+x2 to x4 speeds monitoring the voice work back and forth
+so this is very important to have that cpu
+that's not only fast but i guess can turn the corners if we're going to go
+for an analogy of a car here we've got to have a car that's not too
+heavy and can still take the corners fine but at the end of the day still has
+the acceleration and speed to get to the finish line quickly but
+now we'll get on to editing the build montage footage for you guys and this is
+a different process to the previous process we just did here
+with the voice work because we're going to be adding so many
+different layers on we actually need to utilize
+now a bit more memory bandwidth than we did before
+so how's the 3950x going to pass with first impressions
+let's give it a go [Music] [Music]
+so here's the next stage in a typical edit if i especially if i'm doing a pc
+build now we've got the montage right here
+and this is where there's many different layers and i'll show you how
+the cpu is bouncing up and down here in utilization
+where this thing is starting to get worked this 3950x
+it's getting worked now this is probably sometimes this is the most strenuous
+part of an edit especially if we're dropping in
+effects color inverts and whatnot and i do notice there is a little bit of
+a struggle but that does also happen on intel as
+well i can push this cpus even like the 7980xe overclocked to 4.4
+or core 10 900k running at 5 gigahertz these
+cpus i can bring them to their knees in this part and i'm happy to say here
+this is easily and i mean easily the best experience i've had on
+an amd cpu it's in a different league to second and first gen cpus that i've
+brought through and tried to run as my main rig and this
+is one of those things where we'll move over to a conclusion soon and we'll talk
+about this whole process first impressions already but i'm
+definitely going to be staying on this because
+it's really nice like it's good to see amd are competing with
+intel with third gen like really competing at the fine details on the
+fine line and this is really impressive so far
+like me smashing through my workflow i noticed these things and that's why in
+the past i went from an 8 core xeon for example which was overclocked
+to the 18 core and that was my main rig for quite some time here at the channel
+but now with the 10th gen going at 10 cores 20 threads being ring boss
+versus that mesh architecture and now amd with the third gen
+i want to try these things out at the same time and see
+which is really the best but anyway with this piece aside
+let's sit down and talk about this rig and everything going forward
+with the 3950x 100 organic 3950x
+that is what this experience is so far first impressions
+that first impressions do last and i do say like like i said in the montage
+footage before the first and second gen ryzen i feel
+weren't anywhere near as good as the 3950x
+experience i've had here today and the reason i say that is because
+people have said okay you've got to do this tweak you've got to do this you've
+got to do that and basically all i've done here is
+installed amd's chipset drivers i've installed the basis and the
+baseline stuff the nvidia drivers and this is what i did on the previous
+amd systems and this is a big difference i haven't
+disabled threaded optimization or anything like that people are telling me
+oh you've got to disable threaded optimization in the nvidia drivers
+i haven't done that and i'm getting a much better experience now over the
+coming months i'm going to try all these tweaks that
+people recommend and see how they apply to my setup and
+my workflow and that's the big thing when i come
+back and report to you guys in a few months time what it's been like
+on this system right here i'm gonna come back
+and say okay this tweak made a difference or it didn't make a
+difference but bottom line is when it comes to
+comparing apples to apples to the previous amd systems i've used
+3950x is awesome and i do say amd systems you probably notice why
+i've said amd systems because the intel systems are doing
+very well on this workflow too the 10900k
+and the 7980xc i had before that they were really good and the 3950x is in
+that league that's how i feel that's how good this thing is
+and that's a great thing because when people come to me i don't
+like there's no fanboy arguments around here i do not
+care one bit about the fanboys because when when it comes down to it
+i'm building people pcs locally here or people asking me for
+recommendations i want to give them the right recommendation
+and that's what it's all about giving people the right recommendation whether
+it's value for money and in that case i do recommend ryzen a lot
+but now when it comes to video editing i'm going to be telling people you might
+want to consider the 3950x because it's really good especially if
+you want the most for your dollar it's coming and it's
+comparing to the 10 900k it's comparing to the 798xe now i won't know this
+recommendation for another couple of months once i've given it a full test
+drive but there are things that i'm noticing
+is a lot better already anyhow going forward from here latency
+it's a real thing it's a big thing for me personally anyway i don't know
+about other people and their workflows but i feel like this is one area amd has
+improved a lot on and i'm hoping with zen 3 which i know
+will get better performance out of but i'm also hoping they improve the latency
+even more to make them just top dog in every
+single category because that's what as a tech enthusiast that's
+what i want personally and i know a lot of you people out there
+you're just like me especially the guys who have subscribed over the years you
+don't care about the brand name you just want the best experience and
+you want the best product especially for the money
+and so this one here is definitely hitting hard
+in terms of being a workstation beast of a cpu anyway with that aside do let
+us know in the comment section below did you
+enjoy this video and i know there's not any gaming
+figures or any gaming benchmarks in today's video but
+this was more of a personal video where i'm showing you guys what i actually do
+with the computer most the time and i actually don't play
+games a whole lot around here besides benchmarking even then i'm not
+playing the games i'm just hitting the benchmark start
+benchmark stop very repetitive very boring compared to the real thing
+and the thing is you can't do the real thing
+because it's then not a equal comparison so that's my gaming life at the moment
+hopefully this 3950x will free up more time so i can play
+some more games anyways don't forget to hit that like
+button also if you're a hater don't forget to hit the dislike button all
+helps with engagement and if you've stayed this far and you're
+enjoying the content as always and you want to see the moment it drops hit the
+sub button ring that bell and i'll catch you guys
+in the next tech video very soon peace out for now bye [Music]
+oh 

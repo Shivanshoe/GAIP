@@ -1,0 +1,245 @@
+here in the background is a pc known as
+darth jar jar well actually i'm going to be calling it now
+scuffed jar jar because this build originally was a custom water
+build that i did here on the channel over a year ago and
+since then i haven't really used it much and you guys have critiqued us about why
+haven't you used this pc what's going on it was a beautiful build
+it had a dual xeon sr2 motherboard and it was just really
+like represented tech yes city a lot and yeah i loved the build until after
+using it for about 10 hours i came into this problem where the pump
+was just making this really loud noise so in today's video we're going to go
+through my experience and vlog about pulling this thing apart and
+making it into a usable pc that i can use here at tech yes city and
+also in the process talk about i guess the dangers of custom
+water cooling so let's roll that intro and then get into
+the vlog [Music] so this right here is darth jar jar my
+custom water cooled build that was built over a year ago it's
+actually been about a year and a half since its first inception and
+it was an awesome build until this water pump
+basically started making some really bad noise
+and i'll let you guys take a quick listen to that so you can just hear it there just it's
+this annoying noise and it just drives me nuts so like basically the
+problem with this is too in order for me to replace this
+pump because i'm told it's faulty in order
+for me to replace it i've got to pull everything apart and put it back in
+again and there's no guarantee that the next pump that i put in could
+have some problems as well so this is i guess the dark side with darth
+jar jar the dark side of water cooling so what
+i'm going to do here today is i'm going to empty this loop out
+and i'm going to start pulling this thing all apart because i do want a pc
+as a secondary pc and i want it to kind of be like a
+xeon system so i might be just changing it over and doing a quick fix today
+with the hopes of maybe ordering in some custom parts again
+to fix up this loop for a later day but first things first we're going to turn
+this thing off empty out the loop which we've got a drain right here
+and then we're going to start pulling it all apart [Music]
+so so we've now pulled apart darth jar jar
+in all its glory but this is the masterpiece
+and the heart of the build the sr2 motherboard bigger than
+uh eatx motherboards this was a special size in its own
+so it required a special case to begin with or at least
+the modding of a case to fit it properly however one thing about this motherboard
+is it's probably honestly worth more um working condition and just
+sitting on a shelf being a collector's item than me actually using it so
+because it's so rare there's only a limited number of these made
+and they actually do overclock uh xeons and two cpus like it's the last
+generation of dual xeon overclocking or even i think two cpu
+together overclocking which makes it such a special board
+so we're going to sideline that and then get over to the case right now and talk
+about what's going on over here
+and how we're going to approach this build right now
+so now here's what's left of the build at the moment
+i've had to take the uh rat off the top right out the front i've taken the pump
+out that all took a while because it was
+just so i guess cluttered in there and there was so many
+cables that i've had to pull out extra cables that i actually didn't need
+and that was even with the sr2 to begin with because all those extra connections
+on the sr2 are mainly for quad sli and since we're only using a single gpu
+we actually didn't need all those extra wires so what i'm going
+to do now is try and piece together the original mounts for
+an atx board and add a rear exhaust fan and then try and get that mounted
+and then see what i can do here to rebuild
+scuffed jar jar but also there's all the water cooling parts i'm just i just put
+them in a bucket so if there's any water still inside any
+of those parts i guess they'll just come out overnight
+and i mean i can use that stuff except the pump the pump's gone
+i know that so some of the other parts i'm sure i could
+utilize but i also need to go to the hardware store and get a special
+allen key for the the block on the 980 ti
+2 to remove that [Music] um
+[Music] and now we've rebuilt darth jar jar with
+a lot more room inside it's a bit spacious here now we've got a
+140 mil exhaust fan we've got a 5700 xt
+upgrade from the 980 ti we've changed the cables because i had this
+cable set around here i've had it for like years it's blue and black cable set
+matches the build perfectly and we've also just got scuffed like
+wires hanging everywhere and i'm thinking to myself
+man i could do some cable management or i could kind of like since the
+whole thing like this whole thing is just banged up i mean
+there's just panels like panels are misaligned
+things don't fit properly even at the front bits are falling off it
+so usb slots are missing up the top i'm just thinking like i might as well just
+don't do cable management scuff this thing up a little bit
+harder maybe just put some thermal paste here and just smudge it on
+we'll just do that a little bit you know like just
+just in name of like sort of just like death star 2 sort of thing like so there
+we go we'll just smudge a bit of thermal paste on there
+just to sort of like give it a a nice authentic look and so this is
+what it's going to look like now and i guess we can boot this thing up
+[Applause] [Music]
+and finally we are back on a used zeon at tech yes city now
+this one for me personally is a little more special
+than the sr2 and you're going to think what the sr2 is dual xeons
+and the reason why for me personally is because i pulled this motherboard in the
+background here out of a dumpster and i bent the pins back and i got it
+working again so i'll put the specs up on the screen for you guys but
+this a setup like this can do everything that the latest and greatest setup can
+do the 1680 v2 is nothing to laugh at when
+you overclock it really good performance a 5700 xt really
+good card in its own right the only thing you're really missing is
+i guess rtx voice if you're streaming which
+that is really powerful believe me it's a really good tool if you've got a lot
+of background noise but of course the way to get around that is
+to not have background noise and so you'll notice that the tai chi
+the 5700 xt that we're using in idle mode and even when you're gaming
+it's really quiet and that's the good thing about that
+same with the h115i rgb platinum both really good parts even though
+corsair and asrock are channel sponsors here
+i'd be using both these components in any build any day of the week
+though besides that we've got cheap monitors here like i'm using a p191w
+acer monitor i got this off les for 15 bucks and i've got
+a 17-inch monitor which someone just gave me they said they don't even want
+it anymore it's a dime like hey i'll make a use for that monitor though
+in the next video we'll talk about streaming setups and how you can get
+into it for cheap without having to go and buy a 500 motherboard because there
+are some things to look out for like usb ports cutting out and stuff if
+you're overloading them especially on cheap motherboards so we'll talk about
+all that in the next video let's get on to water cooling and the
+dangers of it and also i guess the big negatives first
+of all is the cost that's a no-brainer right like you're looking
+at the costs of a custom water cooled build
+all the parts they're usually from niche manufacturers
+and when you've got niche manufacturers making these parts
+they're not going to be able to source the materials with economies of scale
+and so what this means is that say for instance you've got corsair selling
+10 000 all-in-one liquid coolers versus say a manufacturer making
+a water pump reservoir combo say for instance they're using the same pump
+since corsair is selling so much more of them they're going to be ordering a lot
+more so they're going to be getting a discount
+versus the niche manufacturer so that in itself
+is going to raise costs alone when it comes to custom water cooling parts then
+of course there's making the custom parts whether
+it's a water block or whatnot because they have to custom design those
+water blocks for the latest and greatest graphics cards
+that stuff costs money so generally when you want to make a custom water cooled
+build you're going to be looking at a lot more
+money to be outlaid and then as we saw with this build today
+if something goes wrong you're gonna have to spend so much more
+time to get that build to work properly and so that was
+the thing that frustrated me the most today was i
+outlaid all this cash for darth jar jar spent heaps of time with ethan from tag
+mods making this thing and then i was just met with after 10 hours of use like
+literally after i did the video on the performance and
+overclocking i was met with a pump that just started making this weird
+eerie sound and so maybe it's got to do with the pump not being able to supply
+water to a 480 mil and a 240 mil rat in the same
+loop who knows but the bottom line is i would have had to have gone out buy a
+new pump and still pull this whole build apart
+because the pump was the last thing i could get to so it was
+just designed in that way and i guess when it was designed we never thought
+the pump would go especially so quickly so i would have had to pull it all apart
+like i did put a new pump and refill it and then of
+course i run new risks coming in whether there could be a leak or
+something like that and i might have to do this 12 months later
+so having a custom water cooled build is a cool thing in that it looks great it's
+going to look so much better than a lot of pre-built pcs
+but there's so much more that goes into it so
+i will be having another custom build with the
+z490 aqua coming on i'm going to be collabing with another youtuber
+we're going to make a custom build for you guys but
+when it comes down to i'm not a big fan of custom water cool builds especially
+if you're going to use it as your main computer
+and especially if you've got to do work on it just consider that
+if something goes wrong there could be a lot of down time
+and if you can't afford that downtime especially if you're working with it
+and it's making you money as your job then i would
+caution very lightly with going with custom watercool builds
+so for me now i've got another set up i got this set up here
+i've got my main rig so if something goes wrong between one of the rigs i can
+still get videos edited i can still do work
+so basically for me personally going forward with custom water cooled builds
+i'm going to tread very lightly of course
+but on top of that i'm going to make sure any build that i do
+it's got a easy to access pump and reservoir which i can change
+out so if something goes wrong i can just maybe empty the loop and then
+just change that part without having to do too much extra
+work and so that's something i've learned
+personally from this build and everything involved
+another thing i've learned too is that definitely when i get
+another pump for this build because i got recommended this pump for darth jar
+jar so i had no idea but in the next build i do i'm going to go
+and make sure that i get like the best pump reservoir you can get
+whether it's 400 or 500 because if you're going to do this stuff
+i'd recommend just getting the best stuff because you're ready
+if you're going with a custom water cooled build your your price performance
+is already out the window at this stage you're just going for the
+aesthetics and i guess the extra cooling performance
+which you are going to get but your price performance is just out the window
+and you definitely want to get something that's going to last and work properly
+or at least i'd hope you would and so that's something i've learned
+personally out of darth jar jar and so going forward
+i'm really going to make a note to get the best stuff if i do a custom water
+cool build in the future anyhow guys i hope you enjoyed this
+video if you did be sure to hit that like button for us
+also let us know what you think of the new setup i want to do more
+news videos and stuff like that and just quick
+sort of off the cuff videos where i can get you guys news
+and um important news and especially tutorials and stuff like that done
+a lot easier than i otherwise would recording off a dslr through a memory
+card and then editing in adobe premiere pro so
+hopefully this setup is nice the microphone sounds good this will be my
+first time hearing it back but also do let us know in the comment
+section below what's your personal experience or opinions on
+custom water cooling setups do you like going that route or do you like going
+say with the all-in-ones or do you like going with air cooling on that note as
+well have you delved into used custom water cooling something that
+i've never done something that i kind of probably want
+to stay away from especially after seeing this water pump and how it
+went bad and pretty much i don't think it's going
+to be easy to replace i think you just got to get a new one
+though do let us know love reading your thoughts and opinions as always just
+like this question of the day here which comes from
+heclanet and they asked did you say amd motherboard or intel
+i mean because the prices look like intel this is in the uh
+previous video we did on the b550 uh asrock
+phantom gaming itx motherboard this motherboard is coming at 200 us and
+you you'll notice with b550 the prices are
+higher than they're used to being and that's because they've got the pcie 4
+they've got all the the chipset costs more essentially with b450 but another
+thing i've noticed too is that this time around a lot of the
+b550s are able to run those 16 core chips
+and so for me it feels like there's this prerequisite with b550
+where the manufacturers have to put in all this extra componentry and that's
+raising the cost so i would like to see amd perhaps make
+a b530 or some type of new motherboard where
+it's targeted towards four cores and eight cores and people who just want to
+maybe overclock a six core or something like that
+and so you don't have to go out and spend all this extra money
+on a b550 versus i mean versus a b530 that would have say
+pca4 on board it has all the new features and its upgrade ability
+is there for the next generation chips because at the moment b450 is the
+value king same with a320 if you don't mind not overclocking
+and you get a decent one of course and you're just coupling with a four or six
+core but in terms of them making a new
+refresh of b450 i think the potential is definitely there
+to do that and maybe even add pcie 4.0 in
+with something like a b530 motherboard lineup
+i think that'd be cool but until then yes the motherboards are going to be
+overpriced because at least what i've tested with b550 is they're all running
+16 cores anyhow to answer the question directly
+yes i did say amd motherboard in that video
+hope that answers that question and if you guys have stayed this far and you're
+enjoying that content you want to see the moment it drops
+be sure to hit that sub button ring that bell and i'll catch you in another tech
+video very soon peace out for now bye
+[Music] you 

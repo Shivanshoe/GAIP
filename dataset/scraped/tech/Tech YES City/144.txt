@@ -1,0 +1,135 @@
+please sir can i get a gpu now please 
+put together a pc please sir please welcome back to tech yes city and today we've got this pc marks a first 
+here at tech yeah city because the first time i   found a pc on the side of the road that i would 
+actually turn into a gaming pc in the past i have   found pcs whether it's on the side of the road or 
+it's at a tip but they've just been so far gone   or they've just been way too old that i couldn't 
+turn them into an actual gaming pc that could play   titles of today but when i saw this pc right here 
+as soon as i saw the x58 motherboard inside i knew   i had to pick it up put it in the boot and get 
+it back to the tech yeah studio where what we're   going to do right here is we're going to take out 
+now the parts that are could be possibly working   so i'm going to remove the motherboard the cpu 
+and the cooler and also the power supply and also   test this two gigabyte stick of memory that was 
+literally just sitting inside the computer like   like such so we're gonna see if we can turn trash 
+into treasure and make something that can play   some of those latest and greatest titles do 
+you feel like this when you see this well if   so you can get rid of that windows activation 
+message with today's video sponsored lcd keys   for as little as 12 usd after you use that 
+coupon bftyc you can get activated today   so pulled all the important pieces out of 
+the tower and as for that tower i'm just not   even going to bother with it because it's just so 
+dinged up and damaged that it's not going to make   for any decent gaming pc per se and i'd rather 
+just have an open-air test bed if i couldn't   afford a case but what we've got right here is the 
+motherboard this is the most important piece of   this puzzle if this ends up working then i'm going 
+to be super happy because this one here is the   price of this whole pickup and also if the power 
+supply if this works too then i'm going to be   really happy because that saves a lot of 
+money when putting together a gaming pc now   this card right here is a gts 250 i mean 
+it's a little bit no actually a lot it's   really lackluster for gaming in 2021 but i mean 
+some sellers nowadays they might just put one of   these cards in and call it an ultra fast gaming pc 
+so do be aware of that but essentially we're going   to pull this one up away and we're left now and 
+and the blu-ray drive i mean i'm not really into   i haven't used a cd or a dvd i think for maybe 
+six or seven years now it's for me personally i   just never use it but of course we might be able 
+to sell one of these on ebay or something and get   some money for it uh for essentially nothing 
+but now we're left with two gigabytes of ram   motherboard and a power supply and we're gonna 
+clean these up now and then we're gonna test   if they work so we're gonna do a quick clean 
+nothing super nothing crazy but just a quick   clean to get all the dust and dirt off and 
+then just see if either of these parts work so we've got some good news coming out of this 
+very good news and that is the motherboard the   cpu and even the two gigabyte stick of ram are 
+working absolutely fine though the power supply   it's for starters the power supply i'm not 
+going to use the power supply even though it did   turn on and the power supply tester was saying 
+it was okay there was some coil wine evident and   also the 5 volt line was displaying a weird 
+readout there so those two things coupled   together plus coupled in with the fact that it 
+is a very cheap and nasty power supply means   i'm going to use something different which that 
+could have been the reason why the whole build   failed on the person beforehand they just decided 
+to chuck it out because maybe one of their hard   drives dropped out or something they're like oh 
+this whole pc is an absolute mess i'm just getting   rid of it even though the motherboard is actually 
+still in really good condition though we're gonna   be supplementing that with an antec power supply 
+now these two parts i'm gonna give them a thorough   clean right now and then we're gonna start 
+putting together a gaming pc for everyone so so so we've now just finished cleaning up all 
+these pc parts and you may notice i started   cleaning up an rx 570 four gig and that's 
+the graphics card we're gonna be adding in to   complete this build we've also got a 500 gigabyte 
+hard drive and a 120 gigabyte ssd this seems to   be the budget meta combo right now now probably 
+thinking what's with the ram we're going to be   adding in since that 2 gigabyte stick works 
+we're just going to be adding a ddr3 mash   of ram here to make 12 gigabytes in total 
+so we've got all these two gigabyte sticks   just sitting around here we add them in and 
+hope and pray that they all work together   but that's one beauty about x58 generally you put 
+all those two gigabyte sticks and even if they're   dual rank and single rank and a lot of times 
+they work that's what i found with this uh combo   and now power supply is all cleaned up ready to 
+go and we've got an rgb case here that i picked up   for 50 aussie dollars so in total we're a little 
+bit above 200 dollars in our costs and how much   this pc is going to cost to put together but of 
+course having a free x58 motherboard and an i7 950   that works absolutely fine is a big 
+advantage in this situation it's going to   bring the price performance of this rig up through 
+the roof so let's put this thing together and get building and now ladies and gentlemen we have a pc that is 
+ready to go and finishing off this video we've got   from trash to treasure it's one thing that i 
+personally love doing and that is just giving   these parts a clean especially one that's been 
+left on the side of the road someone's abandoned   that they just said look i don't want this anymore 
+it's garbage it doesn't work and i've come in and   picked it up and look at what we've turned it 
+into now granted we've added new parts to this   especially the case and we've changed the power 
+supply over but these parts at the moment they're   very cheap besides the graphics card we'll 
+talk about the graphics card very soon but   adding a new case right now that's the cheapest 
+i've ever seen cases this case here is rgb   timber glass i got this for 50 aussie dollars 120 
+gigabyte ssds they're very cheap at the moment and   i'm sure if you look locally you'll be able to 
+find ddr3 memory especially two gigabyte sticks   and possibly even an x58 board or something 
+similar for very cheap also but of course the   builds like this here on the channel take your 
+city you guys have been requesting that i do   more builds like this these use bangers but i'm 
+just having a tough time um doing them a lot more   than i would usually do because of graphics card 
+prices and so when i make these pcs at the moment   it's sort of only realistically catering towards 
+people who can get good deals locally because that   is pretty much the only good graphics card deals 
+i'm getting personally is where i pick them up   local and it's not going through sites like ebay 
+or aliexpress and when i go on ebay or all express   i've got zero chance of getting a solid deal on 
+a graphics card and that's just reality and even   though i'm getting solid gpu deals here locally 
+i'm still not getting them at the pace that i was   getting them and they're also still not readily 
+available like they used to be where i could   jump on gumtree or facebook and i could pretty 
+much find five different graphics card deals   that were ready to go now i've sort of got to sit 
+on there and really like just maneuver through all   these obstacles and i'm like okay this looks 
+like a decent deal on a gpu let's try and get   it and that's how i've been getting my graphics 
+card deals lately so it is getting tougher to   put together these price performance pcs but 
+we are definitely doing it here at tacya city   but hopefully hopefully that crypto price just 
+keeps dropping and those mining profitabilities   keep dropping and then we're going to see some 
+graphics card availability come back into play and   that day i feel is coming pretty soon sooner than 
+you think the only thing left that us gamers need   is the infamous rug pool and that's and that is 
+whoever's put all this cheap money into crypto   gets the rug and they just pull it out and then 
+suddenly the price collapses and uh we already   saw one example of that so if we have one more of 
+those type events in the crypto field then i feel   like that is going to be party time if you've been 
+looking for a cheap gpu but in the meantime we're   starving out here guys it's like please sir can 
+i get a gpu please put together a pc please sir   please no boy you got to put together a console 
+but you don't put together a console sir   yeah back to the video but on the note of this 
+pc right here before we get on out of here   if you guys find it pcs that people no longer want 
+and they just think that maybe it doesn't work it   doesn't boot up and they just chuck it out or 
+your friend has an old pc lying around that   they no longer want might be worth your time just 
+to check it out and especially if you're new to   building pcs you can definitely use those older 
+rigs to test out parts and sort of build up your   portfolio of used pc parts and then that's the 
+that's the beauty of building pcs is once you   get a few parts in and you've got different parts 
+that you know work you can mix and match and you   can quickly and easily test which pc parts are 
+the problem versus which ones are going to work   and so that's what i've set up here at my studio 
+it's easy for me to put together pcs now and find   out faulty parts and quickly diagnose them and of 
+course clean up the parts and make them look like   they're brand new with that said i hope you guys 
+enjoyed today's video if you did be sure to hit   that like button for us and also let us know in 
+the comment section below what you think of this   side road pickup pc but finding a pc on the side 
+of the road i mean how how long before someone   else comes and picks that up i don't know maybe i 
+gotta do an experiment but speaking of experiments   we've got the question of the day which comes from 
+aaron and they ask you could buy a ps4 that will   run fortnite better than this and it is cheaper 
+can't these fools be sued for false advertising   so they're referring to yesterday's video that 
+we did on the gt710 gaming pcs that people are   selling on ebay it's an absolute joke especially 
+when they're saying it's a fast gaming pc or an   ultra fast gaming pc and yes to be honest a ps4 
+will run fortnite better than these pcs will run   fortnite and i think that's a sad thing because 
+you can pick up a ps4 at least locally here you   can pick them up for really cheap right now so 
+that that's a much better option like if you want   to get into gaming and you don't know anything 
+about pcs and you want to buy one of these rgb   ultra fast gaming pcs just don't you're better off 
+just going with a console and that's i thought i'd   never see the day where i'd recommend a console 
+over a pc but that's how bad the crypto market has   uh driven up gpu prices to the point where you've 
+got these real i just think they're scummy people   and they're misleading and they're trying to sell 
+a graphics card that was never intended for gaming   and they're putting it in and now that's that was 
+seven years ago like this card wasn't intended for   gaming seven years ago and now they're putting 
+it in gaming pcs and saying they're gaming pcs   in 2021 really it boggles the mind but answer the 
+last part of the question i can't these fools be   sued for false advertising i mean perhaps but 
+i think a lot of people aren't really going to   bother suing them because they're probably i 
+mean if they're selling 400 gaming pcs they're   probably not going to have a mad like crazy 
+profitable business going on and even then if   you sued them are you going to get your money back 
+because they'll probably just say they're bankrupt   even if you win the court case and so that's why 
+a lot of the times a lot of people a lot of even   corporations and stuff they don't bother small uh 
+suing the smaller guy because the smaller guys is   gonna be like well what are you gonna sue me for a 
+gt 710 gaming pc but ultimately in terms of being   sued in australia even then i think there's a 
+certain threshold for the value of an item and   what you can sue for in a small claims court and 
+it's just really not going to be worth your time   doing that especially i know in australia 
+it's not gonna be worth your time and so   i get a lot of these guys know that and so they 
+get away with it but anyway i hope that answers   that question and if you stayed this far and 
+you're enjoying that tech yes content you want   to see at the moment it drops and uh then got a 
+message that threw me off now be sure to hit that   sub button and ring that bell and i'll catch you 
+another tech video very soon peace out for now bye you 
