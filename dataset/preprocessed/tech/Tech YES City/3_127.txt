@@ -1,0 +1,91 @@
+all of this year and most of last year people 
+were out there looking they had 500 saved they   were used to seeing in 2019 2018 budget pcs 
+that were available with good performance for   five hundred dollars but now it just doesn't 
+happen they can't find that anywhere except   at tech yes city where we've got today a gtx 980 
+gaming pc with a ryzen 5 3 616 gigabytes of ddr4   memory it's even got a bit of rgb now you're 
+probably thinking brian what happened to this   gtx 980 that looks sick as bro where did you get 
+that from and this gtx 980 it wasn't unfortunately   always sick as it was actually nauseous when 
+i first picked it up 200 aussie dollars that's   what i paid for it it was dirty i then did what 
+i do with used parts going forward and that is   popped it in the ultrasonic cleaner washed its 
+dirty mouth out with some detergent and tap water and tap water and then i cleaned all the old paint off and then 
+we re-sprayed it black and then of course i gave   it some multi-purpose spray to polish it off and 
+protect it from any future rust and this is what   you're left with now a gtx 980 that not only looks 
+like brand new but performs like one and some may   even think it looks better than brand new but i'll 
+let you guys be the judge in the comments section   below let's pull up a price list of all the parts 
+that we have in today's build and what we paid   for them with of course the gpu being one of the 
+most important parts but also this ryzen 5 3600   motherboard and cooler combo that we picked up for 
+a really good price i was quite happy with that   considering the six cores 12 threads on zen 2 that 
+is going to be extremely relevant even if you want   to upgrade the gpu in the future once the rug gets 
+pulled out from underneath crypto and gpu prices   on new products return to normal but until then 
+we are going to be micromanaging here so let's   whip this build up put it together and see how it 
+performs today's video is brought to you by asrock   and their z590 phantom gaming velocity motherboard 
+featuring pcie 4.0 m.2 support as well as a three   centimeter personalized moss fan covering the 14 
+phase vrm for overclocking and lastly if you're a   gamer you've got dedicated lightning game ports 
+which allow you to separate the latency of your   keyboard and mouse on separate controllers 
+links in description below to find out more so   and this build is all complete it is looking 
+schmick but one really good thing about this   whole process was it was one of the quickest 
+pcs i've built all year just there was minimal   cables to use on this power supply the ram 
+the x and ps they lock in straight away   with this b450 motherboard that we 
+used and for the ryzen 5 3600 we don't   really need to overclock it just whack in your ram 
+xmp profiles that's kind of going to be the safest   easiest uplifting performance that you can get 
+and then inside we've got only one exhaust fan   so we're going to check the temperatures on 
+this build right now to see how it turns out   but since the ryzen 5 3600 especially while 
+you're gaming won't use up a whole lot of   power and the gtx 980 definitely isn't as power 
+hungry as say the titan x that we tested recently   i'd say this whole build will end up being 
+okay even with the side panel glass on but   we won't know until we install windows so let's 
+get that installed and start those benchmarks and all the testing is now complete with a build 
+like this i am pretty impressed with the price   performance but also the aesthetics now i did 
+go to the extra length to clean the motherboard   and also the gpu and that can take a little bit of 
+extra time but i do recommend that because in the   case of the actual case itself that is brand new 
+and that means that we've kind of got like a build   that presents like a whole new pc now in terms of 
+the numbers itself you've got the option here and   this is what i'm gonna start recommending going 
+for with pc builds because this pc build came   at a pretty good price considering what's going 
+on in the market but i think if you get a build   like this you can at a future date sell this gtx 
+980 and then upgrade to something more powerful   because i'd say the gtx 980 especially if we're 
+looking in the background here we got cyberpunk   running it wasn't the best fps experience i mean 
+we're getting around 48 fps on low settings at   1080p in cyberpunk but when we went to dota 2 
+which i've been testing in the heavy team fights   we were getting a pretty similar fps to the other 
+two builds that i featured here on the channel   and that is we're getting 134 in those massive 
+team fights at 1080p maximum settings and so this   build will do the job for playing all those games 
+at 1080p with smooth fps now the ryzen 5 3600   that did a good job on the physics score so we'll 
+move over to the fire strike score and this is   one of those benchmarks that anyone can compare 
+their numbers to just to see how much not only   price performance they're getting out of their pcs 
+but also how powerful their pc is in general and   usually i like to have the gpu score coming over 
+the physics score but you'll start seeing a bit   of a trend at least while the gpu prices remain as 
+high as they are for the new gpus you're going to   probably see more the physics score being higher 
+than the gpu source because typically i like to   have this gpu score around double uh the physics 
+score that's always been a good balance for me but   of course we've got here now 13 750 which is below 
+that of the 18 500 that we got on the physics side   so the ryzen 5 3600 very capable cpu it boosts 
+up to 4 gigahertz in games and the funny thing   about the temperatures was it like to stay around 
+60 degrees but this is the first time i've been   benchmarking with a ryzen cpu or any cpu for that 
+matter where all the temperatures on the numbers   were exactly the same even though the loads were 
+different between the cpu cores i don't know maybe   this is just the weird ryzen sample or maybe the 
+afterburner program was bugging out a bit but the   temperature was exactly the same across all those 
+cores so that was pretty good to see or maybe i   just mounted that cpu cooler with perfection and 
+or maybe the ultrasonic cleaner clean the surface   of that ryzen 5 3600 to perfection whatever the 
+deal is we've got a pc now that looks brand new   the temperatures are really good on the cpu the 
+noise is really quiet as you can hear i've got the   mic right here pc's right here running cyberpunk 
+and it's burning up about 230 watts from the wall   the max i measured was 238 watts so it's going to 
+be pretty good on power as well especially while   you're playing games though if i was to critique 
+one thing about this build it would be that   cooler on the gtx 980 these older reference card 
+coolers they although they remain relatively quiet   they do so at the cost of temperatures where this 
+gpu even the 23 degree celsius ambient environment   is still going up around 80 degrees so it still 
+likes to remain kind of toasty where i like my   gpus personally in the 60s and max 70s if i can 
+get away with it but then again this graphics   card will do perfectly fine considering we only 
+paid 200 aussie for it or about 150 us and i think   going forward if you guys are looking to build a 
+decent price performance pc you can definitely do   so you've just got to look at the cards that are 
+a little bit older and they're a little bit more   inefficient compared to the newer cards because 
+the miners won't be targeting something like a   gtx 980 anywhere near the level that they would 
+be targeting say an rtx 3060 ti anyhow guys that's   about it for this build do let us know in the 
+comments section below what you think of the whole   cleaning process the whole build process here do 
+you like the combo of the parts do you like this   new angle i'm going with these price performance 
+pcs i think for me it's exciting because i get   to start building again i'm noticing some of the 
+prices are coming down especially when i pick up   these gpus on the used market and i pick up things 
+like a ryzen 5 3600 combo yes it's not the best   price performance i've built on the channel but it 
+does remind me of better times and that's the most   important thing because that's what brings a smile 
+to my face and of course hopefully this video   brought a smile to all your faces and if it did 
+be sure to hit that like button and let us know   in the comment section below what you like best 
+about the build love reading your thoughts and   opinions as always and with that aside i'll catch 
+you guys in another tech video very soon and if   you stay this far and you're enjoying that 
+tech yes content then be sure to smack that   sub button and ring that bell on the way out 
+and i'll see you next time peace out for now bye foreign 

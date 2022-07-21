@@ -1,0 +1,177 @@
+[Music] here's a fun fact about colorful that i
+didn't even know until a couple of days ago and that is
+that they are the second biggest gpu manufacturer
+in the world behind palit and palit (microsystems) apparently own galax
+and also gainwood and they're the number one distributor
+even beating out companies like asus and gigabyte when it comes to gpu shipments
+and in america evga which i believe they're
+number one in the usa but just because they
+ship more gpus than asus and other companies does that necessarily
+mean they are better well today is a very big
+and pleasant surprise for me and i mean big because this cooler weighs in
+at over 1450 grams being 148 grams on its own
+and then the whole graphics card weighs in at 2.075
+kg making it a mammoth pretty much the same size as the
+founders rtx 3090 which was pretty much the biggest graphics card
+i have seen to date now they've got three 90 mm dual ball bearing fans
+and on the middle of the fans they've got the logo that doesn't spin
+with the fans themselves so that is a welcome addition not just for aesthetics
+but also when i see these logos on these graphics cards when they start spinning
+around it can look a little bit annoying so especially on a flagship graphics
+card or a flagship model like the igame vulcan here now i am
+wearing these white gloves and you're probably thinking why are you wearing
+white gloves in a review of a graphics card Bryan that's because
+this card comes included with these little gloves right here
+and they include a vga support bracket which will fit in a variety of cases
+because you can adjust it and then screw it into the back of the
+gpu an extra two features on the inside of the card which is going to mount
+inside your case is a usb type-c connector which
+i'm told you can externally control things like the lcd screen and monitor
+things from that port and there's an extra fan port if you are
+into ln2 overclocking then the big difference on this card
+versus a lot of other cards is this lcd screen right here now i was
+actually at first going into this i was like okay
+this is going to be some tacky lcd screen that's not going to do much
+but after using it i was really pleasantly surprised in that you
+can rotate it 90 degrees so if you're mounting it traditionally or if you're
+vertically mounting it inside of a case the lcd screen is going to be useful in
+that regard and what you can do with this lcd screen
+is actually quite impressive you can monitor cpu temps loads as well
+as gpu temps and loads fan speeds vram usage and you can split that to two
+different screens which is my personal favorite especially
+while you're gaming it can tell you if the gpu is being utilized at 100
+which is generally what you're going to want with an rtx 3080
+and another cool feature in the software itself is that you can rotate that
+vertically on the display so if you're building in say a silverstone
+ld03 which i have in the past your gpu will kind of be
+going in a vertical sense but in a tall sense and so the lcd screen will still
+be useful in that regard as well if you're looking
+at it from a different way so very nice implementation and it's also
+got a 60 fps refresh rate so it looks very smooth and it's also high res so
+not tacky whatsoever and if you're in the market for a flagship gpu for
+instance you want a strix or something like that
+then this is going to give you something that the strix isn't going to give you
+and going over the back of the card you've got your hdmi 2.1 out three
+display port outs which is standard on the rtx 3080 but
+above that you've got an introduction of a button and this
+isn't going to launch anything don't worry
+it's actually a dual bios switch where if you press it in
+it'll turn on oc mode and so here's where we'll get into the 1080p
+numbers and the 1440p numbers in the 4k numbers
+where we can see that the oc mode here is going to juice a little bit more
+power but it's actually going to give you a
+little boost on your rtx 3080 which is actually more significant than
+other oc models that i've seen come through here
+in that also in the future if you're running games
+and they potentially crash or whatnot then you can quickly just turn the
+computer off take this button off and then you'll be
+back to normal mode but for what it's worth i tested out the
+oc mode here and it was a hundred percent stable
+even doing the rtx benchmarks the ray tracing benchmarks so
+i usually have had not much luck when it comes to
+overclocking and ray tracing but this card right here handled it
+with ease and just continuing through the rest of the benchmarks here
+sorry there is a lot to get through because i just like to be
+thorough in the tests and know that if i'm recommending this card
+to you guys you're getting the full picture like quite literally and that's
+what you are getting with the oc mode and turned off it's
+going to perform similar to pretty much all the other rtx 3080s
+that have come through here so very useful overclocking mode here
+but you will be juicing more power when it comes from the wall
+now one thing i like to do with rtx 3080s
+and i'll probably be saying this in every rtx 3000 review that comes through
+here is i like to under vault so under volte
+on this thing definitely gets us a better efficiency curve or a much
+better efficiency curve overclocking it does start to juice
+more power than is desirable both out of the box settings and a custom oc but
+here's where i went with a custom oc and i got some big gains and these were
+quite impressive to the point where they were beating
+that of the tough oc that came through here
+ever so slightly and then we went on to the fan noises and temperatures
+they were also very impressive so i was surprised to see that colorful
+especially with this model right here the vulcan they mean
+business and they mean it in a lot of different ways
+not only with this massive cooler design but the noise is kept
+well under control and out of the box i actually preferred the out of the box
+settings with the fan profiles something that a lot of companies i
+noticed are definitely paying attention to as the balance between noise and
+temps so you will want to leave this just out
+of the box even on oc mode it'll give you the best sort of
+noise versus temperatures even for longevity purposes
+though continuing on you will want to get a power supply with more than a dual
+pca output and in this case this will need
+three pca eight pins and then in terms of
+measurements this is quite a big card i'll put the measurements up on the
+screen here for you so if you do want to mount this
+here are the dimensions just be careful this thing is not only very heavy
+but it's also very big and with all that out of the way
+it's conclusion time this is where i'm going to just drop my thoughts on the
+table and to be frank with you guys this is
+where the gloves coming off i've got to say that i'm very impressed
+with what they've done with this card right here
+i used to know colorful like even four or five years ago
+as being a company that sort of just made these real banger type gpus
+but this right here is a strix alternative and in ways i feel like it
+could even be better with a very useful implementation of an
+lcd screen that is not tacky it just really works
+fine now in terms of rgb there is a little
+bit of rgb on the cooler and on the back plate if
+anything this is going to sound so weird but i wish they kind of put rgb
+around the rings of the fans that would have just made this card
+absolutely perfect in my opinion i think it would have just been
+i would have just been dancing here going yep
+that's it they've just done everything so i would like to see a little bit more
+rgb i know that sounds a bit weird but i think if you're vertically mounting this
+which you will definitely want to with the lcd screen
+i think that extra rgb would have completed the card
+now in terms of the software great job great implementation of the software it
+works tremendously well the lcd screen works really well the
+cooling performance the noise the temps the build quality everything's
+phenomenal on this card colorful mean business and they really
+want to take business away from a zeus gigabyte and
+all the other competitors out there and with a model like this this is their
+flagship air cooling model i believe they've also got a water cooling model
+coming out but if you're interested in paying i believe
+it's the extra hundred dollars msrp over 6.99 so 7.99 for this
+and in australia i believe it's going to come in roughly maybe 150 aussie dollars
+over those 12.99 cards if you're interested in getting something that
+is pretty much going to be like a strix but have a little bit more
+then this is going to be the card for you i was really impressed another thing
+as well when i pulled the cooler off i looked at the vrm solution they're
+giving you 23 phases directly to the gpu itself
+and then there's another six phases on top so 29 phases in total
+on this gpu so they really have gone from the ground up
+to make sure that they've got a gpu that works phenomenally well
+so very impressive job also i'm going to say from here on in
+if you see this thing in my main rig then do not be surprised
+it is just that good but something like this really impressive
+really good job and if it's in stock and it's the right price
+then this card is definitely going to impress and you've got all these cool
+little features like gloves and you've got the lcd screen the vga
+bracket support system and also got to say from here on in is
+that colorful very good job i'm definitely going to be
+keeping my eyes out on this company and seeing what they
+release in the next few months anyway guys that about does it for
+today's review also if you're interested in the capacitors
+of at the back of the gpu they're using the four big
+two uh little sectors in the middle this is the same as the founders edition
+and if you have any questions or comments then be sure to drop
+that down below and i'll get back to you as soon as i can
+and with that aside i'll catch you in another tech video very soon just after
+this question of the day here which comes from the last shippy and
+they ask what flavor of tea are you drinking and
+so for me personally i like to drink in the morning i've got a
+little routine going where i'll drink a earl grey with honey and
+cinnamon and then i will drink after that two
+cups of green tea so i have three cups of tea in the morning
+i mean it might be a bit excessive but i love my tea so it usually
+alternates between earl grey in the morning first thing in the morning is
+all gray then followed by two green teas then
+after lunchtime i don't drink any more green tea because it's got caffeine in
+it caffeine keeps me up if i drink it past lunch time so that's
+my tea drinking session right there it
+alternates between earl grey and green tea
+let us know in the description below too what tea are you drinking love reading
+your thoughts and opinions as always and i'll catch you
+in another tech video very soon peace out for now [Music]
+bye 

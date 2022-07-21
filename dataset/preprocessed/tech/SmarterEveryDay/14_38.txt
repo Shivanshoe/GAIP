@@ -1,0 +1,230 @@
+Hey, it's me, Destin. Welcome back to
+Smarter Every Day. It's time for the
+Weed Eater episode. And the way-- I wanted
+to shut the door. The way you can tell
+that I've staged all this is that this Weed Eater's
+going to crank up immediately. But here's the deal. When it comes to
+operating a Weed Eater, I have a mental model in my head
+of how the Weed Eater works. Like, as it goes faster,
+it slings out these lines in a disk, right? But is the disk
+like a solid line pointing straight out
+from the Weed Eater head? Or I guess you could
+call it the trimmer head. Or is it more like
+a lagging wave? I don't know. Check this out. [REVVING MOTOR] Let's look. So if I'm going to weed eat
+this whole spot right here, I rev up the Weed Eater. But when I don't rev
+up the Weed Eater, you can see that
+the line is lagging. It's all curled up. So at some point in
+there, it straightens out. Then I can go in. I can trim. And for some reason,
+I feel like I should trim
+from right to left. I don't know why, but it
+just feels like that's something I should do. Let's go over here to this. Watch this. If I come down,
+should I plunge? You see that lays the grass
+down in a certain way, but if I go like
+this, it doesn't? I don't know. My point is there's
+a lot of physics in how Weed Eaters work. And there's these
+quantitative things that we should be
+able to measure with a high-speed camera. But there's these
+qualitative things that you just know if you spend
+time running a Weed Eater. So today on Smarter
+Every Day, I want to take that internal mental
+model of how Weed Eaters work that I've developed
+over years and years of running Weed Eaters. And I want to test it
+with a high-speed camera to see if we can understand
+the physics of how
+a Weed Eater works. Let's go get
+"Smarter Every Day." [THEME MUSIC] What up? TRENT: What's up, man? DESTIN: Trent is
+going to be the trigger man on the slow-mo camera for us. So I'm going to be
+running the Weed Eater. And I'm going to get that
+Weed Eater head positioned over this X right here. And we're going to use
+this Phantom v2511. We'll record it at about I'd
+say 12,000 frames per second. And then we're going to see if
+the Weed Eater line slings out or, more accurately,
+see how it slings out. Because if you think about
+it, as the line is whipping through the air, you
+have aerodynamic drag acting on the Weed Eater line. But you also have the
+angular acceleration slinging the line out. So you've got this
+balance of forces. That being said,
+the question is, does the line ever
+truly get straight? Because in my head, I'm
+operating with a disk with straight lines out of it. 12,000 frames per second. OK, ready on trigger? TRENT: Yup. DESTIN: Here we go. Ha! [REVVING MOTOR] Ready? TRENT: Yup. DESTIN:
+It's a simple test, but it should show us exactly
+how that straightens out. All right, so as we
+speed faster and faster, you can see that the
+line is lagging behind, probably due to that drag
+that we talked about. But there's also still a little
+curl at the end of the line, probably because it remembers
+being wrapped around a spool. My question is, if we
+make the line even longer, will this drag be
+even more pronounced? Meaning, would it lag
+behind even further? There's only one
+way to find out. We got to test it. If we were to remove this
+guard-- don't do this at home, all that stuff-- I think what would
+happen is we would see that the
+aerodynamics would start to win, like the drag
+on the line, right? Here we go. Let's do this. [LAUGHING] It's hot in this helmet. [REVVING MOTOR] It's going to hit my knee. So I'm learning
+all kinds of stuff. Like, the torque
+demand on the motor is a function of the length
+of the line and the
+aerodynamic drag. So for example, while he's
+saving that high-speed file, listen to this. [REVVING MOTOR] It doesn't rev all the way up. Right? But if I cut that
+line off... [REVVING MOTOR] I never thought about that. Huh. TRENT: This looks so Alabama. DESTIN:
+That's a good thing. It's like The Stig. This is the Alabama
+version of The Stig. Roll tide, baby. So once the Weed Eater line
+gets to a certain length, the aerodynamic drag
+is just too much, and the whole system
+lags significantly. But Weed Eater
+designers were clever, and they integrated a
+really interesting tool to make sure the line
+both stays balanced and at the optimum length. There's a feature
+in a Weed Eater where you can tap the
+head down on the ground. You hit the button at the end,
+and it will release more line from both sides of the spool. There's also an integrated
+blade in the guard itself. So when the line
+gets long enough, it will trim the weed eater
+line to the right size. But I've always wondered
+how that cut takes place. This is an older Weed
+Eater I've had for a while. And I don't expect it
+to make a clean-cut. But I want to use the
+slow-mo camera here. And Trent was pretty smart
+and came up with a mirror to bounce light up in
+there so we can see it. So let's see what exactly
+happens when we bump the line and get more. We'll see what that
+cut looks like. [REVVING MOTOR] TRENT: Good? DESTIN: Yeah, got it. There's so much to see. So it's not a single cut
+like I've always thought. It's like a continuous
+whipping until it pulverizes it into the right length. The torque on the
+engine is a function of the length of the line. The line is determined by the
+position of the knife blade. The balance is determined
+by both sides of the line being equal. It is time to cut grass. Let's go cut grass. TRENT: Ready? DESTIN: Yup. [REVVING MOTOR] OK, I've got a theory that there
+are different types of grasses that behave differently. Like, that was a blade of grass,
+and it kind of de-laminated. When it started getting
+hit by the thing, it started ripping apart. But if we go over here
+to something like this that's more of a
+stalk-y type of grass-- I don't know if
+you can see this. I wonder what's going to
+happen there, because it's going
+to rip differently. So let's see if we can
+get a slow-mo of that. TRENT: Ready? DESTIN: Look at this. You've got a stob. That's a grounding rod. So let's replicate that. We've got a metal stob
+right here in the ground, and it's hammered in. I've noticed that
+when I'm weed eating and I hit something like that,
+it'll pull my Weed Eater in. OK, here we go. I always thought that
+hitting an object like this would pull the Weed Eater
+directly towards the steel rod. But if you look closely,
+you can see that it's a little
+different than that. The line is hitting
+the top-right side of the steel rod. And you can tell this by the
+way the line wraps around it. It almost makes it
+look like a pulley. If you were to draw a line in
+the direction of that force, you can see that that's the
+direction the trimmer head gets pulled. Just play it forward,
+and you can see that it kind of
+follows that line. So it's not being pulled
+directly in like I thought. It seems to be reacting
+to the force that's being applied to that rod. All this happens
+so incredibly fast that I never thought about
+what was actually happening. OK, the next thing we're
+going to talk about is what happens when a Weed
+Eater goes up next to a fence. Over here, a long time
+ago I had an idea. I wanted to create a
+little gourd garden. And so I put this wire
+fencing, if you can see that. I put this wire fencing up
+next to this wooden fence. Now, over time for some
+reason I came out here, and I'd weed eat this thing. And it would break
+my Weed Eater line. And I got tired of that. So I just quit Weed Eating it. So now we have big 20-foot
+trees and stuff like that. So to try to understand
+why I got frustrated and quit weed eating
+that stuff, we have set up a Weed
+Eater obstacle course. We've got chain-link fence here. We've got what I call
+"hog wire" here, which is maybe
+not quite hog wire. But it's a pretty stout
+wire, but it's still not quite as strong as
+the chain-link fence. And then we've got
+this other one. It's a smaller
+diameter fencing here. So the idea is with the
+stob, the Weed Eater line would rotate around
+that stob, right? And it would act like a pulley. If we have a smaller diameter
+here, does it do that? Or is the minimum bend
+radius a lot smaller, and will it just cut it? OK, it feels more like science
+if we take some measurements. So looks like about 0.110,
+0.112 an inch on the chain link. And let's look at the
+Weed Eater line itself. Looks like we're around
+0.095 of an inch. [REVVING MOTOR] Yeah, it definitely
+pulls it to the side. The question is
+what is the interaction of that Weed Eater line
+to the fencing look like? Aw, that's awesome! [CHUCKLING] That's awesome. So it wrapped around it. And at times, it
+doesn't break it. And at other times, it does. Oh, what happened there? Oh. TRENT: [CHUCKLING] DESTIN: OK, if the Weed
+Eater line wraps 360 degrees around the fencing, then it-- is it a tension break? It rips it. TRENT: Wow. DESTIN: Oh! OK, cool. So it's like a spaghettification
+of the Weed Eater line. It wraps around the fence. And then if it goes 360, it
+has to unwind the whole thing. And sometimes it's
+easier just to break. I can't tell if it's a tension
+break or a sheer break. Because the chain-link
+fence is on a diagonal, it looks like as the Weed
+Eater line comes in and hits the fence,
+it funnels it to the corner. And because there's another
+wire going through the corner, it's like a pinch point. I bet if we go to the
+smaller diameters-- yeah, if we go to the
+smaller diameter wires, it's going to have a
+smaller radius of curvature it has to bend around. Mm. Mm. Interesting. We need to move on
+to the next one. What I'm calling hog
+wire is about 0.085. [REVVING MOTOR] It definitely grabbed more. And you can see that there
+are some tension issues there. It's trying to pull. The brake is very
+different than I thought. It's a tension break, at
+least on this, because it seems like it's wrapping. And it's pulling so fast. It's unwrapping it
+so fast, like a whip. And it's a tension break. So there you go. We've learned something. If it goes around
+360 degrees, then it has a really tough
+time recovering. Also, this has got to be
+different with a square line or a triangular or
+a polygon-type line. We're going to do another
+video following up on this with different
+types of Weed Eater line. OK, here we go, time
+for the small stuff. This is 0.060 of an inch. This is smaller than
+the Weed Eater line. Let's do it. [REVVING MOTOR] TRENT: Whoa! DESTIN: Yeah, that's-- TRENT: That was scary. DESTIN: That's scary,
+but that's-- that's what it's like to weed eat-- that's
+why you always sneak up next to the fence, because you're
+worried that it's going to grab your Weed Eater and go. OK, it broke at the
+welds, which makes sense because when you
+weld wire like that, there's a heat-affected
+zone on that wire. So right there, I would
+expect right near the weld to be the weakest
+part of the wire. This didn't break. Wow. This episode of
+Smarter Every Day is sponsored by Raycon earbuds. I'm going to show you
+my everyday carry stuff. Every morning, I wake up, I get my multi tool,
+my phone, my wallet, and I get the Raycons. I throw them all in my pocket,
+and then I go start my day. But the Raycons are the
+most interesting thing to me because they have
+this little case-- sorry, I just got
+some grass in there. They've got this
+little bitty case that charges these earbuds. And they pair seamlessly
+with the phone. It's really impressive. These are called the
+E25s, the Everyday E25s. And what's so cool
+about them is you get six hours of
+play time on these, and they don't
+cost a lot at all. These things start
+out at half the price of the other top
+premium audio brands. And they sound just as awesome. I like them so much-- these are mine-- I've
+had these for months-- that I reached out
+and I purchased these. This is the E55 Performer. I paid for this with my
+money because I wanted them, and I wanted them in blue. This is what I was
+super excited about. I just open these things. I have not tried them yet, but
+these fit really, really good in the ears;
+check this out. It's pretty cool. So they just go right there-- boom. You can run in them. I used them to weed eat, mow
+the yard, things of that nature. They're fantastic. I haven't tried these E55s yet,
+but I certainly love the E25s. Now, these they sent me because
+I'm doing this ad, right? Like, I didn't pay for these. I did pay for these because
+I like these so much. So if you want to
+check this out, go to buyraycon.com/smarter,
+and you can get 15% off. You will like them.
+You will enjoy them. Most importantly, if
+you lose these things, that's not the end of the world. They're priced right in
+that right sweet spot. You get four charges
+out of the little pill. You get six hours on this thing. You're going to dig them. That's it. Buyraycon.com/smarter, 15% off. [THEME MUSIC] I hope you enjoyed this video. I've heard people
+my entire life say, oh, triangular Weed
+Eater line is best. Square Weed Eater line is best. Twisted square is best. Round is best. We're going to solve that. We're going to test them
+with empirical tests. So we're going to have data. We're going to
+answer the question, "What is the best
+Weed Eater line?" If you would like
+to see that video, please feel free to subscribe
+to Smarter Every Day by clicking the little
+Subscribe button, maybe even the bell. If not, that's no big deal. I hope you enjoy your summer
+out weed eating the yard. I know I am looking
+forward to it myself. Go get some vitamin D. Anyway, that's it. I'm Destin. You get "Smarter Every Day." Thanks for subscribing,
+maybe, if you feel like this video earned it. If not, that's cool. Have a good one. Bye. 

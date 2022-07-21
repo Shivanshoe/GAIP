@@ -1,0 +1,256 @@
+today is going to be a little bit of a
+different video where i'm going to be helping one of my good friends
+review a new monitor from samsung and this is
+their 1440p 240hz panel
+because i'm very curious about this monitor because
+not only is it a new for the industry but it's also
+a new for people who have high-end hardware and
+are they going to be able to run this and i'm also going to be testing it out
+playing on it but also testing for things like
+input lag which is a huge one in the gaming community
+and also response times which i'm using the camera that i'm filming on now to do
+this sort of intro for you guys we're going to be using that to shoot
+and see how good these response times are as well while i'm at it i'm also
+going to check out the colors on this monitor
+and then test it against two other monitors that have been sent over here
+this is a 144hz 1080p panel from aoc and then there's a 4k 60hz
+panel from benq and we'll go over all the
+differences here and just give it to you guys straight
+is it worth it to get samsung's new monitor or should you just be saving
+your money well in this case probably a lot of it
+there is only one way to find out and that is to jump in the tech yes mobile
+with our little fun contraption here isn't it cool like i'm wearing a
+intel hoodie and i got a little ryzen box here
+it shows that we can just all get along in the world of pc
+oh yeah let's get those results for you guys [Music]
+[Applause] [Music] we just landed at the rocket jump ninja
+studio here where we've got the odyssey g7 32-inch on display now this i played
+a game on this already and it's actually really smooth
+the curvature is one thing you either like it or you don't
+or you're like me you're somewhere in between you don't really care this is
+the 24 g2 however 144 hertz ips
+we're going to put this to the test very soon and we've also got this benq
+4k 60 hertz monitor now it's important to illustrate that
+you're either a gamer or you're not a gamer
+and that's what this one is right here this is the 10-bit panel
+supporting dci p3 standard and the good thing is that all three panels
+in today's video they're all freesync or g-sync in the case of the odyssey that
+is g-sync enabled so let's check out the juicy
+numbers first where apparently the odyssey has a 1
+millisecond response time and very low input lag and for a va
+panel that's actually pretty impressive if
+that turns out to be true where you're getting
+better colors than tn but having those extremely low response lines which you
+do need at 240 hertz anyhow let's roll it let's get into it and here we are now the next day back at
+the studio i did a lot more testing than i thought
+i would be doing on these monitors i guess once i
+get started i want to go through everything tip to
+toe and then give you guys just my honest thoughts and opinions and
+straight away one thing i noticed across all three of these monitors in today's
+video is that the black equalizers on all of
+them are just essentially gamma boosters they don't really do much i have seen
+this setting done right on different monitors but the
+three monitors here today don't do black equalization
+good at all which i think is a new feature it's coming in and it can work
+really well if it's boosting those darker areas
+especially if you're a competitive player
+the one thing about the g7 this is the odyssey comes in two flavors 27
+inch and 32 inch now the 27 inch will actually come in
+cheaper than the 32 inch but will have a better pixel density
+so depending on how far you're sitting back you may wish to go for the cheaper
+27 inch versus the 32 inch but there was some
+anomalies i found with this monitor first of all
+the one millisecond response times written on the box they aren't
+really one millisecond when it comes to real-world gaming experience
+in counter-strike this is the test that i usually do for just real-world
+response times what we saw here was on the fastest
+response time overdrive setting we were getting around three milliseconds
+response times which is very good for a va panel
+especially this is the fastest times i've seen for a v8 panel
+coming very close to that of tn panels that i've tested here
+but for instance on my aorus kd25f when i put that on the max overdrive setting
+which i'm comfortable with it's about one to one
+and a half milliseconds response times very quick in terms of how it responds
+in games though another thing is too the colors
+on this don't look as good as an ips and they
+look very very similar if you're sitting on this
+front on which you're going to be gaming on the one thing the va panel does do
+better than the tn panels is it does have better viewing angles does that
+aside continuing on with the g7 it is g-sync supported though having
+this technology switched on i noticed a very strange problem
+occurring i haven't seen this in the history of testing monitors ever
+and that was parts of the screen were reacting
+and other parts of the screen just weren't working at all
+and this was happening in cs go and so with that i'd recommend leaving the
+g-sync turned off on both the software side and the nvidia
+control panel and on the monitor itself so for the response times they're very
+impressive for a va panel especially at 240hz you need
+fast response times otherwise you're going to get kind of like a blurrier
+image which is going to be bad for your eyes
+the three milliseconds on the fastest setting is where i'd leave it at with
+the gaming numbers i didn't notice any bad artifacting or
+overshooting on this setting however the input lag there is a little
+bit on this monitor i'd say it's roughly around five
+milliseconds even though it's really not going to make much of a difference i
+feel like in 2020 when all the competitors are getting
+this between zero to two milliseconds i feel like samsung could just edge it
+down ever so more when i know they're capable of
+doing it though on the note of input lag turning on the g-sync on this monitor
+did add roughly on average around three milliseconds input lag
+so there's the g7 out of the way the magical land of 240 fps 1440p
+gaming was i super impressed by it and i'm gonna be honest with you guys
+it's nice i'm not gonna lie but i am waiting for oled
+to hit gaming monitors oled has the perfect lighting or
+more near perfect lighting that your eyes need it's got a mix of
+better greens and reds versus blue in the back lighting
+and it's also got some of the fastest response times to that of near being
+instant so that technology i am just really
+hanging out for it to hit mainstream 24 inch 27 inch or even 32 inch gaming
+monitors but who knows when that's actually gonna
+come though one more note of the color profiles out of the box for the g7
+they did do a pretty good job of making this thing relatively color accurate i
+mean it's not perfectly accurate if you're a
+professional video editor you definitely wouldn't
+want to use this monitor as your main video editing monitor unless you
+calibrated it but if you're getting into video editing
+and mainly gaming this monitor will do the job so next up
+now we have the aoc 24 g2 now this is an ips panel 144 hertz
+1080p and you've got the best thing is the price
+which is 300 aussie dollars roughly or in the us you can get these things for
+around 150 usd now one thing i'm going to say straight away
+for this price point the stand is actually very impressive
+four-way adjustable height tilt swivel and horizontal and vertical so
+that in itself is as a feat when you're giving out an ips panel that does
+perform pretty well i mean we're looking around at roughly a six to seven
+millisecond response time you'd want to leave this on the fastest
+overdrive setting and then you've got input lag which is extremely low i'm
+measuring around 15.9 on average milliseconds which is coming very close
+to that of the best model that i've run through here and that is the
+kd25f for morris so that was getting the lowest frame i've seen of seven
+milliseconds this scored eight milliseconds so if
+anything you're looking at roughly a zero to two millisecond
+input lag on this aoc monitor very impressive then you've got the ips
+colors then you've got the viewing angles if
+you need it and again not really going to make a difference
+though if you're sitting in front of a monitor playing games
+however the next part about this panel is that when i
+it's got a setting called motion blur reduction just like the g7
+but this is doing it a different way it's got red frame insertion where
+it's got about five milliseconds off and then it's got about 2.5 milliseconds on
+so the brightness will be reduced greatly as opposed to the g7 which will
+take a hit of around 33 brightness where that's got 3
+milliseconds on to 1.5 milliseconds off so in my opinion this is one of the
+perfect gaming monitors to get if you like value for money and if
+you're a bit more enthusiastic than 60 hertz
+in the magical land of pc gaming and to be honest 1080p
+24 inch it's where a lot of professional gamers
+still play their games at having too big of a screen is not
+always a good thing especially if you're too close to it where your peripheral
+vision can't see all the details going on at
+the screen at the same time which leads us to the last monitor here
+this is the benq ew 3200 now this monitor
+is very pricey it's coming in actually more expensive than the g7
+it's a 32 inch ips but this monitor here i'm going to highlight
+in the world of pc where there's different strokes for different folks
+it's got a 10-bit panel so if you're editing videos in 10-bit
+you're going to see that come out on this monitor where you're going to get
+much more accuracy to then down-sample that to 8-bit later
+to give the viewers the best image possible in the videos
+but besides that this ips panel i got to say there's something about it out of
+the box the colors look absolutely gorgeous and
+they're actually very close to being calibrated
+by the x right system so there wasn't much of a difference at all
+very little difference as opposed to the aoc which is a little bit off same with
+the g7 but you could still get your work done
+on those other two monitors but this is where the band q monitor
+comes into play where you need those accurate color profiles whether you're
+on macbook or whether you're doing a rec 709 profile you've got those
+saved into this monitor from the get go another thing is too all three monitors
+in today's video do have relatively good brightness it's
+not the best i've seen but it's certainly far from the worst
+but for me personally these brightness levels are more than enough
+especially if you're spending every day in front of this panel and you've got to
+work with it however hdr modes on these monitors and
+really it's more just a color profile on these pictures where if you want that
+more saturated contrasty look you're going to get it on this panel in
+particular where i actually prefer it with the
+colors out of the box i think it looks gorgeous for a 4k panel and in fact even
+if you want to do a bit of gaming beside your work this is going to double
+down especially if you're playing rpgs or for me i've been playing a bit of
+warcraft 3 lately it really just pops and gives you a really enjoyable
+experience now another thing going on too
+is this speaker system i've got to give kudos to benq
+on their higher end monitors they've included a really good speaker system
+into the monitors nowadays that i would honestly have no
+problems using besides my headphones and getting
+a really enjoyable experience so kudos to the audio kudos to the
+colors and the ips panel as well as the low input lag which was
+actually pretty good coming in close to that of the other two
+panels though the response times do leave a little bit to be desired here
+ranging in at around 13 milliseconds on average which is fine for a 60 hertz
+panel but it's not going to be that great for
+fast motion games especially games like call of duty
+warzone and stuff like that where you need the faster response
+times because everything's moving so quickly anyhow capping over these three
+monitors here for you guys the three panels all feature either
+freesync or g-sync and to be fair in the case of 60 hertz
+that's going to be a pretty desirable feature to have
+which i don't see many 4k monitors offering this feature especially ips
+panels so it's good to see that bank use included that
+even on a monitor with a 10 bit panel another thing is too
+some of these monitors aren't value for money plays i'd say the aoc
+24 g2 gives exceptional value for money actually i was very impressed with the
+value for money that things bring into the table
+though the g7 is more of a acquired taste
+because it's 240 hertz 1440p you're not only going to need a big budget to spend
+on this monitor you're also going to have to make sure
+your 2080 ti or your upcoming rtx 3000 or
+the new rdna 2 gravis guard is going to be able to handle
+this kind of resolution and frame rates as well on top of that is you've now got
+your cpu which also has to push 240hz too so in
+the grand scheme of things you're going to be spending a lot more
+money on not just your monitor but your hardware i'd say in
+general expect to spend around three times more
+setting up a pc to get the frame rates you want
+versus the 1080p 144 hertz option and i'm going to say one thing you're
+probably not going to get three times more of an enjoyable experience
+so of course the last model to the bank you that's really not a value for money
+play at all it's got a specialized 4k ips panel
+which is targeting a specialized market and that's about it really i just hope
+we can get oled to gaming monitors very soon because
+you can probably see my face i'm not blown away
+as opposed to three or four years ago when all these monitors were coming out
+with high refresh rates i was blown away i want to see
+technology progress with that aside let us know in the
+comment section below what you guys think of all three monitors in today's
+video love reading your thoughts and opinions
+as always just like this question of the day here
+which comes from andre p and they ask what are you spraying
+that you wear a mask for and what i'm spraying usually a lot of the times i'm
+using multi-purpose spray this stuff is as the title says multi-purpose you
+can use it for pretty much anything it is my go-to spray even over
+that of brake cleaner but of course when you're spraying all these chemicals
+you don't want them going in your lungs and even the you guys in the past have
+expressed concern over my poor little lungs here and i've got to start taking
+care of them so hence the mask and hence the uh long
+live tech yes city slogan anyhow guys if you enjoyed
+today's video be sure to hit that like button for us
+and i guess the ultimate question is will i be buying a samsung g7
+probably not after just testing it out again i'm going to be waiting for an
+oled panel to really blow me away uh in terms of the g7 i love what
+they've done they've made the they've made the v8 panel
+as best as it can be but it still feels like there's some
+glitches that concern me i feel like maybe this panel was rushed to the
+market especially in those earlier tests when i
+was playing cs go and i saw that weird glitching error
+so i don't like it one thing i really don't like around tech city
+is when companies use the public as beta testers
+they've got all the time in the world all the budget in the world to make
+those products hit a hundred percent so why release it at
+95 percent when they can release it 100 i just think it would go a lot further
+anyhow hope that opinion helps you guys and
+i'll catch you in another tech video very soon if you stayed this far and you
+want to see the content as soon as it drops be sure to hit that
+sub button and ring that bell and i'll see you next time peace out for
+now bye
+[Music] 

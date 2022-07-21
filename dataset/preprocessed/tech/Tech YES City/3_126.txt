@@ -1,0 +1,132 @@
+if you are looking to build an i9 pc for under 
+1 000 then today's build is going to serve   as i guess a bit of excitement considering all 
+the rip-off prices that we're seeing in the new   market right now especially when it comes to 
+graphics cards looking at this titan x this is   going to be one of the stars of the show today 
+where i got this for 350 aussie dollars while i   was deal hunting now it always didn't look this 
+good i've had to clean this thing up and spend a   bit of time giving it some tender loving care aka 
+tech yes loving then there's the motherboard right   here gigabyte z370 got this used off ebay for 
+100 aussie dollars which makes it around 75 usd   right inside that is an i9 99 80 hk laptop cpu 
+equivalent where it's kind of a weird thing but   you can get these for around 150 off of aliexpress 
+where they've already got an adapter which   then you have to update the bios on a particular 
+motherboard i'll put some links in the description   below but after you do this you essentially have 
+eight cores 16 threads with all the latest and   greatest features that you would even get on 
+something like a 9900k which costs a lot more   than this cpu right here then for the memory we're 
+using 32 gigabytes of generic stuff we're going to   be spending a little bit of time trying to clock 
+this as high as we can but since we're dealing   with a laptop cpu the speeds don't go that high 
+this would be the only drawback of today's build   but then for storage we've got a three terabyte 
+hard drive you can pick these up if you look   hard enough on the used market for about 30 usd i 
+managed to pull this out of a previous build that   came in that i've already flipped for the uh pc 
+ultra clean series i'll put the link up here if   you want to see that then we've got an ssd right 
+here 480 gigabytes which is going to serve as our   main boot drive and scratch drive since today's pc 
+will not only hopefully be a really good gaming pc   but it's also going to serve as an awesome video 
+editing pc too then we got the power supply picked   this up for 50 aussie dollars locally here top 
+power 750 watt gold rated power supply modular and   this thing was pretty much like brand new i didn't 
+really need to clean it up that much besides   some data backing but i'll quickly show you some 
+b-roll of how that went down together with this   motherboard right here which was actually a little 
+bit dirty but that came up now like brand new then   the last two components right here to talk about 
+is this corsair h115i cooler this is not the rgb   stuff this is the og h-159 with the massive thick 
+tubes now we did have to clean this up we got this   for 50 aussie dollars but it came in a little 
+bit scuffed where all these tubes had the uh   i like to call it the wig maker we took off the 
+wig maker and now it looks a lot more cleaner and   then lastly for the case we're putting in the 
+only brand new part in today's build and that   is a gamdius rgb tower which we paid 89 aussie 
+dollars for and with that all aside let's put   this thing together and see what we come up with 
+do you feel like this when you see this well if so   you can get rid of that windows activation message 
+with today's video sponsor scd keys for as little   as 12 usd after you use that coupon bftyc you can 
+get activated today links in description below there is the pc and here is my cup of tea 
+which i am going to raise a toast to you guys   and give you a cheers this one's got cinnamon 
+and honey in it and that's how i like my tea and   how i like my pcs is just what we've got right 
+here we've got a good amount of rgb well i mean   i like rgb i don't love it but you need rgb in a 
+pc nowadays especially if you want to have some   street cred amongst the other fellow pc gamers 
+but for me most importantly especially if i want   to re-flip this thing i'm definitely going to need 
+rgb now we've got the three ring fans at the front   and we can change the colors of those through 
+different modes rgb and we've got this subtle   g-force gtx glow coming in which i've matched it 
+to the green fans because hopefully when we go to   resell this thing some nvidia fanboy comes along 
+and they're just going to fall in love with it but   i mean what we've got right here all 
+the used parts they ended up working   absolutely fine this build is really quiet at 
+least for now i haven't stress tested it just   yet but what we're going to do from here on in is 
+we're going to be running a couple of benchmarks   to compare it to the recent rtx 3060 build that 
+i built here and that one was coming in around   2400 aussie dollars this one coming just a 
+little bit over a thousand aussie dollars   i want to compare the performance numbers and 
+show you guys what used price performance can   do especially if you're on a budget but you 
+still want to get rgb bling and you still   want to have something that's pretty contemporary 
+and it's going to do a good job let's get into it   and after all the benchmarking is done the numbers 
+are in some people probably going to find the   remote and the rgb the most interesting thing but 
+for me and a lot of others the performance numbers   are going to be the best thing going so 
+what we got right here was when we loaded up   dota 2 i was finding that the performance was very 
+similar to the rtx 3060 build that we recently did   in fact the 1080p numbers and the 1440p 
+numbers were slightly better than the 11400f   build with the 3060 the rtx 360. and it was only 
+a slight difference but it goes to show the i9   even the laptop version that we used in today's 
+build is doing a little bit better than the 11400f   i'd say mainly due to its higher clock speeds this 
+thing was clocking in at 4.5 gigahertz now you can   get a little bit higher but since i'm going to 
+be re-flipping this pc 4.5 gigahertz is going   to be a safe level versus the power consumed now 
+quickly interluding with the power consumption   we were getting up to around 370 watts from the 
+walls so that gold rated power supply is helping   bring down those numbers slightly but overall the 
+i9 and this titan x isn't juicing a whole lot of   power when we're gaming and we did test this in 
+cyberpunk where the gpu is getting maxed out and   the cpu is kind of chugging along and burning up a 
+bit of power though another thing to look at just   besides power consumption is the temperatures and 
+they were really well controlled where that h115i   of course even though it's one of the earlier 
+editions without all those fancy improvements   it still kept that cpu under 70 degrees it did 
+spike on some of the cores to 70 degrees but this   is direct die cooling with this i9 laptop part but 
+i thought it did a phenomenal job especially since   all we paid for it was 50 aussie dollars and then 
+we're moving down now to that titan x where this   was kind of the earlier models where they went 
+for the fancy look on that reference edition   i don't know if they called it the founders 
+edition just yet with the titan x but it did   perform pretty poorly in my opinion it was going 
+to uh 83 degrees and this is in a 23c environment   but they did keep the noise profile really low and 
+this is pretty much the constant noise that you're   going to hear even when you're gaming so if you 
+do get an older titan card whether it's a titan   or a titan x or titan xp i would look at maybe 
+perhaps tuning a custom fan profile to bring down   those temperatures so continue on with those dota 
+2 numbers we've got a victory at 1080p and 1440p   but setting things up to 4k was when we're getting 
+much more gpu bound especially in dota 2 and this   is where that 60 rig was getting around 120 fps 
+with this uh right here in a really intensive sort   of match this is where i'm starting to benchmark 
+now in dota 2 because that's what you guys request   we were getting around 105 average fps so it was a 
+little bit behind the rtx 3060 but when we look at   the price of a new rtx 3060 at least in australia 
+they're going for around thousand aussie dollars   off the shelves this coming at 350 dollars is 
+certainly offering really good price performance   though the next game we're going to pull up here 
+is cyberpunk where this kind of paints a bit of   a different story but it goes to show that if the 
+game manufacturers in conjunction with nvidia do   focus on optimizing for only their newer cards 
+and not the older cards and this is where in   1080p we're getting around 57 average fps and this 
+was on the low settings preset and then stepping   things up to medium we were getting in the 40s and 
+then moving on to high it was 39 and then going to   ultra was 32 so it was significantly lower than 
+the 30 60 and of course we didn't have any of   the other features like dlss or ray tracing though 
+in the case of cyberpunk if i wanted to play this   game they're still going to give out a playable 
+experience at low settings it's just a shame that   we don't get more optimizations from nvidia with 
+this game for the older hardware anyway the last   benchmark to go over is one that we can all load 
+up and all compare our numbers and that is the   fire strike benchmark this is the og fire strike 
+which i like to definitely calculate in my head   when i'm buying things for price performance 
+so i look at the graphics score on the physics   score here as it's a very reliable indicator and 
+it doesn't include all the latest stuff like ray   tracing in it or newer features but it does give 
+you that raw performance figure to see how good   the raw value is on a particular card and here's 
+where on the graphics score we're getting over 17   000 and then on the cpu score the physics score 
+this was very impressive coming over 21 000.   if you can get a cheap z370 i'd go for the 
+gigabyte boards because they're easy to sort   of put the custom bios in then getting one of 
+these i9s off aliexpress is a really good option   and a really good path to consider if you want 
+to get eight core 16 threads that's very relevant   and can definitely give you a good gaming 
+experience now in terms of the memory we   managed to tune that to 2 900 megahertz and that 
+was across four sticks and we got that at cl 16.   so the memory wasn't that great but the i9 the 
+engineering samples and the laptop cpus that   are converted to desktops they to begin with they 
+can't really extract high memory clocks so i think   matching that with budget memory on a budget z370 
+does really get the most out of this whole combo   and in the end we're left with a pc that looks 
+really nice and it does have that performance   to match so do let us know in the comment section 
+below what you're thinking about this build right   here i am definitely digging the gambias cases 
+even though they're a little bit more pricey   than say the 50 rgb bangers that i'm rolling 
+around here at tech yeah city they do definitely   look like you're getting a bit more worth when 
+it comes to the final product anyhow guys i hope   you enjoyed today's video if you did be sure to 
+smash that like button also i'll put some links   in the description below for some of the 
+stuff that you can easily get off the internet   i think the hardest part of today's build is 
+going to be that graphics card at least while the   crypto profitability is still pretty high that's 
+going to be pretty much the sole factor dictating   the prices of gpus so when you look at that 
+profitability and it's still pretty high on the   newer graphics cards that's pretty much going to 
+span through the whole industry where people are   going to keep buying up those graphics cards and 
+putting them in mining benches and pressing play   and that's going to affect the prices for the 
+gamers to want to pick them up at lower prices so   unfortunately the mining profitability is 
+still high i'm hoping that it will come down   and significantly come down in the next month 
+or two and i'm waiting for that but until then   i think picking up some of these older cards is 
+a much better play especially when we look at   the price that i paid for this titan x versus 
+say a new rtx 3060 and we just hold the line   don't buy them new gravis cars just let them sit 
+there and the prices will come down and also on   that note if we do hold the line at some point 
+the miners are going to run out of space where   they're then going to have to purchase more real 
+estate more power boards more this more that and   perhaps they'll run out of juice faster than 
+the profitabilities will sink who knows though   i do long for that day and i will catch you guys 
+in another tech video very soon if you've stayed   this far and you're enjoying that tech yes content 
+then be sure to hit that sub button ring that bell   to get the videos as soon as they drop and i'll 
+see you in the next one peace out for now bye you 

@@ -1,0 +1,95 @@
+Today we're going to be taking a look 
+at the b550 riptide edition from ASRock,   which last month we took a look at the x570s 
+riptide so today i'm going to keep this review   very short and simple as this board is pretty 
+much the same thing vrm wise and also audio wise   as the x570s pg rip type except it does come 
+in at a cheaper price point with 160 usd   versus 185 usd now my first critiquing point 
+about these refresh boards is of course there's   new stuff coming from both amd and intel 
+and it seems like it is going to be coming   sooner than later but that aside let's take a 
+look at what you get for a hundred and sixty   dollars and i feel like the b550 here is in 
+a tougher position than the x570s was because   there's already b550 boards out 
+there with silent heat sinks welcome back to tech yeah city and getting 
+straight into the differences between the   b550 riptide and the x570s riptide we've got at 
+the rear of the board two additional usb ports   on the b550 version however it does go away with 
+that x570 flashback feature and subsequently you   do lose that button up the top of the board now 
+there is the option to add an m.2 wi-fi on both   these boards however the location of that port is 
+located in a different position on both of these   boards i'll show you the shots for reference 
+and continue on with the differences we lose   two 1x slots on the b550 version and we do go away 
+with of course that pci gen 4 from the chipset hub   itself but we still of course have that top slot 
+being 16x pca gen 4 as well as that top pcie m.2   slot being gen 4. whereas the lower m.2 slot is 
+now pci gen 3 versus the x570 which does support   an additional gen 4 m.2 slot the benefit of the 
+b550 is that you will get slightly less power draw   in usage but another key difference is the usb 
+front out ports you do gain an additional usb   to two front outs on that port down the bottom 
+however you do go away with one of the two usb   3 front outsoles so you will get three plus one 
+versus two plus two on the x570 and you still on   both the boards get the type c out the final two 
+differences between these boards is the clear cmos   button is missing on the b550 version and then 
+up the top they have moved one of the fan hubs   from the middle right of the x570 board to the 
+top of the b550 board and so other than that i'll   give you a quick recap of the vrm details and the 
+results we've got a 10 phase that's an eight plus   two where we're using vichai 50 amp mosfets 
+as well as fujitsu 5k caps and magic 60 amp   chokes on this vrm solution with a 5950x it does 
+an incredible job of handling the temperatures   and keeping the efficiency up even at these 
+higher clock speeds so basically any air or   water overclockers that are keen to use this even 
+as a workstation board we'll be delighted to see   that this vrm does hold up then moving on to the 
+onboard audio where they're using the realtek   alc897 you may be looking for details on this 
+across the internet where this is a chip that   was used on motherboards a few years back and 
+then they went over to things like the real tech   alc 1200 but not to be confused with this codec 
+because this is only one part of the equation   one thing to never forget with a dac or an adc is 
+the implementation of not just the codec itself   but also the amps the tracing and even the pcb 
+layer used in that implementation and here's   where asrock have done a really good job where the 
+tests show there's practically no base roll off   10 hertz and under where we measured a minus 
+1.5 drop off then 2k and over there's a bit of   a roll off there in the treble which honestly 
+a coloration like this on your mid-range cans   or even low range cans is going to do a good job 
+of giving you a balanced sound and then moving   on to another good thing is the crosstalk we've 
+got roughly minus 86 decibels which is a very   good number meaning your left and right channels 
+are going to be separated really well so the way   they've implemented this real tech alc897 if 
+you've got some hundred dollar headphones that   sound really good on other things they're going 
+to sound really good on this motherboard too and   of course if you're an audio file with a thousand 
+dollar headphones you're most likely going to have   a much more expensive dedicated dac amp solution 
+to power those headphones so for what its purpose   is this on-board audio solution is great when 
+we move on to the mic import that has noise   suppression so you won't get the highest quality 
+voice work out of this thing but at the same time   people will hear you loud and they'll hear you 
+clearly all the way up to the max volume level   so to wrap things up for you guys you've got a 2.5 
+g land solution integrated you've got that optical   out on the audio still and you've also got in the 
+bios the ability they say on the box the ability   to overclock up to 4 933 megahertz but i doubt 
+any pro overclockers are going to be using a b550   anyway when i tested 4 400 megahertz for what it 
+was worth it did boot up with that memory and it   was working fine however if you're using a 5950x 
+or any ryzen chips for that matter you are going   to want to keep your memory at probably around 
+3 800 megahertz or lower to get that infinity   fabric clock to match one to one to one to your 
+memory that's an important thing for performance   also if you're wondering about the bios between 
+these two they're pretty much identical from what   i'm seeing here you've got that rgb control on 
+the b550 just like you have on the x570 you have   no rgb leds on this board you've still got both 
+those two headers up the top two headers down the   bottom for 5 and 12 volt control and you've got 
+that fan tuning which they call fantastic tuning   so this bios is super easy to navigate and 
+setting up overclocks is ridiculously easy so   asrock you don't really have to do anything 
+different on the bios except of course   add the internet update feature that you have 
+on the intel boards that would be cool to see   if you did that on the amd board so all that 
+out of the way it's conclusion time with the   b550 riptide all i'm gonna say is it's a solid 
+board it's not something that would blow me away   but it passed all the tests with flying colors 
+though i will say i wasn't as wild with the   b550 version as i was by the x570s and you're 
+probably sitting there like brian what what's   going on you you've got a cheaper practically 
+identical motherboard and for what it's worth   you do get those extra features that x570 unlocks 
+as well as the silent heatsink on the x570 version   which a lot more expensive boards carry and they 
+carry those premiums so i think the x570s riptide   has more of a purpose than the b550 does where at 
+this level with 160 in the b550 realm you've got   a heap of different competitors out there ranging 
+from even asrock's own steel legend which for me   personally has a much better aesthetic you've also 
+got other boards out there like the aorus elite   going for the very similar price points so it's 
+in a very tricky spot where the main point to   come out of this b550 board is that it's got an 
+excellent practical implementation of a vrm that   does a really good job and the onboard audio 
+is really good too but at least all the b550   motherboards and x570 motherboards i've tested 
+they both have really good onboard audio solutions   and the vrms are pretty solid on those boards 
+so if what it's worth it is a good board but   not a great board and i hope you guys enjoyed 
+this review if you did be sure to hit that like   button and also let us know in the comment section 
+below what you think of the riptide series are you   liking what it's about do you have any critiquing 
+points of your own for asrock and with that aside   we've got the question of the day here which 
+comes from florjon bashar and they ask so i don't   get it you gave away an 80 pc and now you have a 
+water cooler power supply and 32 gigabytes of ram   does these three parts cost under 80 that's why 
+you're calling it a loss so they're referring to   our ultra clean episode four i'll put the link 
+up here where i came into an x79 rampage board   and for me like yes in terms of value i'm still 
+up in front but if you guys are into x 58 and x 79   like i am and you come across a rampage board that 
+is like the ace of hearts when you catch something   like that and it works so the fact that it didn't 
+work and the fact that it was the second rampage   x79 board that came in that didn't work in a row 
+in dollar value sure it wasn't a loss but in terms   of my luck it was a big loss and so that's how i 
+kind of considered that one it's not always about   the money and in that case it definitely wasn't 
+about the money it was about getting that x   79 rampage working hopefully that answers that 
+question and i'll catch you guys in another tech   video very soon if you stayed this far as well 
+and you're enjoying that techies content then hit   that sub button ring that bell and you'll get the 
+content as soon as it drops peace out for now bye you 

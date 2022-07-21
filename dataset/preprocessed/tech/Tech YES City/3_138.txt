@@ -1,0 +1,133 @@
+amd's fidelity fx super resolution aka fsr has 
+been launched and today's video is going to be   on fsr in relation to dota 2. because dota 2 is 
+a game if you guys didn't know i've been playing   dota 2 for a long time it's one of my favorite 
+games in the list of games that i commonly   play on pc so when i saw this technology was 
+available for it i just knew i had to test it out   with uh not just amd graphics 
+cards but also against nvidia's   gravis cards as well where amd in their 
+presentation made a big point that this technology   won't just give more fps to amd graphics cards but 
+also in video graphics cards as well so what we're   gonna do now is show you guys some benchmark 
+numbers straight away with an rx 570 at 1080p   as well as 1440p and also 4k now this is 
+on max settings and in order to enable fsr   you have to lower the screen resolution 
+under that of a hundred so it won't enable   if you've got your screen resolution set at 100 
+but moving over now to the gtx 1660 ti this was   another car that we decided to throw into the 
+mix here at 1080p and 1440p with this graphics   card we do get cpu bound at these resolutions 
+pretty much like the rx 570 at 1080p and then   at 4k we do start to see a difference here but 
+you'll notice that i've shown a few different   interesting outliers here and we'll point to the 
+1440p graphs in particular where we decided to   throw in a 99 resolution scaling benchmark with 
+nvidia's sharpen filter from their freestyle   game filter which you can enable in dota 2 and 
+also the fsr which amd says it's an upscaling pass   as well as a sharpening pass and so how it 
+exactly works at least from what i gather and   the information i've been told is it upscales in 
+a linear and non-linear way so in other words if   i was to interpret it right it's perhaps dynamic 
+resolution on amd's side which then depends on the   game developer to do their best implementation to 
+get it to work however with those benchmarks aside   let's get on to the most important thing in my 
+opinion that is the image quality comparison where   i'm going to pull up initially a 4k image for 
+you guys and we're going to show the difference   between 50 screen resolution which is in the 
+middle that one should be obvious but i'm actually   going to let you guys decide on which is left and 
+which one is right so what i've done here is one   of these is fsr and one of these is sharpen from 
+nvidia with 70 intensities and you guys can just   check this out and tell me in the comments which 
+one you think is which and i'm not actually even   going to say the answer in this video because i 
+did a poll on twitter and people were pretty much   undecided between the left and the right 
+that's what the overall majority of the numbers   were saying so throughout this video i'm 
+just going to throw up a heap of different   comparisons here for you guys not just at 
+4k but also at 1080p towards the end of the   video but before we get on to that let's get 
+a quick word in from today's video sponsor   if you're looking for a feature-packed 
+motherboard that won't break the bank   then today's video sponsor asrock has you covered 
+with the b550 riptide you get access to pcie 4.0   smart access memory lightning game ports which 
+separate the keyboard and mouse on their own   controllers for no jitters and an asrock graphics 
+card holder links in description below to find   out more and with all the benchmarks aside it's 
+time to get on to the image quality comparison   in more depth now i'm going to be mainly focusing 
+on 4k where we're going to go with two different   resolutions besides 100 and that is first of all 
+50 percent where we're going to be looking at   the fsr turned on versus then fsr turned off at 
+the same resolution and then on the nvidia card   turning on the sharpen filter with their game 
+filter which is a part of their freestyle pack   which you can do all these different effects on 
+but for what it's worth i've never really used   sharpening on any of my games and sharpening is 
+one of those tools that you mainly use to fix   up an initially blurry image that's what the 
+sharpening filter has always been intended for   if we look at traditionally what a sharpening 
+mask does you grab a subject and essentially   it'll find the edges and it'll make them contrast 
+more between the different pixels between them   hence making the illusion that the image is 
+sharper so there's two ways essentially to get   a sharper image and that is either via more pixels 
+which is straight up objective the more pixels you   have the more detail you're going to have it's 
+a non-subjective thing it's a pure objective   end of story then you've got the second factor 
+which actually is subjective and that's acutence   and when we talk about acuteness that involves 
+essentially you can do different techniques   and so the most popular traditional technique 
+of sharpening has been with what we know as   an unsharp mask this is the original where 
+it'll essentially blur an image and then keep   the original image and then it will find the edges 
+between the two and then it will sharpen up those   edges and so you can do this with different 
+radiance points and you can also do it with   intensity of sharpening so essentially in this 
+game what we're showing you here in my opinion   the fsr solution from amd is sharpening the image 
+just like the game filter will sharpen the image   from a lower resolution and so when i was 
+actually turning it on for the first time   i noticed the sharpening straight away because i 
+play games on a 4k 55 inch oled so for me i think   it would be easier to discern differences between 
+say a smaller 1080p monitor or whatnot and so when   i was looking at these i was like wow you could 
+straight away notice the sharpening being applied   at 4k and so if you guys have a 4k tv i implore 
+you guys to turn this up and put it on max detail   and see if you can spot the differences or 
+see if you can notice the sharpening too so   when i started playing around the game filter 
+settings i noticed that they've also got different   settings that you can use to try and tweak the 
+sharpened image so then what i tried to do on   the nvidia side of things was make an image that 
+looked pretty similar to the amd one and one thing   that is good about both these technologies is 
+that it will look better in this game on dota 2   over the default resolution scale at that 
+particular percentage for instance fifty percent   does look really blurry on the native fifty 
+percent upscaled but then if we go to the fsr   or the nvidia sharpening uh tools we can notice 
+that they both enhance the image especially at 50   if we move up to 75 percent then they also enhance 
+the image and but you can notice especially versus   a hundred percent that we do get a little bit of 
+over sharpening in my opinion on both sides of the   fence though some people might like this look it's 
+up to you really and that's where the acuteness   part of image sharpness and what you like and the 
+subjectivity really depends on the end user those   who saw those fps numbers earlier in the video 
+you do lose performance on both fsr and the nvidia   game filter when you turn these settings on at 
+the same percentage resolution upscale setting   so in other words 75 percent native versus 75 
+fsr and also 75 uh game filter sharpen on you are   going to get a little bit less fps than that same 
+unsharpened image however of course the sharpened   images are going to look better but what is worth 
+with all the hype surrounding the fidelity fx   super resolution i would have to try more games 
+before i can say okay it's a groundbreaking   technology because what i saw with dota 2 
+and what i'm seeing here with this comparison   is it's really just a sharpening filter being 
+applied as we can see when we apply the filter on   the nvidia side of things and we're getting in my 
+opinion what looks like a pretty similar image and   we're also getting a very similar fps drop versus 
+that native upscale percentage but i think when   it all comes down to it there's no magic bottle 
+with a genie in it that's going to unlock you   incredible amounts of fps without taking a hit 
+to image quality because what i saw with dota 2   was of course for me personally a hundred percent 
+screen resolution pixel for pixel is the preferred   resolution and settings that i like to game on and 
+so with that if i want to get more fps i'll just   lower the settings rather than turning on fsr 
+or the game filters for sharpening that's just   my personal way when i play dota 2 but in terms of 
+the other games that amd have released so far with   fsr i have no desire to play any of these games 
+the upcoming games though far cry 6 and boulder's   gate 3 i think they're especially boulder's gate 
+3 i'm waiting for them to release the other three   chapters over the first chapter because i 
+absolutely love the beta and so when that   comes out if you guys want to see a comparison for 
+boulder's gate 3 i can make that happen as well as   far cry 6. but if you guys enjoyed today's video 
+then be sure to hit that like button for us and   also let us know in the comment section below most 
+importantly what do you guys think of that earlier   comparison i did well i didn't show the name of 
+which was the left and which was the right i'd   love to see if you guys can discern the difference 
+of course youtube compression is going to affect   the images a little bit but it is at 4k you are 
+going to get 40 megabits per second so it will   be reasonably good quality if you uh sample it at 
+4k and watch it back and hopefully you'll at least   at the very least be able to tell the difference 
+between the native unsharpened image versus the   other two sharpened up scaled images hopefully 
+you'll be able to discern that difference and of   course drop it in the comments section below but 
+when it comes down to fsr and what i think of it   i'm going to wait for a couple more of those 
+games that i play personally i'm going to see   how fsr is implemented into them before i can make 
+my final verdict but from what i'm seeing so far   is that at least in dota 2 which is played by a 
+lot of people it's a very popular game i'm just   saying that more or less it's a sharpening filter 
+and of course it's always a good thing when gamers   have more choice especially when it comes to 
+settings and different fps numbers that they   can get but in terms of being a complete nvidia 
+dlss killer i just think it's not that because   the game filter itself for me personally was 
+producing similar results with similar fps   the one more thing that i will touch on that did 
+worry me was fsr came out at the exact same time   that amd quietly dropped driver support for their 
+r 200 and 300 and also their old 7000 series gcn   graphics cards and i feel like it's a little 
+bit ironic that amd's releasing a technology   that's helping out lowering graphics cards and 
+helping out people on older tech get more fps   but then they're dropping the support for older 
+cards for newer titles that are going to be   released especially when cards like their rx 400 
+and rx 500 series as well as their vega cards are   still gcn based and they also dropped the support 
+for the fury cards as well and i know a few of you   guys are still gaming on the fury cards and i know 
+personally that they can still game with very good   fps so it's a little bit worrisome to see that 
+amd's dropped that driver support quietly and   then they've enabled things like fsr especially 
+when one action contradicts the other and the gpu   pricing at the moment makes it so a lot of people 
+on older cards just want to keep those older cards   and wait until prices come down and this whole 
+crypto mining thing blows over so they can get   a newer upgrade without getting completely ripped 
+off anyway guys with that aside i hope you enjoyed   this one do let us know your thoughts and 
+opinions love reading them as always just   like this question of the day here which comes 
+from mathisa patharana gd and they ask how can i   download windows 11 iso and you can download it by 
+getting a link from someone sharing it and i said   this in a previous windows 11 video that i've been 
+doing on the channel here i can't provide that   link otherwise the link will get taken down and 
+then possibly the whole video that i've made on   windows 11 will get taken down too unfortunately 
+but that being said i'm not going to intervene if   lovely folks in the comments section want to help 
+you out hope that answers that question i'll catch   you guys in another tech video very soon if you've 
+stayed this far and you're enjoying that tech yes   content be sure to hit that sub button ring that 
+bell and i'll see you next time peace out for now bye yes 
