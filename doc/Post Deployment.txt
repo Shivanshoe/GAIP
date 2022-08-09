@@ -1,1 +1,45 @@
+/* MORE RESEARCH REQUIRED */
 
+Monitoring is a very passive term. Going above and beyond this mentality and going in-depth, knowing the model performance, knowing after the prediction what happens in the real world is pretty challenging. If we have a ground truth, it is more of an engineering problem. 
+
+  - Challenge #1: Especially if we don't have a ground truth, it becomes much more of a data science and algorithmic problem, making it really difficult to calculate the performance of the model, in the traditional sense
+  - Challenge #2: The second challenge is that models fails silently. The model will make a prediction regardless of its remotely right or not. SILENT FAILURE
+  - Challenge #3: Finally, a lot of data scientists dont have experience with is the FEEDBACK LOOPS. the relationships between the technical metrics of the model might change. But, in general jut having a lot of ML usecases wherein the model is impacting the business and the business is impacting the model, with changing model performance
+
+Two types of silent failures of a model in production:
+    1) Data drift induced failure: The input data to the model has failed to the point where the model has not seen enough data in the new distribution to make good distributions
+    2) Concept drift induced failure: Change between the relationship between the input variables and the output machine learning model is basically just trying to find the function that maps inputs to outputs (approximate as well as possible to the real mapping function). This can be caused by the actual behaviuos of the underlying system change, most often by a variable thats not included within the model.
+
+Sometimes concept drift induces data drift. (Non Silent)
+
+Moreover, most data drift(when you have a change in distribution of input variables into the model) is virtual, i.e. it doesn't actually impact the performance of your model. Your model can actually handle it. So, when detecting when the data changes, we will get a lot of unactionable noise. This "silent" form of concept drift doesnt impact any of the data in our model, but something did change in the real world that we're not capturing and the fundamental behaviour of the system is different and then the perfoemance from that can suffer. Both of these can have either CATASTROPHIC FAILURE or GRADUAL DEGRADATION OF PERFORMANCE.
+
+This aforementioned RANGE OF CONSEQUENCES for badly monitered Machine Learning and AI systems
+    1) No consequence: The model is only as valuable as the underlying business problem. So if its a model handling fringe cases, or something in the organization that does not generate as much impact or value, then if the performance changes, no one will care. Or maybe the model doesn't actually do anything by itself. Say it outputs dataframes, which are then importe into excel and shared with business, and then business looks at the result. No inherent automated process. Hence it could be less important to monitor.
+
+    2) Gradual Degradation: Monitoring becomes essential when our model is in mostly all of its systems. Its important coz we wanna take business decisions based on that. Overtime, the data is drifting a bit and the model just becomes less and less performant. This goes hand in hand with the feedback loop thing. Over time, the model just gets worse and worse, nothing catastrophic, and only causes, say a 10% loss in performance. DEPENDS ON THE UNDERLYING USECASE.
+
+    3) Catastropgic Failure: Real world Eg. Zillow: They systematically overpriced 7000 houses ($300 Mil), everything collapsed and their market cap dropped by $30B. The entire division was shut down. Another eg. is the CHATBOT TAY from Microsoft, as talked about by S. Pandey in one of his lectures. In these cases, introducing some systematic risk that we dont realise, can collapse all at once, and a lot of bad things happen. 
+
+    4) Discrimination & Bias: Immoral, Bad Public Relations. This can happen when building model. Overtime, more and more of a certain demographic can enter the data, and the model cant take good decisions based on that. This can have bad financial consequences too.
+
+CASE STUDY: ZILLOW
+    Speculation: A House Price Prediction Model using a ML model. The problem: we don't have a ground truth, i.e. the price that the model predicts is the price we buy the house at. In essence, the prediction becomes reality. So we can't judge the "Performance" of the model in the real world. Probably when they were building the model, they had a test data of house prices on whihc they tried to predict the data and measure the performance. But once the model is out in the real world, there is no "real price". Since we cannot really calculate the performance, and we keep introducing these little systemetic errors over time that push the house prices higher and higher for whatever reason, eventually you'll realise that you have a huge portfolio of very overpriced houses.
+    
+    Prediction ----> Ground Truth ----> Prediction FEEDBACK LOOP where the ML model becomes reality and theres no escape without proper modelling
+
+It's still early days for Data Science and ML, so there is a big learning curve. ML Ops is new too. Hence, all these new industries implementing ML and AI don't have a risk department ad they don'e have any kind of inherent understanding of risk. They then start to take decisions based on models, and can really impact the company strategy. Need Experience to avoid these mistakes.
+
+SOLUTION: Use NannyML or another monitoring library
+
+NannyML is an Open Source Python library, can be used to detect silent model failure. Eg. run in a notebook, deploy it in a dockerised, in real time or in batches, as you like. 3 main components:
+    1) Performance estimation and monitoring: Primary function. Some sort of methodology to estimate the performance of your model in the absence of ground truth. On the current data in production. (eg. classification models output 2 things: the predtiction and a confidence score. This + maths magic + a reconstructed estimation matrix, from where it captures all changes in performance that are due to data drift. This estimated conf matrix can be used to evaluate models like usual
+    2) Data drift detectuion: Univariate drift detection, multivariat (using maths magic to detect drift in a dataset as a whole and the relationship amongst variables. From there, it does basically a PCA reconstruction error (refernece period and analysis period and compare)
+    3) Intelligent alerting: Alerting and try to make it more actionable. not exactly causal ML, but getting there.
+    
+This library fails to detect and estimate concept drift, duh..
+
+MORE INFO IN DOCUMENTATION
+REFERENCE: DataFramed Podcast by Datacamp
+
+/* MORE RESEARCH REQUIRED */
